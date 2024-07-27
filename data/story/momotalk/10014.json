@@ -1,0 +1,1200 @@
+[
+  {
+    "BondScenarioId": 1001402,
+    "Data": [
+      {
+        "GroupId": 100140010,
+        "Id": 2506,
+        "CharacterId": 10014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140020,
+        "Message": {
+          "j_ko": "주군, 저 이즈나, 최근 들어 고민 때문에 밤잠을 이루지 못했습니다.",
+          "j_ja": "主殿。イズナ、最近悩みごとがあって夜眠れないんです……",
+          "g_en": "I haven't been able to sleep lately because I'm so worried.",
+          "g_tw": "主公。伊樹菜最近因為有煩惱的事，晚上睡不著……",
+          "g_tw_cn": "主公。伊树菜最近因为有烦恼的事，晚上睡不着……",
+          "g_ja": "主殿。イズナ、最近悩みごとがあって夜眠れないんです……",
+          "g_ko": "주군, 저 이즈나, 최근 들어 고민 때문에 밤잠을 이루지 못했습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140020,
+        "Id": 2507,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140030,
+        "Message": {
+          "j_ko": "고민이라고?",
+          "j_ja": "悩みごと？",
+          "g_en": "What is it?",
+          "g_tw": "煩惱的事？",
+          "g_tw_cn": "烦恼的事？",
+          "g_ja": "悩みごと？",
+          "g_ko": "고민이라고?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140020,
+        "Id": 2508,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140030,
+        "Message": {
+          "j_ko": "나라도 괜찮다면 상담해줄게.",
+          "j_ja": "私で良ければ相談に乗るよ",
+          "g_en": "I'll do my best to help.",
+          "g_tw": "不嫌棄的話，我可以跟你聊聊唷",
+          "g_tw_cn": "不嫌弃的话，我可以跟你聊聊唷",
+          "g_ja": "私で良ければ相談に乗るよ",
+          "g_ko": "나라도 괜찮다면 상담해줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140030,
+        "Id": 2509,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140040,
+        "Message": {
+          "j_ko": "역시 주군……!",
+          "j_ja": "さ、さすが主殿……！",
+          "g_en": "I knew I could count on you!",
+          "g_tw": "不，不愧是主公……！",
+          "g_tw_cn": "不，不愧是主公……！",
+          "g_ja": "さ、さすが主殿……！",
+          "g_ko": "역시 주군……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140030,
+        "Id": 2510,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140040,
+        "Message": {
+          "j_ko": "이즈나가 괴로워하고 있을 땐, 바로 응해주시는군요!",
+          "j_ja": "イズナが苦しんでる時は、すぐに答えてくれるんですね！",
+          "g_en": "You're always there when I need you!",
+          "g_tw": "在伊樹菜苦惱的時候，馬上就回應了！",
+          "g_tw_cn": "在伊树菜苦恼的时候，马上就回应了！",
+          "g_ja": "イズナが苦しんでる時は、すぐに答えてくれるんですね！",
+          "g_ko": "이즈나가 괴로워하고 있을 땐, 바로 응해주시는군요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140040,
+        "Id": 2511,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140050,
+        "Message": {
+          "j_ko": "하지만 괜찮습니다.",
+          "j_ja": "……ありがとうございます！",
+          "g_en": "But it's okay.",
+          "g_tw": "……非常感謝！",
+          "g_tw_cn": "……非常感谢！",
+          "g_ja": "……ありがとうございます！",
+          "g_ko": "하지만 괜찮습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140040,
+        "Id": 2512,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140050,
+        "Message": {
+          "j_ko": "이미 고민은 해결되었으니까요!",
+          "j_ja": "悩み、解決しました！",
+          "g_en": "I already got it taken care of!",
+          "g_tw": "煩惱解決了！",
+          "g_tw_cn": "烦恼解决了！",
+          "g_ja": "悩み、解決しました！",
+          "g_ko": "이미 고민은 해결되었으니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140050,
+        "Id": 2513,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140060,
+        "Message": {
+          "j_ko": "이미 해결된 거냐……!",
+          "j_ja": "もう解決したの！？",
+          "g_en": "You did?",
+          "g_tw": "已經解決了！？",
+          "g_tw_cn": "已经解决了！？",
+          "g_ja": "もう解決したの！？",
+          "g_ko": "이미 해결된 거냐……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140060,
+        "Id": 2514,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140070,
+        "Message": {
+          "j_ko": "네!",
+          "j_ja": "はい！",
+          "g_en": "Yes!",
+          "g_tw": "是的！",
+          "g_tw_cn": "是的！",
+          "g_ja": "はい！",
+          "g_ko": "네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140060,
+        "Id": 2515,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140070,
+        "Message": {
+          "j_ko": "이즈나는 닌자를 목표로 삼은 몸.",
+          "j_ja": "イズナは忍者を目指していますので。",
+          "g_en": "My goal is to become a ninja.",
+          "g_tw": "因為伊樹菜的目標是成為一名忍者",
+          "g_tw_cn": "因为伊树菜的目标是成为一名忍者",
+          "g_ja": "イズナは忍者を目指していますので。",
+          "g_ko": "이즈나는 닌자를 목표로 삼은 몸."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140070,
+        "Id": 2516,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140080,
+        "Message": {
+          "j_ko": "그렇다면 고민으로 밤잠을 이루기보다 직접 실천하는 것이 우선!",
+          "j_ja": "であれば先生のように素早く対応、まずは悩むより実行！",
+          "g_en": "So taking action is more important than sleeping!",
+          "g_tw": "那就得像老師一樣迅速反應，煩惱之前先付諸實行！",
+          "g_tw_cn": "那就得像老师一样迅速反应，烦恼之前先付诸实行！",
+          "g_ja": "であれば先生のように素早く対応、まずは悩むより実行！",
+          "g_ko": "그렇다면 고민으로 밤잠을 이루기보다 직접 실천하는 것이 우선!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140070,
+        "Id": 2517,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140080,
+        "Message": {
+          "j_ko": "그런 고로 오늘부터 닌자답게!",
+          "j_ja": "ということで、今日からさらに忍者らしく！",
+          "g_en": "I'm going to act like a ninja starting today!",
+          "g_tw": "因此，從今天開始要更像個忍者！",
+          "g_tw_cn": "因此，从今天开始要更像个忍者！",
+          "g_ja": "ということで、今日からさらに忍者らしく！",
+          "g_ko": "그런 고로 오늘부터 닌자답게!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140070,
+        "Id": 2518,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140080,
+        "Message": {
+          "j_ko": "실천하겠습니다. 닌닌!",
+          "j_ja": "まずは実践することにします、ニンニン！",
+          "g_en": "I can do it! Nin nin!",
+          "g_tw": "首先要付諸實踐，忍忍！",
+          "g_tw_cn": "首先要付诸实践，忍忍！",
+          "g_ja": "まずは実践することにします、ニンニン！",
+          "g_ko": "실천하겠습니다. 닌닌!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140080,
+        "Id": 2519,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140090,
+        "Message": {
+          "j_ko": "어디 가서 다치진 말고.",
+          "j_ja": "危ないことをして怪我しないようにね。",
+          "g_en": "Just don't get hurt.",
+          "g_tw": "不要做危險的事弄傷自己唷",
+          "g_tw_cn": "不要做危险的事弄伤自己唷",
+          "g_ja": "危ないことをして怪我しないようにね。",
+          "g_ko": "어디 가서 다치진 말고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140090,
+        "Id": 2520,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100142,
+        "NextGroupId": 100140100,
+        "Message": {
+          "j_ko": "에헤헷, 네!",
+          "j_ja": "えへへっ、はい！",
+          "g_en": "Heeheehee. Okay!",
+          "g_tw": "耶嘿嘿，是！",
+          "g_tw_cn": "耶嘿嘿，是！",
+          "g_ja": "えへへっ、はい！",
+          "g_ko": "에헤헷, 네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001403,
+    "Data": [
+      {
+        "GroupId": 100140100,
+        "Id": 2521,
+        "CharacterId": 10014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140110,
+        "Message": {
+          "j_ko": "이즈나, 주군의 충고를 가슴 깊이 새겼습니다.",
+          "j_ja": "イズナ、先日の主殿からの忠告、心に深く刻みました",
+          "g_en": "I took your advice to heart, my lord.",
+          "g_tw": "伊樹菜會將主公前幾日的忠告深深刻在心中",
+          "g_tw_cn": "伊树菜会将主公前几日的忠告深深刻在心中",
+          "g_ja": "イズナ、先日の主殿からの忠告、心に深く刻みました",
+          "g_ko": "이즈나, 주군의 충고를 가슴 깊이 새겼습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140110,
+        "Id": 2522,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140120,
+        "Message": {
+          "j_ko": "갑자기 무슨 충고?",
+          "j_ja": "忠告？何の話だっけ……？",
+          "g_en": "What advice?",
+          "g_tw": "忠告？我說了什麼來著……？",
+          "g_tw_cn": "忠告？我说了什么来着……？",
+          "g_ja": "忠告？何の話だっけ……？",
+          "g_ko": "갑자기 무슨 충고?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140120,
+        "Id": 2523,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140130,
+        "Message": {
+          "j_ko": "저번에 말씀하셨던……,",
+          "j_ja": "この前、主殿が仰っていた……",
+          "g_en": "What you told me last time... ",
+          "g_tw": "上次主公說的……",
+          "g_tw_cn": "上次主公说的……",
+          "g_ja": "この前、主殿が仰っていた……",
+          "g_ko": "저번에 말씀하셨던……,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140120,
+        "Id": 2524,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140130,
+        "Message": {
+          "j_ko": "미행은 좋지 않다던 말씀이요!",
+          "j_ja": "無断での尾行は良くないというお話です！",
+          "g_en": "That following people is bad!",
+          "g_tw": "未經允許的跟蹤是不好的！",
+          "g_tw_cn": "未经允许的跟踪是不好的！",
+          "g_ja": "無断での尾行は良くないというお話です！",
+          "g_ko": "미행은 좋지 않다던 말씀이요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140130,
+        "Id": 2525,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140140,
+        "Message": {
+          "j_ko": "그런 말을 한 적이…… 있었, 나?",
+          "j_ja": "ごめん、覚えてないかも……？",
+          "g_en": "Did I say that?",
+          "g_tw": "抱歉，我可能不記得了……？",
+          "g_tw_cn": "抱歉，我可能不记得了……？",
+          "g_ja": "ごめん、覚えてないかも……？",
+          "g_ko": "그런 말을 한 적이…… 있었, 나?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140130,
+        "Id": 2526,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140140,
+        "Message": {
+          "j_ko": "아, 확실히 그런 말을 한 적이 있었지…….",
+          "j_ja": "そういえばそんなこともあったね……",
+          "g_en": "Yes, I probably did say that...",
+          "g_tw": "這麼說來好像有這麼回事……",
+          "g_tw_cn": "这么说来好像有这么回事……",
+          "g_ja": "そういえばそんなこともあったね……",
+          "g_ko": "아, 확실히 그런 말을 한 적이 있었지……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140140,
+        "Id": 2527,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140150,
+        "Message": {
+          "j_ko": "그때의 말씀을 받들어, 이즈나.",
+          "j_ja": "あの時主殿よりしかと頂いたお言葉を、あらためて勘考しました",
+          "g_en": "Take my word for it, Izuna. ",
+          "g_tw": "伊樹菜會聽從當時的話",
+          "g_tw_cn": "伊树菜会听从当时的话",
+          "g_ja": "あの時主殿よりしかと頂いたお言葉を、あらためて勘考しました",
+          "g_ko": "그때의 말씀을 받들어, 이즈나."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140140,
+        "Id": 2528,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140150,
+        "Message": {
+          "j_ko": "주군을 몰래 호위하는 건 그만두겠습니다!",
+          "j_ja": "イズナ、今後は主殿をこっそり護衛することはやめます！",
+          "g_en": "So, I'll stop escorting you in secret, my lord!",
+          "g_tw": "伊樹菜今後不會再偷偷護衛主公了！",
+          "g_tw_cn": "伊树菜今后不会再偷偷护卫主公了！",
+          "g_ja": "イズナ、今後は主殿をこっそり護衛することはやめます！",
+          "g_ko": "주군을 몰래 호위하는 건 그만두겠습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140150,
+        "Id": 2529,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140160,
+        "Message": {
+          "j_ko": "으응, 그래…….",
+          "j_ja": "あっ、うん……",
+          "g_en": "Okay...",
+          "g_tw": "啊，嗯……",
+          "g_tw_cn": "啊，嗯……",
+          "g_ja": "あっ、うん……",
+          "g_ko": "으응, 그래……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140160,
+        "Id": 2530,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140170,
+        "Message": {
+          "j_ko": "대신 오늘부터는 앞에서 호위하겠습니다!",
+          "j_ja": "代わりに今日からは、主殿の前で護衛しますね！",
+          "g_en": "Instead, I'm going to start escorting you in the open!",
+          "g_tw": "作為代替，從今天開始會直接在主公的前面進行護衛！",
+          "g_tw_cn": "作为代替，从今天开始会直接在主公的前面进行护卫！",
+          "g_ja": "代わりに今日からは、主殿の前で護衛しますね！",
+          "g_ko": "대신 오늘부터는 앞에서 호위하겠습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140160,
+        "Id": 2531,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140170,
+        "Message": {
+          "j_ko": "그럼 이따 뵐게요! 주군!",
+          "j_ja": "ではまた！",
+          "g_en": "I'll see you later, my lord!",
+          "g_tw": "那麼再見了！",
+          "g_tw_cn": "那么再见了！",
+          "g_ja": "ではまた！",
+          "g_ko": "그럼 이따 뵐게요! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140170,
+        "Id": 2532,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100143,
+        "NextGroupId": 100140180,
+        "Message": {
+          "j_ko": "응……?",
+          "j_ja": "うん……？",
+          "g_en": "Huh?",
+          "g_tw": "嗯……？",
+          "g_tw_cn": "嗯……？",
+          "g_ja": "うん……？",
+          "g_ko": "응……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001405,
+    "Data": [
+      {
+        "GroupId": 100140180,
+        "Id": 2533,
+        "CharacterId": 10014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140190,
+        "Message": {
+          "j_ko": "주군! 주군!",
+          "j_ja": "主殿！主殿！",
+          "g_en": "My lord! My lord!",
+          "g_tw": "主公！主公！",
+          "g_tw_cn": "主公！主公！",
+          "g_ja": "主殿！主殿！",
+          "g_ko": "주군! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140190,
+        "Id": 2534,
+        "CharacterId": 10014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140200,
+        "Message": {
+          "j_ko": "속보예요! 급보예요! 큰일이에요!",
+          "j_ja": "速報です！特報です！一大事です！",
+          "g_en": "Breaking news! This is incredible!",
+          "g_tw": "速報！特報！是大事件！",
+          "g_tw_cn": "速报！特报！是大事件！",
+          "g_ja": "速報です！特報です！一大事です！",
+          "g_ko": "속보예요! 급보예요! 큰일이에요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140200,
+        "Id": 2535,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140210,
+        "Message": {
+          "j_ko": "잔뜩 흥분해서, 무슨 일이야?",
+          "j_ja": "そんなに興奮して、どうしたの？",
+          "g_en": "What's going on?",
+          "g_tw": "那麼興奮，怎麼了？",
+          "g_tw_cn": "那么兴奋，怎么了？",
+          "g_ja": "そんなに興奮して、どうしたの？",
+          "g_ko": "잔뜩 흥분해서, 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140210,
+        "Id": 2536,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140220,
+        "Message": {
+          "j_ko": "우연히 이즈나가 좋아하는 명작 닌자 시대극 시리즈를 구했어요!",
+          "j_ja": "イズナの大好きな名作、忍者の時代劇シリーズをついに手に入れました！",
+          "g_en": "I got my hands on a ninja-themed historical drama series! It's one of my favorites!",
+          "g_tw": "伊樹菜最喜歡的名作，忍者的時代劇系列終於拿到手了！",
+          "g_tw_cn": "伊树菜最喜欢的名作，忍者的时代剧系列终于拿到手了！",
+          "g_ja": "イズナの大好きな名作、忍者の時代劇シリーズをついに手に入れました！",
+          "g_ko": "우연히 이즈나가 좋아하는 명작 닌자 시대극 시리즈를 구했어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140220,
+        "Id": 2537,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140230,
+        "Message": {
+          "j_ko": "시대극이라면, 옛날 드라마?",
+          "j_ja": "時代劇って、昔のドラマ？",
+          "g_en": "A historical drama?",
+          "g_tw": "時代劇是以前的電視劇嗎？",
+          "g_tw_cn": "时代剧是以前的电视剧吗？",
+          "g_ja": "時代劇って、昔のドラマ？",
+          "g_ko": "시대극이라면, 옛날 드라마?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140230,
+        "Id": 2538,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140240,
+        "Message": {
+          "j_ko": "네!",
+          "j_ja": "はい！",
+          "g_en": "Yes!",
+          "g_tw": "是的！",
+          "g_tw_cn": "是的！",
+          "g_ja": "はい！",
+          "g_ko": "네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140230,
+        "Id": 2539,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140240,
+        "Message": {
+          "j_ko": "이번에 구한 건 또, 구하기 어려운 명작이거든요!",
+          "j_ja": "これ、なかなか手に入らない名作なんです！",
+          "g_en": "This was really hard to get!",
+          "g_tw": "這是一部很難入手的名作！",
+          "g_tw_cn": "这是一部很难入手的名作！",
+          "g_ja": "これ、なかなか手に入らない名作なんです！",
+          "g_ko": "이번에 구한 건 또, 구하기 어려운 명작이거든요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140240,
+        "Id": 2540,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140250,
+        "Message": {
+          "j_ko": "같이 봐주실 거죠! 주군!",
+          "j_ja": "一緒に見てくれますよね！主殿！",
+          "g_en": "Are you going to watch it with me? Please?",
+          "g_tw": "一起看吧！主公！",
+          "g_tw_cn": "一起看吧！主公！",
+          "g_ja": "一緒に見てくれますよね！主殿！",
+          "g_ko": "같이 봐주실 거죠! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140240,
+        "Id": 2541,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140250,
+        "Message": {
+          "j_ko": "이즈나의 집에서 감상회예요!",
+          "j_ja": "イズナの家で鑑賞会をしましょう！",
+          "g_en": "I'm going to have a viewing at my house!",
+          "g_tw": "在伊樹菜家開鑑賞會吧！",
+          "g_tw_cn": "在伊树菜家开鉴赏会吧！",
+          "g_ja": "イズナの家で鑑賞会をしましょう！",
+          "g_ko": "이즈나의 집에서 감상회예요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140250,
+        "Id": 2542,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140260,
+        "Message": {
+          "j_ko": "좋아, 알았어.",
+          "j_ja": "うん、じゃあお邪魔しようかな",
+          "g_en": "Okay, sure.",
+          "g_tw": "嗯，那就去打擾一下吧",
+          "g_tw_cn": "嗯，那就去打扰一下吧",
+          "g_ja": "うん、じゃあお邪魔しようかな",
+          "g_ko": "좋아, 알았어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140260,
+        "Id": 2543,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140270,
+        "Message": {
+          "j_ko": "괘, 괜찮으신 거죠?!",
+          "j_ja": "あ、ありがとうございます！",
+          "g_en": "Are you sure?",
+          "g_tw": "非，非常感謝！",
+          "g_tw_cn": "非，非常感谢！",
+          "g_ja": "あ、ありがとうございます！",
+          "g_ko": "괘, 괜찮으신 거죠?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140260,
+        "Id": 2544,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100145,
+        "NextGroupId": 100140270,
+        "Message": {
+          "j_ko": "에헤헷! 그럼 기다리고 있을게요!",
+          "j_ja": "えへへっ！ではお待ちしてますね！",
+          "g_en": "Heehee! I'll be waiting!",
+          "g_tw": "耶嘿嘿！那伊樹菜會等著主公！",
+          "g_tw_cn": "耶嘿嘿！那伊树菜会等着主公！",
+          "g_ja": "えへへっ！ではお待ちしてますね！",
+          "g_ko": "에헤헷! 그럼 기다리고 있을게요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140270,
+        "Id": 2545,
+        "CharacterId": 10014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140280,
+        "Message": {
+          "j_ko": "주군과 닌자에 대해 더 자세히 알 수 있어서 기뻤어요!",
+          "j_ja": "主殿と、忍者についてさらに知ることができて嬉しかったです！",
+          "g_en": "I'm so happy I got to learn more about you and ninjas!",
+          "g_tw": "能更進一步了解主公和忍者，伊樹菜很開心！",
+          "g_tw_cn": "能更进一步了解主公和忍者，伊树菜很开心！",
+          "g_ja": "主殿と、忍者についてさらに知ることができて嬉しかったです！",
+          "g_ko": "주군과 닌자에 대해 더 자세히 알 수 있어서 기뻤어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140270,
+        "Id": 2546,
+        "CharacterId": 10014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140280,
+        "Message": {
+          "j_ko": "다음번엔 좀 더 완벽한 닌자로 찾아뵙겠습니다! 주군!",
+          "j_ja": "次はイズナも、さらに完璧な忍者になった状態でお会いできますね、主殿！",
+          "g_en": "I'm going to become a better ninja every day!",
+          "g_tw": "下次，伊樹菜就能以更完美的忍者的姿態和您見面了呢，主公！",
+          "g_tw_cn": "下次，伊树菜就能以更完美的忍者的姿态和您见面了呢，主公！",
+          "g_ja": "次はイズナも、さらに完璧な忍者になった状態でお会いできますね、主殿！",
+          "g_ko": "다음번엔 좀 더 완벽한 닌자로 찾아뵙겠습니다! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140280,
+        "Id": 2547,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140290,
+        "Message": {
+          "j_ko": "그, 그래…….",
+          "j_ja": "そ、そうだね……？",
+          "g_en": "O-Okay...",
+          "g_tw": "就，就是說呢……？",
+          "g_tw_cn": "就，就是说呢……？",
+          "g_ja": "そ、そうだね……？",
+          "g_ko": "그, 그래……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001406,
+    "Data": [
+      {
+        "GroupId": 100140290,
+        "Id": 2548,
+        "CharacterId": 10014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140300,
+        "Message": {
+          "j_ko": "닌자에게 가장 중요한 것.",
+          "j_ja": "忍者にとって一番大事なこと……",
+          "g_en": "The most important thing for a ninja...",
+          "g_tw": "對忍者來說最重要的事……",
+          "g_tw_cn": "对忍者来说最重要的事……",
+          "g_ja": "忍者にとって一番大事なこと……",
+          "g_ko": "닌자에게 가장 중요한 것."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140300,
+        "Id": 2549,
+        "CharacterId": 10014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140310,
+        "Message": {
+          "j_ko": "그건 역시 평소에도 쉴 틈 없이 꾸준히 수행을 하는 것이라고 생각합니다. 주군!",
+          "j_ja": "それは普段から休むことなく、常在戦場の心持ちで修行を続けることだと思います！",
+          "g_en": "I think it's consistent practice, my lord!",
+          "g_tw": "伊樹菜認為是平時也不放縱，以常在戰場的心態持續修行！",
+          "g_tw_cn": "伊树菜认为是平时也不放纵，以常在战场的心态持续修行！",
+          "g_ja": "それは普段から休むことなく、常在戦場の心持ちで修行を続けることだと思います！",
+          "g_ko": "그건 역시 평소에도 쉴 틈 없이 꾸준히 수행을 하는 것이라고 생각합니다. 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140310,
+        "Id": 2550,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140320,
+        "Message": {
+          "j_ko": "하긴, 단련은 중요하지.",
+          "j_ja": "確かに、鍛錬は大事だからね",
+          "g_en": "Yes, training is very important.",
+          "g_tw": "確實，鍛鍊是很重要的呢",
+          "g_tw_cn": "确实，锻炼是很重要的呢",
+          "g_ja": "確かに、鍛錬は大事だからね",
+          "g_ko": "하긴, 단련은 중요하지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140310,
+        "Id": 2551,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140320,
+        "Message": {
+          "j_ko": "건강한 몸에 건강한 정신이라고도 하니까.",
+          "j_ja": "健康な体には、健全な精神が宿るっていうからね",
+          "g_en": "A healthy mind, and a healthy body.",
+          "g_tw": "畢竟健康的身體，可以說是寄宿著健全的精神呢",
+          "g_tw_cn": "毕竟健康的身体，可以说是寄宿着健全的精神呢",
+          "g_ja": "健康な体には、健全な精神が宿るっていうからね",
+          "g_ko": "건강한 몸에 건강한 정신이라고도 하니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140320,
+        "Id": 2552,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140330,
+        "Message": {
+          "j_ko": "네, 주군의 말씀대로예요!",
+          "j_ja": "はい、その通りかと！",
+          "g_en": "Yes, just as you told me!",
+          "g_tw": "是的，正是如此！",
+          "g_tw_cn": "是的，正是如此！",
+          "g_ja": "はい、その通りかと！",
+          "g_ko": "네, 주군의 말씀대로예요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140330,
+        "Id": 2553,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140340,
+        "Message": {
+          "j_ko": "진정한 닌자가 되기 위해서라면 평소부터…….",
+          "j_ja": "真の忍者になるために……",
+          "g_en": "So to become a true ninja...",
+          "g_tw": "為了成為真正的忍者……",
+          "g_tw_cn": "为了成为真正的忍者……",
+          "g_ja": "真の忍者になるために……",
+          "g_ko": "진정한 닌자가 되기 위해서라면 평소부터……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140330,
+        "Id": 2554,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140340,
+        "Message": {
+          "j_ko": "그러니까 걷고 있을 때일지라도, 밥을 먹고 있을 때일지라도.",
+          "j_ja": "普段から歩いている時も、ご飯を食べている時も",
+          "g_en": "Whenever I'm eating or walking...",
+          "g_tw": "平時走路的時候，吃飯的時候",
+          "g_tw_cn": "平时走路的时候，吃饭的时候",
+          "g_ja": "普段から歩いている時も、ご飯を食べている時も",
+          "g_ko": "그러니까 걷고 있을 때일지라도, 밥을 먹고 있을 때일지라도."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140330,
+        "Id": 2555,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140340,
+        "Message": {
+          "j_ko": "설령 쿨쿨 자고 있을 때일지라도 끊임없이 탐구하는 자세를 갖춰야 하는 법!",
+          "j_ja": "ぐっすり眠っている時でも、絶えず鍛錬の姿勢と心意気を崩さないこと！",
+          "g_en": "Even when I'm sleeping, I'm going to explore the world around me!",
+          "g_tw": "甚至是熟睡的時候，都不能少了鍛鍊的姿勢和氣魄！",
+          "g_tw_cn": "甚至是熟睡的时候，都不能少了锻炼的姿势和气魄！",
+          "g_ja": "ぐっすり眠っている時でも、絶えず鍛錬の姿勢と心意気を崩さないこと！",
+          "g_ko": "설령 쿨쿨 자고 있을 때일지라도 끊임없이 탐구하는 자세를 갖춰야 하는 법!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140340,
+        "Id": 2556,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140350,
+        "Message": {
+          "j_ko": "그렇게까지?!",
+          "j_ja": "寝てる時も！？",
+          "g_en": "That sounds a bit intense!",
+          "g_tw": "連睡覺的時候也要！？",
+          "g_tw_cn": "连睡觉的时候也要！？",
+          "g_ja": "寝てる時も！？",
+          "g_ko": "그렇게까지?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140350,
+        "Id": 2557,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140360,
+        "Message": {
+          "j_ko": "네! 그렇게까지!",
+          "j_ja": "はい！そうです！一日中ですので！",
+          "g_en": "But that's what it takes!",
+          "g_tw": "是的！沒錯！因為是一整天！",
+          "g_tw_cn": "是的！没错！因为是一整天！",
+          "g_ja": "はい！そうです！一日中ですので！",
+          "g_ko": "네! 그렇게까지!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140350,
+        "Id": 2558,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140360,
+        "Message": {
+          "j_ko": "그러니 주군……!",
+          "j_ja": "ですので、主殿……！",
+          "g_en": "So, my lord...",
+          "g_tw": "所以，主公……！",
+          "g_tw_cn": "所以，主公……！",
+          "g_ja": "ですので、主殿……！",
+          "g_ko": "그러니 주군……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140350,
+        "Id": 2559,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140360,
+        "Message": {
+          "j_ko": "닌자를 탐구하기 위한, 이즈나의 수행에 어울려주세요!",
+          "j_ja": "さらに忍者の道を追求するため、イズナの修行に付き合ってくれませんか！",
+          "g_en": "Will you please join me as I explore the world of ninjas?",
+          "g_tw": "為了進一步追求忍者之道，請陪伊樹菜修行吧！",
+          "g_tw_cn": "为了进一步追求忍者之道，请陪伊树菜修行吧！",
+          "g_ja": "さらに忍者の道を追求するため、イズナの修行に付き合ってくれませんか！",
+          "g_ko": "닌자를 탐구하기 위한, 이즈나의 수행에 어울려주세요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140360,
+        "Id": 2560,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140370,
+        "Message": {
+          "j_ko": "뭐, 좋아.",
+          "j_ja": "うん。まだよく分かってないけど、良いよ",
+          "g_en": "But, sure.",
+          "g_tw": "嗯。雖然還不太明白，不過可以唷",
+          "g_tw_cn": "嗯。虽然还不太明白，不过可以唷",
+          "g_ja": "うん。まだよく分かってないけど、良いよ",
+          "g_ko": "뭐, 좋아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140370,
+        "Id": 2561,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100146,
+        "NextGroupId": 100140380,
+        "Message": {
+          "j_ko": "와아! 해냈다!",
+          "j_ja": "やった！ありがとうございます！",
+          "g_en": "Woohoo! I did it!",
+          "g_tw": "太好了！非常感謝！",
+          "g_tw_cn": "太好了！非常感谢！",
+          "g_ja": "やった！ありがとうございます！",
+          "g_ko": "와아! 해냈다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140380,
+        "Id": 2562,
+        "CharacterId": 10014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140390,
+        "Message": {
+          "j_ko": "오늘, 수행에 어울려주셔서 감사했습니다. 주군!",
+          "j_ja": "今日は修行に付き合ってくださって、ありがとうございました！主殿！",
+          "g_en": "Thank you for joining me on today's mission, my lord!",
+          "g_tw": "謝謝您今天陪我修行！主公！",
+          "g_tw_cn": "谢谢您今天陪我修行！主公！",
+          "g_ja": "今日は修行に付き合ってくださって、ありがとうございました！主殿！",
+          "g_ko": "오늘, 수행에 어울려주셔서 감사했습니다. 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140390,
+        "Id": 2563,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140400,
+        "Message": {
+          "j_ko": "그런데 이즈나, 오늘은 결국 수행이었던 게 아니라…….",
+          "j_ja": "どういたしまして。ところで、今日のって結局修行というか……",
+          "g_en": "Today wasn't exactly a mission, Izuna...",
+          "g_tw": "不客氣。話說回來，今天的能算是修行嗎……",
+          "g_tw_cn": "不客气。话说回来，今天的能算是修行吗……",
+          "g_ja": "どういたしまして。ところで、今日のって結局修行というか……",
+          "g_ko": "그런데 이즈나, 오늘은 결국 수행이었던 게 아니라……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140400,
+        "Id": 2564,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140410,
+        "Message": {
+          "j_ko": "앗, TV에서 새로운 시대극이 시작하겠어요!",
+          "j_ja": "あっ、時代劇が始まってしまいます！",
+          "g_en": "Oh! A new historical drama is playing on TV!",
+          "g_tw": "啊，時代劇要開始了！",
+          "g_tw_cn": "啊，时代剧要开始了！",
+          "g_ja": "あっ、時代劇が始まってしまいます！",
+          "g_ko": "앗, TV에서 새로운 시대극이 시작하겠어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140400,
+        "Id": 2565,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140410,
+        "Message": {
+          "j_ko": "그럼 나중에 뵙겠습니다! 주군!",
+          "j_ja": "それではまた後程！",
+          "g_en": "I'll catch you later!",
+          "g_tw": "那麼之後再聯絡了！",
+          "g_tw_cn": "那么之后再联系了！",
+          "g_ja": "それではまた後程！",
+          "g_ko": "그럼 나중에 뵙겠습니다! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140400,
+        "Id": 2566,
+        "CharacterId": 10014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100140410,
+        "Message": {
+          "j_ko": "닌닌!",
+          "j_ja": "ニンニン！",
+          "g_en": "Nin nin!",
+          "g_tw": "忍忍！",
+          "g_tw_cn": "忍忍！",
+          "g_ja": "ニンニン！",
+          "g_ko": "닌닌!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100140410,
+        "Id": 2567,
+        "CharacterId": 10014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "으, 응…….",
+          "j_ja": "う、うん。また後で……",
+          "g_en": "Hm...",
+          "g_tw": "唔，嗯。再連絡……",
+          "g_tw_cn": "唔，嗯。再连络……",
+          "g_ja": "う、うん。また後で……",
+          "g_ko": "으, 응……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

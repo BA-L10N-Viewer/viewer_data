@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（まさか、自分の像を……それも風紀委員の予算を使って作るなんて）",
+      "j_ko": "(동상을…… 그것도 선도부의 예산을 들여 만들다니.)",
+      "g_ja": "（まさか、自分の像を……それも風紀委員の予算を使って作るなんて）",
+      "g_ko": "(동상을…… 그것도 선도부의 예산을 들여 만들다니.)",
+      "g_en": "(Makoto built all those statues...using the Prefect Team's budget, no less.)",
+      "g_th": "(รูปปั้นพวกนั้น... เห็นว่าใช้งบประมาณของคณะกรรมการวินัยในการสั่งทำด้วย) ",
+      "g_tw": "（那些銅像……竟然是用風紀委員會的預算製作的）",
+      "g_tw_cn": "（那些铜像……竟然是用风纪委员会的预算制作的）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(동상을…… 그것도 선도부의 예산을 들여 만들다니.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（よくも思いついたわね……）",
+      "j_ko": "(잘도 그런 걸 생각하고 저지르는구나……)",
+      "g_ja": "（よくも思いついたわね……）",
+      "g_ko": "(잘도 그런 걸 생각하고 저지르는구나……)",
+      "g_en": "(And she managed to keep her plans completely hidden from us until they were too far along to easily stop...)",
+      "g_th": "(คิดไว้แล้วเชียว จะก่อกวนพวกเราสินะ...)",
+      "g_tw": "（真虧他能想出這種事……）",
+      "g_tw_cn": "（真亏他能想出这种事……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(잘도 그런 걸 생각하고 저지르는구나……)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（驚きを通り越して、呆れたというか）",
+      "j_ko": "(이런 일이 있을 때마다 놀란다고 할지. 질린다고 할지.)",
+      "g_ja": "（驚きを通り越して、呆れたというか）",
+      "g_ko": "(이런 일이 있을 때마다 놀란다고 할지. 질린다고 할지.)",
+      "g_en": "(Should I be impressed or worried sick? I'm spending far too much time on the back foot.)",
+      "g_th": "(ทุกครั้งที่เกิดเรื่องแบบนี้ จะต้องบอกว่าตกใจหรือเอือมระอาดีนะ)",
+      "g_tw": "（每次發生這種事情，都不知道該感到驚訝還是厭煩）",
+      "g_tw_cn": "（每次发生这种事情，都不知道该感到惊讶还是厌烦）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(이런 일이 있을 때마다 놀란다고 할지. 질린다고 할지.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

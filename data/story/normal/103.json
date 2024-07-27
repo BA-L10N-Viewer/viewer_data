@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">特別依頼・拠点防衛</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">거점 방어 특별의뢰</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">特別依頼・拠点防衛</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">거점 방어 특별의뢰</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Commission: Base Defense Complete</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ภารกิจพิเศษ ป้องกันฐาน</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">特殊任務．據點防禦</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">特殊任务．据点防御</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;거점 방어 특별의뢰",
+    "BGMId": 61,
+    "Sound": "",
+    "BGName": 2232593452,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "連邦生徒会・オペレーションルーム",
+      "j_ko": "총학생회 상황실",
+      "g_ja": "連邦生徒会・オペレーションルーム",
+      "g_ko": "총학생회 상황실",
+      "g_en": "General Student Council Situation Room",
+      "g_th": "ห้องยุทธการ องค์การนักเรียน",
+      "g_tw": "聯邦學生會．作戰指揮室",
+      "g_tw_cn": "联邦学生会．作战指挥室",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;총학생회 상황실",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、これ見て。軍需工場のAIが暴走して、警備ロボットが暴れ回ってるんだって！",
+      "j_ko": "아하하, 이것 봐. 군수공장의 AI가 폭주해서 난폭하게 변한 경비 로봇들이 날뛰고 있대!",
+      "g_ja": "あははっ、これ見て。軍需工場のAIが暴走して、警備ロボットが暴れ回ってるんだって！",
+      "g_ko": "아하하, 이것 봐. 군수공장의 AI가 폭주해서 난폭하게 변한 경비 로봇들이 날뛰고 있대!",
+      "g_en": "Haha. Check it out. The AI at the munitions factory went into overdrive, and the security robots are on a rampage!",
+      "g_th": "ฮ่าฮ่าฮ่า ดูนี่สิ หุ่นยนต์เอไอที่โรงงานอาวุธเกิดคลุ้มคลั่ง<br/>และพวกหุ่นยนตร์รักษาความปลอดภัยก็อาละวาดอย่างหนัก!",
+      "g_tw": "啊哈哈，你看這個。因為軍需工廠的AI暴走，警備機器人正在到處亂竄！",
+      "g_tw_cn": "啊哈哈，你看这个。因为军需工厂的AI暴走，警备机器人正在到处乱窜！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;03;아하하, 이것 봐. 군수공장의 AI가 폭주해서 난폭하게 변한 경비 로봇들이 날뛰고 있대!\\n#3;em;[재잘]\\n#3;hophop\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんで他人事みたいに話してるのか、って？……そりゃ、私の管轄外だし？",
+      "j_ko": "그런데 왜 그렇게 남 일처럼 말하냐고? ……그야 내가 처리할 일이 아니니까.",
+      "g_ja": "なんで他人事みたいに話してるのか、って？……そりゃ、私の管轄外だし？",
+      "g_ko": "그런데 왜 그렇게 남 일처럼 말하냐고? ……그야 내가 처리할 일이 아니니까.",
+      "g_en": "I'm talking about it like it's someone else's problem? Well, yeah... Because it is.",
+      "g_th": "ทำไมถึงพูดเหมือนเป็นเรื่องของคนอื่นงั้นเหรอ? ก็... มันไม่ใช่เรื่องที่ฉันต้องจัดการนี่นา",
+      "g_tw": "問我為什麼說得像是別人的事一樣？<br/>……因為，不在我的管轄範圍之內啊？",
+      "g_tw_cn": "问我为什么说得像是别人的事一样？<br/>……因为，不在我的管辖范围之内啊？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;01;그런데 왜 그렇게 남 일처럼 말하냐고? ……그야 내가 처리할 일이 아니니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、何してるの？早くロボットをやっつけてAIを落ち着かせないと、でしょ？",
+      "j_ko": "뭐하고 있어, 선생? 어서 가서 로봇들을 처리하고 AI를 진정시키지 않고.",
+      "g_ja": "先生、何してるの？早くロボットをやっつけてAIを落ち着かせないと、でしょ？",
+      "g_ko": "뭐하고 있어, 선생? 어서 가서 로봇들을 처리하고 AI를 진정시키지 않고.",
+      "g_en": "What are you still doing here, Sensei? Take out the robots and rein in the AI! Hurry up!",
+      "g_th": "มัวทำอะไรอยู่ล่ะคุณครู? รีบไปจัดการพวกหุ่นยนต์แล้วทำให้พวกเอไอกลับมาสงบเหมือนเดิมสิ",
+      "g_tw": "老師，你還在做什麼？要趕快去打倒那些機器人，讓AI冷靜下來不是嗎？",
+      "g_tw_cn": "老师，你还在做什么？要赶快去打倒那些机器人，让AI冷静下来不是吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;05;뭐하고 있어, 선생? 어서 가서 로봇들을 처리하고 AI를 진정시키지 않고.\\n#3;em;[!]\\n#3;m3\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

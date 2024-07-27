@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もし本当に助けを求めているなら、早く見つけてあげたいなと……",
+      "j_ko": "만약 정말로 도움을 요청하고 있는 거라면, 빨리 찾아주고 싶은데 말이에요.",
+      "g_ja": "もし本当に助けを求めているなら、早く見つけてあげたいなと……",
+      "g_ko": "만약 정말로 도움을 요청하고 있는 거라면, 빨리 찾아주고 싶은데 말이에요.",
+      "g_en": "If it really needs help, I should find quickly...",
+      "g_th": "ถ้าน้องเค้าขอความช่วยเหลืออยู่จริงๆ ฉันก็อยากช่วยหาให้เจอไวๆ ค่ะ",
+      "g_tw": "如果真的是在尋求協助，真想快點找到那隻貓。",
+      "g_tw_cn": "如果真的是在寻求协助，真想快点找到那只猫。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;04;만약 정말로 도움을 요청하고 있는 거라면, 빨리 찾아주고 싶은데 말이에요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何も無ければ良いのですが……",
+      "j_ko": "큰일이 아니라면 좋을 텐데…….",
+      "g_ja": "何も無ければ良いのですが……",
+      "g_ko": "큰일이 아니라면 좋을 텐데…….",
+      "g_en": "I hope it's nothing serious...",
+      "g_th": "หวังว่าจะไม่เกิดเรื่องใหญ่อะไรนะ...",
+      "g_tw": "希望不會發生大事……",
+      "g_tw_cn": "希望不会发生大事……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;11;큰일이 아니라면 좋을 텐데…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

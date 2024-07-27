@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温泉開発部が問題を起こすのは、いつものことだけど……",
+      "j_ko": "온천개발부의 난동은 그렇다 치더라도, 마코토가 요구했던 건은……",
+      "g_ja": "温泉開発部が問題を起こすのは、いつものことだけど……",
+      "g_ko": "온천개발부의 난동은 그렇다 치더라도, 마코토가 요구했던 건은……",
+      "g_en": "Outside of our mutual trouble with the Hot Springs Department, Makoto demanded that I...",
+      "g_th": "เก็บเรื่องวุ่นวายของชมรมพัฒนาออนเซ็นไว้ก่อน เพราะสิ่งที่มาโคโตะขอร้องนั่นน่ะ...",
+      "g_tw": "溫泉開發部的問題先放一邊，真琴他的要求……",
+      "g_tw_cn": "温泉开发部的问题先放一边，真琴他的要求……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;02;온천개발부의 난동은 그렇다 치더라도, 마코토가 요구했던 건은……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "人前でピアノを演奏するなんて……初めてね。",
+      "j_ko": "남들 앞에서 하는 피아노 공연……이라, 이런 일은 처음, 이려나.",
+      "g_ja": "人前でピアノを演奏するなんて……初めてね。",
+      "g_ko": "남들 앞에서 하는 피아노 공연……이라, 이런 일은 처음, 이려나.",
+      "g_en": "I've...never performed on the piano before the eyes of an audience before.",
+      "g_th": "ให้แสดงบรรเลงเปียโนต่อหน้าคนอื่น... นี่น่าจะเป็นครั้งแรกของฉันเลย",
+      "g_tw": "在人群面前演奏鋼琴……還是第一次吧。",
+      "g_tw_cn": "在人群面前演奏钢琴……还是第一次吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;01;남들 앞에서 하는 피아노 공연……이라, 이런 일은 처음, 이려나.\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "不安はあるけど、あの人が期待してくれている以上……",
+      "j_ko": "전혀 익숙하지 않은 일이긴 하지만…… 선생님이 기대를 하고 있다면.",
+      "g_ja": "不安はあるけど、あの人が期待してくれている以上……",
+      "g_ko": "전혀 익숙하지 않은 일이긴 하지만…… 선생님이 기대를 하고 있다면.",
+      "g_en": "It's hardly something I am accustomed to or desire...but if Sensei is looking forward to it so eagerly...",
+      "g_th": "เรื่องแบบนี้ไม่ใช่สิ่งที่ฉันถนัดเลย... แต่ถ้าคุณครูคาดหวังอยู่ละก็",
+      "g_tw": "雖然是完全不熟悉的事……但如果老師很期待的話……",
+      "g_tw_cn": "虽然是完全不熟悉的事……但如果老师很期待的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;99;전혀 익숙하지 않은 일이긴 하지만…… 선생님이 기대를 하고 있다면.\\n#4;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………やっぱり、応えたい。",
+      "j_ko": "………응, 역시 그 사람을 위해서라도. 부응하고 싶어.",
+      "g_ja": "…………やっぱり、応えたい。",
+      "g_ko": "………응, 역시 그 사람을 위해서라도. 부응하고 싶어.",
+      "g_en": "...Then yes. I wish to live up to Sensei's expectations.",
+      "g_th": "อืม ฉันอยากทำให้สมตามความคาดหวัง... อย่างน้อยก็เพื่อคนคนนั้น",
+      "g_tw": "……嗯，我希望能予以回應。",
+      "g_tw_cn": "……嗯，我希望能予以回应。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;03;………응, 역시 그 사람을 위해서라도. 부응하고 싶어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "明日はもっと頑張って練習しよう。",
+      "j_ko": "내일은, 좀 더 열심히 연습을 하자.",
+      "g_ja": "明日はもっと頑張って練習しよう。",
+      "g_ko": "내일은, 좀 더 열심히 연습을 하자.",
+      "g_en": "I'll spend some time practicing tomorrow.",
+      "g_th": "พรุ่งนี้ไปฝึกให้มากกว่านี้กันเถอะ",
+      "g_tw": "明天再更努力練習吧。",
+      "g_tw_cn": "明天再更努力练习吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;03;내일은, 좀 더 열심히 연습을 하자.\\n#4;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

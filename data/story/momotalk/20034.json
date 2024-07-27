@@ -1,0 +1,451 @@
+[
+  {
+    "BondScenarioId": 2003402,
+    "Data": [
+      {
+        "GroupId": 200340010,
+        "Id": 200340010,
+        "CharacterId": 20034,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340020,
+        "Message": {
+          "j_ko": "해마다 이 시즌이 되면, 상점가에서 여러 가지 이벤트를 개최하곤 하죠.",
+          "j_ja": "今のシーズン、商店街では色々なイベントが開かれていますよね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340020,
+        "Id": 200340020,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340030,
+        "Message": {
+          "j_ko": "아카리도 그런 이벤트에 흥미가 있구나.",
+          "j_ja": "アカリもそういうのに興味あるんだね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340030,
+        "Id": 200340030,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340040,
+        "Message": {
+          "j_ko": "물론이죠.",
+          "j_ja": "当たり前ですよ★"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340030,
+        "Id": 200340040,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340040,
+        "Message": {
+          "j_ko": "그것이 먹는 것과 관련된 일이라면, 특히요.",
+          "j_ja": "こういうのって往々にして新たな美食に出会えるチャンスですから"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340040,
+        "Id": 200340050,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340050,
+        "Message": {
+          "j_ko": "상점가…… 이벤트…… 먹는 것……?",
+          "j_ja": "美食に……？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340050,
+        "Id": 200340060,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340060,
+        "Message": {
+          "j_ko": "후후.",
+          "j_ja": "フフ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340050,
+        "Id": 200340070,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340060,
+        "Message": {
+          "j_ko": "기대되시나요?",
+          "j_ja": "先生、そう考えたらワクワクしませんか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340050,
+        "Id": 200340080,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200342,
+        "NextGroupId": 200340060,
+        "Message": {
+          "j_ko": "저는 기대되네요!",
+          "j_ja": "私はとってもワクワクしています！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003403,
+    "Data": [
+      {
+        "GroupId": 200340060,
+        "Id": 200340090,
+        "CharacterId": 20034,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340070,
+        "Message": {
+          "j_ko": "오조니는 맛있는 음식이죠.",
+          "j_ja": "お雑煮って美味しいですよね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340070,
+        "Id": 200340100,
+        "CharacterId": 20034,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340080,
+        "Message": {
+          "j_ko": "그 덕분에 사소한 문제가 생겨 버렸지만요.",
+          "j_ja": "それ故に、些細な問題があるともいえます"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340080,
+        "Id": 200340110,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340090,
+        "Message": {
+          "j_ko": "아카리가 사소하다고 말하니까…….",
+          "j_ja": "アカリが言うと"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340080,
+        "Id": 200340120,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340090,
+        "Message": {
+          "j_ko": "왠지 그렇게 들리지가 않아…….",
+          "j_ja": "ちっとも些細じゃなさそう……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340090,
+        "Id": 200340130,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340100,
+        "Message": {
+          "j_ko": "어머나.",
+          "j_ja": "あら"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340090,
+        "Id": 200340140,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340100,
+        "Message": {
+          "j_ko": "이번엔 정말로 사소한 일이에요.",
+          "j_ja": "今回は本当に些細ですよ？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340100,
+        "Id": 200340150,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340110,
+        "Message": {
+          "j_ko": "오조니용으로 떡을 너무 많이 넣는 바람에,",
+          "j_ja": "美味しさのあまり家のお餅を全部"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340100,
+        "Id": 200340160,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340110,
+        "Message": {
+          "j_ko": "집에 있는 떡을 전부 사용해 버렸다는 문제거든요.",
+          "j_ja": "お雑煮用に使い切ってしまったんです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340110,
+        "Id": 200340170,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340120,
+        "Message": {
+          "j_ko": "적당함이야말로 미덕인 것이었을텐데…….",
+          "j_ja": "過ぎたるは猶及ばざるが如し……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340120,
+        "Id": 200340180,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340130,
+        "Message": {
+          "j_ko": "하지만 저는 떡을 더 많이 먹고 싶은걸요.",
+          "j_ja": "だって、お餅をたくさん食べたかったんですもの"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340130,
+        "Id": 200340190,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340140,
+        "Message": {
+          "j_ko": "바로 그래서.",
+          "j_ja": "それで"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340130,
+        "Id": 200340200,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200343,
+        "NextGroupId": 200340140,
+        "Message": {
+          "j_ko": "제가 준비한 것이 있답니다.",
+          "j_ja": "解決策を思いついたんです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003405,
+    "Data": [
+      {
+        "GroupId": 200340140,
+        "Id": 200340210,
+        "CharacterId": 20034,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340150,
+        "Message": {
+          "j_ko": "이런 시즌에는",
+          "j_ja": "特別な食べ物と一緒に、特別な時間を過ごす……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340150,
+        "Id": 200340220,
+        "CharacterId": 20034,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340160,
+        "Message": {
+          "j_ko": "특별한 음식을 먹으면서, 특별한 시간을 기리곤 하죠.",
+          "j_ja": "このシーズンの"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340150,
+        "Id": 200340230,
+        "CharacterId": 20034,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340160,
+        "Message": {
+          "j_ko": "멋진 문화라고 생각해요.",
+          "j_ja": "最も素敵なところです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340160,
+        "Id": 200340240,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340170,
+        "Message": {
+          "j_ko": "특별히 먹고 싶은 거라도 있어?",
+          "j_ja": "何か食べたいものでもある？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340170,
+        "Id": 200340250,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340180,
+        "Message": {
+          "j_ko": "먹고 싶은 것이라기보단.",
+          "j_ja": "食べたいものというより"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340170,
+        "Id": 200340260,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340180,
+        "Message": {
+          "j_ko": "갑자기, 먹어 보고 싶어진 것이 있어요.",
+          "j_ja": "食べてみたくなったもの、があります"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340180,
+        "Id": 200340270,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340190,
+        "Message": {
+          "j_ko": "그런 의미에서 소문이라는 것은 강력하죠.",
+          "j_ja": "口コミの威力ってすごいですね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340180,
+        "Id": 200340280,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340190,
+        "Message": {
+          "j_ko": "없던 마음도 생겨나게 하거든요.",
+          "j_ja": "自然と食べたい気持ちにさせられちゃいます"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340190,
+        "Id": 200340290,
+        "CharacterId": 20034,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200340200,
+        "Message": {
+          "j_ko": "어딘가에서 맛있는 음식에 대한 소식을 들은 모양이네.",
+          "j_ja": "グルメの記事でも読んだのかな？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340200,
+        "Id": 200340300,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "정확합니다.",
+          "j_ja": "その通り"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200340200,
+        "Id": 200340310,
+        "CharacterId": 20034,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200345,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "선생님께서도 들어 보시면 흥미가 생기실걸요?",
+          "j_ja": "きっと先生も、気になると思いますよ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

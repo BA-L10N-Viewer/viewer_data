@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "急でビックリしたけど、風紀委員長と一緒に仕事ができるなんてレアだし。",
+      "j_ko": "갑작스럽긴 하지만 선도부장과 함께 일을 한다니, 제법 멋진 경험이네.",
+      "g_ja": "急でビックリしたけど、風紀委員長と一緒に仕事ができるなんてレアだし。",
+      "g_ko": "갑작스럽긴 하지만 선도부장과 함께 일을 한다니, 제법 멋진 경험이네.",
+      "g_en": "I never thought I'd be working alongside the head prefect...but it was actually pretty cool.",
+      "g_th": "จู่ๆ ได้มาทำงานกับประธานกรรมการวินัยแบบนี้ก็ถือเป็นประสบการณ์ที่ไม่เลวเลยนะ ต้องเรียกว่ายอดเยี่ยมไปเลยละ",
+      "g_tw": "雖然很突然，不過居然能和風紀委員長一起工作……真是相當不錯的經驗。",
+      "g_tw_cn": "虽然很突然，不过居然能和风纪委员长一起工作……真是相当不错的经验。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1441373779,
+    "DataType": "speaker",
+    "Script": "3;에리카;03;갑작스럽긴 하지만 선도부장과 함께 일을 한다니, 제법 멋진 경험이네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふ、後でSNSに載せて自慢しちゃおうかな。",
+      "j_ko": "후후. 다른 학생들에게 자랑할 거리가 생긴 느낌이야.",
+      "g_ja": "ふふ、後でSNSに載せて自慢しちゃおうかな。",
+      "g_ko": "후후. 다른 학생들에게 자랑할 거리가 생긴 느낌이야.",
+      "g_en": "Heehee! It feels like I got some gossip to share with the others.",
+      "g_th": "ฮุฮุ รู้สึกเหมือนตัวเองมีเรื่องไปอวดนักเรียนคนอื่นเลย",
+      "g_tw": "呵呵。感覺可以跟其他學生炫耀炫耀。",
+      "g_tw_cn": "呵呵。感觉可以跟其他学生炫耀炫耀。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1441373779,
+    "DataType": "speaker",
+    "Script": "3;에리카;08;후후. 다른 학생들에게 자랑할 거리가 생긴 느낌이야.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もういい。だいたい把握した。",
+      "j_ko": "이제 됐어. 대충 알 것 같으니까.",
+      "g_ja": "もういい。だいたい把握した。",
+      "g_ko": "이제 됐어. 대충 알 것 같으니까.",
+      "g_en": "That's all right. I think I understand.",
+      "g_th": "ไม่จำเป็นแล้ว ฉันว่าฉันพอจะรู้แล้วล่ะ",
+      "g_tw": "不必了。情況我已經大致了解。",
+      "g_tw_cn": "不必了。情况我已经大致了解。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;01;이제 됐어. 대충 알 것 같으니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

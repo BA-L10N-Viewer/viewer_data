@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第1話</span><br/><span class=\"scenario-cmd-title\">「データ収集（１）アビドス砂漠」</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제1화</span><br/><span class=\"scenario-cmd-title\">정보수집 1 – 아비도스 사막</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第1話</span><br/><span class=\"scenario-cmd-title\">「データ収集（１）アビドス砂漠」</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제1화</span><br/><span class=\"scenario-cmd-title\">정보수집 1 – 아비도스 사막</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 1</span><br/><span class=\"scenario-cmd-title\">Research Part 1: Desert</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 1</span><br/><span class=\"scenario-cmd-title\"> รวบรวมข้อมูล 1 - ทะเลทรายอะบิดอส</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第1話</span><br/><span class=\"scenario-cmd-title\">「蒐集情報（１）阿拜多斯砂漠」</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第1话</span><br/><span class=\"scenario-cmd-title\">「搜集情报（１）阿拜多斯砂漠」</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제1화;정보수집 1 – 아비도스 사막",
+    "BGMId": 96,
+    "Sound": "",
+    "BGName": 249582911,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今の私たちに必要なのは、とにかくデカグラマトンのデータを収集することです。",
+      "j_ko": "지금 우리에게 가장 필요한 것은 데카그라마톤의 데이터를 수집하는 것입니다.",
+      "g_ja": "今の私たちに必要なのは、とにかくデカグラマトンのデータを収集することです。",
+      "g_ko": "지금 우리에게 가장 필요한 것은 데카그라마톤의 데이터를 수집하는 것입니다.",
+      "g_en": "First and foremost, we need to begin collecting as much data on Decagrammaton as possible.",
+      "g_th": "สิ่งที่จำเป็นสำหรับเราที่สุดตอนนี้ก็คือการรวบรวมข้อมูลของเดคาแกรมมาทอนค่ะ",
+      "g_tw": "現在我們需要的是，盡量蒐集十字神名的資訊。",
+      "g_tw_cn": "现在我们需要的是，尽量搜集十字神名的信息。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;01;지금 우리에게 가장 필요한 것은 데카그라마톤의 데이터를 수집하는 것입니다.\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですのでまずは、現在知られているデカグラマトンの出現地点のひとつである「アビドス砂漠」から始めましょう。",
+      "j_ko": "우리의 첫 번째 목표는 현재 알려져 있는 데카그라마톤의 출현지점 중 하나인, 아비도스의 사막입니다.",
+      "g_ja": "ですのでまずは、現在知られているデカグラマトンの出現地点のひとつである「アビドス砂漠」から始めましょう。",
+      "g_ko": "우리의 첫 번째 목표는 현재 알려져 있는 데카그라마톤의 출현지점 중 하나인, 아비도스의 사막입니다.",
+      "g_en": "Our first target is the Abydos Desert, one of the known locations in which Decagrammaton's influence has appeared.",
+      "g_th": "เป้าหมายแรกของพวกเราก็คือหนึ่งในแหล่งกำเนิดของเดคาแกรมมาทอนที่ยืนยันได้ในปัจจุบัน นั่นก็คือทะเลทรายอะบิดอสค่ะ",
+      "g_tw": "所以首先，從目前已知的其中一個十字神名出現地點，「阿拜多斯砂漠」開始吧。",
+      "g_tw_cn": "所以首先，从目前已知的其中一个十字神名出现地点，「阿拜多斯砂漠」开始吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;08;우리의 첫 번째 목표는 현재 알려져 있는 데카그라마톤의 출현지점 중 하나인, 아비도스의 사막입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「ビナー」を見つけるのは難しいかもしれませんが、この辺りはデカグラマトンの部下のような存在が幾つも徘徊しています。",
+      "j_ko": "여기서 <비나>를 찾아내긴 힘들겠지만, 이 주변은 데카그라마톤의 부하들이 배회하고 있기에,",
+      "g_ja": "「ビナー」を見つけるのは難しいかもしれませんが、この辺りはデカグラマトンの部下のような存在が幾つも徘徊しています。",
+      "g_ko": "여기서 <비나>를 찾아내긴 힘들겠지만, 이 주변은 데카그라마톤의 부하들이 배회하고 있기에,",
+      "g_en": "Locating its prophet, Binah, may prove difficult, but it should be easy enough to find Decagrammaton's lesser followers.",
+      "g_th": "การค้นหาบีนาห์ที่นี่ก็ยากลำบากพอสมควร แต่ว่าใกล้บริเวณนั้นมีลูกสมุนของเดคาแกรมมาทอน ลาดตระเวนอยู่ ",
+      "g_tw": "雖然要找到「薇娜」可能很困難，那附近也有數個似乎是十字神名部下的存在正在徘徊。",
+      "g_tw_cn": "虽然要找到「薇娜」可能很困难，那附近也有数个似乎是十字神名部下的存在正在徘徊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;07;여기서 <비나>를 찾아내긴 힘들겠지만, 이 주변은 데카그라마톤의 부하들이 배회하고 있기에,",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とりあえずそれらを処理しながら、データを集めていくことにしましょう。",
+      "j_ko": "일단 그것들을 처치하며 데이터를 수집하도록 하겠습니다.",
+      "g_ja": "とりあえずそれらを処理しながら、データを集めていくことにしましょう。",
+      "g_ko": "일단 그것들을 처치하며 데이터를 수집하도록 하겠습니다.",
+      "g_en": "Let us gather the data we need by defeating them.",
+      "g_th": "ก่อนอื่นก็กำจัดเจ้าพวกนั้นและรวบรวมข้อมูลมาก่อนค่ะ",
+      "g_tw": "總之一邊處理他們，一般蒐集資料吧。",
+      "g_tw_cn": "总之一边处理他们，一般搜集数据吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;01;일단 그것들을 처치하며 데이터를 수집하도록 하겠습니다.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

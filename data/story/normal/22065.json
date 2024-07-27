@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">不思議な機械（２）</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">이상한 기계 2</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">不思議な機械（２）</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">이상한 기계 2</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\"> A Strange Machine 2</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">อุปกรณ์ประหลาด 2</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">不可思議的機器（２）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">不可思议的机器（２）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;이상한 기계 2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3283422720,
+    "ShowTextColor": "black"
+  }
+]

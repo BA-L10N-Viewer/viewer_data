@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今回は惜しくも失敗してしまいましたが、私たちは諦めません。",
+      "j_ko": "이번엔 비록 아쉽게 실패해버렸지만, 저희는 포기하지 않을 거랍니다.",
+      "g_ja": "今回は惜しくも失敗してしまいましたが、私たちは諦めません。",
+      "g_ko": "이번엔 비록 아쉽게 실패해버렸지만, 저희는 포기하지 않을 거랍니다.",
+      "g_en": "It's too bad we failed this time around...but we'll never give up!",
+      "g_th": "ถึงครั้งนี้จะล้มเหลวไปอย่างน่าเสียดาย แต่พวกเราก็จะไม่ยอมแพ้หรอกค่ะ",
+      "g_tw": "雖然這次的失敗很可惜，但我們不會放棄。",
+      "g_tw_cn": "虽然这次的失败很可惜，但我们不会放弃。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1596498697,
+    "DataType": "speaker",
+    "Script": "3;하루나;06;이번엔 비록 아쉽게 실패해버렸지만, 저희는 포기하지 않을 거랍니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつかきっと……フウカさんとジュリさんが作った給食部のパーティー料理、必ずやこの口で味わってみせます……！",
+      "j_ko": "기회가 된다면 언젠가 반드시…… 후우카 씨가 만들고 주리 씨가 도운…… 급양부의 파티 음식을 맛보고야 말겠어요!",
+      "g_ja": "いつかきっと……フウカさんとジュリさんが作った給食部のパーティー料理、必ずやこの口で味わってみせます……！",
+      "g_ko": "기회가 된다면 언젠가 반드시…… 후우카 씨가 만들고 주리 씨가 도운…… 급양부의 파티 음식을 맛보고야 말겠어요!",
+      "g_en": "One day we'll seize our chance... We'll dine on the School Lunch Club's special party food, even if we have to make Fuuka and Juri cook it all again from scratch!",
+      "g_th": "สักวันหนึ่ง... พวกฉันจะต้องได้ชิมอาหารงานปาร์ตี้ของชมรมโภชนาการที่คุณฟูกะทำและมีคุณจูริเป็น<br/>ลูกมือให้ได้ค่ะ!",
+      "g_tw": "總有一天……我一定會品嘗到風華和茱莉準備的……供給部派對餐點！",
+      "g_tw_cn": "总有一天……我一定会品尝到风华和茱莉准备的……供给部派对餐点！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1596498697,
+    "DataType": "speaker",
+    "Script": "3;하루나;05;기회가 된다면 언젠가 반드시…… 후우카 씨가 만들고 주리 씨가 도운…… 급양부의 파티 음식을 맛보고야 말겠어요!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

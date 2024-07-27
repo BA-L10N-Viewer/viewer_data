@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見て、ヒナ先輩！イブキの絆創膏！ワンちゃんだよ～",
+      "j_ko": "이것 봐봐! 히나 선배! 이부키의 반창고! 강아지 모양이야~",
+      "g_ja": "見て、ヒナ先輩！イブキの絆創膏！ワンちゃんだよ～",
+      "g_ko": "이것 봐봐! 히나 선배! 이부키의 반창고! 강아지 모양이야~",
+      "g_en": "Look, Hina! My bandage is shaped like a dog! Woof!",
+      "g_th": "ดูนี่สิ! รุ่นพี่ฮินะ! พลาสเตอร์ของอิบูกิเป็นลายน้องหมาด้วยละ~",
+      "g_tw": "你看你看！陽奈前輩！伊吹的藥膏是狗狗的造型耶～",
+      "g_tw_cn": "你看你看！阳奈前辈！伊吹的药膏是狗狗的造型耶～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2331895039,
+    "DataType": "speaker",
+    "Script": "3;이부키;09;이것 봐봐! 히나 선배! 이부키의 반창고! 강아지 모양이야~\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イブキ、ワンちゃんも好きだけど、散歩するパンケーキの方が好きかも！",
+      "j_ko": "이부키, 강아지도 좋지만. 저번에 봤던 산책하는 팬케이크 모양도 갖고 싶어~",
+      "g_ja": "イブキ、ワンちゃんも好きだけど、散歩するパンケーキの方が好きかも！",
+      "g_ko": "이부키, 강아지도 좋지만. 저번에 봤던 산책하는 팬케이크 모양도 갖고 싶어~",
+      "g_en": "I like dogs a lot. But I still wish I could take that big pancake we saw for a walk...",
+      "g_th": "อิบูกิก็ชอบน้องหมานะ แต่อยากได้ลายแพนเค้กที่เดินเล่นที่เห็นคราวก่อนด้วย~",
+      "g_tw": "伊吹雖然也喜歡狗狗，可是更想要上次看到的那個散步鬆餅～",
+      "g_tw_cn": "伊吹虽然也喜欢狗狗，可是更想要上次看到的那个散步松饼～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2331895039,
+    "DataType": "speaker",
+    "Script": "3;이부키;15;이부키, 강아지도 좋지만. 저번에 봤던 산책하는 팬케이크 모양도 갖고 싶어~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（パンケーキが、散歩を……）",
+      "j_ko": "(산책하는…… 팬케이크……)",
+      "g_ja": "（パンケーキが、散歩を……）",
+      "g_ko": "(산책하는…… 팬케이크……)",
+      "g_en": "(Walking...a pancake...)",
+      "g_th": "(แพนเค้ก... ที่เดินเล่น...)",
+      "g_tw": "（散步……鬆餅……）",
+      "g_tw_cn": "（散步……松饼……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;(산책하는…… 팬케이크……)\\n#3;em;[땀]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

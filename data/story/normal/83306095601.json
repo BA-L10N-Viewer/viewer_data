@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、今回もお疲れ様でした！委員長！",
+      "j_ko": "이번에도 고생하셨습니다! 부장님!",
+      "g_ja": "では、今回もお疲れ様でした！委員長！",
+      "g_ko": "이번에도 고생하셨습니다! 부장님!",
+      "g_en": "Thank you so much for helping me, Head Prefect!",
+      "g_th": "ขอบคุณที่มาช่วยในครั้งนี้นะคะ! ท่านประธาน!",
+      "g_tw": "這次也辛苦您了！委員長！",
+      "g_tw_cn": "这次也辛苦您了！委员长！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;03;이번에도 고생하셨습니다! 부장님!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_02",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このポスターは私の宝物にします！みんな羨ましがるに違いありません！",
+      "j_ko": "오늘 회수한 포스터는 제 보물로 삼을 생각입니다! 다들 부러워할 게 분명해요!",
+      "g_ja": "このポスターは私の宝物にします！みんな羨ましがるに違いありません！",
+      "g_ko": "오늘 회수한 포스터는 제 보물로 삼을 생각입니다! 다들 부러워할 게 분명해요!",
+      "g_en": "I'll keep this poster as a treasure of the time we worked together! Everyone back at headquarters will be green with envy!",
+      "g_th": "โปสเตอร์ที่เก็บมาได้ในวันนี้ ฉันคิดว่าจะเก็บไว้เป็นสมบัติส่วนตัวเลยค่ะ! ทุกคนจะต้องอิจฉากันแน่ๆ เลย!",
+      "g_tw": "我想把今天回收的海報當寶物收藏！大家一定會很羨慕！",
+      "g_tw_cn": "我想把今天回收的海报当宝物收藏！大家一定会很羡慕！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;07;오늘 회수한 포스터는 제 보물로 삼을 생각입니다! 다들 부러워할 게 분명해요!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

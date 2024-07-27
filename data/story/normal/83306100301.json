@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（キララとエリカを見つけたから、次は……）",
+      "j_ko": "(키라라와 에리카를 찾았으니 다음은……)",
+      "g_ja": "（キララとエリカを見つけたから、次は……）",
+      "g_ko": "(키라라와 에리카를 찾았으니 다음은……)",
+      "g_en": "(I found Kirara and Erika, which only leaves...)",
+      "g_th": "(เจอคิราระกับเอริกะแล้ว งั้นต่อไปก็...)",
+      "g_tw": "（已經找到綺羅羅和繪里香了，接下來……）",
+      "g_tw_cn": "（已经找到绮罗罗和绘里香了，接下来……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3528693056,
+    "DataType": "speaker",
+    "Script": "3;히나 드레스;10;(키라라와 에리카를 찾았으니 다음은……)\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,706 @@
+[
+  {
+    "BondScenarioId": 2001802,
+    "Data": [
+      {
+        "GroupId": 200180010,
+        "Id": 200180010,
+        "CharacterId": 20018,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180020,
+        "Message": {
+          "j_ko": "오랜만이네, 선생님.",
+          "j_ja": "先生久しぶり",
+          "g_en": "Long time no see, Sensei.",
+          "g_tw": "老師，好久不見",
+          "g_tw_cn": "老师，好久不见",
+          "g_ja": "先生久しぶり",
+          "g_ko": "오랜만이네, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180020,
+        "Id": 200180020,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180030,
+        "Message": {
+          "j_ko": "다른 소대원들에게 듣자 하니, 나를 찾았다고 하던데……",
+          "j_ja": "私を探してたって聞いたんだけど……",
+          "g_en": "Some squad members told me you've been looking for me...",
+          "g_tw": "聽說你在找我……",
+          "g_tw_cn": "听说你在找我……",
+          "g_ja": "私を探してたって聞いたんだけど……",
+          "g_ko": "다른 소대원들에게 듣자 하니, 나를 찾았다고 하던데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180020,
+        "Id": 200180030,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180030,
+        "Message": {
+          "j_ko": "무슨 일이라도 생긴 거야?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's going on?",
+          "g_tw": "怎麼了嗎？",
+          "g_tw_cn": "怎么了吗？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일이라도 생긴 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180030,
+        "Id": 200180040,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180040,
+        "Message": {
+          "j_ko": "안녕, 모에.",
+          "j_ja": "こんにちは、モエ",
+          "g_en": "Hi, Moe.",
+          "g_tw": "你好，萌",
+          "g_tw_cn": "你好，萌",
+          "g_ja": "こんにちは、モエ",
+          "g_ko": "안녕, 모에."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180030,
+        "Id": 200180050,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180040,
+        "Message": {
+          "j_ko": "미안한데 조금 도와줬으면 하는데, 괜찮아?",
+          "j_ja": "ごめん、ちょっと手伝ってほしいことがあるんだけど今大丈夫かな？",
+          "g_en": "My bad, but can I get some help?",
+          "g_tw": "抱歉，我想請你幫個忙，現在有空嗎？",
+          "g_tw_cn": "抱歉，我想请你帮个忙，现在有空吗？",
+          "g_ja": "ごめん、ちょっと手伝ってほしいことがあるんだけど今大丈夫かな？",
+          "g_ko": "미안한데 조금 도와줬으면 하는데, 괜찮아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180040,
+        "Id": 200180060,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180050,
+        "Message": {
+          "j_ko": "선생님을 돕는 거라면 어렵지 않지만……",
+          "j_ja": "先生の手伝い？別にいいけど……",
+          "g_en": "Of course I can help you, but...",
+          "g_tw": "幫老師的忙？是沒問題啦……",
+          "g_tw_cn": "帮老师的忙？是没问题啦……",
+          "g_ja": "先生の手伝い？別にいいけど……",
+          "g_ko": "선생님을 돕는 거라면 어렵지 않지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180040,
+        "Id": 200180070,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180050,
+        "Message": {
+          "j_ko": "그나저나 별일이네. 선생님이 내게 도와 달라는 말을 하다니.",
+          "j_ja": "にしても珍しいね。先生が手伝ってほしいだなんて",
+          "g_en": "I'd never expect you to need my help.",
+          "g_tw": "但還真是稀奇呢。老師竟然會找我幫忙",
+          "g_tw_cn": "但还真是稀奇呢。老师竟然会找我帮忙",
+          "g_ja": "にしても珍しいね。先生が手伝ってほしいだなんて",
+          "g_ko": "그나저나 별일이네. 선생님이 내게 도와 달라는 말을 하다니."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180050,
+        "Id": 200180080,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180060,
+        "Message": {
+          "j_ko": "아, 특별한 의미는 없어. 뭔가 재미있는 사건의 예감이 들어서 말이지, 후후.",
+          "j_ja": "あ、別に深い意味はないよ。なんか面白い事件の予感するだけ……くひひ",
+          "g_en": "Oh, it's not that serious. I just have a feeling something interesting might happen.",
+          "g_tw": "啊，沒有什麼特別的意思。只是有預感會發生有趣的事……咯嘻嘻",
+          "g_tw_cn": "啊，没有什么特别的意思。只是有预感会发生有趣的事……咯嘻嘻",
+          "g_ja": "あ、別に深い意味はないよ。なんか面白い事件の予感するだけ……くひひ",
+          "g_ko": "아, 특별한 의미는 없어. 뭔가 재미있는 사건의 예감이 들어서 말이지, 후후."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180050,
+        "Id": 200180090,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200182,
+        "NextGroupId": 200180060,
+        "Message": {
+          "j_ko": "그럼 준비하고 있을게.",
+          "j_ja": "じゃあ、準備してるね",
+          "g_en": "I'll be prepared, then.",
+          "g_tw": "那麼，我準備一下",
+          "g_tw_cn": "那么，我准备一下",
+          "g_ja": "じゃあ、準備してるね",
+          "g_ko": "그럼 준비하고 있을게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001803,
+    "Data": [
+      {
+        "GroupId": 200180060,
+        "Id": 200180100,
+        "CharacterId": 20018,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180070,
+        "Message": {
+          "j_ko": "선생님. 다른 학생에게 들었는데……",
+          "j_ja": "先生、ちょっと小耳に挟んだんだけど……",
+          "g_en": "Sensei, I heard from another student...",
+          "g_tw": "老師，我耳聞了小道消息……",
+          "g_tw_cn": "老师，我耳闻了小道消息……",
+          "g_ja": "先生、ちょっと小耳に挟んだんだけど……",
+          "g_ko": "선생님. 다른 학생에게 들었는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180070,
+        "Id": 200180110,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180080,
+        "Message": {
+          "j_ko": "샬레에 있는 작업용 PC의 데이터가 다 날아갔다는 게 사실이야?",
+          "j_ja": "シャーレの作業用パソコンのデータが全部消えたって本当？",
+          "g_en": "Is it true that the work PC at Schale lost all its data?",
+          "g_tw": "夏萊的工作用電腦的數據全都消失了，是真的嗎？",
+          "g_tw_cn": "夏莱的工作用电脑的数据全都消失了，是真的吗？",
+          "g_ja": "シャーレの作業用パソコンのデータが全部消えたって本当？",
+          "g_ko": "샬레에 있는 작업용 PC의 데이터가 다 날아갔다는 게 사실이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180080,
+        "Id": 200180120,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180090,
+        "Message": {
+          "j_ko": "쿠히히…… 맞아……",
+          "j_ja": "くひひ……そうだよ……",
+          "g_en": "Heeheehee... Right...",
+          "g_tw": "咯嘻嘻……沒錯唷……",
+          "g_tw_cn": "咯嘻嘻……没错唷……",
+          "g_ja": "くひひ……そうだよ……",
+          "g_ko": "쿠히히…… 맞아……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180080,
+        "Id": 200180130,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180090,
+        "Message": {
+          "j_ko": "이제 다 틀렸어…… 쿠히히……",
+          "j_ja": "そう、これで全部おしまい……くひひ……",
+          "g_en": "It's all over... Heeheehee...",
+          "g_tw": "沒錯，一切都完了……咯嘻嘻……",
+          "g_tw_cn": "没错，一切都完了……咯嘻嘻……",
+          "g_ja": "そう、これで全部おしまい……くひひ……",
+          "g_ko": "이제 다 틀렸어…… 쿠히히……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180090,
+        "Id": 200180140,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180100,
+        "Message": {
+          "j_ko": "우와, 선생님이 나처럼 웃고 있어.",
+          "j_ja": "うわ……先生が私みたいに笑ってる",
+          "g_en": "Wow, Sensei is laughing like me.",
+          "g_tw": "嗚哇……老師笑得跟我一樣",
+          "g_tw_cn": "呜哇……老师笑得跟我一样",
+          "g_ja": "うわ……先生が私みたいに笑ってる",
+          "g_ko": "우와, 선생님이 나처럼 웃고 있어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180090,
+        "Id": 200180150,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180100,
+        "Message": {
+          "j_ko": "아무래도 문제가 심상치 않은 모양인데.",
+          "j_ja": "これはかなりヤバそうだね",
+          "g_en": "This must be a serious problem.",
+          "g_tw": "看起來相當糟糕啊",
+          "g_tw_cn": "看起来相当糟糕啊",
+          "g_ja": "これはかなりヤバそうだね",
+          "g_ko": "아무래도 문제가 심상치 않은 모양인데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180100,
+        "Id": 200180160,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180110,
+        "Message": {
+          "j_ko": "와보면 알게 될 거야……",
+          "j_ja": " まぁ、来たら分かるよ……",
+          "g_en": "You'll know when you get here...",
+          "g_tw": "嘛，來了就知道了……",
+          "g_tw_cn": "嘛，来了就知道了……",
+          "g_ja": " まぁ、来たら分かるよ……",
+          "g_ko": "와보면 알게 될 거야……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180110,
+        "Id": 200180170,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200183,
+        "NextGroupId": 200180120,
+        "Message": {
+          "j_ko": "알겠어. 오후에 시간 날 때 샬레에 들를게.",
+          "j_ja": "わかった、それじゃあ昼過ぎくらいにシャーレ行くね",
+          "g_en": "Okay. I'll be at Schale in the afternoon.",
+          "g_tw": "知道了，那我中午過後去夏萊一趟",
+          "g_tw_cn": "知道了，那我中午过后去夏莱一趟",
+          "g_ja": "わかった、それじゃあ昼過ぎくらいにシャーレ行くね",
+          "g_ko": "알겠어. 오후에 시간 날 때 샬레에 들를게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001805,
+    "Data": [
+      {
+        "GroupId": 200180120,
+        "Id": 200180180,
+        "CharacterId": 20018,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180130,
+        "Message": {
+          "j_ko": "선생님, 그거 알아?",
+          "j_ja": "先生、知ってる？",
+          "g_en": "You know what, Sensei?",
+          "g_tw": "老師，你知道嗎？",
+          "g_tw_cn": "老师，你知道吗？",
+          "g_ja": "先生、知ってる？",
+          "g_ko": "선생님, 그거 알아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180130,
+        "Id": 200180190,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180140,
+        "Message": {
+          "j_ko": "스위치나 버튼 위에 설치하는 안전 덮개는 흔히 <몰리 가드>라고 부르거든.",
+          "j_ja": "スイッチやボタンの上に設置する安全カバーあるじゃん。\nあれ、「モリーガード」って言うんだよ",
+          "g_en": "A safety cover installed over a switch or button is often called a \"Molly-guard.\"",
+          "g_tw": "不是有安置在開關和按鈕上的安全蓋嗎\n那個，叫做「Molly-Guard」唷",
+          "g_tw_cn": "不是有安置在开关和按钮上的安全盖吗\n那个，叫做「Molly-Guard」唷",
+          "g_ja": "スイッチやボタンの上に設置する安全カバーあるじゃん。\nあれ、「モリーガード」って言うんだよ",
+          "g_ko": "스위치나 버튼 위에 설치하는 안전 덮개는 흔히 <몰리 가드>라고 부르거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180140,
+        "Id": 200180200,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180150,
+        "Message": {
+          "j_ko": "왜 안전 덮개에 그런 이름이 붙었느냐면",
+          "j_ja": "なんでそんな名前がついたかっていうと",
+          "g_en": "There's a story behind its name.",
+          "g_tw": "為什麼會有那樣的名字呢",
+          "g_tw_cn": "为什么会有那样的名字呢",
+          "g_ja": "なんでそんな名前がついたかっていうと",
+          "g_ko": "왜 안전 덮개에 그런 이름이 붙었느냐면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180140,
+        "Id": 200180210,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180150,
+        "Message": {
+          "j_ko": "몰리라는 아이가 비상 스위치를 자꾸 누르려 해서 발명된 덮개이기 때문이래.",
+          "j_ja": "モリーという子が、何度も非常ボタンを押そうとしたから発明されたカバーだからなんだって",
+          "g_en": "It was invented because of a kid named Molly kept trying to press an emergency switch.",
+          "g_tw": "因為有一名叫做Molly的孩子，多次想按緊急按鈕，所以才發明出這個蓋子",
+          "g_tw_cn": "因为有一名叫做Molly的孩子，多次想按紧急按钮，所以才发明出这个盖子",
+          "g_ja": "モリーという子が、何度も非常ボタンを押そうとしたから発明されたカバーだからなんだって",
+          "g_ko": "몰리라는 아이가 비상 스위치를 자꾸 누르려 해서 발명된 덮개이기 때문이래."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180150,
+        "Id": 200180220,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180160,
+        "Message": {
+          "j_ko": "그렇구나.",
+          "j_ja": "そうなんだ",
+          "g_en": "I see.",
+          "g_tw": "原來是這樣",
+          "g_tw_cn": "原来是这样",
+          "g_ja": "そうなんだ",
+          "g_ko": "그렇구나."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180150,
+        "Id": 200180230,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180160,
+        "Message": {
+          "j_ko": "흥미로운 사실이네.",
+          "j_ja": "興味深い内容だね",
+          "g_en": "That's interesting.",
+          "g_tw": "很有趣的故事呢",
+          "g_tw_cn": "很有趣的故事呢",
+          "g_ja": "興味深い内容だね",
+          "g_ko": "흥미로운 사실이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180160,
+        "Id": 200180240,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180170,
+        "Message": {
+          "j_ko": "그 사실을 생각할 때마다 뭔가 아쉬워.",
+          "j_ja": "その話を聞くたびに、ちょっと残念になるんだよね",
+          "g_en": "It's kind of a shame when you think about it.",
+          "g_tw": "每次想到這故事，都覺得有點可惜",
+          "g_tw_cn": "每次想到这故事，都觉得有点可惜",
+          "g_ja": "その話を聞くたびに、ちょっと残念になるんだよね",
+          "g_ko": "그 사실을 생각할 때마다 뭔가 아쉬워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180160,
+        "Id": 200180250,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180170,
+        "Message": {
+          "j_ko": "내가 몰리보다 먼저 태어났더라면",
+          "j_ja": "私がモリーより先に生まれていたら",
+          "g_en": "If I had been born earlier than Molly,",
+          "g_tw": "要是我比Molly早出生的話",
+          "g_tw_cn": "要是我比Molly早出生的话",
+          "g_ja": "私がモリーより先に生まれていたら",
+          "g_ko": "내가 몰리보다 먼저 태어났더라면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180170,
+        "Id": 200180260,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180180,
+        "Message": {
+          "j_ko": "지금쯤 전 세계의 사람들은 안전 덮개를 <모에 가드>라고 불렀을 텐데……",
+          "j_ja": "今頃、安全カバーの名前は「モエガード」になっていたのかなって……",
+          "g_en": "the safety cover would have been called a \"Moe-guard\" by the entire world.",
+          "g_tw": "現在，安全蓋的名字就會是「Moe-Guard」了吧……",
+          "g_tw_cn": "现在，安全盖的名字就会是「Moe-Guard」了吧……",
+          "g_ja": "今頃、安全カバーの名前は「モエガード」になっていたのかなって……",
+          "g_ko": "지금쯤 전 세계의 사람들은 안전 덮개를 <모에 가드>라고 불렀을 텐데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180180,
+        "Id": 200180270,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200185,
+        "NextGroupId": 200180190,
+        "Message": {
+          "j_ko": "명예로운 호칭은 아닌 것 같은데……",
+          "j_ja": "別に名誉な名前ではないと思うんだけど……",
+          "g_en": "I don't know if that'd be an honorable title...",
+          "g_tw": "我覺得這不是什麼值得引以為傲的名字……",
+          "g_tw_cn": "我觉得这不是什么值得引以为傲的名字……",
+          "g_ja": "別に名誉な名前ではないと思うんだけど……",
+          "g_ko": "명예로운 호칭은 아닌 것 같은데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001806,
+    "Data": [
+      {
+        "GroupId": 200180190,
+        "Id": 200180280,
+        "CharacterId": 20018,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180200,
+        "Message": {
+          "j_ko": "으음. 미안하지만 선생님……",
+          "j_ja": "んー、ごめん、先生……",
+          "g_en": "Hmm, sorry, Sensei...",
+          "g_tw": "嗯──，抱歉，老師……",
+          "g_tw_cn": "嗯──，抱歉，老师……",
+          "g_ja": "んー、ごめん、先生……",
+          "g_ko": "으음. 미안하지만 선생님……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180200,
+        "Id": 200180290,
+        "CharacterId": 20018,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180210,
+        "Message": {
+          "j_ko": "잠깐 코우사기 공원에 와주지 않을래?",
+          "j_ja": "ちょっと子ウサギ公園に来てくれない？",
+          "g_en": "Can you come to Kousagi Park?",
+          "g_tw": "能來兔寶寶公園一下嗎？",
+          "g_tw_cn": "能来兔宝宝公园一下吗？",
+          "g_ja": "ちょっと子ウサギ公園に来てくれない？",
+          "g_ko": "잠깐 코우사기 공원에 와주지 않을래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180210,
+        "Id": 200180300,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180220,
+        "Message": {
+          "j_ko": "상관없지만……",
+          "j_ja": "いいけど……",
+          "g_en": "I mean, it's fine, but...",
+          "g_tw": "是可以啦……",
+          "g_tw_cn": "是可以啦……",
+          "g_ja": "いいけど……",
+          "g_ko": "상관없지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180210,
+        "Id": 200180310,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180220,
+        "Message": {
+          "j_ko": "갑자기 무슨 일이야?",
+          "j_ja": "急にどうしたの？",
+          "g_en": "What are you talking about?",
+          "g_tw": "這麼突然，怎麼了？",
+          "g_tw_cn": "这么突然，怎么了？",
+          "g_ja": "急にどうしたの？",
+          "g_ko": "갑자기 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180220,
+        "Id": 200180320,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180230,
+        "Message": {
+          "j_ko": "다름이 아니라 전에 추가로 주문한 물자가 공원에 도착했거든.",
+          "j_ja": "この間、追加で注文した物資が公園に届いたの",
+          "g_en": "The additional supplies I ordered before arrived at the park.",
+          "g_tw": "前幾天，追加訂購的物資送來公園了",
+          "g_tw_cn": "前几天，追加订购的物资送来公园了",
+          "g_ja": "この間、追加で注文した物資が公園に届いたの",
+          "g_ko": "다름이 아니라 전에 추가로 주문한 물자가 공원에 도착했거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180220,
+        "Id": 200180330,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180230,
+        "Message": {
+          "j_ko": "그런데 마침 다른 소대원들이 작전 중이라 혼자 정리를 해야 하는데……",
+          "j_ja": "でも、みんなちょうど作戦でいないから、一人で整理しなきゃいけなくて……",
+          "g_en": "Other squad members are in the middle of an operation, so I have to organize them myself...",
+          "g_tw": "但是，大家正好都在外頭作戰，所以我必須一個人整理……",
+          "g_tw_cn": "但是，大家正好都在外头作战，所以我必须一个人整理……",
+          "g_ja": "でも、みんなちょうど作戦でいないから、一人で整理しなきゃいけなくて……",
+          "g_ko": "그런데 마침 다른 소대원들이 작전 중이라 혼자 정리를 해야 하는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180230,
+        "Id": 200180340,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180240,
+        "Message": {
+          "j_ko": "무거운 짐이 잔뜩 있어서 옮기기 어려운 건 둘째 치더라도",
+          "j_ja": "重い荷物をたくさん動かすのはちょっと……というのはさておき",
+          "g_en": "There's so much heavy stuff, it's hard to move.",
+          "g_tw": "搬不了太多重物……這暫且不說",
+          "g_tw_cn": "搬不了太多重物……这暂且不说",
+          "g_ja": "重い荷物をたくさん動かすのはちょっと……というのはさておき",
+          "g_ko": "무거운 짐이 잔뜩 있어서 옮기기 어려운 건 둘째 치더라도"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180230,
+        "Id": 200180350,
+        "CharacterId": 20018,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200180240,
+        "Message": {
+          "j_ko": "터지기 쉬운 위험한 폭탄이 잔뜩 있어서",
+          "j_ja": "引火しやすい危険な爆弾がいっぱいあるから……",
+          "g_en": "But more importantly, there are a lot of explosives...",
+          "g_tw": "還有不少是容易點燃的危險炸彈……",
+          "g_tw_cn": "还有不少是容易点燃的危险炸弹……",
+          "g_ja": "引火しやすい危険な爆弾がいっぱいあるから……",
+          "g_ko": "터지기 쉬운 위험한 폭탄이 잔뜩 있어서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200180240,
+        "Id": 200180360,
+        "CharacterId": 20018,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200186,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "지금 바로 갈게",
+          "j_ja": "すぐ行くね",
+          "g_en": "I'll be right there.",
+          "g_tw": "馬上過去唷",
+          "g_tw_cn": "马上过去唷",
+          "g_ja": "すぐ行くね",
+          "g_ko": "지금 바로 갈게"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

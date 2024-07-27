@@ -1,0 +1,882 @@
+[
+  {
+    "BondScenarioId": 1002502,
+    "Data": [
+      {
+        "GroupId": 100250010,
+        "Id": 100250010,
+        "CharacterId": 10025,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250020,
+        "Message": {
+          "j_ko": "선생님, 전에 먹은 약의 부작용이 다시 생겨버린 것 같아요…….",
+          "j_ja": "先生、実は、また副作用が出てしまったみたいで……",
+          "g_en": "Sensei, I think the side effect of that medicine I took is showing again...",
+          "g_tw": "老師，是這樣的，好像又出現副作用了……",
+          "g_tw_cn": "老师，是这样的，好像又出现副作用了……",
+          "g_ja": "先生、実は、また副作用が出てしまったみたいで……",
+          "g_ko": "선생님, 전에 먹은 약의 부작용이 다시 생겨버린 것 같아요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250020,
+        "Id": 100250020,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250030,
+        "Message": {
+          "j_ko": "또다시 몸이 어려지니 시선도 낮고,",
+          "j_ja": "この姿はやはり目線も低いですし、",
+          "g_en": "The age regression lowered my line of sight.",
+          "g_tw": "這副模樣不只視線低",
+          "g_tw_cn": "这副模样不只视线低",
+          "g_ja": "この姿はやはり目線も低いですし、",
+          "g_ko": "또다시 몸이 어려지니 시선도 낮고,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250020,
+        "Id": 100250030,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250030,
+        "Message": {
+          "j_ko": "팔다리도 가벼운 게 어쩐지 어색한 느낌이네요.",
+          "j_ja": "手足も軽いですし、何だか色々と変な感じですね",
+          "g_en": "My entire body feels light and awkward.",
+          "g_tw": "手腳也好輕，總有種奇怪的感覺",
+          "g_tw_cn": "手脚也好轻，总有种奇怪的感觉",
+          "g_ja": "手足も軽いですし、何だか色々と変な感じですね",
+          "g_ko": "팔다리도 가벼운 게 어쩐지 어색한 느낌이네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250030,
+        "Id": 100250040,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250040,
+        "Message": {
+          "j_ko": "괜찮아? 일단 오늘은 실내에서 쉬는 게 좋겠어.",
+          "j_ja": "解毒剤が効くまで、あんまり外に出ない方が良いかもね",
+          "g_en": "Are you okay? I think you should take a rest inside.",
+          "g_tw": "在解毒劑生效之前，最好不要外出吧",
+          "g_tw_cn": "在解毒剂生效之前，最好不要外出吧",
+          "g_ja": "解毒剤が効くまで、あんまり外に出ない方が良いかもね",
+          "g_ko": "괜찮아? 일단 오늘은 실내에서 쉬는 게 좋겠어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250040,
+        "Id": 100250050,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250050,
+        "Message": {
+          "j_ko": "……아니요. 이참에 평소에 가끔 가던 디저트 가게에 다녀와야겠어요.",
+          "j_ja": "……いえ、この機を逃すわけにはいきません。先生、スイーツを食べに行きましょう！",
+          "g_en": "I'm fine. I'm going to visit my favorite dessert spot.",
+          "g_tw": "……不行，不能錯過這個機會。老師，我們去吃甜點吧！",
+          "g_tw_cn": "……不行，不能错过这个机会。老师，我们去吃甜点吧！",
+          "g_ja": "……いえ、この機を逃すわけにはいきません。先生、スイーツを食べに行きましょう！",
+          "g_ko": "……아니요. 이참에 평소에 가끔 가던 디저트 가게에 다녀와야겠어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250040,
+        "Id": 100250060,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250050,
+        "Message": {
+          "j_ko": "어린아이가 되었을 때, 꼭 먹어보고 싶은 음식이 있었거든요!",
+          "j_ja": "子供になったら、ぜひ食べてみたいものがあったんです！",
+          "g_en": "There was something I wanted to try when I became a kid!",
+          "g_tw": "既然變成小孩，我有個務必想吃吃看的東西！",
+          "g_tw_cn": "既然变成小孩，我有个务必想吃吃看的东西！",
+          "g_ja": "子供になったら、ぜひ食べてみたいものがあったんです！",
+          "g_ko": "어린아이가 되었을 때, 꼭 먹어보고 싶은 음식이 있었거든요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250050,
+        "Id": 100250070,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100252,
+        "NextGroupId": 100250060,
+        "Message": {
+          "j_ko": "어린아이가 되었을 때 먹어보고 싶은 음식……?",
+          "j_ja": "……？",
+          "g_en": "That feels so backwards to read.",
+          "g_tw": "……？",
+          "g_tw_cn": "……？",
+          "g_ja": "……？",
+          "g_ko": "어린아이가 되었을 때 먹어보고 싶은 음식……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250060,
+        "Id": 100250080,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250070,
+        "Message": {
+          "j_ko": "몸이 어려졌다고는 하지만, 설마 입맛까지 어려졌으리라고는 생각지도 못했네요.",
+          "j_ja": "まさか身体が小さくなると同時に、味覚まで変わっていたなんて……",
+          "g_en": "I didn't think I'd have the palate of a child being this small too.",
+          "g_tw": "沒想到身體變小的同時，味覺也變了……",
+          "g_tw_cn": "没想到身体变小的同时，味觉也变了……",
+          "g_ja": "まさか身体が小さくなると同時に、味覚まで変わっていたなんて……",
+          "g_ko": "몸이 어려졌다고는 하지만, 설마 입맛까지 어려졌으리라고는 생각지도 못했네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250060,
+        "Id": 100250090,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250070,
+        "Message": {
+          "j_ko": "이래서는 매화원의 아이들에게 올바른 식사 지도를 하기 어렵겠어요.",
+          "j_ja": "このままの姿では、梅花園の子たちに「好き嫌いはダメ」とは言えませんね",
+          "g_en": "How am I supposed to lecture the Plum Blossom students about their diets like this?",
+          "g_tw": "現在這樣子，實在沒資格要求梅花園的孩子們「不能挑食」呢",
+          "g_tw_cn": "现在这样子，实在没资格要求梅花园的孩子们「不能挑食」呢",
+          "g_ja": "このままの姿では、梅花園の子たちに「好き嫌いはダメ」とは言えませんね",
+          "g_ko": "이래서는 매화원의 아이들에게 올바른 식사 지도를 하기 어렵겠어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250070,
+        "Id": 100250100,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250080,
+        "Message": {
+          "j_ko": "원래의 몸으로 되돌아갈 때까지 어른의 음식을 부지런히 먹어 입맛을 길들여놔야겠네요.",
+          "j_ja": "少しずつ色んなものを食べて、私も苦手なものを克服しないとです",
+          "g_en": "I suppose I should keep eating grownup food until I return to my normal body.",
+          "g_tw": "我也要慢慢嘗試各種食物，克服討厭的東西",
+          "g_tw_cn": "我也要慢慢尝试各种食物，克服讨厌的东西",
+          "g_ja": "少しずつ色んなものを食べて、私も苦手なものを克服しないとです",
+          "g_ko": "원래의 몸으로 되돌아갈 때까지 어른의 음식을 부지런히 먹어 입맛을 길들여놔야겠네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250070,
+        "Id": 100250110,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250080,
+        "Message": {
+          "j_ko": "우선은 럼 레이즌에 들어가는 럼부터…….",
+          "j_ja": "まずは順番に、ラムレーズンのラムから……",
+          "g_en": "I should probably start with the rum that goes into rum raisin...",
+          "g_tw": "按照順序，首先從蘭姆葡萄乾的蘭姆酒開始……",
+          "g_tw_cn": "按照顺序，首先从兰姆葡萄干的兰姆酒开始……",
+          "g_ja": "まずは順番に、ラムレーズンのラムから……",
+          "g_ko": "우선은 럼 레이즌에 들어가는 럼부터……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250080,
+        "Id": 100250120,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250090,
+        "Message": {
+          "j_ko": "그건 안 돼!",
+          "j_ja": "それはダメ！",
+          "g_en": "You can't do that!",
+          "g_tw": "那可不行！",
+          "g_tw_cn": "那可不行！",
+          "g_ja": "それはダメ！",
+          "g_ko": "그건 안 돼!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1002503,
+    "Data": [
+      {
+        "GroupId": 100250090,
+        "Id": 100250130,
+        "CharacterId": 10025,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250100,
+        "Message": {
+          "j_ko": "……선생님, 혹시 지금 바쁘신가요?",
+          "j_ja": "……先生。今、お忙しいですか？",
+          "g_en": "Are you busy, Sensei?",
+          "g_tw": "……老師。你現在忙嗎？",
+          "g_tw_cn": "……老师。你现在忙吗？",
+          "g_ja": "……先生。今、お忙しいですか？",
+          "g_ko": "……선생님, 혹시 지금 바쁘신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250100,
+        "Id": 100250140,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250110,
+        "Message": {
+          "j_ko": "무슨 일이야?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's going on?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250110,
+        "Id": 100250150,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250120,
+        "Message": {
+          "j_ko": "그게, 매화원에서 물건 정리를 하다가 가벼운 사고가 나서…….",
+          "j_ja": "その、梅花園で色々と整理整頓をしていたら、少々事故が起きてしまったと言いますか……",
+          "g_en": "I was organizing some stuff at Plum Blossom Garden and a small incident happened...",
+          "g_tw": "那個，我在梅花園整理各種雜物的時候，算是出了點小意外……",
+          "g_tw_cn": "那个，我在梅花园整理各种杂物的时候，算是出了点小意外……",
+          "g_ja": "その、梅花園で色々と整理整頓をしていたら、少々事故が起きてしまったと言いますか……",
+          "g_ko": "그게, 매화원에서 물건 정리를 하다가 가벼운 사고가 나서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250110,
+        "Id": 100250160,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250120,
+        "Message": {
+          "j_ko": "옴짝달싹할 수 없게 되어버렸어요…….",
+          "j_ja": "ちょっと今、動けない状態に……",
+          "g_en": "And I can't move right now.",
+          "g_tw": "現在有些動彈不得……",
+          "g_tw_cn": "现在有些动弹不得……",
+          "g_ja": "ちょっと今、動けない状態に……",
+          "g_ko": "옴짝달싹할 수 없게 되어버렸어요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250120,
+        "Id": 100250170,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100253,
+        "NextGroupId": 100250130,
+        "Message": {
+          "j_ko": "지금 매화원으로 바로 갈게.",
+          "j_ja": "待ってて、すぐ行くね",
+          "g_en": "I'm on my way to Plum Blossom.",
+          "g_tw": "等等，我馬上過去",
+          "g_tw_cn": "等等，我马上过去",
+          "g_ja": "待ってて、すぐ行くね",
+          "g_ko": "지금 매화원으로 바로 갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1002505,
+    "Data": [
+      {
+        "GroupId": 100250130,
+        "Id": 100250180,
+        "CharacterId": 10025,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250140,
+        "Message": {
+          "j_ko": "선생님, 그 이야기 들으셨나요?",
+          "j_ja": "先生、聞きましたか？",
+          "g_en": "Have you heard, Sensei?",
+          "g_tw": "老師，聽說了嗎？",
+          "g_tw_cn": "老师，听说了吗？",
+          "g_ja": "先生、聞きましたか？",
+          "g_ko": "선생님, 그 이야기 들으셨나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250140,
+        "Id": 100250190,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250150,
+        "Message": {
+          "j_ko": "이번에 키보토스 중앙구에 커다란 실내 놀이터가 새로 개장한대요.",
+          "j_ja": "今度キヴォトスの中央区に「プレイランド」と呼ばれる、大きな室内型の遊び場がオープンするそうです！",
+          "g_en": "They're going to open a huge indoor playground in the middle of Kivotos.",
+          "g_tw": "奇普托斯的中央區有間名為「Playland」的大型室內遊樂場開幕了",
+          "g_tw_cn": "奇普托斯的中央区有间名为「Playland」的大型室内游乐场开幕了",
+          "g_ja": "今度キヴォトスの中央区に「プレイランド」と呼ばれる、大きな室内型の遊び場がオープンするそうです！",
+          "g_ko": "이번에 키보토스 중앙구에 커다란 실내 놀이터가 새로 개장한대요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250150,
+        "Id": 100250200,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250160,
+        "Message": {
+          "j_ko": "매화원의 원생들이 다음 견학은 그곳으로 가자고 졸라대서, 견학 전에 미리 안전 점검을 다녀오려고요.",
+          "j_ja": "梅花園の子たちがみんな行きたいと言っているので、実際に行く前に一度安全性などを確認しに行こうかと思ってまして",
+          "g_en": "The Plum Blossom students wanted the next field trip to be there, so I wanted to do some security scoping first.",
+          "g_tw": "梅花園的孩子們都說想去，所以我想事先確認一下設施的安全性",
+          "g_tw_cn": "梅花园的孩子们都说想去，所以我想事先确认一下设施的安全性",
+          "g_ja": "梅花園の子たちがみんな行きたいと言っているので、実際に行く前に一度安全性などを確認しに行こうかと思ってまして",
+          "g_ko": "매화원의 원생들이 다음 견학은 그곳으로 가자고 졸라대서, 견학 전에 미리 안전 점검을 다녀오려고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250150,
+        "Id": 100250210,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250160,
+        "Message": {
+          "j_ko": "괜찮으시다면 이번 주말에 그 실내 놀이터에 가보지 않으시겠어요?",
+          "j_ja": "もしよろしければ今度の週末、一緒に行きませんか？",
+          "g_en": "Would you mind coming with me to the playground this weekend?",
+          "g_tw": "如果可以的話，這個週末能陪我一起嗎？",
+          "g_tw_cn": "如果可以的话，这个周末能陪我一起吗？",
+          "g_ja": "もしよろしければ今度の週末、一緒に行きませんか？",
+          "g_ko": "괜찮으시다면 이번 주말에 그 실내 놀이터에 가보지 않으시겠어요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250160,
+        "Id": 100250220,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250170,
+        "Message": {
+          "j_ko": "응, 괜찮아. 한가하던 참이었거든.",
+          "j_ja": "うん、私で良ければ喜んで",
+          "g_en": "Sure. My schedule was open anyway.",
+          "g_tw": "可以呀，很高興你邀請我",
+          "g_tw_cn": "可以呀，很高兴你邀请我",
+          "g_ja": "うん、私で良ければ喜んで",
+          "g_ko": "응, 괜찮아. 한가하던 참이었거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250170,
+        "Id": 100250230,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250180,
+        "Message": {
+          "j_ko": "그나저나 어려진 몸으로 가도 괜찮겠어?",
+          "j_ja": "あ、でも、シュンは今の身体で外に出ても大丈夫？",
+          "g_en": "Will you be okay at your size?",
+          "g_tw": "啊，但是，旬現在的身體可以外出嗎？",
+          "g_tw_cn": "啊，但是，旬现在的身体可以外出吗？",
+          "g_ja": "あ、でも、シュンは今の身体で外に出ても大丈夫？",
+          "g_ko": "그나저나 어려진 몸으로 가도 괜찮겠어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250180,
+        "Id": 100250240,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250190,
+        "Message": {
+          "j_ko": "괜찮아요.",
+          "j_ja": "はい、大丈夫です！",
+          "g_en": "I should be fine.",
+          "g_tw": "是的，沒問題！",
+          "g_tw_cn": "是的，没问题！",
+          "g_ja": "はい、大丈夫です！",
+          "g_ko": "괜찮아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250180,
+        "Id": 100250250,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250190,
+        "Message": {
+          "j_ko": "……아니, 오히려 이번만큼은 어려져서 다행이라고 생각해요.",
+          "j_ja": "いえ、むしろ今がピッタリのタイミングなんです",
+          "g_en": "Actually, this might make things easier.",
+          "g_tw": "不，倒不如說現在是最合適的時機",
+          "g_tw_cn": "不，倒不如说现在是最合适的时机",
+          "g_ja": "いえ、むしろ今がピッタリのタイミングなんです",
+          "g_ko": "……아니, 오히려 이번만큼은 어려져서 다행이라고 생각해요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250190,
+        "Id": 100250260,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100255,
+        "NextGroupId": 100250200,
+        "Message": {
+          "j_ko": "어린아이의 시선으로 놀이터를 돌아볼 기회는 흔치 않으니까요!",
+          "j_ja": "子どもたちの目線で確認できる機会なんて、めったにありませんので！",
+          "g_en": "I'll get to visit a playground from the perspective of a child!",
+          "g_tw": "因為很少有機會能用孩子們的角度確認！",
+          "g_tw_cn": "因为很少有机会能用孩子们的角度确认！",
+          "g_ja": "子どもたちの目線で確認できる機会なんて、めったにありませんので！",
+          "g_ko": "어린아이의 시선으로 놀이터를 돌아볼 기회는 흔치 않으니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1002506,
+    "Data": [
+      {
+        "GroupId": 100250200,
+        "Id": 100250270,
+        "CharacterId": 10025,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250210,
+        "Message": {
+          "j_ko": "선생님, 아까 보니 매화원 앞에서 무언가를 열심히 치우고 계시던데…….",
+          "j_ja": "先生。先ほど梅花園の前で、何かを片付けてませんでしたか……？",
+          "g_en": "Sensei, you were cleaning something in front of Plum Blossom before...",
+          "g_tw": "老師。你剛才是不是在梅花園前面收拾什麼東西……？",
+          "g_tw_cn": "老师。你刚才是不是在梅花园前面收拾什么东西……？",
+          "g_ja": "先生。先ほど梅花園の前で、何かを片付けてませんでしたか……？",
+          "g_ko": "선생님, 아까 보니 매화원 앞에서 무언가를 열심히 치우고 계시던데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250210,
+        "Id": 100250280,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250220,
+        "Message": {
+          "j_ko": "뭔가 이상한 물건이라도 있었나요?",
+          "j_ja": "何か変な物でもありました？",
+          "g_en": "Was there something strange?",
+          "g_tw": "有什麼奇怪的東西嗎？",
+          "g_tw_cn": "有什么奇怪的东西吗？",
+          "g_ja": "何か変な物でもありました？",
+          "g_ko": "뭔가 이상한 물건이라도 있었나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250220,
+        "Id": 100250290,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250230,
+        "Message": {
+          "j_ko": "누가 분리수거장 뒤에 낡은 천과 의자로 텐트 같은 걸 만들어놨어.",
+          "j_ja": "何か布と椅子でテントみたいなのが作られてて、危ないなって思って。少しだけ横にね",
+          "g_en": "Someone made a tent-looking thing with an old sheet and chairs.",
+          "g_tw": "有個用布和椅子搭起來，類似帳篷的東西。覺得有些危險，就稍微挪到旁邊了",
+          "g_tw_cn": "有个用布和椅子搭起来，类似帐篷的东西。觉得有些危险，就稍微挪到旁边了",
+          "g_ja": "何か布と椅子でテントみたいなのが作られてて、危ないなって思って。少しだけ横にね",
+          "g_ko": "누가 분리수거장 뒤에 낡은 천과 의자로 텐트 같은 걸 만들어놨어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250230,
+        "Id": 100250300,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250240,
+        "Message": {
+          "j_ko": "하하…… 어린 원생들이 또 비밀기지를 만들었나 보네요.",
+          "j_ja": "ああ、きっと秘密基地ですね",
+          "g_en": "It sounds like some of the younger students made a secret base again.",
+          "g_tw": "啊啊，一定是祕密基地吧",
+          "g_tw_cn": "啊啊，一定是秘密基地吧",
+          "g_ja": "ああ、きっと秘密基地ですね",
+          "g_ko": "하하…… 어린 원생들이 또 비밀기지를 만들었나 보네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250240,
+        "Id": 100250310,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250250,
+        "Message": {
+          "j_ko": "비밀기지?",
+          "j_ja": "秘密基地？",
+          "g_en": "Secret base?",
+          "g_tw": "祕密基地？",
+          "g_tw_cn": "秘密基地？",
+          "g_ja": "秘密基地？",
+          "g_ko": "비밀기지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250250,
+        "Id": 100250320,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250260,
+        "Message": {
+          "j_ko": "네, 어린아이들은 자신만의 공간을 갖고 싶어 하는 법이잖아요?",
+          "j_ja": "はい。子どもたちってそういう、自分たちだけの空間を欲しがるじゃないですか？",
+          "g_en": "Yes. Every child wants a place of their own.",
+          "g_tw": "是的。小孩子不是都會想要有屬於自己的空間嗎？",
+          "g_tw_cn": "是的。小孩子不是都会想要有属于自己的空间吗？",
+          "g_ja": "はい。子どもたちってそういう、自分たちだけの空間を欲しがるじゃないですか？",
+          "g_ko": "네, 어린아이들은 자신만의 공간을 갖고 싶어 하는 법이잖아요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250250,
+        "Id": 100250330,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250260,
+        "Message": {
+          "j_ko": "그래서인지 가끔 교관들의 눈을 피해 작은 구조물을 만들곤 하더라고요.",
+          "j_ja": "たまに私たちの目を盗んで、そういう秘密のスペースを作ったりしがちなんです",
+          "g_en": "They occasionally make small structures just out of plain sight.",
+          "g_tw": "所以偶爾會趁我們不注意，做出那樣的祕密空間",
+          "g_tw_cn": "所以偶尔会趁我们不注意，做出那样的秘密空间",
+          "g_ja": "たまに私たちの目を盗んで、そういう秘密のスペースを作ったりしがちなんです",
+          "g_ko": "그래서인지 가끔 교관들의 눈을 피해 작은 구조물을 만들곤 하더라고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250260,
+        "Id": 100250340,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250270,
+        "Message": {
+          "j_ko": "슌도 어릴 적에는 저런 비밀기지를 만든 적 있어?",
+          "j_ja": "なるほどね。シュンも子どもの時に、作ったりしたの？",
+          "g_en": "Did you make something like that when you were young?",
+          "g_tw": "原來如此啊。旬小時候也做過嗎？",
+          "g_tw_cn": "原来如此啊。旬小时候也做过吗？",
+          "g_ja": "なるほどね。シュンも子どもの時に、作ったりしたの？",
+          "g_ko": "슌도 어릴 적에는 저런 비밀기지를 만든 적 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250270,
+        "Id": 100250350,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250280,
+        "Message": {
+          "j_ko": "네. 저도 어릴 적에는 멋진 비밀기지를 하나 갖고 있었지요.",
+          "j_ja": "はい、正にこのくらいの歳の頃に",
+          "g_en": "Of course. I had an amazing secret base of my own.",
+          "g_tw": "有喔，也正好差不多這個年紀",
+          "g_tw_cn": "有喔，也正好差不多这个年纪",
+          "g_ja": "はい、正にこのくらいの歳の頃に",
+          "g_ko": "네. 저도 어릴 적에는 멋진 비밀기지를 하나 갖고 있었지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250270,
+        "Id": 100250360,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250280,
+        "Message": {
+          "j_ko": "후후…… 그러고 보니 그 비밀기지에도 가본 지 꽤 오래되었네요.",
+          "j_ja": "そういえば、最後にその秘密基地に行ったのも、だいぶ前のことですね……",
+          "g_en": "Heehee. Speaking of which, it's been a while since I've been there.",
+          "g_tw": "這麼說來，最後一次去那個祕密基地已經是很久以前的事了……",
+          "g_tw_cn": "这么说来，最后一次去那个秘密基地已经是很久以前的事了……",
+          "g_ja": "そういえば、最後にその秘密基地に行ったのも、だいぶ前のことですね……",
+          "g_ko": "후후…… 그러고 보니 그 비밀기지에도 가본 지 꽤 오래되었네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250280,
+        "Id": 100250370,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250290,
+        "Message": {
+          "j_ko": "선생님, 오후에 시간 나시면 매화원 근처의 놀이터에 들려주세요.",
+          "j_ja": "先生。お時間があれば、これから梅花園に来ていただけませんか？",
+          "g_en": "Sensei, if you have time this afternoon, visit the playground near Plum Blossom.",
+          "g_tw": "老師。如果有時間的話，可以現在來梅花園嗎？",
+          "g_tw_cn": "老师。如果有时间的话，可以现在来梅花园吗？",
+          "g_ja": "先生。お時間があれば、これから梅花園に来ていただけませんか？",
+          "g_ko": "선생님, 오후에 시간 나시면 매화원 근처의 놀이터에 들려주세요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250280,
+        "Id": 100250380,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100256,
+        "NextGroupId": 100250290,
+        "Message": {
+          "j_ko": "……아무에게도 말한 적 없는 제 비밀을 알려 드릴게요. ♥",
+          "j_ja": "……もし私の秘密が知りたければ、ですが♡",
+          "g_en": "I'll tell you my secret I've never told anyone. ♥",
+          "g_tw": "……如果你想知道我的祕密的話♡",
+          "g_tw_cn": "……如果你想知道我的秘密的话♡",
+          "g_ja": "……もし私の秘密が知りたければ、ですが♡",
+          "g_ko": "……아무에게도 말한 적 없는 제 비밀을 알려 드릴게요. ♥"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1002520,
+    "Data": [
+      {
+        "GroupId": 100250290,
+        "Id": 100250390,
+        "CharacterId": 10025,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250300,
+        "Message": {
+          "j_ko": "어릴 때와 자랐을 때 큰 차이점 중 하나는",
+          "j_ja": "幼い時と今の自分の大きな違いの一つは",
+          "g_en": "The biggest difference between when I was younger and now",
+          "g_tw": "小時候的自己和現在最大的不同之一",
+          "g_tw_cn": "小时候的自己和现在最大的不同之一",
+          "g_ja": "幼い時と今の自分の大きな違いの一つは",
+          "g_ko": "어릴 때와 자랐을 때 큰 차이점 중 하나는"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250300,
+        "Id": 100250400,
+        "CharacterId": 10025,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250310,
+        "Message": {
+          "j_ko": "머리 모양인 것 같아요.",
+          "j_ja": "髪型だと思います",
+          "g_en": "seems to be my hairstyle.",
+          "g_tw": "我覺得是髮型",
+          "g_tw_cn": "我觉得是发型",
+          "g_ja": "髪型だと思います",
+          "g_ko": "머리 모양인 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250310,
+        "Id": 100250410,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250320,
+        "Message": {
+          "j_ko": "왜 그렇게 생각했어?",
+          "j_ja": "どうしてそう思ったの？",
+          "g_en": "What makes you think that?",
+          "g_tw": "為什麼會這麼想？",
+          "g_tw_cn": "为什么会这么想？",
+          "g_ja": "どうしてそう思ったの？",
+          "g_ko": "왜 그렇게 생각했어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250320,
+        "Id": 100250420,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250330,
+        "Message": {
+          "j_ko": "어릴 때에는 마음대로 머리 모양을 잡아도 문제가 없지만.",
+          "j_ja": "幼い頃はどんな髪型もできますが",
+          "g_en": "I feel like I could wear any hairstyle I wanted as a child.",
+          "g_tw": "小時候沒有拘束，什麼樣的髮型都可以",
+          "g_tw_cn": "小时候没有拘束，什么样的发型都可以",
+          "g_ja": "幼い頃はどんな髪型もできますが",
+          "g_ko": "어릴 때에는 마음대로 머리 모양을 잡아도 문제가 없지만."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250320,
+        "Id": 100250430,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250330,
+        "Message": {
+          "j_ko": "자랐을 때는…… 어울리지 않는 머리 모양이 많아지거든요.",
+          "j_ja": "大きくなったら……似合わないものが多くなってしまうのです",
+          "g_en": "But as I got older, my options became more limited.",
+          "g_tw": "長大後……就會有很多不適合的東西",
+          "g_tw_cn": "长大后……就会有很多不适合的东西",
+          "g_ja": "大きくなったら……似合わないものが多くなってしまうのです",
+          "g_ko": "자랐을 때는…… 어울리지 않는 머리 모양이 많아지거든요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250330,
+        "Id": 100250440,
+        "CharacterId": 10025,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100250340,
+        "Message": {
+          "j_ko": "슌은 무슨 머리 모양을 해도 어울린다고 생각해.",
+          "j_ja": "シュンはどんな髪型でも似合うと思うよ",
+          "g_en": "I think you look good with any hairstyle, Shun.",
+          "g_tw": "我覺得什麼髮型都很適合旬",
+          "g_tw_cn": "我觉得什么发型都很适合旬",
+          "g_ja": "シュンはどんな髪型でも似合うと思うよ",
+          "g_ko": "슌은 무슨 머리 모양을 해도 어울린다고 생각해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100250340,
+        "Id": 100250450,
+        "CharacterId": 10025,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 1002520,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "에헤헤. 말씀만이라도 감사해요. 선생님.",
+          "j_ja": "えへへ。お言葉だけでも嬉しいです。ありがとうございます、先生",
+          "g_en": "Heeheehee. That's nice of you to say, Sensei.",
+          "g_tw": "嘿嘿。聽您這麼說我就很高興了。非常感謝，老師",
+          "g_tw_cn": "嘿嘿。听您这么说我就很高兴了。非常感谢，老师",
+          "g_ja": "えへへ。お言葉だけでも嬉しいです。ありがとうございます、先生",
+          "g_ko": "에헤헤. 말씀만이라도 감사해요. 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

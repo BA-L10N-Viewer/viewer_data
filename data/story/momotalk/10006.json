@@ -1,0 +1,1130 @@
+[
+  {
+    "BondScenarioId": 1000602,
+    "Data": [
+      {
+        "GroupId": 100060010,
+        "Id": 520,
+        "CharacterId": 10006,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060020,
+        "Message": {
+          "j_ko": "선생님, 그 소문 들었어?",
+          "j_ja": "先生、あの噂聞いた？",
+          "g_en": "Sensei, did you hear the rumor?",
+          "g_tw": "老師，你聽說那個傳聞了嗎？",
+          "g_tw_cn": "老师，你听说那个传闻了吗？",
+          "g_ja": "先生、あの噂聞いた？",
+          "g_ko": "선생님, 그 소문 들었어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060020,
+        "Id": 521,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060030,
+        "Message": {
+          "j_ko": "무슨 소문?",
+          "j_ja": "何の噂？",
+          "g_en": "What rumor?",
+          "g_tw": "什麼傳聞？",
+          "g_tw_cn": "什么传闻？",
+          "g_ja": "何の噂？",
+          "g_ko": "무슨 소문?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060030,
+        "Id": 522,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060040,
+        "Message": {
+          "j_ko": "듣자 하니 최근 외진 골목길에서 여학생들의 치마 속을 훔쳐보려는 변태가 출몰한다나 봐.",
+          "j_ja": "女子生徒のスカートを覗こうとするヘンタイが出没してる、って噂があって",
+          "g_en": "From what I've heard, there's a pervert hanging around the alleys, trying to flip skirts.",
+          "g_tw": "有偷窺女學生裙底的變態出沒的傳聞",
+          "g_tw_cn": "有偷窥女学生裙底的变态出没的传闻",
+          "g_ja": "女子生徒のスカートを覗こうとするヘンタイが出没してる、って噂があって",
+          "g_ko": "듣자 하니 최근 외진 골목길에서 여학생들의 치마 속을 훔쳐보려는 변태가 출몰한다나 봐."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060030,
+        "Id": 523,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060040,
+        "Message": {
+          "j_ko": "참, 세상 흉흉하기도 하지.",
+          "j_ja": "まったく、嘆かわしい世の中だ",
+          "g_en": "Ugh, what an ugly world.",
+          "g_tw": "真是的，這世道真可嘆",
+          "g_tw_cn": "真是的，这世道真可叹",
+          "g_ja": "まったく、嘆かわしい世の中だ",
+          "g_ko": "참, 세상 흉흉하기도 하지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060040,
+        "Id": 524,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060050,
+        "Message": {
+          "j_ko": "그것참 큰일이네…….",
+          "j_ja": "それは大変だね",
+          "g_en": "That's terrible...",
+          "g_tw": "這可不得了呢",
+          "g_tw_cn": "这可不得了呢",
+          "g_ja": "それは大変だね",
+          "g_ko": "그것참 큰일이네……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060050,
+        "Id": 525,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060060,
+        "Message": {
+          "j_ko": "선생님도 혹시 수상한 변태를 보거든 게헨나 선도부에 바로 연락해줘.",
+          "j_ja": "先生も、もし怪しいヘンタイを見かけたら、すぐ風紀委員会に連絡して",
+          "g_en": "If you see someone suspicious, please contact the Gehenna Prefect Team right away.",
+          "g_tw": "老師如果看見了可疑的變態，請立即聯絡風紀委員會",
+          "g_tw_cn": "老师如果看见了可疑的变态，请立即联系风纪委员会",
+          "g_ja": "先生も、もし怪しいヘンタイを見かけたら、すぐ風紀委員会に連絡して",
+          "g_ko": "선생님도 혹시 수상한 변태를 보거든 게헨나 선도부에 바로 연락해줘."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060060,
+        "Id": 526,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100062,
+        "NextGroupId": 100060070,
+        "Message": {
+          "j_ko": "알겠어, 맡겨둬.",
+          "j_ja": "分かった、任せて",
+          "g_en": "Okay, got it.",
+          "g_tw": "知道了，交給我吧",
+          "g_tw_cn": "知道了，交给我吧",
+          "g_ja": "分かった、任せて",
+          "g_ko": "알겠어, 맡겨둬."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1000603,
+    "Data": [
+      {
+        "GroupId": 100060070,
+        "Id": 527,
+        "CharacterId": 10006,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060080,
+        "Message": {
+          "j_ko": "선생님, 최근 게헨나 학원으로 자주 출장을 오던 것 같던데……",
+          "j_ja": "先生最近、ゲヘナによく出張に来てるみたいだけど……",
+          "g_en": "Sensei, you've been coming to Gehenna Academy a lot these days...",
+          "g_tw": "老師最近好像經常來格黑娜出差……",
+          "g_tw_cn": "老师最近好像经常来格黑娜出差……",
+          "g_ja": "先生最近、ゲヘナによく出張に来てるみたいだけど……",
+          "g_ko": "선생님, 최근 게헨나 학원으로 자주 출장을 오던 것 같던데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060080,
+        "Id": 528,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060090,
+        "Message": {
+          "j_ko": "최근 게헨나 학원과 관련된 업무가 많아져서.",
+          "j_ja": "このところ、ゲヘナ学園に関する仕事が多くって",
+          "g_en": "Well, I've had a lot of work to do at Gehenna lately.",
+          "g_tw": "最近有很多格黑娜學園的工作",
+          "g_tw_cn": "最近有很多格黑娜学园的工作",
+          "g_ja": "このところ、ゲヘナ学園に関する仕事が多くって",
+          "g_ko": "최근 게헨나 학원과 관련된 업무가 많아져서."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060080,
+        "Id": 529,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060100,
+        "Message": {
+          "j_ko": "이오리 쨩을 자주 보고 싶은 마음에 그만…….",
+          "j_ja": "イオリちゃんに会いたくって、つい……",
+          "g_en": "I can't help wanting to see you.",
+          "g_tw": "因為想和伊織醬見面，忍不住就……",
+          "g_tw_cn": "因为想和伊织酱见面，忍不住就……",
+          "g_ja": "イオリちゃんに会いたくって、つい……",
+          "g_ko": "이오리 쨩을 자주 보고 싶은 마음에 그만……."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060090,
+        "Id": 530,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060110,
+        "Message": {
+          "j_ko": "그렇구나……. 수고가 많네.",
+          "j_ja": "……そうなんだ。お疲れ様",
+          "g_en": "I see... You're working hard.",
+          "g_tw": "原來如此……辛苦你了",
+          "g_tw_cn": "原来如此……辛苦你了",
+          "g_ja": "……そうなんだ。お疲れ様",
+          "g_ko": "그렇구나……. 수고가 많네."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060100,
+        "Id": 531,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060110,
+        "Message": {
+          "j_ko": "……하아? 무슨 소리를 하는 거야?",
+          "j_ja": "……は？何を言ってるんだ？",
+          "g_en": "*sigh* What are you talking about?",
+          "g_tw": "……啥？你在說什麼？",
+          "g_tw_cn": "……啥？你在说什么？",
+          "g_ja": "……は？何を言ってるんだ？",
+          "g_ko": "……하아? 무슨 소리를 하는 거야?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060110,
+        "Id": 532,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060120,
+        "Message": {
+          "j_ko": "그나저나 정작 학원에서는 선생님과 마주친 일이 거의 없네.",
+          "j_ja": "でも実際、学園ではあまり会わないな",
+          "g_en": "In any case, I almost never run into you at the academy.",
+          "g_tw": "但實際上，我們很少在學校內見到面呢",
+          "g_tw_cn": "但实际上，我们很少在学校内见到面呢",
+          "g_ja": "でも実際、学園ではあまり会わないな",
+          "g_ko": "그나저나 정작 학원에서는 선생님과 마주친 일이 거의 없네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060110,
+        "Id": 533,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060120,
+        "Message": {
+          "j_ko": "출장을 오면 주로 어디서 시간을 보내는 거야?",
+          "j_ja": "出張に来る時は、どこにいるんだ？",
+          "g_en": "Where do you spend most of your time when you come here?",
+          "g_tw": "老師來出差的時候都待在哪裡？",
+          "g_tw_cn": "老师来出差的时候都待在哪里？",
+          "g_ja": "出張に来る時は、どこにいるんだ？",
+          "g_ko": "출장을 오면 주로 어디서 시간을 보내는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060120,
+        "Id": 534,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060130,
+        "Message": {
+          "j_ko": "게헨나 학원 교정.",
+          "j_ja": "校庭とか",
+          "g_en": "At Gehenna.",
+          "g_tw": "中庭之類的",
+          "g_tw_cn": "中庭之类的",
+          "g_ja": "校庭とか",
+          "g_ko": "게헨나 학원 교정."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060130,
+        "Id": 535,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060140,
+        "Message": {
+          "j_ko": "……교정? 거기에 뭐가 있는데?",
+          "j_ja": "……校庭？何のために？",
+          "g_en": "The campus? What's at the campus?",
+          "g_tw": "……中庭？為什麼？",
+          "g_tw_cn": "……中庭？为什么？",
+          "g_ja": "……校庭？何のために？",
+          "g_ko": "……교정? 거기에 뭐가 있는데?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060140,
+        "Id": 536,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060150,
+        "Message": {
+          "j_ko": "나중에 만나게 되면 알려줄게.",
+          "j_ja": "今度会った時に教えてあげるね",
+          "g_en": "I'll tell you in person.",
+          "g_tw": "下次見面時告訴你",
+          "g_tw_cn": "下次见面时告诉你",
+          "g_ja": "今度会った時に教えてあげるね",
+          "g_ko": "나중에 만나게 되면 알려줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060150,
+        "Id": 537,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100063,
+        "NextGroupId": 100060160,
+        "Message": {
+          "j_ko": "어쩐지 수상한데…….",
+          "j_ja": "なんか、怪しいな……",
+          "g_en": "That's strange...",
+          "g_tw": "總覺得很可疑……",
+          "g_tw_cn": "总觉得很可疑……",
+          "g_ja": "なんか、怪しいな……",
+          "g_ko": "어쩐지 수상한데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1000605,
+    "Data": [
+      {
+        "GroupId": 100060160,
+        "Id": 538,
+        "CharacterId": 10006,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060170,
+        "Message": {
+          "j_ko": "최근 첩보 멤버의 보고에 따르면 블랙마켓의 밀수품 거래량이 늘어난 것 같아.",
+          "j_ja": "報告だと最近、ブラックマーケットで密輸品の取引量が増えてるらしい",
+          "g_en": "According to a recent report from intelligence, the volume of contraband on the Black Market seems to have increased.",
+          "g_tw": "報告顯示，近期黑市走私品的交易量增加中",
+          "g_tw_cn": "报告显示，近期黑市走私品的交易量增加中",
+          "g_ja": "報告だと最近、ブラックマーケットで密輸品の取引量が増えてるらしい",
+          "g_ko": "최근 첩보 멤버의 보고에 따르면 블랙마켓의 밀수품 거래량이 늘어난 것 같아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060170,
+        "Id": 539,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060180,
+        "Message": {
+          "j_ko": "생활에 필요한 물건이라면 일반 마켓에서도 다 구할 수 있는데…",
+          "j_ja": "生活に必要なものなら、普通のマーケットで何でも手に入るのに……",
+          "g_en": "You can get everything you need for your daily life at the regular market...",
+          "g_tw": "如果是生活必需品，普通市場就都能買到了……",
+          "g_tw_cn": "如果是生活必需品，普通市场就都能买到了……",
+          "g_ja": "生活に必要なものなら、普通のマーケットで何でも手に入るのに……",
+          "g_ko": "생활에 필요한 물건이라면 일반 마켓에서도 다 구할 수 있는데…"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060170,
+        "Id": 540,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060180,
+        "Message": {
+          "j_ko": "도대체 블랙마켓에서는 어떤 물건을 거래하는 거지?",
+          "j_ja": "いったいブラックマーケットで、どんな取引が行われてるんだ？",
+          "g_en": "So what's being traded on the Black Market?",
+          "g_tw": "到底都在黑市進行什麼樣的交易呢？",
+          "g_tw_cn": "到底都在黑市进行什么样的交易呢？",
+          "g_ja": "いったいブラックマーケットで、どんな取引が行われてるんだ？",
+          "g_ko": "도대체 블랙마켓에서는 어떤 물건을 거래하는 거지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060180,
+        "Id": 541,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060190,
+        "Message": {
+          "j_ko": "나는 관심이 없어서 잘 모르겠는데.",
+          "j_ja": "私は知らないなあ、興味も無いし……",
+          "g_en": "I'm not really interested, so I don't know much about it.",
+          "g_tw": "我不知道，也沒有興趣……",
+          "g_tw_cn": "我不知道，也没有兴趣……",
+          "g_ja": "私は知らないなあ、興味も無いし……",
+          "g_ko": "나는 관심이 없어서 잘 모르겠는데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060190,
+        "Id": 542,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060200,
+        "Message": {
+          "j_ko": "그야 그렇겠지.",
+          "j_ja": "それはそうだろうな",
+          "g_en": "I can see that.",
+          "g_tw": "我想也是",
+          "g_tw_cn": "我想也是",
+          "g_ja": "それはそうだろうな",
+          "g_ko": "그야 그렇겠지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060190,
+        "Id": 543,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060200,
+        "Message": {
+          "j_ko": "평범한 사람이라면 블랙마켓에 발을 들일 일도 없을 테니까.",
+          "j_ja": "普通の人がブラックマーケットに足を踏み入れることなんてそうそう無い",
+          "g_en": "A normal person has no reason to even consider the Black Market.",
+          "g_tw": "普通人是不會踏入黑市的",
+          "g_tw_cn": "普通人是不会踏入黑市的",
+          "g_ja": "普通の人がブラックマーケットに足を踏み入れることなんてそうそう無い",
+          "g_ko": "평범한 사람이라면 블랙마켓에 발을 들일 일도 없을 테니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060190,
+        "Id": 544,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060200,
+        "Message": {
+          "j_ko": "가급적 선생님도 블랙마켓의 악당들과는 엮이지 않게 조심하라고.",
+          "j_ja": "先生も、ブラックマーケットの悪党たちとは関わらないよう気を付けて",
+          "g_en": "Try not to get involved with those Black Market scoundrels, Sensei.",
+          "g_tw": "老師也要注意不要和黑市的惡黨們扯上關係",
+          "g_tw_cn": "老师也要注意不要和黑市的恶党们扯上关系",
+          "g_ja": "先生も、ブラックマーケットの悪党たちとは関わらないよう気を付けて",
+          "g_ko": "가급적 선생님도 블랙마켓의 악당들과는 엮이지 않게 조심하라고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060200,
+        "Id": 545,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100065,
+        "NextGroupId": 100060210,
+        "Message": {
+          "j_ko": "명심할게.",
+          "j_ja": "うん、肝に銘じるね",
+          "g_en": "I'll keep that in mind.",
+          "g_tw": "嗯，我會銘記在心",
+          "g_tw_cn": "嗯，我会铭记在心",
+          "g_ja": "うん、肝に銘じるね",
+          "g_ko": "명심할게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060210,
+        "Id": 546,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060220,
+        "Message": {
+          "j_ko": "정말로 내 졸업 앨범을 이상한 일에 쓰려는 게 아니지?",
+          "j_ja": "……先生、本当に私の卒業アルバムを変なことに使ったりしないだろうな？",
+          "g_en": "Are you sure you're not gonna use my yearbook for anything weird?",
+          "g_tw": "……老師，真的不會把我的畢業紀念冊用在奇怪的事情上吧？",
+          "g_tw_cn": "……老师，真的不会把我的毕业纪念册用在奇怪的事情上吧？",
+          "g_ja": "……先生、本当に私の卒業アルバムを変なことに使ったりしないだろうな？",
+          "g_ko": "정말로 내 졸업 앨범을 이상한 일에 쓰려는 게 아니지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060210,
+        "Id": 547,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060220,
+        "Message": {
+          "j_ko": "선생님을 믿고 맡긴 거니까…… 다른 사람에게 보여주거나 하면 안 돼!",
+          "j_ja": "先生を信じて渡したんだから……他の人に見せたりするなよ！",
+          "g_en": "I trust you with it...but don't show it to anyone else!",
+          "g_tw": "我是相信老師才交給你的……不要給別人看喔！",
+          "g_tw_cn": "我是相信老师才交给你的……不要给别人看喔！",
+          "g_ja": "先生を信じて渡したんだから……他の人に見せたりするなよ！",
+          "g_ko": "선생님을 믿고 맡긴 거니까…… 다른 사람에게 보여주거나 하면 안 돼!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060220,
+        "Id": 548,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060230,
+        "Message": {
+          "j_ko": "이오리.",
+          "j_ja": "……ねえ、イオリ",
+          "g_en": "Iori.",
+          "g_tw": "……嘿，伊織",
+          "g_tw_cn": "……嘿，伊织",
+          "g_ja": "……ねえ、イオリ",
+          "g_ko": "이오리."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060230,
+        "Id": 549,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060240,
+        "Message": {
+          "j_ko": "어, 어? 갑자기 왜?",
+          "j_ja": "ん？なに？",
+          "g_en": "H-Huh? What is it?",
+          "g_tw": "嗯？什麼？",
+          "g_tw_cn": "嗯？什么？",
+          "g_ja": "ん？なに？",
+          "g_ko": "어, 어? 갑자기 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060240,
+        "Id": 550,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060250,
+        "Message": {
+          "j_ko": "초등학교 시절의 이오리도 귀엽더라.",
+          "j_ja": "小学生の時のイオリも可愛い",
+          "g_en": "You were cute in elementary school too.",
+          "g_tw": "小學時期的伊織也很可愛呢",
+          "g_tw_cn": "小学时期的伊织也很可爱呢",
+          "g_ja": "小学生の時のイオリも可愛い",
+          "g_ko": "초등학교 시절의 이오리도 귀엽더라."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060250,
+        "Id": 551,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060260,
+        "Message": {
+          "j_ko": "시끄러워! 죽어!",
+          "j_ja": "うるさい！死ね！",
+          "g_en": "Shut up! I'll kill you!",
+          "g_tw": "吵死了！去死！",
+          "g_tw_cn": "吵死了！去死！",
+          "g_ja": "うるさい！死ね！",
+          "g_ko": "시끄러워! 죽어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1000606,
+    "Data": [
+      {
+        "GroupId": 100060260,
+        "Id": 552,
+        "CharacterId": 10006,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060270,
+        "Message": {
+          "j_ko": "오늘 선도부 활동에서는 꽤나 신세를 졌네. 고마워.",
+          "j_ja": "今日の風紀委員会の活動では世話になった、ありがとう",
+          "g_en": "You helped me a lot today. Thank you.",
+          "g_tw": "今天謝謝老師協助風紀委員會的活動",
+          "g_tw_cn": "今天谢谢老师协助风纪委员会的活动",
+          "g_ja": "今日の風紀委員会の活動では世話になった、ありがとう",
+          "g_ko": "오늘 선도부 활동에서는 꽤나 신세를 졌네. 고마워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060270,
+        "Id": 553,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060271,
+        "Message": {
+          "j_ko": "나야말로",
+          "j_ja": "私の方こそありがとう",
+          "g_en": "I'm the one who should be saying that.",
+          "g_tw": "該道謝的是我才對",
+          "g_tw_cn": "该道谢的是我才对",
+          "g_ja": "私の方こそありがとう",
+          "g_ko": "나야말로"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060271,
+        "Id": 554,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060280,
+        "Message": {
+          "j_ko": "게헨나 선도부에게 큰 도움을 받았어. 고마워.",
+          "j_ja": "イオリはもちろん、ゲヘナの風紀委員にも色々助けてもらったから",
+          "g_en": "The Prefect Team is always helping me. Thank you.",
+          "g_tw": "不只是伊織，還得到了其他格黑娜風紀委員的各種幫助",
+          "g_tw_cn": "不只是伊织，还得到了其他格黑娜风纪委员的各种帮助",
+          "g_ja": "イオリはもちろん、ゲヘナの風紀委員にも色々助けてもらったから",
+          "g_ko": "게헨나 선도부에게 큰 도움을 받았어. 고마워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060280,
+        "Id": 555,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060290,
+        "Message": {
+          "j_ko": "선생님은 학생들과는 달리 총에 맞으면 정말로 위험할 수도 있으니까.",
+          "j_ja": "先生は私たちと違って、銃で撃たれたら本当に危ないんだから",
+          "g_en": "It's particularly dangerous for you if you get shot, Sensei.",
+          "g_tw": "老師和我們不一樣，中彈的話就危險了",
+          "g_tw_cn": "老师和我们不一样，中弹的话就危险了",
+          "g_ja": "先生は私たちと違って、銃で撃たれたら本当に危ないんだから",
+          "g_ko": "선생님은 학생들과는 달리 총에 맞으면 정말로 위험할 수도 있으니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060280,
+        "Id": 556,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060290,
+        "Message": {
+          "j_ko": "총을 사용하는 위험한 임무에는 우리가 함께하는 게 당연하지.",
+          "j_ja": "ああいう危険な任務なら、私たちが一緒に行くのは当たり前",
+          "g_en": "It only makes sense for us to join you on a dangerous mission when guns are involved.",
+          "g_tw": "如果是這麼危險的任務，我們一起去是理所當然的",
+          "g_tw_cn": "如果是这么危险的任务，我们一起去是理所当然的",
+          "g_ja": "ああいう危険な任務なら、私たちが一緒に行くのは当たり前",
+          "g_ko": "총을 사용하는 위험한 임무에는 우리가 함께하는 게 당연하지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060290,
+        "Id": 557,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060291,
+        "Message": {
+          "j_ko": "하지만 이오리도",
+          "j_ja": "うん、ありがとね。そういえばイオリ、",
+          "g_en": "But didn't you",
+          "g_tw": "嗯，謝啦。話說回來",
+          "g_tw_cn": "嗯，谢啦。话说回来",
+          "g_ja": "うん、ありがとね。そういえばイオリ、",
+          "g_ko": "하지만 이오리도"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060291,
+        "Id": 558,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060300,
+        "Message": {
+          "j_ko": "아까 작전 중에 등을 다치지 않았어?",
+          "j_ja": "さっき作戦中に背中を怪我してなかった？",
+          "g_en": "Get hurt during the mission?",
+          "g_tw": "伊織在剛才的作戰中背部受傷了嗎？",
+          "g_tw_cn": "伊织在刚才的作战中背部受伤了吗？",
+          "g_ja": "さっき作戦中に背中を怪我してなかった？",
+          "g_ko": "아까 작전 중에 등을 다치지 않았어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060300,
+        "Id": 559,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060310,
+        "Message": {
+          "j_ko": "아…… 등의 그 상처 말인가.",
+          "j_ja": "ああ……そういえばそうだった",
+          "g_en": "Oh... You mean the wound on my back?",
+          "g_tw": "啊啊……這麼說來確實是呢",
+          "g_tw_cn": "啊啊……这么说来确实是呢",
+          "g_ja": "ああ……そういえばそうだった",
+          "g_ko": "아…… 등의 그 상처 말인가."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060300,
+        "Id": 560,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100066,
+        "NextGroupId": 100060310,
+        "Message": {
+          "j_ko": "신경 쓰지 마. 대수롭지 않은 생채기일 뿐이니까.",
+          "j_ja": "気にしないで、大した怪我じゃない",
+          "g_en": "Don't worry. It's just a scratch.",
+          "g_tw": "別放在心上，不是什麼嚴重的傷",
+          "g_tw_cn": "别放在心上，不是什么严重的伤",
+          "g_ja": "気にしないで、大した怪我じゃない",
+          "g_ko": "신경 쓰지 마. 대수롭지 않은 생채기일 뿐이니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1000608,
+    "Data": [
+      {
+        "GroupId": 100060310,
+        "Id": 561,
+        "CharacterId": 10006,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060320,
+        "Message": {
+          "j_ko": "선생님, 이 문자를 보면 게헨나 정문 앞의 3거리 주택가로 와줘……",
+          "j_ja": "先生、このメッセージを見たら、ゲヘナ正門前の住宅街3丁目に……",
+          "g_en": "Sensei, when you see this text, please come to the District 3 residential area by Gehenna's main gate.",
+          "g_tw": "老師，看到這個訊息的時候，請來格黑娜正門前的住宅街3丁目……",
+          "g_tw_cn": "老师，看到这个消息的时候，请来格黑娜正门前的住宅街3丁目……",
+          "g_ja": "先生、このメッセージを見たら、ゲヘナ正門前の住宅街3丁目に……",
+          "g_ko": "선생님, 이 문자를 보면 게헨나 정문 앞의 3거리 주택가로 와줘……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060320,
+        "Id": 562,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060330,
+        "Message": {
+          "j_ko": "조금…… 사소한 문제가 생겼어.",
+          "j_ja": "ちょっと……アクシデントがあって",
+          "g_en": "There's...a bit of a problem.",
+          "g_tw": "發生了一點……意外",
+          "g_tw_cn": "发生了一点……意外",
+          "g_ja": "ちょっと……アクシデントがあって",
+          "g_ko": "조금…… 사소한 문제가 생겼어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060330,
+        "Id": 563,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060340,
+        "Message": {
+          "j_ko": "무슨 문제인데?",
+          "j_ja": "アクシデントって、どんな？",
+          "g_en": "What's the matter?",
+          "g_tw": "意外，什麼意外？",
+          "g_tw_cn": "意外，什么意外？",
+          "g_ja": "アクシデントって、どんな？",
+          "g_ko": "무슨 문제인데?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060340,
+        "Id": 564,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060350,
+        "Message": {
+          "j_ko": "아무튼 묻지는 말고 빨리 와 줘!",
+          "j_ja": "いいから、早く来て！",
+          "g_en": "Don't ask! Just get over here!",
+          "g_tw": "別管了，快來！",
+          "g_tw_cn": "别管了，快来！",
+          "g_ja": "いいから、早く来て！",
+          "g_ko": "아무튼 묻지는 말고 빨리 와 줘!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060340,
+        "Id": 565,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100068,
+        "NextGroupId": 100060350,
+        "Message": {
+          "j_ko": "그리고 다른 학생들에게는 내가 여기 있다는 걸 절대 알리지 마!",
+          "j_ja": "あと！他の生徒たちには、絶対に私がここにいるって言うなよ！",
+          "g_en": "And don't tell the other students that I'm here!",
+          "g_tw": "還有！絕對不能告訴其他學生我在這裡！",
+          "g_tw_cn": "还有！绝对不能告诉其他学生我在这里！",
+          "g_ja": "あと！他の生徒たちには、絶対に私がここにいるって言うなよ！",
+          "g_ko": "그리고 다른 학생들에게는 내가 여기 있다는 걸 절대 알리지 마!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060350,
+        "Id": 566,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060360,
+        "Message": {
+          "j_ko": "선생님!!!",
+          "j_ja": "先生！！",
+          "g_en": "Sensei!",
+          "g_tw": "老師！！",
+          "g_tw_cn": "老师！！",
+          "g_ja": "先生！！",
+          "g_ko": "선생님!!!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060350,
+        "Id": 567,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060360,
+        "Message": {
+          "j_ko": "방금 메일로 보낸 이 사진은 뭐야?!",
+          "j_ja": "さっき送られてきてたこの写真、何でまだ持ってるんだ！！",
+          "g_en": "What's with the photo you just sent to my email?!",
+          "g_tw": "剛才發來的照片為什麼還留著！！",
+          "g_tw_cn": "刚才发来的照片为什么还留着！！",
+          "g_ja": "さっき送られてきてたこの写真、何でまだ持ってるんだ！！",
+          "g_ko": "방금 메일로 보낸 이 사진은 뭐야?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060360,
+        "Id": 568,
+        "CharacterId": 10006,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060370,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Iori_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060370,
+        "Id": 569,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060380,
+        "Message": {
+          "j_ko": "잘 찍혔지?",
+          "j_ja": "よく撮れてるから、もしかしたら欲しいかなって",
+          "g_en": "That's a good shot, right?",
+          "g_tw": "因為拍得不錯，想說你可能會想要",
+          "g_tw_cn": "因为拍得不错，想说你可能会想要",
+          "g_ja": "よく撮れてるから、もしかしたら欲しいかなって",
+          "g_ko": "잘 찍혔지?"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060370,
+        "Id": 570,
+        "CharacterId": 10006,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060390,
+        "Message": {
+          "j_ko": "귀엽지 않아?",
+          "j_ja": "可愛くない？",
+          "g_en": "It's cute!",
+          "g_tw": "不覺得很可愛嗎？",
+          "g_tw_cn": "不觉得很可爱吗？",
+          "g_ja": "可愛くない？",
+          "g_ko": "귀엽지 않아?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060380,
+        "Id": 571,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060400,
+        "Message": {
+          "j_ko": "잘 찍히긴 뭐가 잘 찍혔어!",
+          "j_ja": "いるか！！！！！",
+          "g_en": "What do you mean it's a good shot?!",
+          "g_tw": "鬼才想要！！！！！",
+          "g_tw_cn": "鬼才想要！！！！！",
+          "g_ja": "いるか！！！！！",
+          "g_ko": "잘 찍히긴 뭐가 잘 찍혔어!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060390,
+        "Id": 572,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060400,
+        "Message": {
+          "j_ko": "귀엽긴 뭐가 귀여워!",
+          "j_ja": "そういう問題じゃない！",
+          "g_en": "It's not cute at all!",
+          "g_tw": "才不是這個問題！",
+          "g_tw_cn": "才不是这个问题！",
+          "g_ja": "そういう問題じゃない！",
+          "g_ko": "귀엽긴 뭐가 귀여워!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060400,
+        "Id": 573,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060410,
+        "Message": {
+          "j_ko": "내가 아까 분명히 사진은 지우라고 했잖아!",
+          "j_ja": "消してって言ったじゃん！",
+          "g_en": "I told you to delete that photo!",
+          "g_tw": "不是說要刪掉嗎！",
+          "g_tw_cn": "不是说要删掉吗！",
+          "g_ja": "消してって言ったじゃん！",
+          "g_ko": "내가 아까 분명히 사진은 지우라고 했잖아!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060400,
+        "Id": 574,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060410,
+        "Message": {
+          "j_ko": "어째서 아직도 가지고 있는 거야!",
+          "j_ja": "何でまだ持ってるんだ！",
+          "g_en": "Why do you still have it?!",
+          "g_tw": "為什麼你還留著！",
+          "g_tw_cn": "为什么你还留着！",
+          "g_ja": "何でまだ持ってるんだ！",
+          "g_ko": "어째서 아직도 가지고 있는 거야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100060400,
+        "Id": 575,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100060410,
+        "Message": {
+          "j_ko": "지워! 당장 지우라고!",
+          "j_ja": "消して！今すぐ！",
+          "g_en": "Delete it! Now!",
+          "g_tw": "刪掉！現在馬上！",
+          "g_tw_cn": "删掉！现在马上！",
+          "g_ja": "消して！今すぐ！",
+          "g_ko": "지워! 당장 지우라고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100060410,
+            "Id": 576,
+            "CharacterId": 10006,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "내 말 듣고 있는 거야? 빨리 지우라고!",
+              "j_ja": "聞いてる！？ちょっと！！",
+              "g_en": "Are you listening to me? Delete it right now!",
+              "g_tw": "聽到了嗎！？喂！！",
+              "g_tw_cn": "听到了吗！？喂！！",
+              "g_ja": "聞いてる！？ちょっと！！",
+              "g_ko": "내 말 듣고 있는 거야? 빨리 지우라고!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100060410,
+        "Id": 576,
+        "CharacterId": 10006,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "내 말 듣고 있는 거야? 빨리 지우라고!",
+          "j_ja": "聞いてる！？ちょっと！！",
+          "g_en": "Are you listening to me? Delete it right now!",
+          "g_tw": "聽到了嗎！？喂！！",
+          "g_tw_cn": "听到了吗！？喂！！",
+          "g_ja": "聞いてる！？ちょっと！！",
+          "g_ko": "내 말 듣고 있는 거야? 빨리 지우라고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

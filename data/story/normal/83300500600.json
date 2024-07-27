@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ゲヘナ学園の裏手にある旧校舎は、廃墟のようになっていた）",
+      "j_ko": "(게헨나 학원 뒤편에 있는 구교사는 이젠 더는 쓰이지 않고 버려진 장소였지.)",
+      "g_ja": "（ゲヘナ学園の裏手にある旧校舎は、廃墟のようになっていた）",
+      "g_ko": "(게헨나 학원 뒤편에 있는 구교사는 이젠 더는 쓰이지 않고 버려진 장소였지.)",
+      "g_en": "(...The abandoned school building behind Gehenna Academy hasn't been used in years.)",
+      "g_th": "(ตอนนี้อาคารเรียนเก่าหลังสถาบันเกเฮนน่าเป็นอาคารร้างที่ไม่ได้ใช้งานแล้ว)",
+      "g_tw": "（格黑娜學園後方的舊校舍已經不再使用，是被棄置的場所）",
+      "g_tw_cn": "（格黑娜学园后方的旧校舍已经不再使用，是被弃置的场所）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(게헨나 학원 뒤편에 있는 구교사는 이젠 더는 쓰이지 않고 버려진 장소였지.)\\n#3;closeup\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（管理が行き届いていないから、問題児の溜まり場になるのも当然）",
+      "j_ko": "(오래 방치된 만큼 관리가 되지 않아, 문제아들이 모여들기 쉬운 장소였었지.)",
+      "g_ja": "（管理が行き届いていないから、問題児の溜まり場になるのも当然）",
+      "g_ko": "(오래 방치된 만큼 관리가 되지 않아, 문제아들이 모여들기 쉬운 장소였었지.)",
+      "g_en": "(It was a simple matter for the troublemakers to gather there... Security wasn't maintained after the school stopped using it.)",
+      "g_th": "(พอเป็นสถานที่ที่ไม่ได้รับการดูแลเพราะถูกปล่อยปละละเลยมานาน ก็ยิ่งง่ายต่อการมารวมตัวกันของ<br/>พวกเด็กเจ้าปัญหา)",
+      "g_tw": "（因為閒置已久而沒有加以管理，自然變成了問題學生聚集的場所）",
+      "g_tw_cn": "（因为闲置已久而没有加以管理，自然变成了问题学生聚集的场所）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(오래 방치된 만큼 관리가 되지 않아, 문제아들이 모여들기 쉬운 장소였었지.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

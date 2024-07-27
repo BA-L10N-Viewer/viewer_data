@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……サンクトゥムの守護者「ヒエロニムス」の撃破を確認。",
+      "j_ko": "……성소의 수호자 <예로니무스> 격파 확인했습니다.",
+      "g_ja": "……サンクトゥムの守護者「ヒエロニムス」の撃破を確認。",
+      "g_ko": "……성소의 수호자 <예로니무스> 격파 확인했습니다.",
+      "g_en": "The sanctum guardian, Hieronymus, has been defeated.",
+      "g_th": "...ปราบผู้พิทักษ์หอคอย <ไฮโรนีมัส> สำเร็จแล้วค่ะ!",
+      "g_tw": "……確認已擊倒聖所守護者「耶羅尼姆斯」。",
+      "g_tw_cn": "……确认已击倒圣所守护者「耶罗尼姆斯」。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2690570743,
+    "DataType": "speaker",
+    "Script": "3;린;S2_99;……성소의 수호자 <예로니무스> 격파 확인했습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "第4サンクトゥムの破壊、成功しました。お疲れ様でした。",
+      "j_ko": "이걸로 제4 성소의 파괴는 성공했습니다.",
+      "g_ja": "第4サンクトゥムの破壊、成功しました。お疲れ様でした。",
+      "g_ko": "이걸로 제4 성소의 파괴는 성공했습니다.",
+      "g_en": "Fourth Sanctum destroyed!",
+      "g_th": "เท่านี้ก็ยืนยันการทำลายหอคอยแห่งที่ 4 สำเร็จแล้วค่ะ",
+      "g_tw": "成功破壞第4聖所。各位辛苦了。",
+      "g_tw_cn": "成功破坏第4圣所。各位辛苦了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2690570743,
+    "DataType": "speaker",
+    "Script": "3;린;S2_01;이걸로 제4 성소의 파괴는 성공했습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では先生、次をお願いします。",
+      "j_ko": "그럼, 선생님. 다음을.",
+      "g_ja": "では先生、次をお願いします。",
+      "g_ko": "그럼, 선생님. 다음을.",
+      "g_en": "What's next, Sensei?",
+      "g_th": "ถ้างั้นคุณครู ต่อไปก็...",
+      "g_tw": "那麼老師，下一個也麻煩了。",
+      "g_tw_cn": "那么老师，下一个也麻烦了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2690570743,
+    "DataType": "speaker",
+    "Script": "3;린;S2_01;그럼, 선생님. 다음을.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私もにわかには信じがたいですが……",
+      "j_ko": "정체불명의 괴물이라니…… 그야 곧이곧대로 믿기 어려운 이야기입니다만.",
+      "g_ja": "私もにわかには信じがたいですが……",
+      "g_ko": "정체불명의 괴물이라니…… 그야 곧이곧대로 믿기 어려운 이야기입니다만.",
+      "g_en": "It's hard to believe that an unidentified monster slipped past our defenses...",
+      "g_th": "สัตว์ประหลาดที่ไม่สามารถระบุได้... ก็ถือว่าเป็นเรื่องยากที่จะเชื่ออยู่นะคะ",
+      "g_tw": "竟然是來歷不明的怪物……真是難以置信。",
+      "g_tw_cn": "竟然是来历不明的怪物……真是难以置信。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1867911819,
+    "DataType": "speaker",
+    "Script": "3;치나츠;04;정체불명의 괴물이라니…… 그야 곧이곧대로 믿기 어려운 이야기입니다만.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いったい何が起きているのでしょうか……",
+      "j_ko": "대체 무슨 일인 걸까요……",
+      "g_ja": "いったい何が起きているのでしょうか……",
+      "g_ko": "대체 무슨 일인 걸까요……",
+      "g_en": "I wonder what's going on...",
+      "g_th": "ครั้งนี้จะเป็นเรื่องอะไรอีกคะเนี่ย...",
+      "g_tw": "究竟是怎麼回事……",
+      "g_tw_cn": "究竟是怎么回事……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1867911819,
+    "DataType": "speaker",
+    "Script": "3;치나츠;06;대체 무슨 일인 걸까요……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

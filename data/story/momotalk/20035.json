@@ -1,0 +1,508 @@
+[
+  {
+    "BondScenarioId": 2003502,
+    "Data": [
+      {
+        "GroupId": 200350010,
+        "Id": 200350010,
+        "CharacterId": 20035,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350020,
+        "Message": {
+          "j_ko": "안녕, 선생님.",
+          "j_ja": "おはよ～先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350020,
+        "Id": 200350020,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350030,
+        "Message": {
+          "j_ko": "오. 츠바키네.",
+          "j_ja": "あ、ツバキだ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350020,
+        "Id": 200350030,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350030,
+        "Message": {
+          "j_ko": "오늘도 수행 중이야?",
+          "j_ja": "今日も修行してたの？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350030,
+        "Id": 200350040,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350040,
+        "Message": {
+          "j_ko": "맞아.",
+          "j_ja": "うん、私だよ～\n修行終わったところ……ふわぁ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350040,
+        "Id": 200350050,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350050,
+        "Message": {
+          "j_ko": "이번엔 특별히",
+          "j_ja": "今回は普通の修行じゃないの……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200350050,
+            "Id": 200350060,
+            "CharacterId": 20035,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200350060,
+            "Message": {
+              "j_ko": "수행을 위해…… 더욱 심기일전해서",
+              "j_ja": "だから、いつもより気合を入れようと思って"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 200350050,
+            "Id": 200350070,
+            "CharacterId": 20035,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200350060,
+            "Message": {
+              "j_ko": "옷까지 바꿔 입었으니까.",
+              "j_ja": "服を着替えたんだ～"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200350050,
+        "Id": 200350060,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350060,
+        "Message": {
+          "j_ko": "수행을 위해…… 더욱 심기일전해서",
+          "j_ja": "だから、いつもより気合を入れようと思って"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350050,
+        "Id": 200350070,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350060,
+        "Message": {
+          "j_ko": "옷까지 바꿔 입었으니까.",
+          "j_ja": "服を着替えたんだ～"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350060,
+        "Id": 200350080,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350070,
+        "Message": {
+          "j_ko": "옷을 바꿔 입었다고?",
+          "j_ja": "今日はいつもの服じゃないの？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350070,
+        "Id": 200350090,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350080,
+        "Message": {
+          "j_ko": "응.",
+          "j_ja": "うん"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350080,
+        "Id": 200350100,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350090,
+        "Message": {
+          "j_ko": "백귀야행에 오게 되면",
+          "j_ja": "百鬼夜行に来てくれたら"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350080,
+        "Id": 200350110,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200352,
+        "NextGroupId": 200350090,
+        "Message": {
+          "j_ko": "보여 줄게?",
+          "j_ja": "見せてあげるね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003503,
+    "Data": [
+      {
+        "GroupId": 200350090,
+        "Id": 200350120,
+        "CharacterId": 20035,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350100,
+        "Message": {
+          "j_ko": "있잖아. 선생님.",
+          "j_ja": "ねえねえ、先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350100,
+        "Id": 200350130,
+        "CharacterId": 20035,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350110,
+        "Message": {
+          "j_ko": "지금부터 샬레로 갈 생각인데, 괜찮지?",
+          "j_ja": "今からシャーレに行ってもいいかな？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350110,
+        "Id": 200350140,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350120,
+        "Message": {
+          "j_ko": "물론 괜찮지만.",
+          "j_ja": "もちろん、いいよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350110,
+        "Id": 200350150,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350120,
+        "Message": {
+          "j_ko": "츠바키가 여기까지 찾아오다니, 드문 일이네.",
+          "j_ja": "ツバキが来るなんて、めずらしいね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350120,
+        "Id": 200350160,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350130,
+        "Message": {
+          "j_ko": "당연한 거야.",
+          "j_ja": "ありがと～先生。\nこれもガイドの修行なんだ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350120,
+        "Id": 200350170,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350130,
+        "Message": {
+          "j_ko": "지금의 나는, 수면 가이드 카스가 츠바키니까.",
+          "j_ja": "今日の私は睡眠ガイドの春日ツバキ……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350130,
+        "Id": 200350180,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350140,
+        "Message": {
+          "j_ko": "예전에 선생님에게 수면 가이드를 제대로 해 주지 못했으니까…….",
+          "j_ja": "この前は先生に、睡眠のガイドをちゃんとしてあげられなかったでしょ……？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350130,
+        "Id": 200350190,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350140,
+        "Message": {
+          "j_ko": "오늘은 그 분량만큼 철저하게 가이드를 해 줄게.",
+          "j_ja": "だから今日はこの前のぶんまで、しっかりガイドしてあげるね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350140,
+        "Id": 200350200,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350150,
+        "Message": {
+          "j_ko": "결국 샬레에서 자겠다는 소리구나…….",
+          "j_ja": "シャーレには眠りに来るんだね……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350150,
+        "Id": 200350210,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350160,
+        "Message": {
+          "j_ko": "그건 완전한 진실이 아니야.",
+          "j_ja": "そういうことになるのかな……？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350150,
+        "Id": 200350220,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200353,
+        "NextGroupId": 200350160,
+        "Message": {
+          "j_ko": "왜냐하면 선생님도 같이 자야 하니까.",
+          "j_ja": "でも、今日は先生も一緒に寝るんだよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003505,
+    "Data": [
+      {
+        "GroupId": 200350160,
+        "Id": 200350230,
+        "CharacterId": 20035,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350170,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生～"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350170,
+        "Id": 200350240,
+        "CharacterId": 20035,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350180,
+        "Message": {
+          "j_ko": "업무차 백귀야행에 온다고 들었는데, 맞아?",
+          "j_ja": "仕事で百鬼夜行に来るって聞いたけど……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350180,
+        "Id": 200350250,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350190,
+        "Message": {
+          "j_ko": "응. 그렇게 됐어.",
+          "j_ja": "うん。行く予定だよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350190,
+        "Id": 200350260,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350200,
+        "Message": {
+          "j_ko": "그렇구나.",
+          "j_ja": "そうなんだ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350190,
+        "Id": 200350270,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350200,
+        "Message": {
+          "j_ko": "헤헤.",
+          "j_ja": "ふふっ、それじゃあ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350200,
+        "Id": 200350280,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350210,
+        "Message": {
+          "j_ko": "그러면 말이지.",
+          "j_ja": "仕事のあと、すこし会えるかな？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350200,
+        "Id": 200350290,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350210,
+        "Message": {
+          "j_ko": "업무가 끝나면…… 연락줄래?",
+          "j_ja": "用事が終わったら……連絡してくれる？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350210,
+        "Id": 200350300,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350220,
+        "Message": {
+          "j_ko": "그래. 그렇게 할게.",
+          "j_ja": "うん、また後でね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350220,
+        "Id": 200350310,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350230,
+        "Message": {
+          "j_ko": "예전에도 못 했던 수면 가이드.",
+          "j_ja": "ありがと～"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350220,
+        "Id": 200350320,
+        "CharacterId": 20035,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200350230,
+        "Message": {
+          "j_ko": "이번에는 확실하게 해 줄 테니까.",
+          "j_ja": "この前も睡眠ガイドできなかったから、今度こそしっかりやりたくて"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200350230,
+        "Id": 200350330,
+        "CharacterId": 20035,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200355,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "은근히 마음에 두고 있었구나……",
+          "j_ja": "気にしてくれてたんだね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

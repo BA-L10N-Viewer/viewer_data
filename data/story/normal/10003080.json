@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第8話</span><br/><span class=\"scenario-cmd-title\">風紀委員会vs問題児集団（１）</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제8화</span><br/><span class=\"scenario-cmd-title\">선도부 vs 문제아 1</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第8話</span><br/><span class=\"scenario-cmd-title\">風紀委員会vs問題児集団（１）</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제8화</span><br/><span class=\"scenario-cmd-title\">선도부 vs 문제아 1</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 8</span><br/><span class=\"scenario-cmd-title\">Prefect Team Defends the Beach Part 1</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 8</span><br/><span class=\"scenario-cmd-title\">คณะกรรมการวินัย vs เด็กเจ้าปัญหา 1</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第8話</span><br/><span class=\"scenario-cmd-title\">風紀委員會vs問題兒童集團（１）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第8话</span><br/><span class=\"scenario-cmd-title\">风纪委员会vs问题儿童集团（１）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제8화;선도부 vs 문제아 1",
+    "BGMId": 18,
+    "Sound": "",
+    "BGName": 3136564414,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え、はぁ！？風紀委員長！？嘘だ、不在だったはず……！？",
+      "j_ko": "뭐, 뭐야?! 선도부장이라고?! 자리를 비웠다며!! 없다며!!",
+      "g_ja": "え、はぁ！？風紀委員長！？嘘だ、不在だったはず……！？",
+      "g_ko": "뭐, 뭐야?! 선도부장이라고?! 자리를 비웠다며!! 없다며!!",
+      "g_en": "What's the Head Prefect doing here?! You said she was out of commission!",
+      "g_th": "อะ...อะไรน่ะ?! หัวหน้าคณะกรรมการวินัยงั้นเหรอ?! ไหนว่ายัยนั่นไม่อยู่ที่นี่ไงล่ะ!!<br/>ยัยเปี๊ยกนั่นต้องไม่อยู่ไม่ใช่เรอะ!!",
+      "g_tw": "咦，啊！？風紀委員長！？<br/>你不是說他不在嗎！不是嗎！？",
+      "g_tw_cn": "咦，啊！？风纪委员长！？<br/>你不是说他不在吗！不是吗！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 463293983,
+    "DataType": "speaker",
+    "Script": "3;첨벙첨벙 헬멧단 A;01;뭐, 뭐야?! 선도부장이라고?! 자리를 비웠다며!! 없다며!!\\n#3;shake\\n#3;em;[?!]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "取り合えず撃て！どうせ兵力はこっちが上！とにかく数で押すんだっ！！",
+      "j_ko": "크히헤헤헷! 쏴! 쏴라! 어차피 전력은 이쪽이 우세해! 쏴서 쓰러트려!",
+      "g_ja": "取り合えず撃て！どうせ兵力はこっちが上！とにかく数で押すんだっ！！",
+      "g_ko": "크히헤헤헷! 쏴! 쏴라! 어차피 전력은 이쪽이 우세해! 쏴서 쓰러트려!",
+      "g_en": "Stop thinking and shoot! We still outnumber them! Mow 'em down!",
+      "g_th": "กร๊ากฮ่าๆๆๆ! ยิงเลย! ยิงเข้าไป! ถึงยังไงทางเราก็มีคนมากกว่า! ถล่มยิงให้ราบไปเลย!",
+      "g_tw": "先開槍就對了！反正我們的兵力更多！用人數壓制！！",
+      "g_tw_cn": "先开枪就对了！反正我们的兵力更多！用人数压制！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2111066025,
+    "DataType": "speaker",
+    "Script": "5;엉망진창 수영복 불량배 A;03;크히헤헤헷! 쏴! 쏴라! 어차피 전력은 이쪽이 우세해! 쏴서 쓰러트려!\\n#5;hophop\\n#5;em;[재잘]\\n#5;a\\n#3;m1",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何を言ってるんだバカ！ゲヘナの風紀委員長を相手に、数で勝てるわけが……！",
+      "j_ko": "아니, 바보야! 도망쳐야지!! 게헨나의 선도부장을 상대로 이길 수 있을 것 같냐!!",
+      "g_ja": "何を言ってるんだバカ！ゲヘナの風紀委員長を相手に、数で勝てるわけが……！",
+      "g_ko": "아니, 바보야! 도망쳐야지!! 게헨나의 선도부장을 상대로 이길 수 있을 것 같냐!!",
+      "g_en": "Are you stupid?! We're no match for the Head Prefect!",
+      "g_th": "เดี๋ยวก่อน! จะบ้ารึไง! เราต้องเผ่นกันแล้ว!!<br/>คิดว่าจะเอาชนะประธานคณะกรรมการวินัยของเกเฮนน่าได้งั้นเรอะ!",
+      "g_tw": "說什麼啊，笨蛋！對手是格黑娜的風紀委員長的話，就不是能用數量取勝的……！",
+      "g_tw_cn": "说什么啊，笨蛋！对手是格黑娜的风纪委员长的话，就不是能用数量取胜的……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 463293983,
+    "DataType": "speaker",
+    "Script": "3;첨벙첨벙 헬멧단 A;01;아니, 바보야! 도망쳐야지!! 게헨나의 선도부장을 상대로 이길 수 있을 것 같냐!!\\n#3;hophop\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……戦闘を始める。",
+      "j_ko": "전투 준비.",
+      "g_ja": "……戦闘を始める。",
+      "g_ko": "전투 준비.",
+      "g_en": "Commencing assault.",
+      "g_th": "เตรียมพร้อมต่อสู้",
+      "g_tw": "……開始戰鬥。",
+      "g_tw_cn": "……开始战斗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3674336439,
+    "DataType": "speaker",
+    "Script": "3;히나 수영복ND;01;전투 준비.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SE_Reload_03",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

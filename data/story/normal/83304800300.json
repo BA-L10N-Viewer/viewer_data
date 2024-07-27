@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（催眠にかかって性格が変わるなんて……）",
+      "j_ko": "(최면에 걸려 성격이 바뀐 마코토라니……)",
+      "g_ja": "（催眠にかかって性格が変わるなんて……）",
+      "g_ko": "(최면에 걸려 성격이 바뀐 마코토라니……)",
+      "g_en": "(Makoto's personality completely changed when she was hypnotized.)",
+      "g_th": "(มาโคโตะนิสัยเปลี่ยนไปเพราะโดนสะกดจิต...)",
+      "g_tw": "（因為被催眠而改變個性的真琴……）",
+      "g_tw_cn": "（因为被催眠而改变个性的真琴……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(최면에 걸려 성격이 바뀐 마코토라니……)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（平和を訴えるマコト……さっぱり想像がつかない）",
+      "j_ko": "(……평화를 외치는 마코토. 역시 상상이 안되네.)",
+      "g_ja": "（平和を訴えるマコト……さっぱり想像がつかない）",
+      "g_ko": "(……평화를 외치는 마코토. 역시 상상이 안되네.)",
+      "g_en": "(The thought of Makoto, of all people, shouting for peace is...)",
+      "g_th": "(มาโคโตะที่ออกมาปกป้องสันติภาพ... นึกภาพไม่ออกเลยนะ)",
+      "g_tw": "（……吶喊和平的真琴還真是難以想像）",
+      "g_tw_cn": "（……呐喊和平的真琴还真是难以想像）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;04;(……평화를 외치는 마코토. 역시 상상이 안되네.)\\n#3;closeup\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

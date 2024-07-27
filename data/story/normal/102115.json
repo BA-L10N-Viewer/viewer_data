@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">第3サンクトゥム「廃墟化した遊園地」</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">제3 성소 공략 - 버려진 유원지</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">第3サンクトゥム「廃墟化した遊園地」</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">제3 성소 공략 - 버려진 유원지</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\"> The Third Sanctum - Abandoned Amusement Park</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">ปฏิบัติการบุกยึดหอคอยแห่งที่ 3 - สวนสนุกร้าง</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">第3聖所「廢墟化的遊樂園」</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">第3圣所「废墟化的游乐园」</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;제3 성소 공략 - 버려진 유원지",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2679822545,
+    "ShowTextColor": "black"
+  }
+]

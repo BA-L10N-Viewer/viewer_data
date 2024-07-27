@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（まあ、マコトが問題児を焚き付けたことには素直に感心したわ）",
+      "j_ko": "(이러니저러니 해도 마코토가 문제아들을 감복시킨 부분에 대해선 놀라고 있어.)",
+      "g_ja": "（まあ、マコトが問題児を焚き付けたことには素直に感心したわ）",
+      "g_ko": "(이러니저러니 해도 마코토가 문제아들을 감복시킨 부분에 대해선 놀라고 있어.)",
+      "g_en": "(How was Makoto able to win the loyalty of those delinquent gangs?)",
+      "g_th": "(ไม่ว่าจะยังไง การที่มาโคโตะทำให้พวกเด็กเจ้าปัญหาศรัทธาได้ก็เป็นเรื่องน่าตกใจอยู่ดี)",
+      "g_tw": "（不管怎麼說，真琴能收服問題學生的確很讓人訝異）",
+      "g_tw_cn": "（不管怎么说，真琴能收服问题学生的确很让人讶异）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(이러니저러니 해도 마코토가 문제아들을 감복시킨 부분에 대해선 놀라고 있어.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（いい意味でも悪い意味でも……才能なのかも）",
+      "j_ko": "(좋은 의미로든 나쁜 의미로든…… 재능인 걸지도.)",
+      "g_ja": "（いい意味でも悪い意味でも……才能なのかも）",
+      "g_ko": "(좋은 의미로든 나쁜 의미로든…… 재능인 걸지도.)",
+      "g_en": "(She has a talent for inspiring people...for better and worse.)",
+      "g_th": "(นั่นอาจจะเป็นพรสวรรค์ของเธอก็ได้... ไม่ว่าจะในทางที่ดีหรือไม่ดีก็ตาม)",
+      "g_tw": "（它所代表的意義是好是壞姑且不論……那說不定也是一種才能）",
+      "g_tw_cn": "（它所代表的意义是好是坏姑且不论……那说不定也是一种才能）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(좋은 의미로든 나쁜 의미로든…… 재능인 걸지도.)\\n#3;closeup\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

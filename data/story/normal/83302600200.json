@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（怪物が現れたと聞いた時は何かと思ったけれど）",
+      "j_ko": "(처음 괴물이 나타났을 때는 대체 어떤 연유로 그렇게 된 건지 의아했지만.)",
+      "g_ja": "（怪物が現れたと聞いた時は何かと思ったけれど）",
+      "g_ko": "(처음 괴물이 나타났을 때는 대체 어떤 연유로 그렇게 된 건지 의아했지만.)",
+      "g_en": "(The sudden appearance of a monster like that took me by surprise.)",
+      "g_th": "(ตอนที่สัตว์ประหลาดปรากฏตัวขึ้น ตอนแรกก็สงสัยอยู่ว่าออกมาได้ยังไง)",
+      "g_tw": "（怪物剛出現的時候還有點訝異）",
+      "g_tw_cn": "（怪物刚出现的时候还有点讶异）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(처음 괴물이 나타났을 때는 대체 어떤 연유로 그렇게 된 건지 의아했지만.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（まさかうちの地下水にあんな効果があったとは……）",
+      "j_ko": "(과연 온천수에 그런 효능이……)",
+      "g_ja": "（まさかうちの地下水にあんな効果があったとは……）",
+      "g_ko": "(과연 온천수에 그런 효능이……)",
+      "g_en": "(Can hot spring water really possess that kind of power...?)",
+      "g_th": "(เป็นผลมาจากน้ำจากสายน้ำพุร้อนตรงนั้นสินะ...)",
+      "g_tw": "（沒想到溫泉水會有那種效果……）",
+      "g_tw_cn": "（没想到温泉水会有那种效果……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(과연 온천수에 그런 효능이……)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（油断できないわね）",
+      "j_ko": "(가끔 게헨나에선 비슷한 일이 일어나니, 정말 방심할 수가 없네.)",
+      "g_ja": "（油断できないわね）",
+      "g_ko": "(가끔 게헨나에선 비슷한 일이 일어나니, 정말 방심할 수가 없네.)",
+      "g_en": "(If Gehenna has taught me anything, it's to expect everything.)",
+      "g_th": "(บางครั้งเรื่องคล้ายๆ กันนี้ก็เกิดขึ้นในเกเฮนน่า จะประมาทไม่ได้แล้วละ)",
+      "g_tw": "（格黑娜偶爾就會發生類似的事，真是無法掉以輕心）",
+      "g_tw_cn": "（格黑娜偶尔就会发生类似的事，真是无法掉以轻心）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(가끔 게헨나에선 비슷한 일이 일어나니, 정말 방심할 수가 없네.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

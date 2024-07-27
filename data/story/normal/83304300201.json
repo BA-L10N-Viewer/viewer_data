@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にしても、他でもない議長の口から「平和」なんて言葉が出るなんて……",
+      "j_ko": "그나저나…… 다른 누구도 아닌 의장의 입에서 <싸움 반대>라는 말이 나오다니……",
+      "g_ja": "にしても、他でもない議長の口から「平和」なんて言葉が出るなんて……",
+      "g_ko": "그나저나…… 다른 누구도 아닌 의장의 입에서 <싸움 반대>라는 말이 나오다니……",
+      "g_en": "...And I still can't believe Makoto was telling people to \"stop fighting\"...",
+      "g_th": "จะว่าไป... ที่ประธานของทางนั้นบอกด้วยตัวเองว่า <ต่อต้านการต่อสู้>...",
+      "g_tw": "話說回來……竟然偏偏是從議長口中說出要「反對鬥爭」……",
+      "g_tw_cn": "话说回来……竟然偏偏是从议长口中说出要「反对斗争」……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 792267831,
+    "DataType": "speaker",
+    "Script": "3;이오리;99;그나저나…… 다른 누구도 아닌 의장의 입에서 <싸움 반대>라는 말이 나오다니……\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "普段の言動を見てると、呆れるしかないよ……",
+      "j_ko": "그런 말이 가장 어울리지 않을 사람이라, 솔직히 짜증나다 못해 어이가 없다구……",
+      "g_ja": "普段の言動を見てると、呆れるしかないよ……",
+      "g_ko": "그런 말이 가장 어울리지 않을 사람이라, 솔직히 짜증나다 못해 어이가 없다구……",
+      "g_en": "She's the last person I would ever imagine writing those words. It's so far past annoying that I'm speechless...",
+      "g_th": "บอกตามตรงว่าฟังแล้วฉันหงุดหงิดขึ้นมาเลย พูดอะไรไม่เหมาะกับตัวเองเลยสักนิด...",
+      "g_tw": "他應該是最不適合說那種話的人吧……老實說簡直讓人覺得又煩又荒唐……",
+      "g_tw_cn": "他应该是最不适合说那种话的人吧……老实说简直让人觉得又烦又荒唐……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 792267831,
+    "DataType": "speaker",
+    "Script": "3;이오리;07;그런 말이 가장 어울리지 않을 사람이라, 솔직히 짜증나다 못해 어이가 없다구……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

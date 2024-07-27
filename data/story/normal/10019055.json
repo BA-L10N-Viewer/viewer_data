@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、サンクトゥムの守護者「ホド」の撃破が完了したね。",
+      "j_ko": "아아, 성소의 수호자 <호드> 공략 완료야.",
+      "g_ja": "お、サンクトゥムの守護者「ホド」の撃破が完了したね。",
+      "g_ko": "아아, 성소의 수호자 <호드> 공략 완료야.",
+      "g_en": "The Sanctum guardian, Hod, has been defeated.",
+      "g_th": "อ่า... กำจัดผู้พิทักษ์หอคอย <HOD> สำเร็จแล้ว",
+      "g_tw": "哦，聖所的守護者「霍德」攻略完畢了呢。",
+      "g_tw_cn": "哦，圣所的守护者「霍德」攻略完毕了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;02;아아, 성소의 수호자 <호드> 공략 완료야.\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "第5サンクトゥムの破壊を確認したよ。",
+      "j_ko": "이걸로 제5 성소의 파괴를 확인했어.",
+      "g_ja": "第5サンクトゥムの破壊を確認したよ。",
+      "g_ko": "이걸로 제5 성소의 파괴를 확인했어.",
+      "g_en": "Fifth Sanctum destroyed!",
+      "g_th": "ยืนยันการทำลายหอคอยแห่งที่ 5 เรียบร้อย",
+      "g_tw": "已確認破壞第5聖所了唷。",
+      "g_tw_cn": "已确认破坏第5圣所了唷。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;02;이걸로 제5 성소의 파괴를 확인했어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "引き続きよろしくね、先生♪",
+      "j_ko": "이 다음도 잘 부탁한다고, 선생?",
+      "g_ja": "引き続きよろしくね、先生♪",
+      "g_ko": "이 다음도 잘 부탁한다고, 선생?",
+      "g_en": "Keep it up, Sensei! We've got another one!",
+      "g_th": "ด่านต่อไปก็ฝากด้วยนะ ครู?",
+      "g_tw": "繼續拜託你囉，老師♪",
+      "g_tw_cn": "继续拜托你啰，老师♪",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;14;이 다음도 잘 부탁한다고, 선생?\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SE_Eat_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

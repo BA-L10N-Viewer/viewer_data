@@ -1,0 +1,1072 @@
+[
+  {
+    "BondScenarioId": 1001702,
+    "Data": [
+      {
+        "GroupId": 100170010,
+        "Id": 100170010,
+        "CharacterId": 10017,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170020,
+        "Message": {
+          "j_ko": "기뻐하게나, 콤라드.",
+          "j_ja": "喜べ、カムラッド！",
+          "g_en": "You should be happy, Comrade.",
+          "g_tw": "歡呼吧，同志！",
+          "g_tw_cn": "欢呼吧，同志！",
+          "g_ja": "喜べ、カムラッド！",
+          "g_ko": "기뻐하게나, 콤라드."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170020,
+        "Id": 100170020,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170030,
+        "Message": {
+          "j_ko": "콤라드의 노력을 치하하기 위해",
+          "j_ja": "カムラッドのこれまでの努力を称えて",
+          "g_en": "To commend a fellow comrade's efforts,",
+          "g_tw": "為了表揚同志至今為止的努力",
+          "g_tw_cn": "为了表扬同志至今为止的努力",
+          "g_ja": "カムラッドのこれまでの努力を称えて",
+          "g_ko": "콤라드의 노력을 치하하기 위해"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170020,
+        "Id": 100170030,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170030,
+        "Message": {
+          "j_ko": "우리 붉은겨울 연방학원에서 콤라드에게",
+          "j_ja": "我がレッドウィンター連邦学園からカムラッドに新たな勲章",
+          "g_en": "Red Winter Federal Academy has decided to award you...",
+          "g_tw": "我等赤冬聯邦學園將授予同志新的勳章",
+          "g_tw_cn": "我等赤冬联邦学园将授予同志新的勋章",
+          "g_ja": "我がレッドウィンター連邦学園からカムラッドに新たな勲章",
+          "g_ko": "우리 붉은겨울 연방학원에서 콤라드에게"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170020,
+        "Id": 100170040,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170030,
+        "Message": {
+          "j_ko": "<특별 학생 우호 훈장>을 수여하기로 했다네!",
+          "j_ja": "「特別友好章」を授与することにしたのだ！",
+          "g_en": "the Special Student Friendship Medal!",
+          "g_tw": "「特別友好章」！",
+          "g_tw_cn": "「特别友好章」！",
+          "g_ja": "「特別友好章」を授与することにしたのだ！",
+          "g_ko": "<특별 학생 우호 훈장>을 수여하기로 했다네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170030,
+        "Id": 100170050,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170040,
+        "Message": {
+          "j_ko": "특별 학생 우호 훈장은 지난번에도 받지 않았어?",
+          "j_ja": "あれ……特別友好章って、この前も貰わなかったっけ？",
+          "g_en": "Wait, didn't you get the Special Student Friendship Medal last time too?",
+          "g_tw": "咦……特別友好章不是已經拿過了嗎？",
+          "g_tw_cn": "咦……特别友好章不是已经拿过了吗？",
+          "g_ja": "あれ……特別友好章って、この前も貰わなかったっけ？",
+          "g_ko": "특별 학생 우호 훈장은 지난번에도 받지 않았어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170040,
+        "Id": 100170060,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170050,
+        "Message": {
+          "j_ko": "무슨 소리인가. 지난번에 수여한 훈장은 <특별 학생 우정 훈장> 이었다고.",
+          "j_ja": "何を言っている、この前授与した勲章は「特別友情章」だ",
+          "g_en": "What are you talking about? Last time it was the Special Student Cordiality Medal.",
+          "g_tw": "說什麼呢，上次授予的勳章是「特別友情章」！",
+          "g_tw_cn": "说什么呢，上次授予的勋章是「特别友情章」！",
+          "g_ja": "何を言っている、この前授与した勲章は「特別友情章」だ",
+          "g_ko": "무슨 소리인가. 지난번에 수여한 훈장은 <특별 학생 우정 훈장> 이었다고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170040,
+        "Id": 100170070,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170050,
+        "Message": {
+          "j_ko": "훈장의 종류를 벌써부터 헷갈리면 어쩌자는 건가.",
+          "j_ja": "勲章の種類を間違えるとはけしからん",
+          "g_en": "The names of these medals are so confusing...",
+          "g_tw": "勳章的種類可不能弄錯",
+          "g_tw_cn": "勋章的种类可不能弄错",
+          "g_ja": "勲章の種類を間違えるとはけしからん",
+          "g_ko": "훈장의 종류를 벌써부터 헷갈리면 어쩌자는 건가."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170050,
+        "Id": 100170080,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170060,
+        "Message": {
+          "j_ko": "훈장이 몇 종류나 있는 거야…….",
+          "j_ja": "勲章ってそんなに色々あるんだ……",
+          "g_en": "How many different awards are there?",
+          "g_tw": "有那麼多種勳章啊……",
+          "g_tw_cn": "有那么多种勋章啊……",
+          "g_ja": "勲章ってそんなに色々あるんだ……",
+          "g_ko": "훈장이 몇 종류나 있는 거야……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170060,
+        "Id": 100170090,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170070,
+        "Message": {
+          "j_ko": "붉은겨울 연방학원에서는 학원의 발전에 크게 기여한 학생들을 표창하기 위해",
+          "j_ja": "レッドウィンターでは、学園の発展に大きく貢献した者を表彰するために、",
+          "g_en": "Red Winter Federal Academy has a total of 247 different medals to",
+          "g_tw": "在赤冬，為了表揚對學園發展做出巨大貢獻的人",
+          "g_tw_cn": "在赤冬，为了表扬对学园发展做出巨大贡献的人",
+          "g_ja": "レッドウィンターでは、学園の発展に大きく貢献した者を表彰するために、",
+          "g_ko": "붉은겨울 연방학원에서는 학원의 발전에 크게 기여한 학생들을 표창하기 위해"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170060,
+        "Id": 100170100,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170070,
+        "Message": {
+          "j_ko": "총 247가지의 훈장을 보유하고 있지.",
+          "j_ja": "計247種類の勲章が存在する",
+          "g_en": "award students who contribute greatly to the advancement of our academy.",
+          "g_tw": "共有247種勳章",
+          "g_tw_cn": "共有247种勋章",
+          "g_ja": "計247種類の勲章が存在する",
+          "g_ko": "총 247가지의 훈장을 보유하고 있지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170070,
+        "Id": 100170110,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170080,
+        "Message": {
+          "j_ko": "체리노는 그중 몇 가지의 훈장을 받았어?",
+          "j_ja": "すごい数だね。チェリノはいくつの勲章を持ってるの？",
+          "g_en": "How many medals have you gotten, Cherino?",
+          "g_tw": "數量好驚人。潔莉諾有多少勳章？",
+          "g_tw_cn": "数量好惊人。洁莉诺有多少勋章？",
+          "g_ja": "すごい数だね。チェリノはいくつの勲章を持ってるの？",
+          "g_ko": "체리노는 그중 몇 가지의 훈장을 받았어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170080,
+        "Id": 100170120,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170090,
+        "Message": {
+          "j_ko": "후후, 어리석은 질문이로군. 콤라드.",
+          "j_ja": "ふふ、バカげた質問だな。カムラッド",
+          "g_en": "What a foolish question, Comrade.",
+          "g_tw": "呵呵，真是愚蠢的問題啊。同志",
+          "g_tw_cn": "呵呵，真是愚蠢的问题啊。同志",
+          "g_ja": "ふふ、バカげた質問だな。カムラッド",
+          "g_ko": "후후, 어리석은 질문이로군. 콤라드."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170080,
+        "Id": 100170130,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100172,
+        "NextGroupId": 100170090,
+        "Message": {
+          "j_ko": "……247종 전부다!",
+          "j_ja": "……247種、全部だ！",
+          "g_en": "...I've been awarded all 247 medals!",
+          "g_tw": "……247種，全部！",
+          "g_tw_cn": "……247种，全部！",
+          "g_ja": "……247種、全部だ！",
+          "g_ko": "……247종 전부다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170090,
+        "Id": 100170140,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170100,
+        "Message": {
+          "j_ko": "이것 보거라, 콤라드. 이 몸이 그린 새로운 훈장의 디자인이니라!",
+          "j_ja": "見ろカムラッド。あの後おいらの手で仕上げた、新しい勲章のデザインだ！",
+          "g_en": "Look here, Comrade. This is the newest medal, designed by yours truly!",
+          "g_tw": "看吧，同志。下面是咱親自完成的新勳章設計！",
+          "g_tw_cn": "看吧，同志。下面是咱亲自完成的新勋章设计！",
+          "g_ja": "見ろカムラッド。あの後おいらの手で仕上げた、新しい勲章のデザインだ！",
+          "g_ko": "이것 보거라, 콤라드. 이 몸이 그린 새로운 훈장의 디자인이니라!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170100,
+        "Id": 100170150,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170110,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Cherino_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170110,
+        "Id": 100170160,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170120,
+        "Message": {
+          "j_ko": "후후, 디자인만으로도 광채가 나지 않느냐?",
+          "j_ja": "ふふ、デザインからしてすでに光り輝いているだろう？",
+          "g_en": "Heehee! Isn't this the most incredible design you've ever seen?",
+          "g_tw": "呵呵，光看設計就覺得閃閃發光對吧？",
+          "g_tw_cn": "呵呵，光看设计就觉得闪闪发光对吧？",
+          "g_ja": "ふふ、デザインからしてすでに光り輝いているだろう？",
+          "g_ko": "후후, 디자인만으로도 광채가 나지 않느냐?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170120,
+        "Id": 100170170,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170130,
+        "Message": {
+          "j_ko": "인상적이네.",
+          "j_ja": "良いと思う！",
+          "g_en": "It's impressive, all right.",
+          "g_tw": "我覺得很棒！",
+          "g_tw_cn": "我觉得很棒！",
+          "g_ja": "良いと思う！",
+          "g_ko": "인상적이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170120,
+        "Id": 100170180,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170130,
+        "Message": {
+          "j_ko": "이런 디자인의 훈장은 처음 봐…….",
+          "j_ja": "……頑張ったね！",
+          "g_en": "I've never seen a design like this before...",
+          "g_tw": "……盡力了呢！",
+          "g_tw_cn": "……尽力了呢！",
+          "g_ja": "……頑張ったね！",
+          "g_ko": "이런 디자인의 훈장은 처음 봐……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170130,
+        "Id": 100170190,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170140,
+        "Message": {
+          "j_ko": "그렇지? 좀 더 칭찬해도 괜찮느니라!",
+          "j_ja": "ふふっ、もっと褒めても良いぞ！",
+          "g_en": "Right? Don't be shy, tell me how great it is!",
+          "g_tw": "呵呵，再多稱讚幾句也可以唷！",
+          "g_tw_cn": "呵呵，再多称赞几句也可以唷！",
+          "g_ja": "ふふっ、もっと褒めても良いぞ！",
+          "g_ko": "그렇지? 좀 더 칭찬해도 괜찮느니라!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170130,
+        "Id": 100170200,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170140,
+        "Message": {
+          "j_ko": "어쩌면 이 몸에게는 훌륭한 디자이너의 자질이 있을지도……!",
+          "j_ja": "もしかしたらおいらには、デザイナーの素質まであるのかもしれない……！",
+          "g_en": "I might just be a genius designer!",
+          "g_tw": "說不定咱也有當設計師的資質……！",
+          "g_tw_cn": "说不定咱也有当设计师的资质……！",
+          "g_ja": "もしかしたらおいらには、デザイナーの素質まであるのかもしれない……！",
+          "g_ko": "어쩌면 이 몸에게는 훌륭한 디자이너의 자질이 있을지도……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001703,
+    "Data": [
+      {
+        "GroupId": 100170140,
+        "Id": 100170210,
+        "CharacterId": 10017,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170150,
+        "Message": {
+          "j_ko": "우으…….",
+          "j_ja": "うぅ……",
+          "g_en": "Um...",
+          "g_tw": "唔……",
+          "g_tw_cn": "唔……",
+          "g_ja": "うぅ……",
+          "g_ko": "우으……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170150,
+        "Id": 100170220,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170160,
+        "Message": {
+          "j_ko": "콤라드에게는 특별히 가리는 음식이 있는가?",
+          "j_ja": "なあ、カムラッドには何か苦手な食べ物とかあるのか？",
+          "g_en": "Are there any foods you don't like, Comrade?",
+          "g_tw": "吶，同志有什麼不喜歡的食物嗎？",
+          "g_tw_cn": "呐，同志有什么不喜欢的食物吗？",
+          "g_ja": "なあ、カムラッドには何か苦手な食べ物とかあるのか？",
+          "g_ko": "콤라드에게는 특별히 가리는 음식이 있는가?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170160,
+        "Id": 100170230,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170170,
+        "Message": {
+          "j_ko": "갑자기 가리는 음식은 왜?",
+          "j_ja": "急にどうしたの？",
+          "g_en": "What? You wanna talk about food all of a sudden?",
+          "g_tw": "這麼突然，怎麼了？",
+          "g_tw_cn": "这么突然，怎么了？",
+          "g_ja": "急にどうしたの？",
+          "g_ko": "갑자기 가리는 음식은 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170170,
+        "Id": 100170240,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170180,
+        "Message": {
+          "j_ko": "이 몸은 피망이 싫다네. 맵고, 쓰고, 아린 맛이 나지 않는가!",
+          "j_ja": "おいらはピーマンが嫌いだ。苦くて、変な味がする！",
+          "g_en": "I hate bell peppers. They're spicy, bitter, and strange!",
+          "g_tw": "咱討厭青椒。味道又苦又怪！",
+          "g_tw_cn": "咱讨厌青椒。味道又苦又怪！",
+          "g_ja": "おいらはピーマンが嫌いだ。苦くて、変な味がする！",
+          "g_ko": "이 몸은 피망이 싫다네. 맵고, 쓰고, 아린 맛이 나지 않는가!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170170,
+        "Id": 100170250,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170180,
+        "Message": {
+          "j_ko": "으으……. 그 끔찍한 맛은 악마의 열매라고 해도 좋을 정도라네!",
+          "j_ja": "くぅっ……あのひどい味は、悪魔の食べ物と呼んでも良いぐらいだ",
+          "g_en": "Ugh... If you ask me, they may as well be called the fruit of death.",
+          "g_tw": "唔……難吃到這地步，甚至可以稱為惡魔的食物",
+          "g_tw_cn": "唔……难吃到这地步，甚至可以称为恶魔的食物",
+          "g_ja": "くぅっ……あのひどい味は、悪魔の食べ物と呼んでも良いぐらいだ",
+          "g_ko": "으으……. 그 끔찍한 맛은 악마의 열매라고 해도 좋을 정도라네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170180,
+        "Id": 100170260,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170190,
+        "Message": {
+          "j_ko": "편식은 몸에 나빠.",
+          "j_ja": "好き嫌いは身体に良くないよ？",
+          "g_en": "Being picky isn't good for your body.",
+          "g_tw": "挑食對身體不好唷？",
+          "g_tw_cn": "挑食对身体不好唷？",
+          "g_ja": "好き嫌いは身体に良くないよ？",
+          "g_ko": "편식은 몸에 나빠."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170190,
+        "Id": 100170270,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170200,
+        "Message": {
+          "j_ko": "편식이 아니야! 피망을 싫어하는 건 사람이면 당연한 거라고!",
+          "j_ja": "好き嫌いじゃない！ピーマンが食べられないのは、人として当然のことだ！",
+          "g_en": "It's not being picky! Everyone hates bell peppers!",
+          "g_tw": "不是挑食！生而為人，吃不了青椒是正常的！",
+          "g_tw_cn": "不是挑食！生而为人，吃不了青椒是正常的！",
+          "g_ja": "好き嫌いじゃない！ピーマンが食べられないのは、人として当然のことだ！",
+          "g_ko": "편식이 아니야! 피망을 싫어하는 건 사람이면 당연한 거라고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170190,
+        "Id": 100170280,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100173,
+        "NextGroupId": 100170200,
+        "Message": {
+          "j_ko": "이렇게 간단한 진리를 학생들은 어째서 깨닫지 못하는 건지…….",
+          "j_ja": "こんな簡単な真理を、なぜ皆理解できないのか……",
+          "g_en": "Why don't the students understand something so obvious?",
+          "g_tw": "這麼簡單的真理，為什麼大家都不能理解呢……",
+          "g_tw_cn": "这么简单的真理，为什么大家都不能理解呢……",
+          "g_ja": "こんな簡単な真理を、なぜ皆理解できないのか……",
+          "g_ko": "이렇게 간단한 진리를 학생들은 어째서 깨닫지 못하는 건지……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001705,
+    "Data": [
+      {
+        "GroupId": 100170200,
+        "Id": 100170290,
+        "CharacterId": 10017,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170210,
+        "Message": {
+          "j_ko": "후후후, 콤라드.",
+          "j_ja": "ふふふ、カムラッド",
+          "g_en": "Hahaha, Comrade. ",
+          "g_tw": "呵呵呵，同志",
+          "g_tw_cn": "呵呵呵，同志",
+          "g_ja": "ふふふ、カムラッド",
+          "g_ko": "후후후, 콤라드."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170210,
+        "Id": 100170300,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170220,
+        "Message": {
+          "j_ko": "지난번에 시내에서 푸딩을 사주겠다는 약속은 잊지 않았겠지?",
+          "j_ja": "この前の、プリンを買ってくれるという約束は忘れていないだろうな？",
+          "g_en": "You didn't forget your promise from last time to buy me pudding, right?",
+          "g_tw": "沒忘記之前說好要買布丁給我吧？",
+          "g_tw_cn": "没忘记之前说好要买布丁给我吧？",
+          "g_ja": "この前の、プリンを買ってくれるという約束は忘れていないだろうな？",
+          "g_ko": "지난번에 시내에서 푸딩을 사주겠다는 약속은 잊지 않았겠지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170220,
+        "Id": 100170310,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170230,
+        "Message": {
+          "j_ko": "물론 잊지 않고 있어.",
+          "j_ja": "もちろん、覚えてるよ",
+          "g_en": "Of course not.",
+          "g_tw": "當然記得",
+          "g_tw_cn": "当然记得",
+          "g_ja": "もちろん、覚えてるよ",
+          "g_ko": "물론 잊지 않고 있어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170230,
+        "Id": 100170320,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170231,
+        "Message": {
+          "j_ko": "역시 콤라드야. 말뿐인 약속을 늘어놓는 어른들과는 다르다니까.",
+          "j_ja": "流石はカムラッド、口だけの約束をするような大人ではないということだな",
+          "g_en": "I knew it. Adults always know how to keep their promises.",
+          "g_tw": "不愧是同志，不是那種只會嘴巴說說的大人",
+          "g_tw_cn": "不愧是同志，不是那种只会嘴巴说说的大人",
+          "g_ja": "流石はカムラッド、口だけの約束をするような大人ではないということだな",
+          "g_ko": "역시 콤라드야. 말뿐인 약속을 늘어놓는 어른들과는 다르다니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170230,
+        "Id": 100170330,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170231,
+        "Message": {
+          "j_ko": "콤라드가 사주는 푸딩을 잔뜩 먹기 위해",
+          "j_ja": "せっかくカムラッドに奢ってもらうのだし、たくさん食べるために何と",
+          "g_en": "I skipped lunch and snack time today",
+          "g_tw": "好不容易讓同志請客，為了能多吃一點",
+          "g_tw_cn": "好不容易让同志请客，为了能多吃一点",
+          "g_ja": "せっかくカムラッドに奢ってもらうのだし、たくさん食べるために何と",
+          "g_ko": "콤라드가 사주는 푸딩을 잔뜩 먹기 위해"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170230,
+        "Id": 100170340,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170231,
+        "Message": {
+          "j_ko": "오늘은 점심 간식도 거르고 기대하고 있었느니라.",
+          "j_ja": "今日はお昼のおやつも抜いたのだ！ふふ、楽しみだな……！",
+          "g_en": "just so I can eat the puddings you're gonna buy me.",
+          "g_tw": "咱今天中午甚至沒吃零食呢！呵呵，好期待啊……！",
+          "g_tw_cn": "咱今天中午甚至没吃零食呢！呵呵，好期待啊……！",
+          "g_ja": "今日はお昼のおやつも抜いたのだ！ふふ、楽しみだな……！",
+          "g_ko": "오늘은 점심 간식도 거르고 기대하고 있었느니라."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170231,
+        "Id": 100170350,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170240,
+        "Message": {
+          "j_ko": "오늘 방과 후, 가게 앞에서 기다리고 있을 테니 늦으면 안 돼!",
+          "j_ja": "今日の放課後、お店の前で待っているから遅れないように！",
+          "g_en": "I'll be waiting in front of the store after school today. Don't be late!",
+          "g_tw": "今天放學後，咱在店門口等著，別遲到！",
+          "g_tw_cn": "今天放学后，咱在店门口等着，别迟到！",
+          "g_ja": "今日の放課後、お店の前で待っているから遅れないように！",
+          "g_ko": "오늘 방과 후, 가게 앞에서 기다리고 있을 테니 늦으면 안 돼!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170240,
+        "Id": 100170360,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100175,
+        "NextGroupId": 100170250,
+        "Message": {
+          "j_ko": "푸딩을 여러 개 사주겠다는 말은 한 적이 없는 것 같은데…….",
+          "j_ja": "たくさん買ってあげるとは、言ってないような……？",
+          "g_en": "I don't remember saying I'd buy you more than one...",
+          "g_tw": "我好像沒有說要買很多耶……？",
+          "g_tw_cn": "我好像没有说要买很多耶……？",
+          "g_ja": "たくさん買ってあげるとは、言ってないような……？",
+          "g_ko": "푸딩을 여러 개 사주겠다는 말은 한 적이 없는 것 같은데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001706,
+    "Data": [
+      {
+        "GroupId": 100170250,
+        "Id": 100170370,
+        "CharacterId": 10017,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170260,
+        "Message": {
+          "j_ko": "콤라드, 어서 창밖을 보게나!",
+          "j_ja": "カムラッド、外を見ろ！",
+          "g_en": "Look out the window, Comrade!",
+          "g_tw": "同志，往外看！",
+          "g_tw_cn": "同志，往外看！",
+          "g_ja": "カムラッド、外を見ろ！",
+          "g_ko": "콤라드, 어서 창밖을 보게나!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170260,
+        "Id": 100170380,
+        "CharacterId": 10017,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170270,
+        "Message": {
+          "j_ko": "눈이야, 눈이 내리고 있다고!",
+          "j_ja": "雪だ、雪がすごい降っているぞ！",
+          "g_en": "There's snow! It's snowing!",
+          "g_tw": "是雪，雪下得好大呀！",
+          "g_tw_cn": "是雪，雪下得好大呀！",
+          "g_ja": "雪だ、雪がすごい降っているぞ！",
+          "g_ko": "눈이야, 눈이 내리고 있다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170270,
+        "Id": 100170390,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170280,
+        "Message": {
+          "j_ko": "샬레는 구름 한 점 없이 화창한데.",
+          "j_ja": "シャーレの方は、雲一つない晴天だよ……",
+          "g_en": "It's sunny outside Schale... Not a cloud in sight.",
+          "g_tw": "夏萊是萬里無雲的晴天……",
+          "g_tw_cn": "夏莱是万里无云的晴天……",
+          "g_ja": "シャーレの方は、雲一つない晴天だよ……",
+          "g_ko": "샬레는 구름 한 점 없이 화창한데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170280,
+        "Id": 100170400,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170290,
+        "Message": {
+          "j_ko": "그럼 바로 붉은겨울 자치구로 오게나!",
+          "j_ja": "なにっ！？それなら、今すぐ我がレッドウィンター連邦学園に来い！",
+          "g_en": "Then come to the Red Winter district right away!",
+          "g_tw": "什麼！那現在就來赤冬聯邦學園吧！",
+          "g_tw_cn": "什么！那现在就来赤冬联邦学园吧！",
+          "g_ja": "なにっ！？それなら、今すぐ我がレッドウィンター連邦学園に来い！",
+          "g_ko": "그럼 바로 붉은겨울 자치구로 오게나!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170280,
+        "Id": 100170410,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170290,
+        "Message": {
+          "j_ko": "이곳에 오면 눈사람도, 눈토끼도 원하는 만큼 만들 수 있다고!",
+          "j_ja": "ここに来れば雪だるまも雪ウサギも、好きなだけ作れるぞ！",
+          "g_en": "If you come here, you can make as many snowmen and snow bunnies as you want!",
+          "g_tw": "在這裡不管是雪人還是雪兔，想做多少就做多少！",
+          "g_tw_cn": "在这里不管是雪人还是雪兔，想做多少就做多少！",
+          "g_ja": "ここに来れば雪だるまも雪ウサギも、好きなだけ作れるぞ！",
+          "g_ko": "이곳에 오면 눈사람도, 눈토끼도 원하는 만큼 만들 수 있다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170290,
+        "Id": 100170420,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170300,
+        "Message": {
+          "j_ko": "일이 끝나고 갈게.",
+          "j_ja": "仕事が終わったら行くね",
+          "g_en": "I'll be there right after work.",
+          "g_tw": "工作結束後就去唷",
+          "g_tw_cn": "工作结束后就去唷",
+          "g_ja": "仕事が終わったら行くね",
+          "g_ko": "일이 끝나고 갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170300,
+        "Id": 100170430,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170310,
+        "Message": {
+          "j_ko": "안 돼! 눈이 언제 그치고 녹아버릴지도 모르는데, 여유를 부릴 틈은 없다고!",
+          "j_ja": "ダメだ！いつ雪が止んでしまうかも分からないのに、そんな余裕はない！",
+          "g_en": "No! You never know when the snow will stop! You have to come right now!",
+          "g_tw": "不行！雪不知道什麼時候就會停了，時間可沒有那麼充裕！",
+          "g_tw_cn": "不行！雪不知道什么时候就会停了，时间可没有那么充裕！",
+          "g_ja": "ダメだ！いつ雪が止んでしまうかも分からないのに、そんな余裕はない！",
+          "g_ko": "안 돼! 눈이 언제 그치고 녹아버릴지도 모르는데, 여유를 부릴 틈은 없다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170300,
+        "Id": 100170440,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100176,
+        "NextGroupId": 100170310,
+        "Message": {
+          "j_ko": "지금 당장, 바로 오게나!",
+          "j_ja": "今すぐ！今すぐ来るのだ！",
+          "g_en": "Come right now! Now!",
+          "g_tw": "現在馬上！現在馬上過來！",
+          "g_tw_cn": "现在马上！现在马上过来！",
+          "g_ja": "今すぐ！今すぐ来るのだ！",
+          "g_ko": "지금 당장, 바로 오게나!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001708,
+    "Data": [
+      {
+        "GroupId": 100170310,
+        "Id": 100170450,
+        "CharacterId": 10017,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170320,
+        "Message": {
+          "j_ko": "콤라드. 콤라드는 특별히 무서워하는 게 있는가?",
+          "j_ja": "カムラッドは、何か怖い物とかないのか？",
+          "g_en": "What are you afraid of, Comrade?",
+          "g_tw": "同志有什麼會怕的東西嗎？",
+          "g_tw_cn": "同志有什么会怕的东西吗？",
+          "g_ja": "カムラッドは、何か怖い物とかないのか？",
+          "g_ko": "콤라드. 콤라드는 특별히 무서워하는 게 있는가?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170320,
+        "Id": 100170460,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170330,
+        "Message": {
+          "j_ko": "나는 귀신이 무서워.",
+          "j_ja": "うーん、お化けとかかな……",
+          "g_en": "I'm afraid of ghosts.",
+          "g_tw": "唔嗯，妖怪之類的吧……",
+          "g_tw_cn": "唔嗯，妖怪之类的吧……",
+          "g_ja": "うーん、お化けとかかな……",
+          "g_ko": "나는 귀신이 무서워."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170320,
+        "Id": 100170470,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170340,
+        "Message": {
+          "j_ko": "나는 만쥬가 무서워.",
+          "j_ja": "まんじゅうこわい",
+          "g_en": "I'm afraid of manju.",
+          "g_tw": "怕饅頭",
+          "g_tw_cn": "怕馒头",
+          "g_ja": "まんじゅうこわい",
+          "g_ko": "나는 만쥬가 무서워."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170330,
+        "Id": 100170480,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170350,
+        "Message": {
+          "j_ko": "후후, 귀신을 무서워하다니 콤라드도 어린아이 같은 구석이 있군.",
+          "j_ja": "ふふん。お化けが怖いなんて、カムラッドにも子供みたいなところがあるのだな",
+          "g_en": "Haha! You're afraid of ghosts? That's pretty childish, Comrade.",
+          "g_tw": "呵呵。怕妖怪啊，同志也有像孩子一樣的地方呢",
+          "g_tw_cn": "呵呵。怕妖怪啊，同志也有像孩子一样的地方呢",
+          "g_ja": "ふふん。お化けが怖いなんて、カムラッドにも子供みたいなところがあるのだな",
+          "g_ko": "후후, 귀신을 무서워하다니 콤라드도 어린아이 같은 구석이 있군."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170330,
+        "Id": 100170490,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170350,
+        "Message": {
+          "j_ko": "걱정 말게나, 콤라드. 설령 귀신이 정말로 나타나더라도 이 몸이 무찔러줄 테니!",
+          "j_ja": "心配するな、カムラッド。仮にお化けが現れたとしても、おいらがやっつけてやる！",
+          "g_en": "Don't worry, Comrade. I'll bust any ghost before it can get you!",
+          "g_tw": "別擔心，同志。就算妖怪真的出現了，咱也會打倒他！",
+          "g_tw_cn": "别担心，同志。就算妖怪真的出现了，咱也会打倒他！",
+          "g_ja": "心配するな、カムラッド。仮にお化けが現れたとしても、おいらがやっつけてやる！",
+          "g_ko": "걱정 말게나, 콤라드. 설령 귀신이 정말로 나타나더라도 이 몸이 무찔러줄 테니!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170340,
+        "Id": 100170500,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170350,
+        "Message": {
+          "j_ko": "으응? 달콤한 만쥬가 무섭다니, 그게 무슨 소리인가?",
+          "j_ja": "まんじゅうって、あの甘いお饅頭か？あれが怖いなんて、どういうことだ？",
+          "g_en": "Huh? How can anyone be afraid of manju? It's delicious and sweet.",
+          "g_tw": "饅頭是指那個甜饅頭嗎？怕那個是怎麼回事？",
+          "g_tw_cn": "馒头是指那个甜馒头吗？怕那个是怎么回事？",
+          "g_ja": "まんじゅうって、あの甘いお饅頭か？あれが怖いなんて、どういうことだ？",
+          "g_ko": "으응? 달콤한 만쥬가 무섭다니, 그게 무슨 소리인가?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170340,
+        "Id": 100170510,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170350,
+        "Message": {
+          "j_ko": "콤라드도 알 수 없는 소리를 자꾸 하는군…….",
+          "j_ja": "カムラッドは時々よく分からないことを言うな……",
+          "g_en": "You're a strange one, Comrade...",
+          "g_tw": "同志有時會說些讓人搞不懂的話呢……",
+          "g_tw_cn": "同志有时会说些让人搞不懂的话呢……",
+          "g_ja": "カムラッドは時々よく分からないことを言うな……",
+          "g_ko": "콤라드도 알 수 없는 소리를 자꾸 하는군……."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170350,
+        "Id": 100170520,
+        "CharacterId": 10017,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100170360,
+        "Message": {
+          "j_ko": "체리노는 무얼 무서워해?",
+          "j_ja": "チェリノは怖いものとかある？",
+          "g_en": "What are you afraid of, Cherino?",
+          "g_tw": "潔莉諾有怕什麼東西嗎？",
+          "g_tw_cn": "洁莉诺有怕什么东西吗？",
+          "g_ja": "チェリノは怖いものとかある？",
+          "g_ko": "체리노는 무얼 무서워해?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170360,
+        "Id": 100170530,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "그 무슨 망언인가! 이 몸이 무서워하는 것이라니!",
+          "j_ja": "お、おいらに怖いものなんてあるわけないだろう！",
+          "g_en": "What are you talking about? I'm not afraid of anything!",
+          "g_tw": "咱，咱怎麼可能有害怕的東西！",
+          "g_tw_cn": "咱，咱怎么可能有害怕的东西！",
+          "g_ja": "お、おいらに怖いものなんてあるわけないだろう！",
+          "g_ko": "그 무슨 망언인가! 이 몸이 무서워하는 것이라니!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170360,
+        "Id": 100170540,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "위대한 지도자에게 공포란 불필요한 감정!",
+          "j_ja": "偉大なる指導者にとって、恐怖など必要の無い感情だ！",
+          "g_en": "Fear has no place in the heart of a great leader!",
+          "g_tw": "對偉大的領導者來說，恐懼是不必要的情緒！",
+          "g_tw_cn": "对伟大的领导者来说，恐惧是不必要的情绪！",
+          "g_ja": "偉大なる指導者にとって、恐怖など必要の無い感情だ！",
+          "g_ko": "위대한 지도자에게 공포란 불필요한 감정!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100170360,
+        "Id": 100170550,
+        "CharacterId": 10017,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100178,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "붉은겨울 학원의 서기장이자 학생회장이자, 미화부장이자, 청소부장인 이 몸에게 두려움 따윈 없느니라!",
+          "j_ja": "レッドウィンター連邦学園の生徒会長であり、書記長兼、環境美化部部長兼、清掃部部長のおいらに、恐れるものなど無い！",
+          "g_en": "I am the Great Leader, esteemed Student Council president, Beautifier of Lands, and Chief of Sanitation of Red Winter Academy! I don't fear a thing!",
+          "g_tw": "咱身為赤冬學聯邦學園的學生會長、兼書記長、兼環境美化部長、兼清掃部長，無所畏懼！",
+          "g_tw_cn": "咱身为赤冬学联邦学园的学生会长、兼书记长、兼环境美化部长、兼清扫部长，无所畏惧！",
+          "g_ja": "レッドウィンター連邦学園の生徒会長であり、書記長兼、環境美化部部長兼、清掃部部長のおいらに、恐れるものなど無い！",
+          "g_ko": "붉은겨울 학원의 서기장이자 학생회장이자, 미화부장이자, 청소부장인 이 몸에게 두려움 따윈 없느니라!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

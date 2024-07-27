@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "皆さん、お疲れ様でした。",
+      "j_ko": "수고하셨습니다. 여러분.",
+      "g_ja": "皆さん、お疲れ様でした。",
+      "g_ko": "수고하셨습니다. 여러분.",
+      "g_en": "Great job, everyone.",
+      "g_th": "ทำได้ดีมากค่ะทุกคน",
+      "g_tw": "各位辛苦了。",
+      "g_tw_cn": "各位辛苦了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;S2_03;수고하셨습니다. 여러분.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……これでケテルのデータは確保できました。<br/>「生命の樹」のデータをアップデートします。",
+      "j_ko": "……네. 케테르의 정보는 확보되었어요. <생명의 나무> 에 데이터를 업데이트하도록 하겠습니다.",
+      "g_ja": "……これでケテルのデータは確保できました。<br/>「生命の樹」のデータをアップデートします。",
+      "g_ko": "……네. 케테르의 정보는 확보되었어요. <생명의 나무> 에 데이터를 업데이트하도록 하겠습니다.",
+      "g_en": "...Yes, intel on Kether has been secured. Data is being uploaded to the Tree of Life.",
+      "g_th": "เอาละ... ตรวจสอบข้อมูลของเคเทอร์เรียบร้อยแล้ว และจะทำการอัปเดตข้อมูลของ <ต้นไม้แห่งชีวิต> ค่ะ",
+      "g_tw": "……這樣就取得凱瑟的情報了。<br/>我會更新「生命之樹」的情報。",
+      "g_tw_cn": "……这样就取得凯瑟的情报了。<br/>我会更新「生命之树」的情报。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;S2_05;……네. 케테르의 정보는 확보되었어요. <생명의 나무> 에 데이터를 업데이트하도록 하겠습니다.\\n#3;em;[반응]",
+    "BGMId": 96,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この内容も忘れずに確認してね、先生。",
+      "j_ko": "응. 이 부분은 잊지 말고 확인 부탁해. 선생님.",
+      "g_ja": "この内容も忘れずに確認してね、先生。",
+      "g_ko": "응. 이 부분은 잊지 말고 확인 부탁해. 선생님.",
+      "g_en": "Affirmative. We have more work to do, Sensei.",
+      "g_th": "อืม ฝากตรวจสอบส่วนนี้ด้วยนะคุณครู",
+      "g_tw": "請別忘記確認哦，老師。",
+      "g_tw_cn": "请别忘记确认哦，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3178657986,
+    "DataType": "speaker",
+    "Script": "1;에이미;05;응. 이 부분은 잊지 말고 확인 부탁해. 선생님.\\n#1;em;[!]\\n#3;m5\\n#1;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ケテルの弱点を把握したので、次のステップへ移りましょう。",
+      "j_ko": "케테르의 약점도 파악했어요. 자, 그럼 다음 스텝입니다.",
+      "g_ja": "ケテルの弱点を把握したので、次のステップへ移りましょう。",
+      "g_ko": "케테르의 약점도 파악했어요. 자, 그럼 다음 스텝입니다.",
+      "g_en": "Kether's weakness has been identified. Time for us to take the next step.",
+      "g_th": "ตอนนี้เราจับจุดอ่อนของเคเทอร์ได้แล้ว ที่นี้ก็ถึงการดำเนินการขั้นต่อไปค่ะ",
+      "g_tw": "既然已經掌握了凱瑟的弱點，我們就進入下一個階段吧。",
+      "g_tw_cn": "既然已经掌握了凯瑟的弱点，我们就进入下一个阶段吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;S2_99;케테르의 약점도 파악했어요. 자, 그럼 다음 스텝입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「ケテル無力化作戦」、開始します！",
+      "j_ko": "케테르 무력화 작전 시작합니다!",
+      "g_ja": "「ケテル無力化作戦」、開始します！",
+      "g_ko": "케테르 무력화 작전 시작합니다!",
+      "g_en": "Let the operation to neutralize Kether commence!",
+      "g_th": "เริ่มปฏิบัติการกำจัดเคเทอร์ได้ค่ะ!",
+      "g_tw": "開始「凱瑟無力化作戰」！",
+      "g_tw_cn": "开始「凯瑟无力化作战」！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;S2_05;케테르 무력화 작전 시작합니다!\\n#3;m3\\n#1;dl",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

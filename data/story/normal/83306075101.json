@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "くそっ、ベッドでサボろうと思ってたのにな……",
+      "j_ko": "으으윽…… 눕고 싶어! 병원 침대에 누워 땡땡이를 치고 싶어!",
+      "g_ja": "くそっ、ベッドでサボろうと思ってたのにな……",
+      "g_ko": "으으윽…… 눕고 싶어! 병원 침대에 누워 땡땡이를 치고 싶어!",
+      "g_en": "Ugh... I want to lie down! I want to rest in a hospital bed and relax!",
+      "g_th": "อึก... อยากไปนอนๆ! อยากนอนอู้งานบนเตียงของหน่วยแพทย์!",
+      "g_tw": "可惡……好想躺下！真想躺在醫院床上偷懶！",
+      "g_tw_cn": "可恶……好想躺下！真想躺在医院床上偷懒！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3982313728,
+    "DataType": "speaker",
+    "Script": "4;불량배 A;02;으으윽…… 눕고 싶어! 병원 침대에 누워 땡땡이를 치고 싶어!\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……でも虫が布団の中に入ってくるところを想像したら……",
+      "j_ko": "하지만 벌레는 역시 무섭다고! 누워 있는 사이에 이불 속으로 들어오기라도 하면……!",
+      "g_ja": "……でも虫が布団の中に入ってくるところを想像したら……",
+      "g_ko": "하지만 벌레는 역시 무섭다고! 누워 있는 사이에 이불 속으로 들어오기라도 하면……!",
+      "g_en": "But bugs are too scary! Wh-What if it crawls under my blanket when I'm sleeping?!",
+      "g_th": "แต่แมลงก็น่ากลัวอยู่ดีนะ! ถ้ามันเข้ามาในผ้าห่มระหว่างที่เรานอนหลับอยู่ล่ะ...!",
+      "g_tw": "但蟲子太可怕了！如果躺下時蟲子鑽進棉被裡的話……！",
+      "g_tw_cn": "但虫子太可怕了！如果躺下时虫子钻进棉被里的话……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2032102177,
+    "DataType": "speaker",
+    "Script": "2;불량배 B;06;하지만 벌레는 역시 무섭다고! 누워 있는 사이에 이불 속으로 들어오기라도 하면……!\\n#2;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひいいいっ！",
+      "j_ko": "히에에에엑?!",
+      "g_ja": "ひいいいっ！",
+      "g_ko": "히에에에엑?!",
+      "g_en": "Heeeeeeek?!",
+      "g_th": "เฮือกกก?!",
+      "g_tw": "噫噫！？",
+      "g_tw_cn": "噫噫！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3982313728,
+    "DataType": "speaker",
+    "Script": "4;불량배 A;06;히에에에엑?!\\n#4;em;[?!]\\n#4;shake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

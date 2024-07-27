@@ -1,0 +1,325 @@
+[
+  {
+    "BondScenarioId": 2601302,
+    "Data": [
+      {
+        "GroupId": 260130010,
+        "Id": 260130010,
+        "CharacterId": 26013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130020,
+        "Message": {
+          "j_ko": "선생님, 안녕.",
+          "j_ja": "こんにちは、先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130020,
+        "Id": 260130020,
+        "CharacterId": 26013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130030,
+        "Message": {
+          "j_ko": "안녕, 아츠코.",
+          "j_ja": "こんにちは、アツコ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130030,
+        "Id": 260130030,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130040,
+        "Message": {
+          "j_ko": "바다에 오는 거, 기대한 보람이 있었어.",
+          "j_ja": "海、思っていた以上にきれいで"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130030,
+        "Id": 260130040,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130040,
+        "Message": {
+          "j_ko": "어디든 눈을 뗄 수가 없는 걸.",
+          "j_ja": "目が離せないの"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130040,
+        "Id": 260130050,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130050,
+        "Message": {
+          "j_ko": "바다도, 축제도, 처음 보는 것 투성이라서.",
+          "j_ja": "お祭りも、初めて見るものばかり"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130050,
+        "Id": 260130060,
+        "CharacterId": 26013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130060,
+        "Message": {
+          "j_ko": "즐기고 있는 것 같아 다행이네.",
+          "j_ja": "楽しめてるみたいで良かった！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130060,
+        "Id": 260130070,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130070,
+        "Message": {
+          "j_ko": "응, 모처럼이니 사진으로도 남기려고 해.",
+          "j_ja": "せっかくだから、写真を残したい"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130060,
+        "Id": 260130080,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130070,
+        "Message": {
+          "j_ko": "해변가에서 사진 찍을 만한 포인트를 찾아다닐 생각인데",
+          "j_ja": "ちょっと出かけてくる"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130070,
+        "Id": 260130090,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260132,
+        "NextGroupId": 260130080,
+        "Message": {
+          "j_ko": "선생님도 같이 어때?",
+          "j_ja": "先生も一緒に、どう？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601303,
+    "Data": [
+      {
+        "GroupId": 260130080,
+        "Id": 260130100,
+        "CharacterId": 26013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130090,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130090,
+        "Id": 260130110,
+        "CharacterId": 26013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130100,
+        "Message": {
+          "j_ko": "혹시 바빠?",
+          "j_ja": "今、忙しい？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130100,
+        "Id": 260130120,
+        "CharacterId": 26013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130110,
+        "Message": {
+          "j_ko": "아냐, 지금 한가해.",
+          "j_ja": "時間ならあるよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130110,
+        "Id": 260130130,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130120,
+        "Message": {
+          "j_ko": "그럼 잠깐 어울려줘.",
+          "j_ja": "じゃあ、少し付き合ってくれる？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130110,
+        "Id": 260130140,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130120,
+        "Message": {
+          "j_ko": "꼭 찍고 싶은 게 두 가지 생겼거든.",
+          "j_ja": "どうしても、撮りたいものが2つあって"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130120,
+        "Id": 260130150,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130130,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130120,
+        "Id": 260130160,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260133,
+        "NextGroupId": 260130130,
+        "Message": {
+          "j_ko": "이번에는 확실히 배터리를 넣었으니까.",
+          "j_ja": "今度はちゃんと、バッテリーを入れていくから"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601305,
+    "Data": [
+      {
+        "GroupId": 260130130,
+        "Id": 260130170,
+        "CharacterId": 26013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130140,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130140,
+        "Id": 260130180,
+        "CharacterId": 26013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130150,
+        "Message": {
+          "j_ko": "안 좋은 소식이 있어.",
+          "j_ja": "悪いお知らせだよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130150,
+        "Id": 260130190,
+        "CharacterId": 26013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130160,
+        "Message": {
+          "j_ko": "무슨 일이야?",
+          "j_ja": "どうしたの？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130160,
+        "Id": 260130200,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130170,
+        "Message": {
+          "j_ko": "디지털카메라의 배터리가 얼마 남지 않았어.",
+          "j_ja": "カメラのバッテリーが、あと少ししかなくて"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130160,
+        "Id": 260130210,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260130170,
+        "Message": {
+          "j_ko": "아직 작동은 하지만, 아껴 써야 해.",
+          "j_ja": "もう何枚も撮れないの"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260130170,
+        "Id": 260130220,
+        "CharacterId": 26013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260135,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "이제부터는 뭘 찍을지 신중하게 정해서 찍을 생각이야.",
+          "j_ja": "だから、何を撮るか慎重に決めないと"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

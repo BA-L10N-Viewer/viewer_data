@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、じゃあ今度帰りに声かけるね～",
+      "j_ko": "아하핫~ 그럼 다음엔 히나찌랑도 하교하는 거네~ 기대된다~",
+      "g_ja": "あははっ、じゃあ今度帰りに声かけるね～",
+      "g_ko": "아하핫~ 그럼 다음엔 히나찌랑도 하교하는 거네~ 기대된다~",
+      "g_en": "Ahaha! I'll be walking home from school with Mizz Hina! How exciting!",
+      "g_th": "อ่ะฮ่าฮ่า~ ถ้างั้นต่อไปฉันก็จะได้เลิกเรียนกลับบ้านพร้อมกับฮินัตจิด้วยสินะ~ อยากให้ถึงวันนั้นแล้วจัง~",
+      "g_tw": "啊哈哈，下次可以跟陽奈親一起放學，真期待。",
+      "g_tw_cn": "啊哈哈，下次可以跟阳奈亲一起放学，真期待。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;아하핫~ 그럼 다음엔 히나찌랑도 하교하는 거네~ 기대된다~\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん、私も楽しみにしてるわ。",
+      "j_ko": "응, 나도 기대하고 있을게.",
+      "g_ja": "うん、私も楽しみにしてるわ。",
+      "g_ko": "응, 나도 기대하고 있을게.",
+      "g_en": "Yes...I'll be looking forward to it as well.",
+      "g_th": "อืม ฉันก็จะตั้งตารอนะ",
+      "g_tw": "嗯，我也很期待。",
+      "g_tw_cn": "嗯，我也很期待。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;17;응, 나도 기대하고 있을게.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

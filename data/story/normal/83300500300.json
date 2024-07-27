@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（万魔殿……ゲヘナの生徒会。いつも何を企んでいるのか分からないタヌキたち）",
+      "j_ko": "(만마전…… 게헨나의 학생회. 평소에도 무슨 일을 꾸미는지 알 수 없는 너구리들이었지.)",
+      "g_ja": "（万魔殿……ゲヘナの生徒会。いつも何を企んでいるのか分からないタヌキたち）",
+      "g_ko": "(만마전…… 게헨나의 학생회. 평소에도 무슨 일을 꾸미는지 알 수 없는 너구리들이었지.)",
+      "g_en": "(Gehenna's student council...The Pandemonium Society. I can never predict what plots those schemers will think up next.)",
+      "g_th": "(แพนเดโมเนียม โซไซตี้... สภานักเรียนเกเฮนน่า... ปกติก็เป็นพวกตัวแสบที่ยากจะคาดเดาได้อยู่แล้ว<br/>ว่ามีแผนการอะไรในหัว)",
+      "g_tw": "（萬魔殿……格黑娜的學生會。平常也搞不懂他們在策畫什麼，是一群狡猾的傢伙）",
+      "g_tw_cn": "（万魔殿……格黑娜的学生会。平常也搞不懂他们在策画什么，是一群狡猾的家伙）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(만마전…… 게헨나의 학생회. 평소에도 무슨 일을 꾸미는지 알 수 없는 너구리들이었지.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（議長を務めるリーダーの<ruby>羽沼<rp>(</rp><rt>はぬま</rt><rp>)</rp></ruby>マコトは……掴みどころが無い）",
+      "j_ko": "(만마전의 리더이자 의장을 맡고 있는 하누마 마코토는…… 늘 무슨 일을 꾸미는지. 종 잡을 수 없는 인물이었어.)",
+      "g_ja": "（議長を務めるリーダーの<ruby>羽沼<rp>(</rp><rt>はぬま</rt><rp>)</rp></ruby>マコトは……掴みどころが無い）",
+      "g_ko": "(만마전의 리더이자 의장을 맡고 있는 하누마 마코토는…… 늘 무슨 일을 꾸미는지. 종 잡을 수 없는 인물이었어.)",
+      "g_en": "(Hanuma Makoto...leader and chairman of the Pandemonium Society. I never have been able to read you or guess what you were planning.)",
+      "g_th": "(ฮานุมะ มาโคโตะที่เป็นทั้งผู้นำและประธานของแพนเดโมเนียม โซไซตี้... เธอคิดจะทำอะไรกันนะ ช่างเป็นคนที่เดาทางไม่ได้เลย)",
+      "g_tw": "（萬魔殿的領導者，同時也擔任議長的羽沼真琴……<br/>　總是在策畫著某些陰謀，是個難以捉摸的人物）",
+      "g_tw_cn": "（万魔殿的领导者，同时也担任议长的羽沼真琴……<br/>　总是在策画着某些阴谋，是个难以捉摸的人物）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(만마전의 리더이자 의장을 맡고 있는 하누마 마코토는…… 늘 무슨 일을 꾸미는지. 종 잡을 수 없는 인물이었어.)\\n#3;closeup\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

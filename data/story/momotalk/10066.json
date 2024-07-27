@@ -1,0 +1,600 @@
+[
+  {
+    "BondScenarioId": 1006602,
+    "Data": [
+      {
+        "GroupId": 100660010,
+        "Id": 100660010,
+        "CharacterId": 10066,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660020,
+        "Message": {
+          "j_ko": "우우우…… 우우우……",
+          "j_ja": "うう……先生……",
+          "g_en": "Ugh... Ow...",
+          "g_tw": "嗚嗚……老師……",
+          "g_tw_cn": "呜呜……老师……",
+          "g_ja": "うう……先生……",
+          "g_ko": "우우우…… 우우우……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660020,
+        "Id": 100660020,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660030,
+        "Message": {
+          "j_ko": "아리스? 왜 그래? 무슨 일 있어?",
+          "j_ja": "アリス、どうしたの？",
+          "g_en": "Aris? What's going on? Is something wrong?",
+          "g_tw": "愛麗絲，怎麼了嗎？",
+          "g_tw_cn": "爱丽丝，怎么了吗？",
+          "g_ja": "アリス、どうしたの？",
+          "g_ko": "아리스? 왜 그래? 무슨 일 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660030,
+        "Id": 100660030,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660040,
+        "Message": {
+          "j_ko": "우우우…… 아리스는 도움이 필요합니다.",
+          "j_ja": "アリスを……助けてください",
+          "g_en": "Owww... I require aid...",
+          "g_tw": "請救救……愛麗絲",
+          "g_tw_cn": "请救救……爱丽丝",
+          "g_ja": "アリスを……助けてください",
+          "g_ko": "우우우…… 아리스는 도움이 필요합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660030,
+        "Id": 100660040,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660040,
+        "Message": {
+          "j_ko": "꼼짝도 할 수 없는 겁니다. 몸에 힘이 들어가지 않습니다……",
+          "j_ja": "あ、いえ、やっぱりなんでもありません！",
+          "g_en": "I cannot move at all. My stamina is at zero...",
+          "g_tw": "啊，不，果然還是算了！",
+          "g_tw_cn": "啊，不，果然还是算了！",
+          "g_ja": "あ、いえ、やっぱりなんでもありません！",
+          "g_ko": "꼼짝도 할 수 없는 겁니다. 몸에 힘이 들어가지 않습니다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660040,
+        "Id": 100660050,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100662,
+        "NextGroupId": 100660050,
+        "Message": {
+          "j_ko": "지금 갈게!",
+          "j_ja": "今行くね！",
+          "g_en": "I'm on my way!",
+          "g_tw": "我立刻過去！",
+          "g_tw_cn": "我立刻过去！",
+          "g_ja": "今行くね！",
+          "g_ko": "지금 갈게!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006603,
+    "Data": [
+      {
+        "GroupId": 100660050,
+        "Id": 100660060,
+        "CharacterId": 10066,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660060,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660060,
+        "Id": 100660070,
+        "CharacterId": 10066,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660070,
+        "Message": {
+          "j_ko": "아리스는 찾아내고 말았습니다.",
+          "j_ja": "アリス、見つけてしまいました",
+          "g_en": "I have made a discovery.",
+          "g_tw": "愛麗絲發現了",
+          "g_tw_cn": "爱丽丝发现了",
+          "g_ja": "アリス、見つけてしまいました",
+          "g_ko": "아리스는 찾아내고 말았습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660070,
+        "Id": 100660080,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660080,
+        "Message": {
+          "j_ko": "무엇을……?",
+          "j_ja": "何を……？",
+          "g_en": "A discovery?",
+          "g_tw": "發現什麼……？",
+          "g_tw_cn": "发现什么……？",
+          "g_ja": "何を……？",
+          "g_ko": "무엇을……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660080,
+        "Id": 100660090,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660090,
+        "Message": {
+          "j_ko": "그것은 바로, 메이드 레벨을 올리는 새로운 방법입니다.",
+          "j_ja": "メイドレベルを上げる新たな方法です",
+          "g_en": "Yes. I have found a way to level up my maid skill.",
+          "g_tw": "是提高女僕等級的新方法",
+          "g_tw_cn": "是提高女仆等级的新方法",
+          "g_ja": "メイドレベルを上げる新たな方法です",
+          "g_ko": "그것은 바로, 메이드 레벨을 올리는 새로운 방법입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660090,
+        "Id": 100660100,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660100,
+        "Message": {
+          "j_ko": "굉장한 선언을 들은 것 같은 기분이다……",
+          "j_ja": "それってどんな……？",
+          "g_en": "I just got chills...",
+          "g_tw": "什麼樣的方法……？",
+          "g_tw_cn": "什么样的方法……？",
+          "g_ja": "それってどんな……？",
+          "g_ko": "굉장한 선언을 들은 것 같은 기분이다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660100,
+        "Id": 100660110,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660110,
+        "Message": {
+          "j_ko": "오늘의 아리스는 다릅니다. 다를 겁니다.",
+          "j_ja": "ずばり",
+          "g_en": "Everything will be different today. I will be different today!",
+          "g_tw": "那就是",
+          "g_tw_cn": "那就是",
+          "g_ja": "ずばり",
+          "g_ko": "오늘의 아리스는 다릅니다. 다를 겁니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660110,
+        "Id": 100660120,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660120,
+        "Message": {
+          "j_ko": "메이드라는 것은 무엇인가! 어떤 일을 하는가!",
+          "j_ja": "メイドとはなにか！その仕事の実態は！？",
+          "g_en": "I am filled with determination, Sensei. I will study.",
+          "g_tw": "何謂女僕！工作的實際情況是什麼！？",
+          "g_tw_cn": "何谓女仆！工作的实际情况是什么！？",
+          "g_ja": "メイドとはなにか！その仕事の実態は！？",
+          "g_ko": "메이드라는 것은 무엇인가! 어떤 일을 하는가!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660110,
+        "Id": 100660130,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660120,
+        "Message": {
+          "j_ko": "그것을 공부하는 겁니다, 선생님!",
+          "j_ja": "それを勉強することです！！",
+          "g_en": "And I will learn... Just what is a maid? What is a maid's duties?",
+          "g_tw": "愛麗絲要學習這些！",
+          "g_tw_cn": "爱丽丝要学习这些！",
+          "g_ja": "それを勉強することです！！",
+          "g_ko": "그것을 공부하는 겁니다, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100660120,
+            "Id": 100660140,
+            "CharacterId": 10066,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100660130,
+            "Message": {
+              "j_ko": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!",
+              "j_ja": "ちょうどいい資料も見つけましたので",
+              "g_en": "You see, I have discovered a great treasure. A hoard of maid documents!",
+              "g_tw": "正好發現了適合的資料",
+              "g_tw_cn": "正好发现了适合的数据",
+              "g_ja": "ちょうどいい資料も見つけましたので",
+              "g_ko": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100660120,
+        "Id": 100660140,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660130,
+        "Message": {
+          "j_ko": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!",
+          "j_ja": "ちょうどいい資料も見つけましたので",
+          "g_en": "You see, I have discovered a great treasure. A hoard of maid documents!",
+          "g_tw": "正好發現了適合的資料",
+          "g_tw_cn": "正好发现了适合的数据",
+          "g_ja": "ちょうどいい資料も見つけましたので",
+          "g_ko": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660130,
+        "Id": 100660150,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100663,
+        "NextGroupId": 100660140,
+        "Message": {
+          "j_ko": "메이드 자료?!",
+          "j_ja": "メイドの……資料……？",
+          "g_en": "Maid documents?!",
+          "g_tw": "女僕的……資料……？",
+          "g_tw_cn": "女仆的……数据……？",
+          "g_ja": "メイドの……資料……？",
+          "g_ko": "메이드 자료?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006605,
+    "Data": [
+      {
+        "GroupId": 100660140,
+        "Id": 100660160,
+        "CharacterId": 10066,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660150,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660150,
+        "Id": 100660170,
+        "CharacterId": 10066,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660160,
+        "Message": {
+          "j_ko": "중대한 소식이 있습니다.",
+          "j_ja": "大事な話があります",
+          "g_en": "I have some important news.",
+          "g_tw": "愛麗絲有重要的話要說",
+          "g_tw_cn": "爱丽丝有重要的话要说",
+          "g_ja": "大事な話があります",
+          "g_ko": "중대한 소식이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660160,
+        "Id": 100660180,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660170,
+        "Message": {
+          "j_ko": "아리스의 중대한 소식……",
+          "j_ja": "アリスの、大事な話……",
+          "g_en": "Coming from you, Aris...",
+          "g_tw": "愛麗絲的，重要的話……",
+          "g_tw_cn": "爱丽丝的，重要的话……",
+          "g_ja": "アリスの、大事な話……",
+          "g_ko": "아리스의 중대한 소식……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660160,
+        "Id": 100660190,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660170,
+        "Message": {
+          "j_ko": "뭔가 대단한 일이 일어날 것 같은 기분이 든다……",
+          "j_ja": "とんでもないことが起こりそうな予感……",
+          "g_en": "That must mean that something incredible's going to happen.",
+          "g_tw": "感覺要發生不得了的事了……",
+          "g_tw_cn": "感觉要发生不得了的事了……",
+          "g_ja": "とんでもないことが起こりそうな予感……",
+          "g_ko": "뭔가 대단한 일이 일어날 것 같은 기분이 든다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660170,
+        "Id": 100660200,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660180,
+        "Message": {
+          "j_ko": "정말 중요한 소식입니다.",
+          "j_ja": "とても大事な話なんです",
+          "g_en": "It is extremely important, as I said.",
+          "g_tw": "是非常重要的話",
+          "g_tw_cn": "是非常重要的话",
+          "g_ja": "とても大事な話なんです",
+          "g_ko": "정말 중요한 소식입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660170,
+        "Id": 100660210,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660180,
+        "Message": {
+          "j_ko": "그러니까 선생님이 꼭 와 주셨으면 합니다.",
+          "j_ja": "ですから、ぜひ来てほしいのです",
+          "g_en": "So I would like to request your attendance, Sensei.",
+          "g_tw": "所以希望老師務必能過來",
+          "g_tw_cn": "所以希望老师务必能过来",
+          "g_ja": "ですから、ぜひ来てほしいのです",
+          "g_ko": "그러니까 선생님이 꼭 와 주셨으면 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660180,
+        "Id": 100660220,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100665,
+        "NextGroupId": 100660190,
+        "Message": {
+          "j_ko": "큰일이 난 거 아니지!?",
+          "j_ja": "……うん、すぐに行くね",
+          "g_en": "Am I...in trouble...?",
+          "g_tw": "……嗯，我馬上過去",
+          "g_tw_cn": "……嗯，我马上过去",
+          "g_ja": "……うん、すぐに行くね",
+          "g_ko": "큰일이 난 거 아니지!?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006615,
+    "Data": [
+      {
+        "GroupId": 100660190,
+        "Id": 100660230,
+        "CharacterId": 10066,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660200,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生こんにちは"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660200,
+        "Id": 100660240,
+        "CharacterId": 10066,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660210,
+        "Message": {
+          "j_ko": "오늘은 바쁘신가요?",
+          "j_ja": "今日、忙しいですか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660210,
+        "Id": 100660250,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660220,
+        "Message": {
+          "j_ko": "별다른 예정은 없는데?",
+          "j_ja": "特に予定はないよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660220,
+        "Id": 100660260,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660230,
+        "Message": {
+          "j_ko": "그렇군요!",
+          "j_ja": "なるほど……今日はフリーなのですね！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660230,
+        "Id": 100660270,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660240,
+        "Message": {
+          "j_ko": "큰 예정이 없는 날…….",
+          "j_ja": "そういう日はお掃除にかぎるのだと"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660230,
+        "Id": 100660280,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660240,
+        "Message": {
+          "j_ko": "그것은 청소를 하기 좋은 날이라고 배웠습니다!",
+          "j_ja": "アリスは聞きました！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660240,
+        "Id": 100660290,
+        "CharacterId": 10066,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660250,
+        "Message": {
+          "j_ko": "청소라니~!",
+          "j_ja": "掃除？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660250,
+        "Id": 100660300,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660260,
+        "Message": {
+          "j_ko": "걱정 마세요, 선생님!",
+          "j_ja": "はい！！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660250,
+        "Id": 100660310,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100660260,
+        "Message": {
+          "j_ko": "견습 메이드 용사인 아리스가, 선생님을 돕겠습니다!",
+          "j_ja": "見習いメイドのアリスが、先生をお手伝いします！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100660260,
+        "Id": 100660320,
+        "CharacterId": 10066,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 1006615,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "메이드 용사는 결코 도움이 필요한 사람을 저버리지 않으니까요!",
+          "j_ja": "お掃除もメイド勇者のスキルですから！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

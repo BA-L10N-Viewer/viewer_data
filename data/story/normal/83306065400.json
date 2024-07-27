@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にゃ～",
+      "j_ko": "야오옹~",
+      "g_ja": "にゃ～",
+      "g_ko": "야오옹~",
+      "g_en": "Meow!",
+      "g_th": "เหมียววว~",
+      "g_tw": "喵嗚～",
+      "g_tw_cn": "喵呜～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1619526623,
+    "DataType": "speaker",
+    "Script": "#na;고양이;야오옹~",
+    "BGMId": 0,
+    "Sound": "SE_Cat_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当に居たのね。",
+      "j_ko": "소문대로 정말로 고양이가 있었구나.",
+      "g_ja": "本当に居たのね。",
+      "g_ko": "소문대로 정말로 고양이가 있었구나.",
+      "g_en": "Ah, you must be the cat people were talking about...",
+      "g_th": "มีแมวอยู่อย่างที่คนอื่นว่ากันไว้จริงด้วย",
+      "g_tw": "真的有隻貓呢。",
+      "g_tw_cn": "真的有只猫呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;소문대로 정말로 고양이가 있었구나.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "鳴いてたのは、きっと……",
+      "j_ko": "울고 있던 이유는 아무래도…….",
+      "g_ja": "鳴いてたのは、きっと……",
+      "g_ko": "울고 있던 이유는 아무래도…….",
+      "g_en": "Why are you crying, little cat?",
+      "g_th": "ที่ร้องอยู่น่าจะเพราะ...",
+      "g_tw": "之所以會一直叫……",
+      "g_tw_cn": "之所以会一直叫……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;04;울고 있던 이유는 아무래도…….\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にゃー……",
+      "j_ko": "야오옹………",
+      "g_ja": "にゃー……",
+      "g_ko": "야오옹………",
+      "g_en": "Meow...",
+      "g_th": "เหมียว...",
+      "g_tw": "喵嗚……",
+      "g_tw_cn": "喵呜……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1619526623,
+    "DataType": "speaker",
+    "Script": "#na;고양이;야오옹………",
+    "BGMId": 0,
+    "Sound": "SE_Cat_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お腹が空いてるからでしょう。",
+      "j_ko": "배가 고픈 모양이네…… 어쩔 수 없지.",
+      "g_ja": "お腹が空いてるからでしょう。",
+      "g_ko": "배가 고픈 모양이네…… 어쩔 수 없지.",
+      "g_en": "You look hungry... Well, there's no helping it... Come here.",
+      "g_th": "กำลังหิวสินะ... ถ้างั้นก็ช่วยไม่ได้",
+      "g_tw": "牠好像肚子餓……沒辦法了。",
+      "g_tw_cn": "牠好像肚子饿……没办法了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;99;배가 고픈 모양이네…… 어쩔 수 없지.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もしも…",
+      "j_ko": "네, 전화 받았습니다.",
+      "g_ja": "もしも…",
+      "g_ko": "네, 전화 받았습니다.",
+      "g_en": "Hello. This is the Prefect Team.",
+      "g_th": "สวัสดี คณะกรรมการวินัยกำลังรับสาย...",
+      "g_tw": "你好……",
+      "g_tw_cn": "你好……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;02;네, 전화 받았습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おぴょぴょにゃ～ん！",
+      "j_ko": "간장 공장 공장장은 강 공장장!",
+      "g_ja": "おぴょぴょにゃ～ん！",
+      "g_ko": "간장 공장 공장장은 강 공장장!",
+      "g_en": "Peter Piper picked a peck of pickled peppers!",
+      "g_th": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด!",
+      "g_tw": "紅鯉魚與綠鯉魚與驢！",
+      "g_tw_cn": "红鲤鱼与绿鲤鱼与驴！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 869998302,
+    "DataType": "speaker",
+    "Script": "#na;정체불명의 목소리;간장 공장 공장장은 강 공장장!\\n#fontsize;100",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "………….",
+      "g_ja": "……。",
+      "g_ko": "………….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;05;………….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,955 @@
+[
+  {
+    "BondScenarioId": 1005002,
+    "Data": [
+      {
+        "GroupId": 100500010,
+        "Id": 100500010,
+        "CharacterId": 10050,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500020,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님.",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Hello, Sensei.",
+          "g_tw": "你好，老師",
+          "g_tw_cn": "你好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "안녕하세요, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500020,
+        "Id": 100500020,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500030,
+        "Message": {
+          "j_ko": "잘 지내고 계시나요?",
+          "j_ja": "いかがお過ごしでしょうか？",
+          "g_en": "How are you?",
+          "g_tw": "你過得還好嗎？",
+          "g_tw_cn": "你过得还好吗？",
+          "g_ja": "いかがお過ごしでしょうか？",
+          "g_ko": "잘 지내고 계시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500020,
+        "Id": 100500030,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500030,
+        "Message": {
+          "j_ko": "전 문제없어요. 매화원의 교관이니까요!",
+          "j_ja": "私は元気です。なんたって、梅花園の教官ですから！",
+          "g_en": "I'm fine, because I'm a Plum Blossom Garden instructor!",
+          "g_tw": "我很好。再怎麼說我也是梅花園的教官啊！",
+          "g_tw_cn": "我很好。再怎么说我也是梅花园的教官啊！",
+          "g_ja": "私は元気です。なんたって、梅花園の教官ですから！",
+          "g_ko": "전 문제없어요. 매화원의 교관이니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500030,
+        "Id": 100500040,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500040,
+        "Message": {
+          "j_ko": "교관이라…… 코코나도 큰일이네.",
+          "j_ja": "教官か……ココナも大変だね",
+          "g_en": "Instructor... You have a lot on your plate, Kokona.",
+          "g_tw": "教官啊……心菜也辛苦了呢",
+          "g_tw_cn": "教官啊……心菜也辛苦了呢",
+          "g_ja": "教官か……ココナも大変だね",
+          "g_ko": "교관이라…… 코코나도 큰일이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500030,
+        "Id": 100500050,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500040,
+        "Message": {
+          "j_ko": "힘들지 않아?",
+          "j_ja": "大変じゃない？",
+          "g_en": "Isn't it hard?",
+          "g_tw": "不辛苦嗎？",
+          "g_tw_cn": "不辛苦吗？",
+          "g_ja": "大変じゃない？",
+          "g_ko": "힘들지 않아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500040,
+        "Id": 100500060,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500050,
+        "Message": {
+          "j_ko": "힘들 때도 있지만 괜찮아요.",
+          "j_ja": "大変な時もありますが、大丈夫です",
+          "g_en": "Yes, but I'm fine with it.",
+          "g_tw": "雖然也有辛苦的時候，但不要緊",
+          "g_tw_cn": "虽然也有辛苦的时候，但不要紧",
+          "g_ja": "大変な時もありますが、大丈夫です",
+          "g_ko": "힘들 때도 있지만 괜찮아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500040,
+        "Id": 100500070,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500050,
+        "Message": {
+          "j_ko": "무엇보다 전 이미 어엿한 숙녀인걸요!",
+          "j_ja": "何より、すでに私は立派なレディーですから！",
+          "g_en": "More than anything, I'm a proper lady now!",
+          "g_tw": "更重要的是，我已經是名優秀的淑女了！",
+          "g_tw_cn": "更重要的是，我已经是名优秀的淑女了！",
+          "g_ja": "何より、すでに私は立派なレディーですから！",
+          "g_ko": "무엇보다 전 이미 어엿한 숙녀인걸요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500050,
+        "Id": 100500080,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500060,
+        "Message": {
+          "j_ko": "시간 나실 때 매화원에 방문해 보시겠어요?",
+          "j_ja": "先生。もしお時間があったら、梅花園を訪問してみませんか？",
+          "g_en": "Please visit the Plum Blossom Garden when you can!",
+          "g_tw": "老師。如果有空的話，要不要來梅花園參觀呢？",
+          "g_tw_cn": "老师。如果有空的话，要不要来梅花园参观呢？",
+          "g_ja": "先生。もしお時間があったら、梅花園を訪問してみませんか？",
+          "g_ko": "시간 나실 때 매화원에 방문해 보시겠어요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500050,
+        "Id": 100500090,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100502,
+        "NextGroupId": 100500060,
+        "Message": {
+          "j_ko": "제가 교관으로서의 모습을 똑똑히 보여드리죠!",
+          "j_ja": "私の教官としての姿を先生にお見せします！",
+          "g_en": "I'll show you how I work as an instructor.",
+          "g_tw": "我會讓老師看看我身為教官的模樣！",
+          "g_tw_cn": "我会让老师看看我身为教官的模样！",
+          "g_ja": "私の教官としての姿を先生にお見せします！",
+          "g_ko": "제가 교관으로서의 모습을 똑똑히 보여드리죠!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005003,
+    "Data": [
+      {
+        "GroupId": 100500060,
+        "Id": 100500100,
+        "CharacterId": 10050,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500070,
+        "Message": {
+          "j_ko": "그때는 잘 들어가셨나요?",
+          "j_ja": "先日は無事に帰れましたか？",
+          "g_en": "Did you get back safely?",
+          "g_tw": "前幾天有平安回去了嗎？",
+          "g_tw_cn": "前几天有平安回去了吗？",
+          "g_ja": "先日は無事に帰れましたか？",
+          "g_ko": "그때는 잘 들어가셨나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500070,
+        "Id": 100500110,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500080,
+        "Message": {
+          "j_ko": "제대로 된 모습을 못 보여드린 것 같아 죄송하네요.",
+          "j_ja": "まともな姿をお見せできなくて残念です",
+          "g_en": "I feel bad that I didn't get to show you my best.",
+          "g_tw": "很可惜沒能讓你看到我正經的模樣",
+          "g_tw_cn": "很可惜没能让你看到我正经的模样",
+          "g_ja": "まともな姿をお見せできなくて残念です",
+          "g_ko": "제대로 된 모습을 못 보여드린 것 같아 죄송하네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500080,
+        "Id": 100500120,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500090,
+        "Message": {
+          "j_ko": "충분히 멋있었어, 코코나 쨩.",
+          "j_ja": "十分にかっこよかったよ、ココナちゃん",
+          "g_en": "You were cool, Kokona.",
+          "g_tw": "已經十分帥氣囉，心菜醬",
+          "g_tw_cn": "已经十分帅气啰，心菜酱",
+          "g_ja": "十分にかっこよかったよ、ココナちゃん",
+          "g_ko": "충분히 멋있었어, 코코나 쨩."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500080,
+        "Id": 100500130,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500090,
+        "Message": {
+          "j_ko": "그 정도면 대단했어, 코코나 쨩.",
+          "j_ja": "立派に教官してたよ、ココナちゃん",
+          "g_en": "It was great, Kokona.",
+          "g_tw": "是位優秀的教官唷，心菜醬",
+          "g_tw_cn": "是位优秀的教官唷，心菜酱",
+          "g_ja": "立派に教官してたよ、ココナちゃん",
+          "g_ko": "그 정도면 대단했어, 코코나 쨩."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500090,
+        "Id": 100500140,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500100,
+        "Message": {
+          "j_ko": "그러니까, 코코나 쨩이 아니라니까요!",
+          "j_ja": "だから、ココナちゃんじゃないです！",
+          "g_en": "Don't call me Kokona. Call me Instructor Kokona!",
+          "g_tw": "就說了，不是心菜醬！",
+          "g_tw_cn": "就说了，不是心菜酱！",
+          "g_ja": "だから、ココナちゃんじゃないです！",
+          "g_ko": "그러니까, 코코나 쨩이 아니라니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500100,
+        "Id": 100500150,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500110,
+        "Message": {
+          "j_ko": "절 코코나 쨩이라고 부르실 거면,",
+          "j_ja": "私をココナちゃんと呼ぶなら、",
+          "g_en": "If you call me Kokona,",
+          "g_tw": "如果要叫我心菜醬的話，",
+          "g_tw_cn": "如果要叫我心菜酱的话，",
+          "g_ja": "私をココナちゃんと呼ぶなら、",
+          "g_ko": "절 코코나 쨩이라고 부르실 거면,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500100,
+        "Id": 100500160,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500110,
+        "Message": {
+          "j_ko": "슌 언니도 슌 쨩이라고 불러야 맞는 게 아닐까요?",
+          "j_ja": "シュン姉さんもシュンちゃんって呼ぶべきじゃないでしょうか？",
+          "g_en": "are you gonna address Instructor Shun the same way?",
+          "g_tw": "那叫旬姐姐的時候，不是也該叫旬醬嗎？",
+          "g_tw_cn": "那叫旬姐姐的时候，不是也该叫旬酱吗？",
+          "g_ja": "シュン姉さんもシュンちゃんって呼ぶべきじゃないでしょうか？",
+          "g_ko": "슌 언니도 슌 쨩이라고 불러야 맞는 게 아닐까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500110,
+        "Id": 100500170,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500120,
+        "Message": {
+          "j_ko": "슌이라면 그렇게 불리는 걸 좋아할지도 몰라.",
+          "j_ja": "シュンはそう呼ばれたら喜びそう",
+          "g_en": "Maybe Shun would prefer that.",
+          "g_tw": "如果是旬被那麼叫，應該會很高興呢",
+          "g_tw_cn": "如果是旬被那么叫，应该会很高兴呢",
+          "g_ja": "シュンはそう呼ばれたら喜びそう",
+          "g_ko": "슌이라면 그렇게 불리는 걸 좋아할지도 몰라."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500120,
+        "Id": 100500180,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100503,
+        "NextGroupId": 100500130,
+        "Message": {
+          "j_ko": "그게…… 무슨 말씀이세요?",
+          "j_ja": "えっと……それは、どういうことですか？",
+          "g_en": "What do you mean?",
+          "g_tw": "那個……那是什麼意思？",
+          "g_tw_cn": "那个……那是什么意思？",
+          "g_ja": "えっと……それは、どういうことですか？",
+          "g_ko": "그게…… 무슨 말씀이세요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500130,
+        "Id": 100500190,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500140,
+        "Message": {
+          "j_ko": "아직도 입에서 쓴맛이 나요……",
+          "j_ja": "まだ口の中が苦いです……",
+          "g_en": "I still taste the bitterness...",
+          "g_tw": "嘴巴裡還有苦味……",
+          "g_tw_cn": "嘴巴里还有苦味……",
+          "g_ja": "まだ口の中が苦いです……",
+          "g_ko": "아직도 입에서 쓴맛이 나요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500140,
+        "Id": 100500200,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500150,
+        "Message": {
+          "j_ko": "커피 미워요……",
+          "j_ja": "コーヒー、嫌いです……",
+          "g_en": "I hate coffee...",
+          "g_tw": "討厭咖啡……",
+          "g_tw_cn": "讨厌咖啡……",
+          "g_ja": "コーヒー、嫌いです……",
+          "g_ko": "커피 미워요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005005,
+    "Data": [
+      {
+        "GroupId": 100500150,
+        "Id": 100500210,
+        "CharacterId": 10050,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500160,
+        "Message": {
+          "j_ko": "생각해 봤는데 말이예요.",
+          "j_ja": "考えてみたんですが",
+          "g_en": "I've been thinking.",
+          "g_tw": "我想了想",
+          "g_tw_cn": "我想了想",
+          "g_ja": "考えてみたんですが",
+          "g_ko": "생각해 봤는데 말이예요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500160,
+        "Id": 100500220,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500170,
+        "Message": {
+          "j_ko": "반드시 커피를 마실 줄 알아야 어른인 건 아닌 것 같아요.",
+          "j_ja": "必ずしもコーヒーを飲めることが大人というのは違う気がしてきました",
+          "g_en": "I don't think enjoying coffee means you're an adult.",
+          "g_tw": "發現好像不是能喝咖啡就是大人了",
+          "g_tw_cn": "发现好像不是能喝咖啡就是大人了",
+          "g_ja": "必ずしもコーヒーを飲めることが大人というのは違う気がしてきました",
+          "g_ko": "반드시 커피를 마실 줄 알아야 어른인 건 아닌 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500160,
+        "Id": 100500230,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500170,
+        "Message": {
+          "j_ko": "커피를 마시지 않는 어른도 있지 않을까요?",
+          "j_ja": "コーヒーを飲まない大人もいるのではないでしょうか",
+          "g_en": "I'm sure there are grown-ups who don't like coffee.",
+          "g_tw": "也有不喝咖啡的大人吧",
+          "g_tw_cn": "也有不喝咖啡的大人吧",
+          "g_ja": "コーヒーを飲まない大人もいるのではないでしょうか",
+          "g_ko": "커피를 마시지 않는 어른도 있지 않을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500170,
+        "Id": 100500240,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500180,
+        "Message": {
+          "j_ko": "숙녀에게는 아직 일렀던 모양이네, 코코나 쨩.",
+          "j_ja": "うん。無理に飲む必要はないからね",
+          "g_en": "Maybe it's too early for you, Kokona.",
+          "g_tw": "嗯。沒有必要勉強喝",
+          "g_tw_cn": "嗯。没有必要勉强喝",
+          "g_ja": "うん。無理に飲む必要はないからね",
+          "g_ko": "숙녀에게는 아직 일렀던 모양이네, 코코나 쨩."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500180,
+        "Id": 100500250,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500190,
+        "Message": {
+          "j_ko": "꼭 그렇다는 게 아니라요!",
+          "j_ja": "やはりそうですよね！",
+          "g_en": "I'm just saying!",
+          "g_tw": "果然是那樣啊！",
+          "g_tw_cn": "果然是那样啊！",
+          "g_ja": "やはりそうですよね！",
+          "g_ko": "꼭 그렇다는 게 아니라요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500190,
+        "Id": 100500260,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500200,
+        "Message": {
+          "j_ko": "세상에는 어떻게 해도 맞지 않는 음식이 있는 법이잖아요?",
+          "j_ja": "世の中にはどうしても合わない食べ物だってありますし",
+          "g_en": "You just can't acquire a taste for everything, you know?",
+          "g_tw": "世上總有不合自己胃口的食物",
+          "g_tw_cn": "世上总有不合自己胃口的食物",
+          "g_ja": "世の中にはどうしても合わない食べ物だってありますし",
+          "g_ko": "세상에는 어떻게 해도 맞지 않는 음식이 있는 법이잖아요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500190,
+        "Id": 100500270,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500200,
+        "Message": {
+          "j_ko": "예를 들자면 저와 당근처럼 말이예요.",
+          "j_ja": "例えば、私とニンジンのように",
+          "g_en": "For example, I can't eat carrots.",
+          "g_tw": "舉例來說，就像我之於紅蘿蔔",
+          "g_tw_cn": "举例来说，就像我之于红萝卜",
+          "g_ja": "例えば、私とニンジンのように",
+          "g_ko": "예를 들자면 저와 당근처럼 말이예요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500200,
+        "Id": 100500280,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500210,
+        "Message": {
+          "j_ko": "다음에는 커피에 우유와 설탕을 타 줄게.",
+          "j_ja": "今度はコーヒーに牛乳と砂糖を入れてあげるね",
+          "g_en": "I'll put milk and sugar in your coffee next time.",
+          "g_tw": "我下次會幫你在咖啡裡面加牛奶跟砂糖的",
+          "g_tw_cn": "我下次会帮你在咖啡里面加牛奶跟砂糖的",
+          "g_ja": "今度はコーヒーに牛乳と砂糖を入れてあげるね",
+          "g_ko": "다음에는 커피에 우유와 설탕을 타 줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500210,
+        "Id": 100500290,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500220,
+        "Message": {
+          "j_ko": "우유와, 설탕이요……?!",
+          "j_ja": "牛乳と砂糖ですか……！？",
+          "g_en": "Milk and sugar...?!",
+          "g_tw": "牛奶跟砂糖嗎……！？",
+          "g_tw_cn": "牛奶跟砂糖吗……！？",
+          "g_ja": "牛乳と砂糖ですか……！？",
+          "g_ko": "우유와, 설탕이요……?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500210,
+        "Id": 100500300,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500220,
+        "Message": {
+          "j_ko": "그, 그렇다면 저도 생각을 다시 해 볼 수도……?",
+          "j_ja": "そ、それなら考え直してもいいかも……？",
+          "g_en": "Th-Then I might reconsider...",
+          "g_tw": "那，那樣的話，好像可以重新考慮一下……？",
+          "g_tw_cn": "那，那样的话，好像可以重新考虑一下……？",
+          "g_ja": "そ、それなら考え直してもいいかも……？",
+          "g_ko": "그, 그렇다면 저도 생각을 다시 해 볼 수도……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500220,
+        "Id": 100500310,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500230,
+        "Message": {
+          "j_ko": "아뇨. 역시 아니에요.",
+          "j_ja": "いいえ、やっぱりいいです",
+          "g_en": "No, I don't think so.",
+          "g_tw": "不，果然還是算了",
+          "g_tw_cn": "不，果然还是算了",
+          "g_ja": "いいえ、やっぱりいいです",
+          "g_ko": "아뇨. 역시 아니에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500220,
+        "Id": 100500320,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500230,
+        "Message": {
+          "j_ko": "전 훌륭한 숙녀니까, 그런 건 필요 없어요.",
+          "j_ja": "私は立派なレディーですから、そんなものは必要ありません",
+          "g_en": "I'm a proper lady, so I don't need that.",
+          "g_tw": "我是優秀的淑女，不需要那種東西",
+          "g_tw_cn": "我是优秀的淑女，不需要那种东西",
+          "g_ja": "私は立派なレディーですから、そんなものは必要ありません",
+          "g_ko": "전 훌륭한 숙녀니까, 그런 건 필요 없어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100500230,
+            "Id": 100500330,
+            "CharacterId": 10050,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100500240,
+            "Message": {
+              "j_ko": "그냥 저와 커피가 안 맞는 것뿐이니까요.",
+              "j_ja": "ただ私とコーヒーが合わないだけですから",
+              "g_en": "I just don't like coffee, that's all.",
+              "g_tw": "就只是咖啡不適合我而已",
+              "g_tw_cn": "就只是咖啡不适合我而已",
+              "g_ja": "ただ私とコーヒーが合わないだけですから",
+              "g_ko": "그냥 저와 커피가 안 맞는 것뿐이니까요."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100500230,
+        "Id": 100500330,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500240,
+        "Message": {
+          "j_ko": "그냥 저와 커피가 안 맞는 것뿐이니까요.",
+          "j_ja": "ただ私とコーヒーが合わないだけですから",
+          "g_en": "I just don't like coffee, that's all.",
+          "g_tw": "就只是咖啡不適合我而已",
+          "g_tw_cn": "就只是咖啡不适合我而已",
+          "g_ja": "ただ私とコーヒーが合わないだけですから",
+          "g_ko": "그냥 저와 커피가 안 맞는 것뿐이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500240,
+        "Id": 100500340,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500250,
+        "Message": {
+          "j_ko": "그럼 난 우유와 설탕을 타서 맛있는 커피를 마셔야지~",
+          "j_ja": "じゃあ、私は牛乳と砂糖を入れておいしいコーヒーを飲もうかな",
+          "g_en": "Then I'll just have delicious coffee with milk and sugar by myself!",
+          "g_tw": "那麼，我就來喝加了牛奶和砂糖的美味咖啡吧",
+          "g_tw_cn": "那么，我就来喝加了牛奶和砂糖的美味咖啡吧",
+          "g_ja": "じゃあ、私は牛乳と砂糖を入れておいしいコーヒーを飲もうかな",
+          "g_ko": "그럼 난 우유와 설탕을 타서 맛있는 커피를 마셔야지~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500250,
+        "Id": 100500350,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500260,
+        "Message": {
+          "j_ko": "치사해요!",
+          "j_ja": "ずるいです！",
+          "g_en": "That's not fair!",
+          "g_tw": "太狡猾了！",
+          "g_tw_cn": "太狡猾了！",
+          "g_ja": "ずるいです！",
+          "g_ko": "치사해요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500250,
+        "Id": 100500360,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100505,
+        "NextGroupId": 100500260,
+        "Message": {
+          "j_ko": "어른들은 다 치사해요!",
+          "j_ja": "大人はみんなずるいです！",
+          "g_en": "Adults are all unfair!",
+          "g_tw": "大人們都很狡猾！",
+          "g_tw_cn": "大人们都很狡猾！",
+          "g_ja": "大人はみんなずるいです！",
+          "g_ko": "어른들은 다 치사해요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005006,
+    "Data": [
+      {
+        "GroupId": 100500260,
+        "Id": 100500370,
+        "CharacterId": 10050,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500270,
+        "Message": {
+          "j_ko": "아무리 생각해도 속고 있는 게 분명해요……",
+          "j_ja": "どう考えても騙されてるに違いないです……",
+          "g_en": "I feel like I'm always being lied to...",
+          "g_tw": "怎麼想都覺得我被騙了……",
+          "g_tw_cn": "怎么想都觉得我被骗了……",
+          "g_ja": "どう考えても騙されてるに違いないです……",
+          "g_ko": "아무리 생각해도 속고 있는 게 분명해요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500270,
+        "Id": 100500380,
+        "CharacterId": 10050,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500280,
+        "Message": {
+          "j_ko": "당근이 맛있어질 리가 없어요……",
+          "j_ja": "ニンジンが美味しくなるわけないです……",
+          "g_en": "There's no way I'll ever like carrots...",
+          "g_tw": "紅蘿蔔怎麼可能會變好吃……",
+          "g_tw_cn": "红萝卜怎么可能会变好吃……",
+          "g_ja": "ニンジンが美味しくなるわけないです……",
+          "g_ko": "당근이 맛있어질 리가 없어요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500280,
+        "Id": 100500390,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500290,
+        "Message": {
+          "j_ko": "맛있는 당근을 먹으러 가자!",
+          "j_ja": "おいしいニンジンを食べに行こう！",
+          "g_en": "Let's go eat delicious carrots!",
+          "g_tw": "去吃好吃的紅蘿蔔吧！",
+          "g_tw_cn": "去吃好吃的红萝卜吧！",
+          "g_ja": "おいしいニンジンを食べに行こう！",
+          "g_ko": "맛있는 당근을 먹으러 가자!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500280,
+        "Id": 100500400,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500290,
+        "Message": {
+          "j_ko": "당근 식당에 갈 준비는 됐어?",
+          "j_ja": "ニンジンレストランに行く準備はできた？",
+          "g_en": "Are you ready to go to a carrot restaurant?",
+          "g_tw": "準備好去紅蘿蔔餐廳了嗎？",
+          "g_tw_cn": "准备好去红萝卜餐厅了吗？",
+          "g_ja": "ニンジンレストランに行く準備はできた？",
+          "g_ko": "당근 식당에 갈 준비는 됐어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500290,
+        "Id": 100500410,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500300,
+        "Message": {
+          "j_ko": "가야만…… 하는…… 건가요……?",
+          "j_ja": "行かないと……ダメ……ですか……？",
+          "g_en": "Do I...have to go...?",
+          "g_tw": "不去的話……不行……嗎……？",
+          "g_tw_cn": "不去的话……不行……吗……？",
+          "g_ja": "行かないと……ダメ……ですか……？",
+          "g_ko": "가야만…… 하는…… 건가요……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500300,
+        "Id": 100500420,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500310,
+        "Message": {
+          "j_ko": "우으에으에으에으에……",
+          "j_ja": "ううえ……うええ……うえん",
+          "g_en": "Urghhhhh...",
+          "g_tw": "噁……噁……噁……",
+          "g_tw_cn": "恶……恶……恶……",
+          "g_ja": "ううえ……うええ……うえん",
+          "g_ko": "우으에으에으에으에……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100500310,
+            "Id": 100500430,
+            "CharacterId": 10050,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100500320,
+            "Message": {
+              "j_ko": "제가 오늘 죽어버리면 선생님 때문일 거예요……",
+              "j_ja": "私が今日死んでしまったら、先生のせいですからね……",
+              "g_en": "If I die today, it'll be your fault...",
+              "g_tw": "如果我今天死掉的話，都是老師的錯……",
+              "g_tw_cn": "如果我今天死掉的话，都是老师的错……",
+              "g_ja": "私が今日死んでしまったら、先生のせいですからね……",
+              "g_ko": "제가 오늘 죽어버리면 선생님 때문일 거예요……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100500310,
+        "Id": 100500430,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500320,
+        "Message": {
+          "j_ko": "제가 오늘 죽어버리면 선생님 때문일 거예요……",
+          "j_ja": "私が今日死んでしまったら、先生のせいですからね……",
+          "g_en": "If I die today, it'll be your fault...",
+          "g_tw": "如果我今天死掉的話，都是老師的錯……",
+          "g_tw_cn": "如果我今天死掉的话，都是老师的错……",
+          "g_ja": "私が今日死んでしまったら、先生のせいですからね……",
+          "g_ko": "제가 오늘 죽어버리면 선생님 때문일 거예요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500320,
+        "Id": 100500440,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500330,
+        "Message": {
+          "j_ko": "나만 믿어.",
+          "j_ja": "私を信じて",
+          "g_en": "Trust me.",
+          "g_tw": "就相信我吧",
+          "g_tw_cn": "就相信我吧",
+          "g_ja": "私を信じて",
+          "g_ko": "나만 믿어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500320,
+        "Id": 100500450,
+        "CharacterId": 10050,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500330,
+        "Message": {
+          "j_ko": "멋진 숙녀 대접을 해 줄게.",
+          "j_ja": "素敵なレディー扱いをするから",
+          "g_en": "I'll treat you like a proper lady.",
+          "g_tw": "我會把你當淑女對待的",
+          "g_tw_cn": "我会把你当淑女对待的",
+          "g_ja": "素敵なレディー扱いをするから",
+          "g_ko": "멋진 숙녀 대접을 해 줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500330,
+        "Id": 100500460,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100500340,
+        "Message": {
+          "j_ko": "알았어요.",
+          "j_ja": "わかりました",
+          "g_en": "Okay.",
+          "g_tw": "我知道了",
+          "g_tw_cn": "我知道了",
+          "g_ja": "わかりました",
+          "g_ko": "알았어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100500340,
+        "Id": 100500470,
+        "CharacterId": 10050,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100506,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "선생님만…… 믿을게요.",
+          "j_ja": "先生を……信じます",
+          "g_en": "I believe you.",
+          "g_tw": "就……相信老師了",
+          "g_tw_cn": "就……相信老师了",
+          "g_ja": "先生を……信じます",
+          "g_ko": "선생님만…… 믿을게요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

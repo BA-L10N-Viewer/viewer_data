@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "騒動の中心人物を発見！対処します！",
+      "j_ko": "소요 사태의 리더 발견! 대응합니다!",
+      "g_ja": "騒動の中心人物を発見！対処します！",
+      "g_ko": "소요 사태의 리더 발견! 대응합니다!",
+      "g_en": "We found the mastermind behind all this commotion! Get ready!",
+      "g_th": "เจอผู้นำในการก่อความไม่สงบแล้ว! เตรียมรับมือ!",
+      "g_tw": "發現騷動的核心人物！開始處理！",
+      "g_tw_cn": "发现骚动的内核人物！开始处理！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3571276574,
+    "DataType": "speaker",
+    "Script": "3;하스미;06;소요 사태의 리더 발견! 대응합니다!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "フフ、連邦生徒会の子犬たちが現れましたか。お可愛らしいこと。",
+      "j_ko": "후후, 총학생회의 강아지들이 나타났군요. 귀엽기도 하지.",
+      "g_ja": "フフ、連邦生徒会の子犬たちが現れましたか。お可愛らしいこと。",
+      "g_ko": "후후, 총학생회의 강아지들이 나타났군요. 귀엽기도 하지.",
+      "g_en": "Looks like the little puppies of the General Student Council have come to stop me. How adorable.",
+      "g_th": "หึหึ ลูกหมาขององค์การนักเรียนโผล่ออกมาแล้วสินะ น่ารักเหมือนกันนะเรา",
+      "g_tw": "呵呵，聯邦學生會的小狗們出現了嗎。真是可愛。",
+      "g_tw_cn": "呵呵，联邦学生会的小狗们出现了吗。真是可爱。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 664677038,
+    "DataType": "speaker",
+    "Script": "3;와카모 마스크;01;후후, 총학생회의 강아지들이 나타났군요. 귀엽기도 하지.\\n#3;em;[음표]\\n#3;al",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

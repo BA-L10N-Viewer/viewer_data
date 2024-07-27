@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぅ……今日も休んでいる余裕なんてありませんね。",
+      "j_ko": "후우…… 정말 정신이 없네요.",
+      "g_ja": "ふぅ……今日も休んでいる余裕なんてありませんね。",
+      "g_ko": "후우…… 정말 정신이 없네요.",
+      "g_en": "*sigh* I'm so busy.",
+      "g_th": "เฮ้อ... ไม่ได้หยุดหย่อนกันเลยนะ",
+      "g_tw": "呼……真是忙得不可開交。",
+      "g_tw_cn": "呼……真是忙得不可开交。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;06;후우…… 정말 정신이 없네요.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが、こういう時こそ委員長の力にならなくては！",
+      "j_ko": "하지만 이럴 때야말로 저 아마우 아코! 거기에 지지 않도록! 부장님의 힘이 될 테니까요!",
+      "g_ja": "ですが、こういう時こそ委員長の力にならなくては！",
+      "g_ko": "하지만 이럴 때야말로 저 아마우 아코! 거기에 지지 않도록! 부장님의 힘이 될 테니까요!",
+      "g_en": "But this is the very moment when I, Amau Ako, must rise up, and be your strength, Head Prefect!",
+      "g_th": "แต่ยิ่งเป็นเวลาแบบนี้ อามาอุ อาโกะคนนี้! จะไม่ยอมแพ้! และเป็นกำลังใจให้ท่านประธานค่ะ!",
+      "g_tw": "但正是這種時候才需要我天雨亞子！<br/>可不能就這樣認輸！我要幫上委員長的忙！",
+      "g_tw_cn": "但正是这种时候才需要我天雨亚子！<br/>可不能就这样认输！我要帮上委员长的忙！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;05;하지만 이럴 때야말로 저 아마우 아코! 거기에 지지 않도록! 부장님의 힘이 될 테니까요!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_02",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつもありがとう、アコ。",
+      "j_ko": "응, 고마워.",
+      "g_ja": "いつもありがとう、アコ。",
+      "g_ko": "응, 고마워.",
+      "g_en": "Yes. Thank you.",
+      "g_th": "อืม ขอบใจนะ",
+      "g_tw": "嗯，謝謝。",
+      "g_tw_cn": "嗯，谢谢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;03;응, 고마워.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

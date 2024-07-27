@@ -1,0 +1,897 @@
+[
+  {
+    "BondScenarioId": 1005202,
+    "Data": [
+      {
+        "GroupId": 100520010,
+        "Id": 100520010,
+        "CharacterId": 10052,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520020,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님.",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Hello, Sensei.",
+          "g_tw": "你好，老師",
+          "g_tw_cn": "你好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "안녕하세요, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520020,
+        "Id": 100520020,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520030,
+        "Message": {
+          "j_ko": "이번에 샬레의 학생 당번 업무를 맡게 된 밀레니엄 학원의 우시오 노아라고 합니다.",
+          "j_ja": "この度、シャーレ当番を務めることになりました、生塩ノアです",
+          "g_en": "My name is Ushio Noa, from Millennium. I've been appointed to help you.",
+          "g_tw": "我是負責這次夏萊值班的生塩乃愛",
+          "g_tw_cn": "我是负责这次夏莱值班的生塩乃爱",
+          "g_ja": "この度、シャーレ当番を務めることになりました、生塩ノアです",
+          "g_ko": "이번에 샬레의 학생 당번 업무를 맡게 된 밀레니엄 학원의 우시오 노아라고 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520020,
+        "Id": 100520030,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520030,
+        "Message": {
+          "j_ko": "첫 당번 업무에 앞서 미리 인사드립니다.",
+          "j_ja": "当番初回のため、ご挨拶させていただきます",
+          "g_en": "I wanted to introduce myself before beginning my duties.",
+          "g_tw": "因為是初次值班，所以先來向你打聲招呼",
+          "g_tw_cn": "因为是初次值班，所以先来向你打声招呼",
+          "g_ja": "当番初回のため、ご挨拶させていただきます",
+          "g_ko": "첫 당번 업무에 앞서 미리 인사드립니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520030,
+        "Id": 100520040,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520040,
+        "Message": {
+          "j_ko": "나도 잘 부탁해! ",
+          "j_ja": "こちらこそ、よろしくね！",
+          "g_en": "I look forward to working with you!",
+          "g_tw": "我也請你多多指教唷！",
+          "g_tw_cn": "我也请你多多指教唷！",
+          "g_ja": "こちらこそ、よろしくね！",
+          "g_ko": "나도 잘 부탁해!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520040,
+        "Id": 100520050,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520050,
+        "Message": {
+          "j_ko": "그나저나 샬레의 학생 당번 업무는 처음이라…",
+          "j_ja": "シャーレのお当番は初めてなので……",
+          "g_en": "This will be my first time doing this...",
+          "g_tw": "第一次到夏萊值班……",
+          "g_tw_cn": "第一次到夏莱值班……",
+          "g_ja": "シャーレのお当番は初めてなので……",
+          "g_ko": "그나저나 샬레의 학생 당번 업무는 처음이라…"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520040,
+        "Id": 100520060,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520050,
+        "Message": {
+          "j_ko": "혹시 당번 업무 전에 미리 준비해야 할 물건이라도 있을까요?",
+          "j_ja": "何か事前に用意するものなど、ありますでしょうか？",
+          "g_en": "Is there anything I need to prepare beforehand?",
+          "g_tw": "有需要事先準備什麼東西嗎？",
+          "g_tw_cn": "有需要事先准备什么东西吗？",
+          "g_ja": "何か事前に用意するものなど、ありますでしょうか？",
+          "g_ko": "혹시 당번 업무 전에 미리 준비해야 할 물건이라도 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520050,
+        "Id": 100520070,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520060,
+        "Message": {
+          "j_ko": "준비해야 할 건 없어.",
+          "j_ja": "特にないよ",
+          "g_en": "There's no need to busy yourself with prep work.",
+          "g_tw": "沒什麼特別的唷",
+          "g_tw_cn": "没什么特别的唷",
+          "g_ja": "特にないよ",
+          "g_ko": "준비해야 할 건 없어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520060,
+        "Id": 100520080,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520070,
+        "Message": {
+          "j_ko": "놀러 온다는 기분으로 가볍게 찾아와.",
+          "j_ja": "遊びにくるくらいの気持ちで、気楽においで",
+          "g_en": "Get here first and figure the rest as you go. Arrive ready to enjoy yourself.",
+          "g_tw": "抱著來玩的心情，放輕鬆就行了",
+          "g_tw_cn": "抱着来玩的心情，放轻松就行了",
+          "g_ja": "遊びにくるくらいの気持ちで、気楽においで",
+          "g_ko": "놀러 온다는 기분으로 가볍게 찾아와."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520070,
+        "Id": 100520090,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520080,
+        "Message": {
+          "j_ko": "놀러 간다는 기분……",
+          "j_ja": "遊びに……",
+          "g_en": "Enjoy myself...",
+          "g_tw": "玩……",
+          "g_tw_cn": "玩……",
+          "g_ja": "遊びに……",
+          "g_ko": "놀러 간다는 기분……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520070,
+        "Id": 100520100,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520080,
+        "Message": {
+          "j_ko": "그렇군요.",
+          "j_ja": "分かりました",
+          "g_en": "Understood.",
+          "g_tw": "我知道了",
+          "g_tw_cn": "我知道了",
+          "g_ja": "分かりました",
+          "g_ko": "그렇군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520080,
+        "Id": 100520110,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100522,
+        "NextGroupId": 100520090,
+        "Message": {
+          "j_ko": "그럼 당일 뵙겠습니다.",
+          "j_ja": "それでは、当日はよろしくお願いします",
+          "g_en": "I'll see you as scheduled.",
+          "g_tw": "那當天就麻煩你了",
+          "g_tw_cn": "那当天就麻烦你了",
+          "g_ja": "それでは、当日はよろしくお願いします",
+          "g_ko": "그럼 당일 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005203,
+    "Data": [
+      {
+        "GroupId": 100520090,
+        "Id": 100520120,
+        "CharacterId": 10052,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520100,
+        "Message": {
+          "j_ko": "선생님, 혹시 어제의 당번 활동 때……",
+          "j_ja": "先生、昨日の当番の際に……",
+          "g_en": "Sensei, while on duty yesterday...",
+          "g_tw": "老師，請問你昨天值班的時候……",
+          "g_tw_cn": "老师，请问你昨天值班的时候……",
+          "g_ja": "先生、昨日の当番の際に……",
+          "g_ko": "선생님, 혹시 어제의 당번 활동 때……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520100,
+        "Id": 100520130,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520110,
+        "Message": {
+          "j_ko": "신발을 새로 구매하셨었나요?",
+          "j_ja": "おろしたての靴を履いてませんでしたか？",
+          "g_en": "Were you wearing new shoes?",
+          "g_tw": "是不是穿了新鞋？",
+          "g_tw_cn": "是不是穿了新鞋？",
+          "g_ja": "おろしたての靴を履いてませんでしたか？",
+          "g_ko": "신발을 새로 구매하셨었나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520110,
+        "Id": 100520140,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520120,
+        "Message": {
+          "j_ko": "그걸 어떻게 알아차렸어?",
+          "j_ja": "どうして分かったの？",
+          "g_en": "How on Earth did you notice?",
+          "g_tw": "你怎麼會知道？",
+          "g_tw_cn": "你怎么会知道？",
+          "g_ja": "どうして分かったの？",
+          "g_ko": "그걸 어떻게 알아차렸어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520120,
+        "Id": 100520150,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520130,
+        "Message": {
+          "j_ko": "같은 브랜드의 같은 제품이었는데…….",
+          "j_ja": "前のと同じブランド、同じ製品だったのに……",
+          "g_en": "They're exactly the same as the shoes I always wear, just new...",
+          "g_tw": "明明和之前那雙是同個款式……",
+          "g_tw_cn": "明明和之前那双是同个款式……",
+          "g_ja": "前のと同じブランド、同じ製品だったのに……",
+          "g_ko": "같은 브랜드의 같은 제품이었는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520130,
+        "Id": 100520160,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520140,
+        "Message": {
+          "j_ko": "후후, 정답이었군요.",
+          "j_ja": "ふふ、やはりそうでしたか",
+          "g_en": "Ah, so I was right.",
+          "g_tw": "呵呵，果然沒錯",
+          "g_tw_cn": "呵呵，果然没错",
+          "g_ja": "ふふ、やはりそうでしたか",
+          "g_ko": "후후, 정답이었군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520130,
+        "Id": 100520170,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520140,
+        "Message": {
+          "j_ko": "신발코에 항상 보이던 흠집이 보이지 않기에 알아차렸습니다.",
+          "j_ja": "つま先の部分に、いつもあった傷跡が無かったので",
+          "g_en": "There were no scuffs on the front of the shoes. The truth was right in front of me.",
+          "g_tw": "因為原本在鞋尖的磨損不見了",
+          "g_tw_cn": "因为原本在鞋尖的磨损不见了",
+          "g_ja": "つま先の部分に、いつもあった傷跡が無かったので",
+          "g_ko": "신발코에 항상 보이던 흠집이 보이지 않기에 알아차렸습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520140,
+        "Id": 100520180,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520150,
+        "Message": {
+          "j_ko": "워낙 낡은 신발이기도 했고, 기성품이니 수선을 하는 것보다는 새로 사는 게 훨씬 효율적이었을 테니까요.",
+          "j_ja": "ずいぶん古い靴でしたし、既製品ですから修理に出すよりは\n新品を購入するのは良い選択だと思います",
+          "g_en": "Your previous shoes were old and worn out, and replacing them would be far more efficient than restoring them.",
+          "g_tw": "那雙鞋已經很舊了，再加上剛好有現貨，所以與其拿去修，不如直接買雙新的",
+          "g_tw_cn": "那双鞋已经很旧了，再加上刚好有现货，所以与其拿去修，不如直接买双新的",
+          "g_ja": "ずいぶん古い靴でしたし、既製品ですから修理に出すよりは\n新品を購入するのは良い選択だと思います",
+          "g_ko": "워낙 낡은 신발이기도 했고, 기성품이니 수선을 하는 것보다는 새로 사는 게 훨씬 효율적이었을 테니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520150,
+        "Id": 100520190,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520160,
+        "Message": {
+          "j_ko": "뭔가 탐정 같은 추리네.",
+          "j_ja": "なんか探偵みたいだね",
+          "g_en": "Are you a secretary or a detective?",
+          "g_tw": "總覺得像是偵探一樣呢",
+          "g_tw_cn": "总觉得像是侦探一样呢",
+          "g_ja": "なんか探偵みたいだね",
+          "g_ko": "뭔가 탐정 같은 추리네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520160,
+        "Id": 100520200,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520170,
+        "Message": {
+          "j_ko": "과연……",
+          "j_ja": "たしかに……",
+          "g_en": "Well...",
+          "g_tw": "確實……",
+          "g_tw_cn": "确实……",
+          "g_ja": "たしかに……",
+          "g_ko": "과연……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520170,
+        "Id": 100520210,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520180,
+        "Message": {
+          "j_ko": "그러고 보면 탐정의 활동과 서기의 활동에는 의외로 비슷한 구석이 있을지도 모르겠네요.",
+          "j_ja": "言われてみれば、探偵と書記の活動は似てる部分があるかもしれません",
+          "g_en": "Thinking about it logically, both detectives and secretaries rely on an unfailing devotion to detailed observation.",
+          "g_tw": "這麼一說，也許偵探和書記的工作意外的有相似之處呢",
+          "g_tw_cn": "这么一说，也许侦探和书记的工作意外的有相似之处呢",
+          "g_ja": "言われてみれば、探偵と書記の活動は似てる部分があるかもしれません",
+          "g_ko": "그러고 보면 탐정의 활동과 서기의 활동에는 의외로 비슷한 구석이 있을지도 모르겠네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520170,
+        "Id": 100520220,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520180,
+        "Message": {
+          "j_ko": "저도 당번 활동 중에는 범인을 관찰하는 탐정처럼 선생님을 열심히 지켜보고 있으니까요. ",
+          "j_ja": "私も当番中は、犯人を観察する探偵のように、先生をしっかり見ておりますからね",
+          "g_en": "For example, I'm always intently observing you...like a detective trailing a criminal.",
+          "g_tw": "因為我在值班的時候，也會像觀察犯人般，仔細觀察著老師",
+          "g_tw_cn": "因为我在值班的时候，也会像观察犯人般，仔细观察着老师",
+          "g_ja": "私も当番中は、犯人を観察する探偵のように、先生をしっかり見ておりますからね",
+          "g_ko": "저도 당번 활동 중에는 범인을 관찰하는 탐정처럼 선생님을 열심히 지켜보고 있으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520180,
+        "Id": 100520230,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100523,
+        "NextGroupId": 100520190,
+        "Message": {
+          "j_ko": "뭔가 무서워……!",
+          "j_ja": "怖い……！",
+          "g_en": "Why a criminal?!",
+          "g_tw": "好可怕……！",
+          "g_tw_cn": "好可怕……！",
+          "g_ja": "怖い……！",
+          "g_ko": "뭔가 무서워……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005205,
+    "Data": [
+      {
+        "GroupId": 100520190,
+        "Id": 100520240,
+        "CharacterId": 10052,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520200,
+        "Message": {
+          "j_ko": "밀레니엄의 학생들이 만든 발명품을 보고 있노라면 깜짝 놀랄 때가 많아요.",
+          "j_ja": "ミレニアム生の作った発明品を見ていると、驚くことが多いです",
+          "g_en": "The ingenuity of Millennium's students never fails to impress me.",
+          "g_tw": "當我看到千年學生的發明時，常常會感到驚訝",
+          "g_tw_cn": "当我看到千年学生的发明时，常常会感到惊讶",
+          "g_ja": "ミレニアム生の作った発明品を見ていると、驚くことが多いです",
+          "g_ko": "밀레니엄의 학생들이 만든 발명품을 보고 있노라면 깜짝 놀랄 때가 많아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520200,
+        "Id": 100520250,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520210,
+        "Message": {
+          "j_ko": "저는 생각지도 못했던 새로운 기술이나 아이디어를 매번 가져오거든요.",
+          "j_ja": "私には思いもつかないような、斬新な技術やアイディアを提示してくれるんですよね",
+          "g_en": "The technologies and ideas they come up with are beyond imagination.",
+          "g_tw": "因為他們帶來的，都是我未曾想過的新技術和靈感",
+          "g_tw_cn": "因为他们带来的，都是我未曾想过的新技术和灵感",
+          "g_ja": "私には思いもつかないような、斬新な技術やアイディアを提示してくれるんですよね",
+          "g_ko": "저는 생각지도 못했던 새로운 기술이나 아이디어를 매번 가져오거든요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520210,
+        "Id": 100520260,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520220,
+        "Message": {
+          "j_ko": "그럴 때마다 저는 밀레니엄의 가치에 제대로 공헌하고 있는지, 스스로를 반성하게 되네요.",
+          "j_ja": "その都度、自分はミレニアムの価値に貢献できているのだろうかと自省します",
+          "g_en": "I can't help but reflect on, and maybe even doubt, my own contributions to Millennium.",
+          "g_tw": "這個時候，我就會反省自己是否有對千年的價值做出貢獻",
+          "g_tw_cn": "这个时候，我就会反省自己是否有对千年的价值做出贡献",
+          "g_ja": "その都度、自分はミレニアムの価値に貢献できているのだろうかと自省します",
+          "g_ko": "그럴 때마다 저는 밀레니엄의 가치에 제대로 공헌하고 있는지, 스스로를 반성하게 되네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520220,
+        "Id": 100520270,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520230,
+        "Message": {
+          "j_ko": "노아 정도면 열심히 하는 거 아냐?",
+          "j_ja": "ノアは、十分頑張ってると思うけど",
+          "g_en": "But you work so hard!",
+          "g_tw": "我覺得乃愛已經很努力了唷",
+          "g_tw_cn": "我觉得乃爱已经很努力了唷",
+          "g_ja": "ノアは、十分頑張ってると思うけど",
+          "g_ko": "노아 정도면 열심히 하는 거 아냐?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520230,
+        "Id": 100520280,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520240,
+        "Message": {
+          "j_ko": "잔인한 이야기지만, 열심히 하는 것과 잘하는 것은 다르니까요.",
+          "j_ja": "残酷な話ですが、頑張ってる事と優れている事は違いますから",
+          "g_en": "The cruel reality is that being a hard worker and being a productive worker aren't the same thing.",
+          "g_tw": "這麼說雖然殘忍，但努力和優秀是兩回事",
+          "g_tw_cn": "这么说虽然残忍，但努力和优秀是两回事",
+          "g_ja": "残酷な話ですが、頑張ってる事と優れている事は違いますから",
+          "g_ko": "잔인한 이야기지만, 열심히 하는 것과 잘하는 것은 다르니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520240,
+        "Id": 100520290,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520250,
+        "Message": {
+          "j_ko": "제게는 다른 천재들과 같은 번뜩이는 창의성도, 섬세한 손재주도 없답니다.",
+          "j_ja": "他の天才のような閃きや創造力、器用な職人技も私にはありません",
+          "g_en": "Millennium is full of productive workers overflowing with sparkling creativity and awe-inspiring talents.",
+          "g_tw": "我沒有天才的靈感，也沒有匠人的手藝",
+          "g_tw_cn": "我没有天才的灵感，也没有匠人的手艺",
+          "g_ja": "他の天才のような閃きや創造力、器用な職人技も私にはありません",
+          "g_ko": "제게는 다른 천재들과 같은 번뜩이는 창의성도, 섬세한 손재주도 없답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520240,
+        "Id": 100520300,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520250,
+        "Message": {
+          "j_ko": "그나마 가지고 있는 잡기라고 해도……",
+          "j_ja": "比較的、取り柄と言えるものは……",
+          "g_en": "And what do I have? Just throwaway skills...",
+          "g_tw": "比較能拿來說嘴的……",
+          "g_tw_cn": "比较能拿来说嘴的……",
+          "g_ja": "比較的、取り柄と言えるものは……",
+          "g_ko": "그나마 가지고 있는 잡기라고 해도……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100520250,
+            "Id": 100520310,
+            "CharacterId": 10052,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100520260,
+            "Message": {
+              "j_ko": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?",
+              "j_ja": "……機械の製作に必要な青図を、丸ごと覚えられること……ぐらいでしょうか",
+              "g_en": "...Like being able to perfectly memorize an entire engineering blueprint by looking at it once.",
+              "g_tw": "……可能也只有完整記住製作機械時需要的藍圖……這種事而已吧",
+              "g_tw_cn": "……可能也只有完整记住制作机械时需要的蓝图……这种事而已吧",
+              "g_ja": "……機械の製作に必要な青図を、丸ごと覚えられること……ぐらいでしょうか",
+              "g_ko": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100520250,
+        "Id": 100520310,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520260,
+        "Message": {
+          "j_ko": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?",
+          "j_ja": "……機械の製作に必要な青図を、丸ごと覚えられること……ぐらいでしょうか",
+          "g_en": "...Like being able to perfectly memorize an entire engineering blueprint by looking at it once.",
+          "g_tw": "……可能也只有完整記住製作機械時需要的藍圖……這種事而已吧",
+          "g_tw_cn": "……可能也只有完整记住制作机械时需要的蓝图……这种事而已吧",
+          "g_ja": "……機械の製作に必要な青図を、丸ごと覚えられること……ぐらいでしょうか",
+          "g_ko": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520260,
+        "Id": 100520320,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100525,
+        "NextGroupId": 100520270,
+        "Message": {
+          "j_ko": "엄청난 스킬이잖아……",
+          "j_ja": "それも十分すごいスキルだよ……",
+          "g_en": "...If you're throwing that skill away, can I have it?",
+          "g_tw": "那已經是很了不得的能力了……",
+          "g_tw_cn": "那已经是很了不得的能力了……",
+          "g_ja": "それも十分すごいスキルだよ……",
+          "g_ko": "엄청난 스킬이잖아……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520270,
+        "Id": 100520330,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520280,
+        "Message": {
+          "j_ko": "선생님, 나쁜 소식이 있습니다.",
+          "j_ja": "先生、悪いお知らせです",
+          "g_en": "Sensei, I have bad news.",
+          "g_tw": "老師，有個壞消息",
+          "g_tw_cn": "老师，有个坏消息",
+          "g_ja": "先生、悪いお知らせです",
+          "g_ko": "선생님, 나쁜 소식이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520280,
+        "Id": 100520340,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520290,
+        "Message": {
+          "j_ko": "전에 말씀드렸던 <선생님의 행동 패턴을 수집하여 현재 위치를 예측하는 장치>의 특허 신청이……",
+          "j_ja": "先日お伝えしました「先生の行動パターンを収集し、現在の位置を予測する装置」の特許申請が……",
+          "g_en": "The patent application for the Sensei-Locating Device That Tracks Their Every Move and Thought...",
+          "g_tw": "前幾天說的那個「收集老師的行為模式，預測當前位置的裝置」的專利申請……",
+          "g_tw_cn": "前几天说的那个「收集老师的行为模式，预测当前位置的设备」的专利申请……",
+          "g_ja": "先日お伝えしました「先生の行動パターンを収集し、現在の位置を予測する装置」の特許申請が……",
+          "g_ko": "전에 말씀드렸던 <선생님의 행동 패턴을 수집하여 현재 위치를 예측하는 장치>의 특허 신청이……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520280,
+        "Id": 100520350,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520290,
+        "Message": {
+          "j_ko": "안타깝게도 총학생회의 이의제기로 인해 반려된 모양이에요.",
+          "j_ja": "無念にも、連邦生徒会の異議により差し戻しになったそうです",
+          "g_en": "has sadly been rejected due to objections raised by the General Student Council.",
+          "g_tw": "很遺憾，由於聯邦學生會的反對而被駁回了",
+          "g_tw_cn": "很遗憾，由于联邦学生会的反对而被驳回了",
+          "g_ja": "無念にも、連邦生徒会の異議により差し戻しになったそうです",
+          "g_ko": "안타깝게도 총학생회의 이의제기로 인해 반려된 모양이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520290,
+        "Id": 100520360,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520300,
+        "Message": {
+          "j_ko": "당연하지!",
+          "j_ja": "当たり前だよ！",
+          "g_en": "Of course it was!",
+          "g_tw": "那是當然的！",
+          "g_tw_cn": "那是当然的！",
+          "g_ja": "当たり前だよ！",
+          "g_ko": "당연하지!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520290,
+        "Id": 100520370,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520300,
+        "Message": {
+          "j_ko": "그런 특허가 허가될 리가 없잖아.",
+          "j_ja": "そんな特許、許可が下りたらダメだよ",
+          "g_en": "Who would ever approve a patent like that?!",
+          "g_tw": "那種專利怎麼可能得到許可",
+          "g_tw_cn": "那种专利怎么可能得到许可",
+          "g_ja": "そんな特許、許可が下りたらダメだよ",
+          "g_ko": "그런 특허가 허가될 리가 없잖아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520300,
+        "Id": 100520380,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520310,
+        "Message": {
+          "j_ko": "하지만 특허라는 건 얼마든지 목적을 바꿔가며 같은 물건을 다시 출원할 수 있으니까요.",
+          "j_ja": "ですが特許というものは、目的を変更し同じものを再度出願することも可能です。",
+          "g_en": "We'll find out once they apply again after changing the patent objective.",
+          "g_tw": "但是專利這種東西，只要變更目的就能重新申請",
+          "g_tw_cn": "但是专利这种东西，只要变更目的就能重新申请",
+          "g_ja": "ですが特許というものは、目的を変更し同じものを再度出願することも可能です。",
+          "g_ko": "하지만 특허라는 건 얼마든지 목적을 바꿔가며 같은 물건을 다시 출원할 수 있으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520310,
+        "Id": 100520390,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520320,
+        "Message": {
+          "j_ko": "계속해서 양식을 바꾸어 가며 특허를 신청하다 보면……",
+          "j_ja": "様式を変えながら繰り返し特許を申請し続ければ……",
+          "g_en": "If they keep changing that, they can keep applying...",
+          "g_tw": "只要不斷變更樣式，反覆進行申請……",
+          "g_tw_cn": "只要不断变更样式，反复进行申请……",
+          "g_ja": "様式を変えながら繰り返し特許を申請し続ければ……",
+          "g_ko": "계속해서 양식을 바꾸어 가며 특허를 신청하다 보면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520310,
+        "Id": 100520400,
+        "CharacterId": 10052,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520320,
+        "Message": {
+          "j_ko": "언젠간 진짜 특허 등록이 될지도……?",
+          "j_ja": "いつかは本当に、特許登録できるかも……？",
+          "g_en": "And perhaps, on a better day, to a more open-minded council, the patent will be accepted?",
+          "g_tw": "或許總有一天會成功也說不定……？",
+          "g_tw_cn": "或许总有一天会成功也说不定……？",
+          "g_ja": "いつかは本当に、特許登録できるかも……？",
+          "g_ko": "언젠간 진짜 특허 등록이 될지도……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520320,
+        "Id": 100520410,
+        "CharacterId": 10052,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520330,
+        "Message": {
+          "j_ko": "제발 그만둬……!",
+          "j_ja": "お願いだからもうやめて……！",
+          "g_en": "A better day for who?!",
+          "g_tw": "拜託不要……！",
+          "g_tw_cn": "拜托不要……！",
+          "g_ja": "お願いだからもうやめて……！",
+          "g_ko": "제발 그만둬……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005206,
+    "Data": [
+      {
+        "GroupId": 100520330,
+        "Id": 100520420,
+        "CharacterId": 10052,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520340,
+        "Message": {
+          "j_ko": "선생님, 오늘 오후에 예정되어 있던 정기 면담은 취소되었습니다.",
+          "j_ja": "先生、今日の午後に予定していた定期面談が見送りになりました",
+          "g_en": "Sensei, this afternoon's regularly scheduled meeting has been canceled.",
+          "g_tw": "老師，原定在今天下午進行的定期面談延期了",
+          "g_tw_cn": "老师，原定在今天下午进行的定期面谈延期了",
+          "g_ja": "先生、今日の午後に予定していた定期面談が見送りになりました",
+          "g_ko": "선생님, 오늘 오후에 예정되어 있던 정기 면담은 취소되었습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520340,
+        "Id": 100520430,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100520350,
+        "Message": {
+          "j_ko": "모노레일 점검 중에 갑작스러운 소나기가 내리는 바람에 레일이 일부 손상된 모양이에요.",
+          "j_ja": "モノレール点検中、突然のにわか雨でレールの一部が損傷してしまったようで……",
+          "g_en": "Apparently, a sudden rain shower during monorail maintenance caused some damage.",
+          "g_tw": "因為在維護單軌列車時突然下起雷陣雨的關係，似乎造成了部分軌道的受損",
+          "g_tw_cn": "因为在维护单轨列车时突然下起雷阵雨的关系，似乎造成了部分轨道的受损",
+          "g_ja": "モノレール点検中、突然のにわか雨でレールの一部が損傷してしまったようで……",
+          "g_ko": "모노레일 점검 중에 갑작스러운 소나기가 내리는 바람에 레일이 일부 손상된 모양이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520350,
+        "Id": 100520440,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "그 때문에 일부 임원들이 아직도 학원에 발이 묶여 있다고 합니다.",
+          "j_ja": "そのため、一部メンバーたちが学園に足止めをされているとのことです",
+          "g_en": "As a result, many are stuck at the academy.",
+          "g_tw": "有些成員也因此被困在學園裡",
+          "g_tw_cn": "有些成员也因此被困在学园里",
+          "g_ja": "そのため、一部メンバーたちが学園に足止めをされているとのことです",
+          "g_ko": "그 때문에 일부 임원들이 아직도 학원에 발이 묶여 있다고 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100520350,
+        "Id": 100520450,
+        "CharacterId": 10052,
+        "MessageCondition": "None",
+        "FavorScheduleId": 100526,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "관련하여 미리 연락 드리니, 혹시라도 헛걸음하는 일 없으시길 바라겠습니다.",
+          "j_ja": "無駄足になっては申し訳ないので、事前連絡とさせていただきました",
+          "g_en": "I'm letting you know in advance so you don't end up coming needlessly.",
+          "g_tw": "為了避免老師白跑一趟，在此先通知老師",
+          "g_tw_cn": "为了避免老师白跑一趟，在此先通知老师",
+          "g_ja": "無駄足になっては申し訳ないので、事前連絡とさせていただきました",
+          "g_ko": "관련하여 미리 연락 드리니, 혹시라도 헛걸음하는 일 없으시길 바라겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

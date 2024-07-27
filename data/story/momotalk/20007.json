@@ -1,0 +1,764 @@
+[
+  {
+    "BondScenarioId": 2000702,
+    "Data": [
+      {
+        "GroupId": 200070010,
+        "Id": 200070010,
+        "CharacterId": 20007,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070020,
+        "Message": {
+          "j_ko": "……당신이 샬레의 선생님이신가요?",
+          "j_ja": "えっと、シャーレの先生……で、合ってますか?",
+          "g_en": "...Are you the Sensei from Schale?",
+          "g_tw": "那個，夏萊的老師……對，對嗎？",
+          "g_tw_cn": "那个，夏莱的老师……对，对吗？",
+          "g_ja": "えっと、シャーレの先生……で、合ってますか?",
+          "g_ko": "……당신이 샬레의 선생님이신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070020,
+        "Id": 200070020,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070030,
+        "Message": {
+          "j_ko": "……누구?",
+          "j_ja": "どちら様……？",
+          "g_en": "Who?",
+          "g_tw": "哪位……？",
+          "g_tw_cn": "哪位……？",
+          "g_ja": "どちら様……？",
+          "g_ko": "……누구?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070020,
+        "Id": 200070030,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070030,
+        "Message": {
+          "j_ko": "학생은 아닌 것 같은데…….",
+          "j_ja": "どこかで会ったことある……？",
+          "g_en": "I don't think you're a student...",
+          "g_tw": "在哪裡見過……？",
+          "g_tw_cn": "在哪里见过……？",
+          "g_ja": "どこかで会ったことある……？",
+          "g_ko": "학생은 아닌 것 같은데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070030,
+        "Id": 200070040,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070040,
+        "Message": {
+          "j_ko": "쉬잇.",
+          "j_ja": "ふふっ",
+          "g_en": "Shush.",
+          "g_tw": "呵呵",
+          "g_tw_cn": "呵呵",
+          "g_ja": "ふふっ",
+          "g_ko": "쉬잇."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070030,
+        "Id": 200070050,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070040,
+        "Message": {
+          "j_ko": "지금 여기서는 말씀드릴 수 없어요.",
+          "j_ja": "できればご説明したいところなのですが……それはまた後ほど",
+          "g_en": "I can't tell you right now.",
+          "g_tw": "如果可以的話，我也很想說明……但晚點再說吧",
+          "g_tw_cn": "如果可以的话，我也很想说明……但晚点再说吧",
+          "g_ja": "できればご説明したいところなのですが……それはまた後ほど",
+          "g_ko": "지금 여기서는 말씀드릴 수 없어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070040,
+        "Id": 200070060,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070050,
+        "Message": {
+          "j_ko": "키보토스의 해결사이자, 학생들이 믿고 의지한다는 선생님께 부탁이 있어요.",
+          "j_ja": "数多くの生徒たちの信頼を集め、頼れる存在として認識されている……そして、キヴォトス全体におけるフィクサーである先生に、お願いがあるんです",
+          "g_en": "I have a request for you, the problem solver of Kivotos, and the Sensei the students trust and depend on.",
+          "g_tw": "得到了眾多學生的信賴，被認為是可以依靠的存在……因此，我想請對奇普托斯全體來說是調停者的老師幫一個忙",
+          "g_tw_cn": "得到了众多学生的信赖，被认为是可以依靠的存在……因此，我想请对奇普托斯全体来说是调停者的老师帮一个忙",
+          "g_ja": "数多くの生徒たちの信頼を集め、頼れる存在として認識されている……そして、キヴォトス全体におけるフィクサーである先生に、お願いがあるんです",
+          "g_ko": "키보토스의 해결사이자, 학생들이 믿고 의지한다는 선생님께 부탁이 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070040,
+        "Id": 200070070,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070050,
+        "Message": {
+          "j_ko": "해가 진 뒤 제가 지정한 장소로 나와주세요.",
+          "j_ja": "日が暮れた頃に、この後私が指定する場所に来ていただけますか？",
+          "g_en": "Please come out to the place I designated after sunset.",
+          "g_tw": "日落時分，可以來我指定的地點嗎？",
+          "g_tw_cn": "日落时分，可以来我指定的地点吗？",
+          "g_ja": "日が暮れた頃に、この後私が指定する場所に来ていただけますか？",
+          "g_ko": "해가 진 뒤 제가 지정한 장소로 나와주세요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200070050,
+            "Id": 200070080,
+            "CharacterId": 20007,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 200072,
+            "NextGroupId": 200070060,
+            "Message": {
+              "j_ko": "다른 사람에게는 절대로 말씀하시면 안 돼요!",
+              "j_ja": "あ、他の方にはどうかご内密でお願いしますね！",
+              "g_en": "Do not tell anyone else about this!",
+              "g_tw": "啊，請對其他人保密唷！",
+              "g_tw_cn": "啊，请对其他人保密唷！",
+              "g_ja": "あ、他の方にはどうかご内密でお願いしますね！",
+              "g_ko": "다른 사람에게는 절대로 말씀하시면 안 돼요!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200070050,
+        "Id": 200070080,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200072,
+        "NextGroupId": 200070060,
+        "Message": {
+          "j_ko": "다른 사람에게는 절대로 말씀하시면 안 돼요!",
+          "j_ja": "あ、他の方にはどうかご内密でお願いしますね！",
+          "g_en": "Do not tell anyone else about this!",
+          "g_tw": "啊，請對其他人保密唷！",
+          "g_tw_cn": "啊，请对其他人保密唷！",
+          "g_ja": "あ、他の方にはどうかご内密でお願いしますね！",
+          "g_ko": "다른 사람에게는 절대로 말씀하시면 안 돼요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000703,
+    "Data": [
+      {
+        "GroupId": 200070060,
+        "Id": 200070090,
+        "CharacterId": 20007,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070070,
+        "Message": {
+          "j_ko": "선생님, 전에 연락드렸던 미쿠입니다.",
+          "j_ja": "先生、こんにちは！",
+          "g_en": "Sensei, this is Miku. I contacted you earlier.",
+          "g_tw": "老師，你好！",
+          "g_tw_cn": "老师，你好！",
+          "g_ja": "先生、こんにちは！",
+          "g_ko": "선생님, 전에 연락드렸던 미쿠입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070070,
+        "Id": 200070100,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070080,
+        "Message": {
+          "j_ko": "공연 준비는 잘 되어가고 있어?",
+          "j_ja": "あれからどう？",
+          "g_en": "Are the performance preparations going well?",
+          "g_tw": "後來怎麼樣了？",
+          "g_tw_cn": "后来怎么样了？",
+          "g_ja": "あれからどう？",
+          "g_ko": "공연 준비는 잘 되어가고 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070080,
+        "Id": 200070110,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070090,
+        "Message": {
+          "j_ko": "그럭저럭 괜찮게 진행되는 중이에요.",
+          "j_ja": "あ、はい。そちらの方は何とか",
+          "g_en": "They're going pretty well.",
+          "g_tw": "啊，是的。我這邊會想點辦法",
+          "g_tw_cn": "啊，是的。我这边会想点办法",
+          "g_ja": "あ、はい。そちらの方は何とか",
+          "g_ko": "그럭저럭 괜찮게 진행되는 중이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070080,
+        "Id": 200070120,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070090,
+        "Message": {
+          "j_ko": "……목소리가 나오지 않는 것만 제외한다면요.",
+          "j_ja": "まだ、声は出ませんが……",
+          "g_en": "...Except that my voice isn't coming out.",
+          "g_tw": "雖然還發不出聲音……",
+          "g_tw_cn": "虽然还发不出声音……",
+          "g_ja": "まだ、声は出ませんが……",
+          "g_ko": "……목소리가 나오지 않는 것만 제외한다면요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070090,
+        "Id": 200070130,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070100,
+        "Message": {
+          "j_ko": "혹시 그 이후로 목소리를 되돌리는 방법에 대해 알아내신 게 있으신가요?",
+          "j_ja": "あの後、何か見つかりましたか？",
+          "g_en": "Have you figured out a way to get my voice back since then?",
+          "g_tw": "在那之後，有什麼發現嗎？",
+          "g_tw_cn": "在那之后，有什么发现吗？",
+          "g_ja": "あの後、何か見つかりましたか？",
+          "g_ko": "혹시 그 이후로 목소리를 되돌리는 방법에 대해 알아내신 게 있으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070100,
+        "Id": 200070140,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070110,
+        "Message": {
+          "j_ko": "음, 여러 가지를 조사해 봤어.",
+          "j_ja": "うん。調べてみた感じ、幾つか良さそうな方法が",
+          "g_en": "Well, I did some research.",
+          "g_tw": "嗯。調查了一下，有幾個看起來不錯的方法",
+          "g_tw_cn": "嗯。调查了一下，有几个看起来不错的方法",
+          "g_ja": "うん。調べてみた感じ、幾つか良さそうな方法が",
+          "g_ko": "음, 여러 가지를 조사해 봤어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070110,
+        "Id": 200070150,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070120,
+        "Message": {
+          "j_ko": "역시 선생님이시네요!",
+          "j_ja": "本当ですか！？さすがは先生です！",
+          "g_en": "I knew I could count on you!",
+          "g_tw": "真的嗎！？不愧是老師！",
+          "g_tw_cn": "真的吗！？不愧是老师！",
+          "g_ja": "本当ですか！？さすがは先生です！",
+          "g_ko": "역시 선생님이시네요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070110,
+        "Id": 200070160,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070120,
+        "Message": {
+          "j_ko": "그럼 오후 연습이 끝난 뒤에 잠깐 뵐 수 있을까요?",
+          "j_ja": "では、午後の練習が終わった後にでも少し会えますでしょうか？",
+          "g_en": "Then can I see you once afternoon practice is over?",
+          "g_tw": "那麼，下午的練習結束後可以見個面嗎？",
+          "g_tw_cn": "那么，下午的练习结束后可以见个面吗？",
+          "g_ja": "では、午後の練習が終わった後にでも少し会えますでしょうか？",
+          "g_ko": "그럼 오후 연습이 끝난 뒤에 잠깐 뵐 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070120,
+        "Id": 200070170,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200073,
+        "NextGroupId": 200070130,
+        "Message": {
+          "j_ko": "라이브 하우스의 대기실에서 기다리고 있겠습니다.",
+          "j_ja": "ライブハウスの控室で待ってますので",
+          "g_en": "I will be waiting for you in the waiting room of the Live House.",
+          "g_tw": "我在Live House的休息室等你",
+          "g_tw_cn": "我在Live House的休息室等你",
+          "g_ja": "ライブハウスの控室で待ってますので",
+          "g_ko": "라이브 하우스의 대기실에서 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000705,
+    "Data": [
+      {
+        "GroupId": 200070130,
+        "Id": 200070180,
+        "CharacterId": 20007,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070140,
+        "Message": {
+          "j_ko": "벌써 공연이 일주일 앞으로 다가왔네요…….",
+          "j_ja": "ライブまで、あと一週間になってしまいました……",
+          "g_en": "The show is only a week away already...",
+          "g_tw": "離現場演出只剩一週了……",
+          "g_tw_cn": "离现场演出只剩一周了……",
+          "g_ja": "ライブまで、あと一週間になってしまいました……",
+          "g_ko": "벌써 공연이 일주일 앞으로 다가왔네요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070140,
+        "Id": 200070190,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070150,
+        "Message": {
+          "j_ko": "노래는 여전히 부를 수 없어?",
+          "j_ja": "喉の調子は変わらず？",
+          "g_en": "Are you still not able to sing?",
+          "g_tw": "喉嚨還是一樣嗎？",
+          "g_tw_cn": "喉咙还是一样吗？",
+          "g_ja": "喉の調子は変わらず？",
+          "g_ko": "노래는 여전히 부를 수 없어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070150,
+        "Id": 200070200,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070160,
+        "Message": {
+          "j_ko": "네. 어떤 수를 써도 목소리가 돌아오질 않아서…….",
+          "j_ja": "はい……",
+          "g_en": "Yes. No matter how hard I try, my voice won't come back...",
+          "g_tw": "是……",
+          "g_tw_cn": "是……",
+          "g_ja": "はい……",
+          "g_ko": "네. 어떤 수를 써도 목소리가 돌아오질 않아서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070150,
+        "Id": 200070210,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070160,
+        "Message": {
+          "j_ko": "아무래도 이번 공연은 취소해야 할 것 같네요.",
+          "j_ja": "やはりもう一度、中止にできないか聞いてみた方が良いでしょうか",
+          "g_en": "It looks like we have to cancel the show.",
+          "g_tw": "果然還是再問一下能不能中止比較好吧",
+          "g_tw_cn": "果然还是再问一下能不能中止比较好吧",
+          "g_ja": "やはりもう一度、中止にできないか聞いてみた方が良いでしょうか",
+          "g_ko": "아무래도 이번 공연은 취소해야 할 것 같네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070160,
+        "Id": 200070220,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070170,
+        "Message": {
+          "j_ko": "그건 아쉽네.",
+          "j_ja": "まだ何か、やり方は……",
+          "g_en": "That's a bummer.",
+          "g_tw": "還有什麼方法……",
+          "g_tw_cn": "还有什么方法……",
+          "g_ja": "まだ何か、やり方は……",
+          "g_ko": "그건 아쉽네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070160,
+        "Id": 200070230,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070170,
+        "Message": {
+          "j_ko": "나도 미쿠의 공연을 기대했는데.",
+          "j_ja": "私もミクのライブが見たいし……どうにかして何か良い方法を……",
+          "g_en": "I was also looking forward to your show, Miku.",
+          "g_tw": "我也想看未來的現場演出……難道就沒有什麼好方法……",
+          "g_tw_cn": "我也想看未来的现场演出……难道就没有什么好方法……",
+          "g_ja": "私もミクのライブが見たいし……どうにかして何か良い方法を……",
+          "g_ko": "나도 미쿠의 공연을 기대했는데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070170,
+        "Id": 200070240,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070180,
+        "Message": {
+          "j_ko": "저, 선생님.",
+          "j_ja": "あの、先生",
+          "g_en": "Uh, Sensei?",
+          "g_tw": "那個，老師",
+          "g_tw_cn": "那个，老师",
+          "g_ja": "あの、先生",
+          "g_ko": "저, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070170,
+        "Id": 200070250,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070180,
+        "Message": {
+          "j_ko": "괜찮으시면 시내 뒤편의 골목에서 잠깐 뵐 수 있을까요?",
+          "j_ja": "よろしければ今から、お会いできませんか？",
+          "g_en": "If it's okay with you, can I see you for a moment in the alley behind the city?",
+          "g_tw": "如果可以的話，現在可以見面嗎？",
+          "g_tw_cn": "如果可以的话，现在可以见面吗？",
+          "g_ja": "よろしければ今から、お会いできませんか？",
+          "g_ko": "괜찮으시면 시내 뒤편의 골목에서 잠깐 뵐 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070180,
+        "Id": 200070260,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200075,
+        "NextGroupId": 200070190,
+        "Message": {
+          "j_ko": "드리고 싶은 말씀이 있어요.",
+          "j_ja": "ちょっとお話したいことがありまして。路地裏でお待ちしてます",
+          "g_en": "I have something I want to tell you.",
+          "g_tw": "有點話想跟你說，我在小巷子內等著",
+          "g_tw_cn": "有点话想跟你说，我在小巷子内等着",
+          "g_ja": "ちょっとお話したいことがありまして。路地裏でお待ちしてます",
+          "g_ko": "드리고 싶은 말씀이 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000706,
+    "Data": [
+      {
+        "GroupId": 200070190,
+        "Id": 200070270,
+        "CharacterId": 20007,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070200,
+        "Message": {
+          "j_ko": "선생님, 저번에 말씀하신 곡을 완성했어요.",
+          "j_ja": "先生、曲が完成しました……！",
+          "g_en": "Sensei, I finished the song you mentioned last time.",
+          "g_tw": "老師，曲子完成了……！",
+          "g_tw_cn": "老师，曲子完成了……！",
+          "g_ja": "先生、曲が完成しました……！",
+          "g_ko": "선생님, 저번에 말씀하신 곡을 완성했어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070200,
+        "Id": 200070280,
+        "CharacterId": 20007,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070210,
+        "Message": {
+          "j_ko": "아직 부족한 부분이 많긴 하지만 분명 이 곡이라면……",
+          "j_ja": "色々と未熟な感じではありますが……",
+          "g_en": "It's not perfect yet, but I'm sure with this song...",
+          "g_tw": "雖然感覺還有很多不成熟的地方……",
+          "g_tw_cn": "虽然感觉还有很多不成熟的地方……",
+          "g_ja": "色々と未熟な感じではありますが……",
+          "g_ko": "아직 부족한 부분이 많긴 하지만 분명 이 곡이라면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070200,
+        "Id": 200070290,
+        "CharacterId": 20007,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070210,
+        "Message": {
+          "j_ko": "관객 여러분께 제 마음을 전달할 수 있을 거예요.",
+          "j_ja": "心を込めて、作ってみました",
+          "g_en": "I'll be able to convey my feelings to the audience.",
+          "g_tw": "但這是我傾注心力製作的",
+          "g_tw_cn": "但这是我倾注心力制作的",
+          "g_ja": "心を込めて、作ってみました",
+          "g_ko": "관객 여러분께 제 마음을 전달할 수 있을 거예요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070210,
+        "Id": 200070300,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070220,
+        "Message": {
+          "j_ko": "수고 많았어.",
+          "j_ja": "お疲れ様！",
+          "g_en": "Great job today.",
+          "g_tw": "辛苦了！",
+          "g_tw_cn": "辛苦了！",
+          "g_ja": "お疲れ様！",
+          "g_ko": "수고 많았어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070210,
+        "Id": 200070310,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070220,
+        "Message": {
+          "j_ko": "분명 다들 좋아할 거야.",
+          "j_ja": "きっと大丈夫、みんな喜んでくれるよ",
+          "g_en": "I'm sure everyone will love it.",
+          "g_tw": "一定沒問題，大家都會很高興的唷",
+          "g_tw_cn": "一定没问题，大家都会很高兴的唷",
+          "g_ja": "きっと大丈夫、みんな喜んでくれるよ",
+          "g_ko": "분명 다들 좋아할 거야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070220,
+        "Id": 200070320,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070230,
+        "Message": {
+          "j_ko": "하지만 정말로 괜찮을까요?",
+          "j_ja": "ですが、本当に大丈夫でしょうか……？",
+          "g_en": "Do you really think it'll be okay?",
+          "g_tw": "但是，真的沒問題嗎……？",
+          "g_tw_cn": "但是，真的没问题吗……？",
+          "g_ja": "ですが、本当に大丈夫でしょうか……？",
+          "g_ko": "하지만 정말로 괜찮을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070230,
+        "Id": 200070330,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070240,
+        "Message": {
+          "j_ko": "곡을 넣을 수 있는 라이브 하우스의 공연 시설이라면 엄중하게 관리되고 있을 텐데,",
+          "j_ja": "普通にお願いしても難しそうですし……",
+          "g_en": "If it's the performance facility of the Live House where songs are added, it's probably strictly managed,",
+          "g_tw": "就這樣去拜託工作人員，好像也很困難……",
+          "g_tw_cn": "就这样去拜托工作人员，好像也很困难……",
+          "g_ja": "普通にお願いしても難しそうですし……",
+          "g_ko": "곡을 넣을 수 있는 라이브 하우스의 공연 시설이라면 엄중하게 관리되고 있을 텐데,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070230,
+        "Id": 200070340,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070240,
+        "Message": {
+          "j_ko": "지금에 와서 새로운 곡으로 바꾸는 건 어렵지 않을까요?",
+          "j_ja": "こっそりやるにも、セキュリティがしっかりしてますし……",
+          "g_en": "so wouldn't it be difficult to change to a new song now?",
+          "g_tw": "即使是偷偷來，保安也很嚴密……",
+          "g_tw_cn": "即使是偷偷来，保安也很严密……",
+          "g_ja": "こっそりやるにも、セキュリティがしっかりしてますし……",
+          "g_ko": "지금에 와서 새로운 곡으로 바꾸는 건 어렵지 않을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070240,
+        "Id": 200070350,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070250,
+        "Message": {
+          "j_ko": "그건 걱정하지 마.",
+          "j_ja": "任せて",
+          "g_en": "Don't worry about that.",
+          "g_tw": "交給我吧",
+          "g_tw_cn": "交给我吧",
+          "g_ja": "任せて",
+          "g_ko": "그건 걱정하지 마."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070240,
+        "Id": 200070360,
+        "CharacterId": 20007,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200070250,
+        "Message": {
+          "j_ko": "샬레에는 해킹도 엔지니어링도 유능한 학생들이 잔뜩 있거든.",
+          "j_ja": "シャーレには、ハッキングとかエンジニアリングが得意な生徒がたくさんいるから",
+          "g_en": "There are a lot of students at Schale who are great at hacking and engineering.",
+          "g_tw": "別擔心，夏萊有很多擅長駭客和工程的學生",
+          "g_tw_cn": "别担心，夏莱有很多擅长黑客和工程的学生",
+          "g_ja": "シャーレには、ハッキングとかエンジニアリングが得意な生徒がたくさんいるから",
+          "g_ko": "샬레에는 해킹도 엔지니어링도 유능한 학생들이 잔뜩 있거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070250,
+        "Id": 200070370,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "저, 지금에 와서 여쭈는 것도 이상하지만…….",
+          "j_ja": "えっと、今さらなのですが……",
+          "g_en": "Um, so it's strange for me to ask about this now, but...",
+          "g_tw": "那個，事到如今才問有點晚了……",
+          "g_tw_cn": "那个，事到如今才问有点晚了……",
+          "g_ja": "えっと、今さらなのですが……",
+          "g_ko": "저, 지금에 와서 여쭈는 것도 이상하지만……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200070250,
+        "Id": 200070380,
+        "CharacterId": 20007,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200076,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "샬레는 무얼 하는 조직인가요?",
+          "j_ja": "シャーレって、いったい何の組織なんですか……？",
+          "g_en": "What kind of organization is Schale?",
+          "g_tw": "夏萊，到底是什麼組織呢……？",
+          "g_tw_cn": "夏莱，到底是什么组织呢……？",
+          "g_ja": "シャーレって、いったい何の組織なんですか……？",
+          "g_ko": "샬레는 무얼 하는 조직인가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

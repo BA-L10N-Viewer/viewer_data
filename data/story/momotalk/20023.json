@@ -1,0 +1,917 @@
+[
+  {
+    "BondScenarioId": 2002302,
+    "Data": [
+      {
+        "GroupId": 200230010,
+        "Id": 200230010,
+        "CharacterId": 20023,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230020,
+        "Message": {
+          "j_ko": "발키리 경찰학교 공안국의 국장, 오가타 칸나입니다.",
+          "j_ja": "ヴァルキューレ警察学校、公安局局長の尾刃カンナです",
+          "g_en": "This is Ogata Kanna, director of the Valkyrie Police School Public Peace Bureau.",
+          "g_tw": "我是女武神警察學園公安局的局長尾刃環奈",
+          "g_tw_cn": "我是女武神警察学园公安局的局长尾刃环奈",
+          "g_ja": "ヴァルキューレ警察学校、公安局局長の尾刃カンナです",
+          "g_ko": "발키리 경찰학교 공안국의 국장, 오가타 칸나입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230020,
+        "Id": 200230020,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230030,
+        "Message": {
+          "j_ko": "내일 10시 30분, 샬레의 사무실을 방문하도록 하겠습니다.",
+          "j_ja": "明日の10時30分頃、シャーレの執務室を訪問させていただきます",
+          "g_en": "I'm coming to visit the Schale office at 10:30 tomorrow.",
+          "g_tw": "明天10點30分前後，我會去拜訪夏萊的辦公室",
+          "g_tw_cn": "明天10点30分前后，我会去拜访夏莱的办公室",
+          "g_ja": "明日の10時30分頃、シャーレの執務室を訪問させていただきます",
+          "g_ko": "내일 10시 30분, 샬레의 사무실을 방문하도록 하겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230030,
+        "Id": 200230030,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230040,
+        "Message": {
+          "j_ko": "드디어 올 것이 왔나……",
+          "j_ja": "ついにこの時が……",
+          "g_en": "It's finally happening...",
+          "g_tw": "這個時候終於還是到了嗎……",
+          "g_tw_cn": "这个时候终于还是到了吗……",
+          "g_ja": "ついにこの時が……",
+          "g_ko": "드디어 올 것이 왔나……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230030,
+        "Id": 200230040,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230040,
+        "Message": {
+          "j_ko": "난 아무런 잘못도 하지 않았어!",
+          "j_ja": "濡れ衣です！",
+          "g_en": "I didn't do anything wrong!",
+          "g_tw": "我是冤枉的！",
+          "g_tw_cn": "我是冤枉的！",
+          "g_ja": "濡れ衣です！",
+          "g_ko": "난 아무런 잘못도 하지 않았어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230040,
+        "Id": 200230050,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230050,
+        "Message": {
+          "j_ko": "……그게 무슨 말씀이신지?",
+          "j_ja": "……どういうことでしょうか？",
+          "g_en": "...What are you talking about?",
+          "g_tw": "……那是什麼意思？",
+          "g_tw_cn": "……那是什么意思？",
+          "g_ja": "……どういうことでしょうか？",
+          "g_ko": "……그게 무슨 말씀이신지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230050,
+        "Id": 200230060,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230060,
+        "Message": {
+          "j_ko": "전에 말씀드린 것처럼 샬레의 당번 업무차 방문 예정입니다만.",
+          "j_ja": "以前お約束した、シャーレの当番の話ですが……",
+          "g_en": "I'll be visiting to fulfill my student duties at Schale, as I said before.",
+          "g_tw": "我指的是之前和您約好擔任夏萊值日生的事……",
+          "g_tw_cn": "我指的是之前和您约好担任夏莱值日生的事……",
+          "g_ja": "以前お約束した、シャーレの当番の話ですが……",
+          "g_ko": "전에 말씀드린 것처럼 샬레의 당번 업무차 방문 예정입니다만."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230050,
+        "Id": 200230070,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230060,
+        "Message": {
+          "j_ko": "혹 내일 방문하면 곤란한 일이라도 있으신지요.",
+          "j_ja": "何か困るようなことでも？",
+          "g_en": "Would it be a problem if I visited tomorrow?",
+          "g_tw": "會造成您的困擾嗎？",
+          "g_tw_cn": "会造成您的困扰吗？",
+          "g_ja": "何か困るようなことでも？",
+          "g_ko": "혹 내일 방문하면 곤란한 일이라도 있으신지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230060,
+        "Id": 200230080,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230070,
+        "Message": {
+          "j_ko": "아, 당번 업무 때문이었구나……",
+          "j_ja": "ああ、当番のことね……",
+          "g_en": "Oh, it's for student duties...",
+          "g_tw": "啊啊，是值日生的事啊……",
+          "g_tw_cn": "啊啊，是值日生的事啊……",
+          "g_ja": "ああ、当番のことね……",
+          "g_ko": "아, 당번 업무 때문이었구나……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230060,
+        "Id": 200230090,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230070,
+        "Message": {
+          "j_ko": "괜찮아. 아무 문제도 없어.",
+          "j_ja": "何も問題ないよ、大丈夫",
+          "g_en": "It's okay. No problem.",
+          "g_tw": "沒有問題唷，沒事的",
+          "g_tw_cn": "没有问题唷，没事的",
+          "g_ja": "何も問題ないよ、大丈夫",
+          "g_ko": "괜찮아. 아무 문제도 없어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230070,
+        "Id": 200230100,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230080,
+        "Message": {
+          "j_ko": "그렇다면 다행입니다.",
+          "j_ja": "でしたら良かったのですが……",
+          "g_en": "I'm glad to hear that.",
+          "g_tw": "那就好……",
+          "g_tw_cn": "那就好……",
+          "g_ja": "でしたら良かったのですが……",
+          "g_ko": "그렇다면 다행입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230080,
+        "Id": 200230110,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200232,
+        "NextGroupId": 200230090,
+        "Message": {
+          "j_ko": "그럼 내일, 말씀드린 시각에 찾아 뵙겠습니다.",
+          "j_ja": "それでは明日、先ほどお伝えした時刻に伺います",
+          "g_en": "Then I'll see you tomorrow, at the scheduled time.",
+          "g_tw": "那麼明天會在剛才所說的時間前去拜訪",
+          "g_tw_cn": "那么明天会在刚才所说的时间前去拜访",
+          "g_ja": "それでは明日、先ほどお伝えした時刻に伺います",
+          "g_ko": "그럼 내일, 말씀드린 시각에 찾아 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2002303,
+    "Data": [
+      {
+        "GroupId": 200230090,
+        "Id": 200230120,
+        "CharacterId": 20023,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230100,
+        "Message": {
+          "j_ko": "늦은 시간에 죄송합니다, 선생님.",
+          "j_ja": "先生、夜分遅くに失礼いたします",
+          "g_en": "I'm so sorry to contact you so late, Sensei.",
+          "g_tw": "老師，很抱歉這麼晚打擾您",
+          "g_tw_cn": "老师，很抱歉这么晚打扰您",
+          "g_ja": "先生、夜分遅くに失礼いたします",
+          "g_ko": "늦은 시간에 죄송합니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230100,
+        "Id": 200230130,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230110,
+        "Message": {
+          "j_ko": "발키리 경찰학교의 오가타 칸나입니다.",
+          "j_ja": "ヴァルキューレ警察学校の尾刃カンナです",
+          "g_en": "This is Ogata Kanna of Valkyrie Police School.",
+          "g_tw": "我是女武神警察學園的尾刃環奈",
+          "g_tw_cn": "我是女武神警察学园的尾刃环奈",
+          "g_ja": "ヴァルキューレ警察学校の尾刃カンナです",
+          "g_ko": "발키리 경찰학교의 오가타 칸나입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230110,
+        "Id": 200230140,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230120,
+        "Message": {
+          "j_ko": "무슨 일이야?",
+          "j_ja": "どうしたの？",
+          "g_en": "Is something wrong?",
+          "g_tw": "怎麼了嗎？",
+          "g_tw_cn": "怎么了吗？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230120,
+        "Id": 200230150,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230130,
+        "Message": {
+          "j_ko": "다름이 아니라 괜찮으시다면",
+          "j_ja": "こちらの勝手で申し訳ありませんが……",
+          "g_en": "If you don't mind,",
+          "g_tw": "很抱歉，因為我個人的一些原因……",
+          "g_tw_cn": "很抱歉，因为我个人的一些原因……",
+          "g_ja": "こちらの勝手で申し訳ありませんが……",
+          "g_ko": "다름이 아니라 괜찮으시다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230120,
+        "Id": 200230160,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230130,
+        "Message": {
+          "j_ko": "다음 주 당번 일정을 조금 변경하고자 합니다",
+          "j_ja": "来週の当番、日程を変更しても良いですか？",
+          "g_en": "I'd like to reschedule for next week.",
+          "g_tw": "下週值日生的安排，可以稍做更改嗎？",
+          "g_tw_cn": "下周值日生的安排，可以稍做更改吗？",
+          "g_ja": "来週の当番、日程を変更しても良いですか？",
+          "g_ko": "다음 주 당번 일정을 조금 변경하고자 합니다"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230130,
+        "Id": 200230170,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230140,
+        "Message": {
+          "j_ko": "일정 변경은 문제없지만……",
+          "j_ja": "それくらい問題ないよ",
+          "g_en": "That's not a problem.",
+          "g_tw": "這種小事沒問題唷",
+          "g_tw_cn": "这种小事没问题唷",
+          "g_ja": "それくらい問題ないよ",
+          "g_ko": "일정 변경은 문제없지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230130,
+        "Id": 200230180,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230140,
+        "Message": {
+          "j_ko": "무슨 문제라도 있어?",
+          "j_ja": "何かトラブル？",
+          "g_en": "Is something wrong?",
+          "g_tw": "發生什麼狀況了嗎？",
+          "g_tw_cn": "发生什么状况了吗？",
+          "g_ja": "何かトラブル？",
+          "g_ko": "무슨 문제라도 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230140,
+        "Id": 200230190,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230150,
+        "Message": {
+          "j_ko": "그게 경비국의 머저리들이",
+          "j_ja": "また警備局のバカ共が……",
+          "g_en": "It's the jerks at the Security Bureau.",
+          "g_tw": "那些警備局的笨蛋們又……",
+          "g_tw_cn": "那些警备局的笨蛋们又……",
+          "g_ja": "また警備局のバカ共が……",
+          "g_ko": "그게 경비국의 머저리들이"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230150,
+        "Id": 200230200,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230160,
+        "Message": {
+          "j_ko": "아니",
+          "j_ja": "いえ",
+          "g_en": "Actually...",
+          "g_tw": "不",
+          "g_tw_cn": "不",
+          "g_ja": "いえ",
+          "g_ko": "아니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200230160,
+            "Id": 200230210,
+            "CharacterId": 20023,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200230170,
+            "Message": {
+              "j_ko": "실례했습니다",
+              "j_ja": "忘れてください",
+              "g_en": "Excuse my language.",
+              "g_tw": "請忘了吧",
+              "g_tw_cn": "请忘了吧",
+              "g_ja": "忘れてください",
+              "g_ko": "실례했습니다"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200230160,
+        "Id": 200230210,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230170,
+        "Message": {
+          "j_ko": "실례했습니다",
+          "j_ja": "忘れてください",
+          "g_en": "Excuse my language.",
+          "g_tw": "請忘了吧",
+          "g_tw_cn": "请忘了吧",
+          "g_ja": "忘れてください",
+          "g_ko": "실례했습니다"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230170,
+        "Id": 200230220,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230180,
+        "Message": {
+          "j_ko": "경찰학교에 처리해야 할 긴급한 문제가 생겨 외근을 해야 할 것 같습니다.",
+          "j_ja": "緊急の要請が来たため、私も作戦に加わることになりまして",
+          "g_en": "There's an urgent problem to deal with at the Police School, so I'll be on patrol duty.",
+          "g_tw": "因為傳來了緊急要求，我必須參加作戰",
+          "g_tw_cn": "因为传来了紧急要求，我必须参加作战",
+          "g_ja": "緊急の要請が来たため、私も作戦に加わることになりまして",
+          "g_ko": "경찰학교에 처리해야 할 긴급한 문제가 생겨 외근을 해야 할 것 같습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230180,
+        "Id": 200230230,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230190,
+        "Message": {
+          "j_ko": "고생이 많네……",
+          "j_ja": "大変だね……",
+          "g_en": "You have a lot on your plate...",
+          "g_tw": "真辛苦呢……",
+          "g_tw_cn": "真辛苦呢……",
+          "g_ja": "大変だね……",
+          "g_ko": "고생이 많네……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230190,
+        "Id": 200230240,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230200,
+        "Message": {
+          "j_ko": "아닙니다. 발키리 경찰학교의 간부로서 당연히 수행해야 할 업무인걸요.",
+          "j_ja": "これも公安局局長としての務めですので",
+          "g_en": "It's just my duty as an officer of Valkyrie Police School.",
+          "g_tw": "這是身為公安局局長應盡的義務",
+          "g_tw_cn": "这是身为公安局局长应尽的义务",
+          "g_ja": "これも公安局局長としての務めですので",
+          "g_ko": "아닙니다. 발키리 경찰학교의 간부로서 당연히 수행해야 할 업무인걸요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230200,
+        "Id": 200230250,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230210,
+        "Message": {
+          "j_ko": "변경된 일정은 메일을 통해 따로 고지드리겠습니다.",
+          "j_ja": "それでは、当番の日程は、別途メールで連絡いたします",
+          "g_en": "I'll email you about my new schedule.",
+          "g_tw": "那麼，關於值日生的日程我會另外發訊息聯絡您",
+          "g_tw_cn": "那么，关于值日生的日程我会另外发消息联系您",
+          "g_ja": "それでは、当番の日程は、別途メールで連絡いたします",
+          "g_ko": "변경된 일정은 메일을 통해 따로 고지드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230200,
+        "Id": 200230260,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200233,
+        "NextGroupId": 200230210,
+        "Message": {
+          "j_ko": "그럼 먼저 말을 줄이겠습니다. 편안한 하루 되십시오.",
+          "j_ja": "事件のことは気にせず、先生はお休みになってください",
+          "g_en": "That's all I have for now. Have a relaxing day.",
+          "g_tw": "請老師別在意事件，好好休息",
+          "g_tw_cn": "请老师别在意事件，好好休息",
+          "g_ja": "事件のことは気にせず、先生はお休みになってください",
+          "g_ko": "그럼 먼저 말을 줄이겠습니다. 편안한 하루 되십시오."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2002305,
+    "Data": [
+      {
+        "GroupId": 200230210,
+        "Id": 200230270,
+        "CharacterId": 20023,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230220,
+        "Message": {
+          "j_ko": "발키리 경찰학교의 구내식당은 가격이 저렴하고 반찬이 다양하긴 하지만",
+          "j_ja": "ヴァルキューレ警察学校の食堂は安価でメニューも豊富ですが",
+          "g_en": "The Valkyrie Police School cafeteria has an inexpensive variety of dishes.",
+          "g_tw": "女武神警察學園的餐廳雖然便宜且選擇豐富",
+          "g_tw_cn": "女武神警察学园的餐厅虽然便宜且选择丰富",
+          "g_ja": "ヴァルキューレ警察学校の食堂は安価でメニューも豊富ですが",
+          "g_ko": "발키리 경찰학교의 구내식당은 가격이 저렴하고 반찬이 다양하긴 하지만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230220,
+        "Id": 200230280,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230230,
+        "Message": {
+          "j_ko": "배식 시간이 짧은 게 단점이군요.",
+          "j_ja": "開いている時間が限られています",
+          "g_en": "Unfortunately, they are not open for long.",
+          "g_tw": "不過營業時間相當有限",
+          "g_tw_cn": "不过营业时间相当有限",
+          "g_ja": "開いている時間が限られています",
+          "g_ko": "배식 시간이 짧은 게 단점이군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230230,
+        "Id": 200230290,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230240,
+        "Message": {
+          "j_ko": "업무에 집중하고 있다 보면 배식 시간을 놓치는 일이 잦은지라",
+          "j_ja": "仕事に集中していると、すでに閉まっていることも多いので",
+          "g_en": "When I'm focused on work, I can often miss lunchtime.",
+          "g_tw": "一專注於工作就時常錯過營業時間",
+          "g_tw_cn": "一专注于工作就时常错过营业时间",
+          "g_ja": "仕事に集中していると、すでに閉まっていることも多いので",
+          "g_ko": "업무에 집중하고 있다 보면 배식 시간을 놓치는 일이 잦은지라"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230230,
+        "Id": 200230300,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230240,
+        "Message": {
+          "j_ko": "종종 식사를 거르게 됩니다",
+          "j_ja": "しばしば食事を抜くことも……",
+          "g_en": "So I end up skipping my meal.",
+          "g_tw": "也經常沒有用餐……",
+          "g_tw_cn": "也经常没有用餐……",
+          "g_ja": "しばしば食事を抜くことも……",
+          "g_ko": "종종 식사를 거르게 됩니다"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230240,
+        "Id": 200230310,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230250,
+        "Message": {
+          "j_ko": "구내 식당 밖에서 음식을 사 먹으면 안 되는 거야?",
+          "j_ja": "外で食べるのはダメなの？",
+          "g_en": "Can't you eat something from outside the school campus?",
+          "g_tw": "不能在外面吃嗎？",
+          "g_tw_cn": "不能在外面吃吗？",
+          "g_ja": "外で食べるのはダメなの？",
+          "g_ko": "구내 식당 밖에서 음식을 사 먹으면 안 되는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230250,
+        "Id": 200230320,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230260,
+        "Message": {
+          "j_ko": "아뇨. 그런 규칙은 없습니다만……",
+          "j_ja": "いえ、そんな規則はありませんが……",
+          "g_en": "I could do that, but...",
+          "g_tw": "不，並沒有那種規定……",
+          "g_tw_cn": "不，并没有那种规定……",
+          "g_ja": "いえ、そんな規則はありませんが……",
+          "g_ko": "아뇨. 그런 규칙은 없습니다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230250,
+        "Id": 200230330,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200235,
+        "NextGroupId": 200230260,
+        "Message": {
+          "j_ko": "어쩐지 밖에서 식사를 하는 것은 꺼려져서요.",
+          "j_ja": "仕事があるのに外で食事をするのは、少し気が引けるので",
+          "g_en": "I just don't feel like eating outside for some reason.",
+          "g_tw": "不過明明還有工作卻在外面用餐，會讓我有點抗拒",
+          "g_tw_cn": "不过明明还有工作却在外面用餐，会让我有点抗拒",
+          "g_ja": "仕事があるのに外で食事をするのは、少し気が引けるので",
+          "g_ko": "어쩐지 밖에서 식사를 하는 것은 꺼려져서요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2002306,
+    "Data": [
+      {
+        "GroupId": 200230260,
+        "Id": 200230340,
+        "CharacterId": 20023,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230270,
+        "Message": {
+          "j_ko": "그러고 보니 생활안전국에는",
+          "j_ja": "そういえば、生活安全局には",
+          "g_en": "Come to think of it, in the Public Safety Bureau",
+          "g_tw": "這麼說來，在生活安全局裡",
+          "g_tw_cn": "这么说来，在生活安全局里",
+          "g_ja": "そういえば、生活安全局には",
+          "g_ko": "그러고 보니 생활안전국에는"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230270,
+        "Id": 200230350,
+        "CharacterId": 20023,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230280,
+        "Message": {
+          "j_ko": "경비국이나 수사국 전과를 희망하는 학생들이 제법 있던 모양이더군요",
+          "j_ja": "警備局や捜査局に転科を希望する生徒が、それなりにいるようです",
+          "g_en": "there were a lot of students who wanted to transfer to the Security or Investigation Bureaus.",
+          "g_tw": "似乎有不少學生想轉調至警備局或搜查局",
+          "g_tw_cn": "似乎有不少学生想转调至警备局或搜查局",
+          "g_ja": "警備局や捜査局に転科を希望する生徒が、それなりにいるようです",
+          "g_ko": "경비국이나 수사국 전과를 희망하는 학생들이 제법 있던 모양이더군요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230280,
+        "Id": 200230360,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230290,
+        "Message": {
+          "j_ko": "제법 있었지.",
+          "j_ja": "聞いたことあるかも",
+          "g_en": "There were quite a lot.",
+          "g_tw": "我好像也聽過",
+          "g_tw_cn": "我好像也听过",
+          "g_ja": "聞いたことあるかも",
+          "g_ko": "제법 있었지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230280,
+        "Id": 200230370,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230290,
+        "Message": {
+          "j_ko": "많았었던가……?",
+          "j_ja": "多いかな……？",
+          "g_en": "Were there...?",
+          "g_tw": "有很多嗎……？",
+          "g_tw_cn": "有很多吗……？",
+          "g_ja": "多いかな……？",
+          "g_ko": "많았었던가……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230290,
+        "Id": 200230380,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230300,
+        "Message": {
+          "j_ko": "그러고 보니 칸나는 처음부터 공안국을 지망했던 거야?",
+          "j_ja": "そういうカンナは、最初から公安局志望だったの？",
+          "g_en": "Did you want to apply for the Public Peace Bureau from the beginning?",
+          "g_tw": "話說環奈一開始就是想進入公安局嗎？",
+          "g_tw_cn": "话说环奈一开始就是想进入公安局吗？",
+          "g_ja": "そういうカンナは、最初から公安局志望だったの？",
+          "g_ko": "그러고 보니 칸나는 처음부터 공안국을 지망했던 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230300,
+        "Id": 200230390,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230310,
+        "Message": {
+          "j_ko": "저 말씀이십니까?",
+          "j_ja": "私ですか？",
+          "g_en": "Me?",
+          "g_tw": "您說我嗎？",
+          "g_tw_cn": "您说我吗？",
+          "g_ja": "私ですか？",
+          "g_ko": "저 말씀이십니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230310,
+        "Id": 200230400,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230320,
+        "Message": {
+          "j_ko": "제 경우는",
+          "j_ja": "私の場合",
+          "g_en": "No, actually. In my case,",
+          "g_tw": "我的話",
+          "g_tw_cn": "我的话",
+          "g_ja": "私の場合",
+          "g_ko": "제 경우는"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230310,
+        "Id": 200230410,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230320,
+        "Message": {
+          "j_ko": "1학년 때는 생활안전국을 지망했습니다만",
+          "j_ja": "1年生の時に生活安全局を志望しましたが……",
+          "g_en": "I applied to the Public Safety Bureau my first year.",
+          "g_tw": "1年級時是想加入生活安全局的……",
+          "g_tw_cn": "1年级时是想加入生活安全局的……",
+          "g_ja": "1年生の時に生活安全局を志望しましたが……",
+          "g_ko": "1학년 때는 생활안전국을 지망했습니다만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200230320,
+            "Id": 200230420,
+            "CharacterId": 20023,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200230330,
+            "Message": {
+              "j_ko": "그 얼굴로 민원 처리는 어려울 거라는 이야기를 들어서",
+              "j_ja": "その顔で市民の窓口に立つような仕事は難しいと言われ……",
+              "g_en": "But I was told my demeanor was ill-equipped for dealing with civil complaints.",
+              "g_tw": "但被人說這張臉擔任市民窗口的工作會有困難……",
+              "g_tw_cn": "但被人说这张脸担任市民窗口的工作会有困难……",
+              "g_ja": "その顔で市民の窓口に立つような仕事は難しいと言われ……",
+              "g_ko": "그 얼굴로 민원 처리는 어려울 거라는 이야기를 들어서"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200230320,
+        "Id": 200230420,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230330,
+        "Message": {
+          "j_ko": "그 얼굴로 민원 처리는 어려울 거라는 이야기를 들어서",
+          "j_ja": "その顔で市民の窓口に立つような仕事は難しいと言われ……",
+          "g_en": "But I was told my demeanor was ill-equipped for dealing with civil complaints.",
+          "g_tw": "但被人說這張臉擔任市民窗口的工作會有困難……",
+          "g_tw_cn": "但被人说这张脸担任市民窗口的工作会有困难……",
+          "g_ja": "その顔で市民の窓口に立つような仕事は難しいと言われ……",
+          "g_ko": "그 얼굴로 민원 처리는 어려울 거라는 이야기를 들어서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230330,
+        "Id": 200230430,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230340,
+        "Message": {
+          "j_ko": "음……",
+          "j_ja": "結構な……",
+          "g_en": "Um...",
+          "g_tw": "那還真是……",
+          "g_tw_cn": "那还真是……",
+          "g_ja": "結構な……",
+          "g_ko": "음……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230340,
+        "Id": 200230440,
+        "CharacterId": 20023,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200230350,
+        "Message": {
+          "j_ko": "뭔가 하실 말씀이라도?",
+          "j_ja": "何か言いたいことでも？",
+          "g_en": "Did you want to say something?",
+          "g_tw": "您有什麼想說的嗎？",
+          "g_tw_cn": "您有什么想说的吗？",
+          "g_ja": "何か言いたいことでも？",
+          "g_ko": "뭔가 하실 말씀이라도?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200230350,
+        "Id": 200230450,
+        "CharacterId": 20023,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200236,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "아무것도 아니야!",
+          "j_ja": "いやっ、何でもないよ！",
+          "g_en": "N-Nothing!",
+          "g_tw": "沒有，什麼都沒有！",
+          "g_tw_cn": "没有，什么都没有！",
+          "g_ja": "いやっ、何でもないよ！",
+          "g_ko": "아무것도 아니야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

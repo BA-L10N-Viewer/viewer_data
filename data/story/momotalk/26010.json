@@ -1,0 +1,1413 @@
+[
+  {
+    "BondScenarioId": 2601002,
+    "Data": [
+      {
+        "GroupId": 260100010,
+        "Id": 260100010,
+        "CharacterId": 26010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100020,
+        "Message": {
+          "j_ko": "숲속의 야생동물들이 보호색으로 몸을 숨기는 것처럼",
+          "j_ja": "森の野生動物たちが保護色で身を隠すように",
+          "g_en": "Animals in the forest hide themselves by blending into their surroundings.",
+          "g_tw": "就像森林裡的野生動物用保護色來隱藏自己一樣",
+          "g_tw_cn": "就像森林里的野生动物用保护色来隐藏自己一样",
+          "g_ja": "森の野生動物たちが保護色で身を隠すように",
+          "g_ko": "숲속의 야생동물들이 보호색으로 몸을 숨기는 것처럼"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100020,
+        "Id": 260100020,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100030,
+        "Message": {
+          "j_ko": "저격수들은 위장복으로 존재를 지운답니다.",
+          "j_ja": "狙撃手は、ギリースーツで存在感を消すのです",
+          "g_en": "In the same way, snipers use camouflage to hide themselves.",
+          "g_tw": "狙擊手也會穿著吉利服來消除存在感",
+          "g_tw_cn": "狙击手也会穿着吉利服来消除存在感",
+          "g_ja": "狙撃手は、ギリースーツで存在感を消すのです",
+          "g_ko": "저격수들은 위장복으로 존재를 지운답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100020,
+        "Id": 260100030,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100030,
+        "Message": {
+          "j_ko": "자연물이 가득한 야외에서는 잎사귀나 나뭇가지로 몸을 숨기지만",
+          "j_ja": "屋外では、よく葉っぱや木の枝を身にまといますが……",
+          "g_en": "Out in the wild, leaves and branches are used to hide the body,",
+          "g_tw": "在野外經常會用樹葉和樹枝來偽裝……",
+          "g_tw_cn": "在野外经常会用树叶和树枝来伪装……",
+          "g_ja": "屋外では、よく葉っぱや木の枝を身にまといますが……",
+          "g_ko": "자연물이 가득한 야외에서는 잎사귀나 나뭇가지로 몸을 숨기지만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100030,
+        "Id": 260100040,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100040,
+        "Message": {
+          "j_ko": "사람이 많은 도시에서는 평범한 옷을 입는 게 더 위장이 될 때도 많아요.",
+          "j_ja": "人の多い街中では、普通の服を着た方が目立ちません",
+          "g_en": "but in a city full of people, normal clothes may be the best camouflage.",
+          "g_tw": "但在人來人往的街道上，穿著普通的服裝更不顯眼",
+          "g_tw_cn": "但在人来人往的街道上，穿着普通的服装更不显眼",
+          "g_ja": "人の多い街中では、普通の服を着た方が目立ちません",
+          "g_ko": "사람이 많은 도시에서는 평범한 옷을 입는 게 더 위장이 될 때도 많아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100030,
+        "Id": 260100050,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100040,
+        "Message": {
+          "j_ko": "그래서 대부분의 저격수들은 사복처럼 도시에서 입을 수 있는 위장복을 갖고 있어요.",
+          "j_ja": "なので……ほとんどの狙撃手は、街中で偽装するための服を持っていたりします",
+          "g_en": "That's why most snipers wear plain clothes for urban missions.",
+          "g_tw": "所以……大部分的狙擊手都會攜帶一套能在街上偽裝的衣服",
+          "g_tw_cn": "所以……大部分的狙击手都会携带一套能在街上伪装的衣服",
+          "g_ja": "なので……ほとんどの狙撃手は、街中で偽装するための服を持っていたりします",
+          "g_ko": "그래서 대부분의 저격수들은 사복처럼 도시에서 입을 수 있는 위장복을 갖고 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100040,
+        "Id": 260100060,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100050,
+        "Message": {
+          "j_ko": "그렇구나. 그거 신기하네.",
+          "j_ja": "なるほど、そうなんだね。",
+          "g_en": "I see. That's very interesting.",
+          "g_tw": "原來如此，是這樣啊",
+          "g_tw_cn": "原来如此，是这样啊",
+          "g_ja": "なるほど、そうなんだね。",
+          "g_ko": "그렇구나. 그거 신기하네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100050,
+        "Id": 260100070,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100060,
+        "Message": {
+          "j_ko": "미유도 즐겨 입는 위장복이 따로 있어?",
+          "j_ja": "ミユも持ってるの？",
+          "g_en": "Miyu, do you have a camouflage outfit you like?",
+          "g_tw": "美優也有嗎？",
+          "g_tw_cn": "美优也有吗？",
+          "g_ja": "ミユも持ってるの？",
+          "g_ko": "미유도 즐겨 입는 위장복이 따로 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100060,
+        "Id": 260100080,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100070,
+        "Message": {
+          "j_ko": "그게",
+          "j_ja": "その……",
+          "g_en": "Th-The thing is...",
+          "g_tw": "那個……",
+          "g_tw_cn": "那个……",
+          "g_ja": "その……",
+          "g_ko": "그게"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100070,
+        "Id": 260100090,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100080,
+        "Message": {
+          "j_ko": "사실 제 경우는",
+          "j_ja": "実は",
+          "g_en": "In my case,",
+          "g_tw": "其實",
+          "g_tw_cn": "其实",
+          "g_ja": "実は",
+          "g_ko": "사실 제 경우는"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100070,
+        "Id": 260100100,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100080,
+        "Message": {
+          "j_ko": "별다른 위장을 하지 않아도 지나가는 사람 대부분이 관심을 주지 않아서요……",
+          "j_ja": "私の場合、偽装しなくても人に気づかれないので……",
+          "g_en": "most people don't notice me even if I'm not wearing camouflage...",
+          "g_tw": "我就算沒有偽裝，也不太會被人發現……",
+          "g_tw_cn": "我就算没有伪装，也不太会被人发现……",
+          "g_ja": "私の場合、偽装しなくても人に気づかれないので……",
+          "g_ko": "별다른 위장을 하지 않아도 지나가는 사람 대부분이 관심을 주지 않아서요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 260100080,
+            "Id": 260100110,
+            "CharacterId": 26010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 260100090,
+            "Message": {
+              "j_ko": "교복 이외에는 그다지……",
+              "j_ja": "制服以外、特に……",
+              "g_en": "So the only camouflage I really use is my school uniform...",
+              "g_tw": "所以除了制服以外幾乎沒有其他……",
+              "g_tw_cn": "所以除了制服以外几乎没有其他……",
+              "g_ja": "制服以外、特に……",
+              "g_ko": "교복 이외에는 그다지……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 260100080,
+        "Id": 260100110,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100090,
+        "Message": {
+          "j_ko": "교복 이외에는 그다지……",
+          "j_ja": "制服以外、特に……",
+          "g_en": "So the only camouflage I really use is my school uniform...",
+          "g_tw": "所以除了制服以外幾乎沒有其他……",
+          "g_tw_cn": "所以除了制服以外几乎没有其他……",
+          "g_ja": "制服以外、特に……",
+          "g_ko": "교복 이외에는 그다지……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100090,
+        "Id": 260100120,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100100,
+        "Message": {
+          "j_ko": "그래도 이번 작전은 학생이 거의 지나다니지 않는 어촌 마을에서 진행되니까",
+          "j_ja": "でも……今回の作戦は、生徒がほとんどいない漁村で行われるので",
+          "g_en": "But since we're going to a fishing village with no students around",
+          "g_tw": "不過……這次的作戰，是在幾乎沒有學生的漁村進行",
+          "g_tw_cn": "不过……这次的作战，是在几乎没有学生的渔村进行",
+          "g_ja": "でも……今回の作戦は、生徒がほとんどいない漁村で行われるので",
+          "g_ko": "그래도 이번 작전은 학생이 거의 지나다니지 않는 어촌 마을에서 진행되니까"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100090,
+        "Id": 260100130,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260102,
+        "NextGroupId": 260100100,
+        "Message": {
+          "j_ko": "한 번 새로운 위장을 시험해 보고 싶어요.",
+          "j_ja": "この機会に、私も偽装に挑戦してみたいです",
+          "g_en": "I want to try out a new camouflage.",
+          "g_tw": "趁著這個機會，我也想試著挑戰偽裝",
+          "g_tw_cn": "趁着这个机会，我也想试着挑战伪装",
+          "g_ja": "この機会に、私も偽装に挑戦してみたいです",
+          "g_ko": "한 번 새로운 위장을 시험해 보고 싶어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100100,
+        "Id": 260100140,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100110,
+        "Message": {
+          "j_ko": "도와주셔서 감사합니다, 선생님……",
+          "j_ja": "先生、助けていただいて、ありがとうございます……",
+          "g_en": "Thank you for helping me, Sensei...",
+          "g_tw": "老師，謝謝你幫了我這麼多忙……",
+          "g_tw_cn": "老师，谢谢你帮了我这么多忙……",
+          "g_ja": "先生、助けていただいて、ありがとうございます……",
+          "g_ko": "도와주셔서 감사합니다, 선생님……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100110,
+        "Id": 260100150,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100120,
+        "Message": {
+          "j_ko": "하지만 결과적으로는 다른 낚시꾼들의 관심을 잔뜩 받아버려서……",
+          "j_ja": "結局、釣り人さんたちから注目を浴びてしまいましたし……",
+          "g_en": "But I ended up getting noticed by all the other fishers...",
+          "g_tw": "結果反而受到其他釣客的注意了……",
+          "g_tw_cn": "结果反而受到其他钓客的注意了……",
+          "g_ja": "結局、釣り人さんたちから注目を浴びてしまいましたし……",
+          "g_ko": "하지만 결과적으로는 다른 낚시꾼들의 관심을 잔뜩 받아버려서……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100120,
+        "Id": 260100160,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100130,
+        "Message": {
+          "j_ko": "이래서야 위장 잠복은 실패일지도 모르겠어요……",
+          "j_ja": "これでは、潜伏失敗かもしれません……",
+          "g_en": "My undercover mission was a complete failure...",
+          "g_tw": "這樣說不定也算是潛伏失敗……",
+          "g_tw_cn": "这样说不定也算是潜伏失败……",
+          "g_ja": "これでは、潜伏失敗かもしれません……",
+          "g_ko": "이래서야 위장 잠복은 실패일지도 모르겠어요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100130,
+        "Id": 260100170,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100140,
+        "Message": {
+          "j_ko": "미유가 낚은 물고기가 정말 커다랬으니까.",
+          "j_ja": "ミユが釣った魚、本当に大きかったからね",
+          "g_en": "But the fish you caught was really big, Miyu.",
+          "g_tw": "畢竟美優釣到的那條魚真的很大",
+          "g_tw_cn": "毕竟美优钓到的那条鱼真的很大",
+          "g_ja": "ミユが釣った魚、本当に大きかったからね",
+          "g_ko": "미유가 낚은 물고기가 정말 커다랬으니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100140,
+        "Id": 260100180,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100150,
+        "Message": {
+          "j_ko": "그러게요. 그렇게 큰 물고기를 낚은 건 기쁜 일이지만……",
+          "j_ja": "はい、大物が釣れたのは嬉しかったですが……",
+          "g_en": "Yeah, catching such a big fish made me happy, but...",
+          "g_tw": "是，釣到大魚雖然很開心……",
+          "g_tw_cn": "是，钓到大鱼虽然很开心……",
+          "g_ja": "はい、大物が釣れたのは嬉しかったですが……",
+          "g_ko": "그러게요. 그렇게 큰 물고기를 낚은 건 기쁜 일이지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100150,
+        "Id": 260100190,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100160,
+        "Message": {
+          "j_ko": "존재감이 없는 덕분에 관심을 받게 되다니……",
+          "j_ja": "影が薄いせいで、逆に人を集めてしまうとは……",
+          "g_en": "But I ended up getting noticed by being so unnoticeable...",
+          "g_tw": "不過沒想到會因為存在感低而受到關注……",
+          "g_tw_cn": "不过没想到会因为存在感低而受到关注……",
+          "g_ja": "影が薄いせいで、逆に人を集めてしまうとは……",
+          "g_ko": "존재감이 없는 덕분에 관심을 받게 되다니……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100150,
+        "Id": 260100200,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100160,
+        "Message": {
+          "j_ko": "정말 세상일이란 모르는 거네요……",
+          "j_ja": "何事も思ったようにはいきませんね……",
+          "g_en": "What a mystery...",
+          "g_tw": "果然無法事事如意呢……",
+          "g_tw_cn": "果然无法事事如意呢……",
+          "g_ja": "何事も思ったようにはいきませんね……",
+          "g_ko": "정말 세상일이란 모르는 거네요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601003,
+    "Data": [
+      {
+        "GroupId": 260100160,
+        "Id": 260100210,
+        "CharacterId": 26010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100170,
+        "Message": {
+          "j_ko": "확실히 바다에 오니",
+          "j_ja": "やっぱり、海に来てみたら",
+          "g_en": "Coming to the sea",
+          "g_tw": "果然，一到海邊來",
+          "g_tw_cn": "果然，一到海边来",
+          "g_ja": "やっぱり、海に来てみたら",
+          "g_ko": "확실히 바다에 오니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100170,
+        "Id": 260100220,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100180,
+        "Message": {
+          "j_ko": "평소와는 다른 특별한 경험을 잔뜩 하게 되는 것 같아요",
+          "j_ja": "いつもとは違う、特別な経験ができました",
+          "g_en": "has given me so many special experiences.",
+          "g_tw": "就體驗到了許多和平時不同的特別經驗",
+          "g_tw_cn": "就体验到了许多和平时不同的特别经验",
+          "g_ja": "いつもとは違う、特別な経験ができました",
+          "g_ko": "평소와는 다른 특별한 경험을 잔뜩 하게 되는 것 같아요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100170,
+        "Id": 260100230,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100180,
+        "Message": {
+          "j_ko": "예기치 않은 만남도 있고",
+          "j_ja": "思いがけない出会いもあったり",
+          "g_en": "An unexpected meeting...",
+          "g_tw": "不僅有了預料之外的相會",
+          "g_tw_cn": "不仅有了预料之外的相会",
+          "g_ja": "思いがけない出会いもあったり",
+          "g_ko": "예기치 않은 만남도 있고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100180,
+        "Id": 260100240,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100190,
+        "Message": {
+          "j_ko": "익숙한 모습을 의외의 장소에서 만나기도 하고……",
+          "j_ja": "意外な場所で、見慣れた姿もあったりして……",
+          "g_en": "Finding something familiar in a strange place...",
+          "g_tw": "還能在意外的地方見到熟悉的身影……",
+          "g_tw_cn": "还能在意外的地方见到熟悉的身影……",
+          "g_ja": "意外な場所で、見慣れた姿もあったりして……",
+          "g_ko": "익숙한 모습을 의외의 장소에서 만나기도 하고……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100190,
+        "Id": 260100250,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100200,
+        "Message": {
+          "j_ko": "……미유?",
+          "j_ja": "……ミユ？",
+          "g_en": "Miyu?",
+          "g_tw": "……美優？",
+          "g_tw_cn": "……美优？",
+          "g_ja": "……ミユ？",
+          "g_ko": "……미유?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100190,
+        "Id": 260100260,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100200,
+        "Message": {
+          "j_ko": "무슨 이야기야?",
+          "j_ja": "何かあったの……？",
+          "g_en": "What are you talking about?",
+          "g_tw": "發生什麼事了……？",
+          "g_tw_cn": "发生什么事了……？",
+          "g_ja": "何かあったの……？",
+          "g_ko": "무슨 이야기야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100200,
+        "Id": 260100270,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100210,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ",
+          "g_en": "Ah",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100210,
+        "Id": 260100280,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100220,
+        "Message": {
+          "j_ko": "죄송해요, 선생님. 두서가 없었네요",
+          "j_ja": "すみません、分かりにくかったですよね",
+          "g_en": "I'm sorry, Sensei. I'm just rambling.",
+          "g_tw": "不好意思，這樣說有點難懂對吧",
+          "g_tw_cn": "不好意思，这样说有点难懂对吧",
+          "g_ja": "すみません、分かりにくかったですよね",
+          "g_ko": "죄송해요, 선생님. 두서가 없었네요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 260100220,
+            "Id": 260100290,
+            "CharacterId": 26010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 260103,
+            "NextGroupId": 260100230,
+            "Message": {
+              "j_ko": "조약돌에 관한 이야기였어요",
+              "j_ja": "小石探しの話です",
+              "g_en": "It was about the pebbles.",
+              "g_tw": "我指的是找小石頭",
+              "g_tw_cn": "我指的是找小石头",
+              "g_ja": "小石探しの話です",
+              "g_ko": "조약돌에 관한 이야기였어요"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 260100220,
+        "Id": 260100290,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260103,
+        "NextGroupId": 260100230,
+        "Message": {
+          "j_ko": "조약돌에 관한 이야기였어요",
+          "j_ja": "小石探しの話です",
+          "g_en": "It was about the pebbles.",
+          "g_tw": "我指的是找小石頭",
+          "g_tw_cn": "我指的是找小石头",
+          "g_ja": "小石探しの話です",
+          "g_ko": "조약돌에 관한 이야기였어요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100230,
+        "Id": 260100300,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100240,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100240,
+        "Id": 260100310,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100250,
+        "Message": {
+          "j_ko": "죄송해요",
+          "j_ja": "すみません……",
+          "g_en": "I'm sorry...",
+          "g_tw": "對不起……",
+          "g_tw_cn": "对不起……",
+          "g_ja": "すみません……",
+          "g_ko": "죄송해요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100250,
+        "Id": 260100320,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100260,
+        "Message": {
+          "j_ko": "아까 같이 모은 돌은 다시 자리에 돌려 두고 왔어요",
+          "j_ja": "一緒に集めた小石は、みんな元の場所に戻しました",
+          "g_en": "I put the stones we collected back where they belong.",
+          "g_tw": "剛才一起收集的石頭，我全都放回原位了",
+          "g_tw_cn": "刚才一起收集的石头，我全都放回原位了",
+          "g_ja": "一緒に集めた小石は、みんな元の場所に戻しました",
+          "g_ko": "아까 같이 모은 돌은 다시 자리에 돌려 두고 왔어요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100250,
+        "Id": 260100330,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100260,
+        "Message": {
+          "j_ko": "열심히 같이 모아 주셨는데 죄송해요",
+          "j_ja": "頑張ってくださったのに……本当に、すみません……",
+          "g_en": "You worked so hard to collect them with me. I'm sorry.",
+          "g_tw": "明明老師那麼努力幫我……真的，很抱歉……",
+          "g_tw_cn": "明明老师那么努力帮我……真的，很抱歉……",
+          "g_ja": "頑張ってくださったのに……本当に、すみません……",
+          "g_ko": "열심히 같이 모아 주셨는데 죄송해요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100260,
+        "Id": 260100340,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100270,
+        "Message": {
+          "j_ko": "괜찮아, 신경 쓰지 마",
+          "j_ja": "大丈夫だよ、気にしないで",
+          "g_en": "It's okay. Don't worry about it.",
+          "g_tw": "沒關係的，不用在意",
+          "g_tw_cn": "没关系的，不用在意",
+          "g_ja": "大丈夫だよ、気にしないで",
+          "g_ko": "괜찮아, 신경 쓰지 마"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100270,
+        "Id": 260100350,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100280,
+        "Message": {
+          "j_ko": "그런데 어째서 갑자기……?",
+          "j_ja": "でも、どうして全部……？",
+          "g_en": "But why did you do that?",
+          "g_tw": "不過，為什麼把所有石頭都……？",
+          "g_tw_cn": "不过，为什么把所有石头都……？",
+          "g_ja": "でも、どうして全部……？",
+          "g_ko": "그런데 어째서 갑자기……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100280,
+        "Id": 260100360,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100290,
+        "Message": {
+          "j_ko": "조금 더 생각해 보았는데",
+          "j_ja": "先生と解散した後、よく考えてみたら……",
+          "g_en": "I thought about it, and...",
+          "g_tw": "跟老師分開後，我仔細想了想……",
+          "g_tw_cn": "跟老师分开后，我仔细想了想……",
+          "g_ja": "先生と解散した後、よく考えてみたら……",
+          "g_ko": "조금 더 생각해 보았는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100280,
+        "Id": 260100370,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100290,
+        "Message": {
+          "j_ko": "이 돌들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요.",
+          "j_ja": "あの小石たちは、ここで静かに自分の役割を果たしていたのだな、と……",
+          "g_en": "These rocks were fulfilling their roles here without anyone noticing.",
+          "g_tw": "那些小石頭們，都在默默地完成自己的使命……",
+          "g_tw_cn": "那些小石头们，都在默默地完成自己的使命……",
+          "g_ja": "あの小石たちは、ここで静かに自分の役割を果たしていたのだな、と……",
+          "g_ko": "이 돌들은 이곳에서 눈에 띄지 않게 자신의 역할을 다하고 있던 거니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100290,
+        "Id": 260100380,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100300,
+        "Message": {
+          "j_ko": "누군가가 가치 있게 여겨준다 하더라도 평소에 하던 일을 하지 못하게 된다면",
+          "j_ja": "なので、素敵だと思ったからといって、連れ帰ってしまうのは……",
+          "g_en": "If you can't do what you're meant to do, even if someone says you're valuable...",
+          "g_tw": "所以雖然覺得很棒，但如果把它們帶走……",
+          "g_tw_cn": "所以虽然觉得很棒，但如果把它们带走……",
+          "g_ja": "なので、素敵だと思ったからといって、連れ帰ってしまうのは……",
+          "g_ko": "누군가가 가치 있게 여겨준다 하더라도 평소에 하던 일을 하지 못하게 된다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100290,
+        "Id": 260100390,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100300,
+        "Message": {
+          "j_ko": "저는 조금 슬플 것 같아요……",
+          "j_ja": "小石たちが……寂しい思いをしてしまいそうで……",
+          "g_en": "Well, it would make me sad...",
+          "g_tw": "那些小石頭們……感覺會很難過……",
+          "g_tw_cn": "那些小石头们……感觉会很难过……",
+          "g_ja": "小石たちが……寂しい思いをしてしまいそうで……",
+          "g_ko": "저는 조금 슬플 것 같아요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 260100300,
+            "Id": 260100400,
+            "CharacterId": 26010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 260100310,
+            "Message": {
+              "j_ko": "대신이라고 하긴 그렇지만",
+              "j_ja": "ですが、その代わりに……",
+              "g_en": "This isn't much of a replacement, but...",
+              "g_tw": "但是，作為代替……",
+              "g_tw_cn": "但是，作为代替……",
+              "g_ja": "ですが、その代わりに……",
+              "g_ko": "대신이라고 하긴 그렇지만"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 260100300,
+        "Id": 260100400,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100310,
+        "Message": {
+          "j_ko": "대신이라고 하긴 그렇지만",
+          "j_ja": "ですが、その代わりに……",
+          "g_en": "This isn't much of a replacement, but...",
+          "g_tw": "但是，作為代替……",
+          "g_tw_cn": "但是，作为代替……",
+          "g_ja": "ですが、その代わりに……",
+          "g_ko": "대신이라고 하긴 그렇지만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100310,
+        "Id": 260100410,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100320,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_CH0218_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100320,
+        "Id": 260100420,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100330,
+        "Message": {
+          "j_ko": "사진으로 찍었구나.",
+          "j_ja": "写真に収めたんだ",
+          "g_en": "You took pictures!",
+          "g_tw": "你把它們照起來了啊",
+          "g_tw_cn": "你把它们照起来了啊",
+          "g_ja": "写真に収めたんだ",
+          "g_ko": "사진으로 찍었구나."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100320,
+        "Id": 260100430,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100330,
+        "Message": {
+          "j_ko": "응. 좋은 생각이네.",
+          "j_ja": "そっか、良かったね",
+          "g_en": "Oh, that's nice.",
+          "g_tw": "這樣啊，也不錯呢",
+          "g_tw_cn": "这样啊，也不错呢",
+          "g_ja": "そっか、良かったね",
+          "g_ko": "응. 좋은 생각이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100330,
+        "Id": 260100440,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100340,
+        "Message": {
+          "j_ko": "네",
+          "j_ja": "はい",
+          "g_en": "Yeah...",
+          "g_tw": "是的",
+          "g_tw_cn": "是的",
+          "g_ja": "はい",
+          "g_ko": "네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100330,
+        "Id": 260100450,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100340,
+        "Message": {
+          "j_ko": "이렇게라도 오늘의 추억을 간직하려고요",
+          "j_ja": "今日の思い出を、こうして宝物に……",
+          "g_en": "This way, I can keep the memory.",
+          "g_tw": "將今天的回憶，以這樣的形式變為寶物",
+          "g_tw_cn": "将今天的回忆，以这样的形式变为宝物",
+          "g_ja": "今日の思い出を、こうして宝物に……",
+          "g_ko": "이렇게라도 오늘의 추억을 간직하려고요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100340,
+        "Id": 260100460,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100350,
+        "Message": {
+          "j_ko": "오늘은 정말 즐거웠어요.",
+          "j_ja": "先生と一緒に過ごせて……本当に、楽しかったです",
+          "g_en": "I had so much fun today.",
+          "g_tw": "能和老師一起度過……真的很開心",
+          "g_tw_cn": "能和老师一起度过……真的很开心",
+          "g_ja": "先生と一緒に過ごせて……本当に、楽しかったです",
+          "g_ko": "오늘은 정말 즐거웠어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100340,
+        "Id": 260100470,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100350,
+        "Message": {
+          "j_ko": "감사합니다.",
+          "j_ja": "ありがとうございます",
+          "g_en": "Thank you.",
+          "g_tw": "非常感謝",
+          "g_tw_cn": "非常感谢",
+          "g_ja": "ありがとうございます",
+          "g_ko": "감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601005,
+    "Data": [
+      {
+        "GroupId": 260100350,
+        "Id": 260100480,
+        "CharacterId": 26010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100360,
+        "Message": {
+          "j_ko": "저격 임무를 수행하다 보면",
+          "j_ja": "任務は、天候にも左右されるので",
+          "g_en": "When I'm waiting for a shot in the field...",
+          "g_tw": "因為任務有時會被天氣影響",
+          "g_tw_cn": "因为任务有时会被天气影响",
+          "g_ja": "任務は、天候にも左右されるので",
+          "g_ko": "저격 임무를 수행하다 보면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100360,
+        "Id": 260100490,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100370,
+        "Message": {
+          "j_ko": "하늘을 보고 있을 때가 많아요",
+          "j_ja": "狙撃任務の時、空を見上げることが多いんです",
+          "g_en": "I have a lot of time to stare at the sky.",
+          "g_tw": "在進行狙擊任務時，我經常會仰望天空",
+          "g_tw_cn": "在进行狙击任务时，我经常会仰望天空",
+          "g_ja": "狙撃任務の時、空を見上げることが多いんです",
+          "g_ko": "하늘을 보고 있을 때가 많아요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100370,
+        "Id": 260100500,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100380,
+        "Message": {
+          "j_ko": "거의 움직이지 않고 고정된 땅과는 달리",
+          "j_ja": "地面を見ていても、あまり変化はありませんが……",
+          "g_en": "Unlike the earth, which never moves,",
+          "g_tw": "和即使盯著也不會有什麼變化的地面不同……",
+          "g_tw_cn": "和即使盯着也不会有什么变化的地面不同……",
+          "g_ja": "地面を見ていても、あまり変化はありませんが……",
+          "g_ko": "거의 움직이지 않고 고정된 땅과는 달리"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100370,
+        "Id": 260100510,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100380,
+        "Message": {
+          "j_ko": "하늘은 시시각각 변화무쌍하게 움직이거든요",
+          "j_ja": "空の景色は、移り変わりが早いです",
+          "g_en": "the sky is always changing, moment by moment.",
+          "g_tw": "天空景色的變化相當快",
+          "g_tw_cn": "天空景色的变化相当快",
+          "g_ja": "空の景色は、移り変わりが早いです",
+          "g_ko": "하늘은 시시각각 변화무쌍하게 움직이거든요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100380,
+        "Id": 260100520,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100390,
+        "Message": {
+          "j_ko": "그래서 하늘을 바라보는 건 질리지가 않는 것 같아요",
+          "j_ja": "だから……いつまでも、見ていられるのかもしれません",
+          "g_en": "I think that's why I never get bored looking at the sky.",
+          "g_tw": "所以……無論看多久，似乎都不會看膩",
+          "g_tw_cn": "所以……无论看多久，似乎都不会看腻",
+          "g_ja": "だから……いつまでも、見ていられるのかもしれません",
+          "g_ko": "그래서 하늘을 바라보는 건 질리지가 않는 것 같아요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100390,
+        "Id": 260100530,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100400,
+        "Message": {
+          "j_ko": "다만 바닷가에서 본 하늘은……",
+          "j_ja": "ただ、海辺から眺める空は……",
+          "g_en": "But the sky I saw at the sea was...",
+          "g_tw": "可是，在海邊眺望的天空……",
+          "g_tw_cn": "可是，在海边眺望的天空……",
+          "g_ja": "ただ、海辺から眺める空は……",
+          "g_ko": "다만 바닷가에서 본 하늘은……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100390,
+        "Id": 260100540,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100400,
+        "Message": {
+          "j_ko": "……조금 다른 것 같아요",
+          "j_ja": "……少し違うような",
+          "g_en": "It was a bit different.",
+          "g_tw": "……好像有點不太一樣",
+          "g_tw_cn": "……好像有点不太一样",
+          "g_ja": "……少し違うような",
+          "g_ko": "……조금 다른 것 같아요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100400,
+        "Id": 260100550,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100410,
+        "Message": {
+          "j_ko": "어떻게 다른데?",
+          "j_ja": "どう違うの？",
+          "g_en": "How was it different?",
+          "g_tw": "怎麼說呢？",
+          "g_tw_cn": "怎么说呢？",
+          "g_ja": "どう違うの？",
+          "g_ko": "어떻게 다른데?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100410,
+        "Id": 260100560,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100420,
+        "Message": {
+          "j_ko": "그게",
+          "j_ja": "えっと……",
+          "g_en": "Th-The thing is...",
+          "g_tw": "那個……",
+          "g_tw_cn": "那个……",
+          "g_ja": "えっと……",
+          "g_ko": "그게"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100420,
+        "Id": 260100570,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100430,
+        "Message": {
+          "j_ko": "음",
+          "j_ja": "うぅ……",
+          "g_en": "Well...",
+          "g_tw": "嗚……",
+          "g_tw_cn": "呜……",
+          "g_ja": "うぅ……",
+          "g_ko": "음"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 260100430,
+            "Id": 260100580,
+            "CharacterId": 26010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 260100440,
+            "Message": {
+              "j_ko": "죄송해요",
+              "j_ja": "すみません",
+              "g_en": "I'm sorry...",
+              "g_tw": "對不起",
+              "g_tw_cn": "对不起",
+              "g_ja": "すみません",
+              "g_ko": "죄송해요"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 260100430,
+        "Id": 260100580,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100440,
+        "Message": {
+          "j_ko": "죄송해요",
+          "j_ja": "すみません",
+          "g_en": "I'm sorry...",
+          "g_tw": "對不起",
+          "g_tw_cn": "对不起",
+          "g_ja": "すみません",
+          "g_ko": "죄송해요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100440,
+        "Id": 260100590,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260105,
+        "NextGroupId": 260100450,
+        "Message": {
+          "j_ko": "뭔가 설명이 잘…… 안 되는 것 같아요",
+          "j_ja": "うまく……言葉にできないです",
+          "g_en": "It's hard to explain...",
+          "g_tw": "我不太……會形容",
+          "g_tw_cn": "我不太……会形容",
+          "g_ja": "うまく……言葉にできないです",
+          "g_ko": "뭔가 설명이 잘…… 안 되는 것 같아요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601006,
+    "Data": [
+      {
+        "GroupId": 260100450,
+        "Id": 260100600,
+        "CharacterId": 26010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100460,
+        "Message": {
+          "j_ko": "얼마 전에 버려진 패션 잡지에서 보았는데",
+          "j_ja": "先日、捨てられていたファッション雑誌を読んだところ……",
+          "g_en": "I found a magazine on the ground that said",
+          "g_tw": "前幾天，我讀了一本被丟掉的時尚雜誌……",
+          "g_tw_cn": "前几天，我读了一本被丢掉的时尚杂志……",
+          "g_ja": "先日、捨てられていたファッション雑誌を読んだところ……",
+          "g_ko": "얼마 전에 버려진 패션 잡지에서 보았는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100460,
+        "Id": 260100610,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100470,
+        "Message": {
+          "j_ko": "의상 코디를 바꾸는 것만으로도 주변의 시선을 크게 끌 수 있대요.",
+          "j_ja": "服装を変えることで、注目を集められる……とありました",
+          "g_en": "you can attract attention just by changing your clothes.",
+          "g_tw": "書上寫……可以藉由改變服裝來吸引別人的注意",
+          "g_tw_cn": "书上写……可以借由改变服装来吸引别人的注意",
+          "g_ja": "服装を変えることで、注目を集められる……とありました",
+          "g_ko": "의상 코디를 바꾸는 것만으로도 주변의 시선을 크게 끌 수 있대요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100470,
+        "Id": 260100620,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100480,
+        "Message": {
+          "j_ko": "TPO에 적합하지 않은 의상이 가끔은 사람을 휘어잡는 매력이 될 수 있다고……",
+          "j_ja": "あえて、その場にそぐわない格好をすることで、人の目を惹き付けられると……",
+          "g_en": "If you wear an outfit that doesn't match the setting, sometimes people will like you more.",
+          "g_tw": "刻意選擇與環境不搭的服裝，也能吸引到別人的目光……",
+          "g_tw_cn": "刻意选择与环境不搭的服装，也能吸引到别人的目光……",
+          "g_ja": "あえて、その場にそぐわない格好をすることで、人の目を惹き付けられると……",
+          "g_ko": "TPO에 적합하지 않은 의상이 가끔은 사람을 휘어잡는 매력이 될 수 있다고……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100480,
+        "Id": 260100630,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100490,
+        "Message": {
+          "j_ko": "그래서 최근에 산 사복을 입고",
+          "j_ja": "今日は、最近買った服を着て",
+          "g_en": "So I was thinking that I can wear my new outfit",
+          "g_tw": "所以今天，我打算穿著最近買來的衣服",
+          "g_tw_cn": "所以今天，我打算穿着最近买来的衣服",
+          "g_ja": "今日は、最近買った服を着て",
+          "g_ko": "그래서 최근에 산 사복을 입고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100480,
+        "Id": 260100640,
+        "CharacterId": 26010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100490,
+        "Message": {
+          "j_ko": "거리를 한 번 돌아보려고요.",
+          "j_ja": "街を歩いてみようと思います",
+          "g_en": "and go for a walk through the city.",
+          "g_tw": "試著到街上走走",
+          "g_tw_cn": "试着到街上走走",
+          "g_ja": "街を歩いてみようと思います",
+          "g_ko": "거리를 한 번 돌아보려고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100490,
+        "Id": 260100650,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100500,
+        "Message": {
+          "j_ko": "새 사복을 시험하는 건 좋긴 하지만……",
+          "j_ja": "いいアイデアだとは思うけど……",
+          "g_en": "Trying out new clothes is good and all, but...",
+          "g_tw": "雖然我覺得是個不錯的想法……",
+          "g_tw_cn": "虽然我觉得是个不错的想法……",
+          "g_ja": "いいアイデアだとは思うけど……",
+          "g_ko": "새 사복을 시험하는 건 좋긴 하지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100500,
+        "Id": 260100660,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100510,
+        "Message": {
+          "j_ko": "최근에 산 사복은 수영복밖에 없지 않았어?",
+          "j_ja": "それって、水着じゃないよね……？",
+          "g_en": "Isn't the only new outfit you bought a swimsuit?",
+          "g_tw": "不過你說的，應該不是泳裝吧……？",
+          "g_tw_cn": "不过你说的，应该不是泳装吧……？",
+          "g_ja": "それって、水着じゃないよね……？",
+          "g_ko": "최근에 산 사복은 수영복밖에 없지 않았어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100510,
+        "Id": 260100670,
+        "CharacterId": 26010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100520,
+        "Message": {
+          "j_ko": "일단 다녀올게요",
+          "j_ja": "じ、じゃあ……行ってきます",
+          "g_en": "Talk to you later.",
+          "g_tw": "那，那麼……我要出發了",
+          "g_tw_cn": "那，那么……我要出发了",
+          "g_ja": "じ、じゃあ……行ってきます",
+          "g_ko": "일단 다녀올게요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100520,
+        "Id": 260100680,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260100530,
+        "Message": {
+          "j_ko": "……미유?",
+          "j_ja": "……ミユ？",
+          "g_en": "Miyu?",
+          "g_tw": "……美優？",
+          "g_tw_cn": "……美优？",
+          "g_ja": "……ミユ？",
+          "g_ko": "……미유?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260100530,
+        "Id": 260100690,
+        "CharacterId": 26010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 260106,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "………미유야?",
+          "j_ja": "…………ミユさん？",
+          "g_en": "Miyu?!",
+          "g_tw": "…………美優同學？",
+          "g_tw_cn": "…………美优同学？",
+          "g_ja": "…………ミユさん？",
+          "g_ko": "………미유야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

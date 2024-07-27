@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "カタカタヘルメット団残党、校外エリアに撤退中。",
+      "j_ko": "카타카타 헬멧단 잔당, 학교 에어리어 밖으로 물러나고 있습니다.",
+      "g_ja": "カタカタヘルメット団残党、校外エリアに撤退中。",
+      "g_ko": "카타카타 헬멧단 잔당, 학교 에어리어 밖으로 물러나고 있습니다.",
+      "g_en": "The Kata-Kata Helmet Gang is retreating from the district.",
+      "g_th": "แก๊งหมวกกันน็อกคาตาคาตะกำลังถอนกำลังออกจากเขตโรงเรียนแล้วค่ะ!",
+      "g_tw": "硬梆梆頭盔團的殘黨正往校外區域撤退。",
+      "g_tw_cn": "硬梆梆头盔团的残党正往校外区域撤退。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1788051899,
+    "DataType": "speaker",
+    "Script": "3;통신아야네;03;카타카타 헬멧단 잔당, 학교 에어리어 밖으로 물러나고 있습니다.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SE_Radio_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わあ☆私たち、勝ちました！",
+      "j_ko": "와아-☆ 이겼어요!",
+      "g_ja": "わあ☆私たち、勝ちました！",
+      "g_ko": "와아-☆ 이겼어요!",
+      "g_en": "Wow! We won! ☆",
+      "g_th": "ว้าว☆ เราชนะแล้วค่ะ!",
+      "g_tw": "哇啊☆我們贏了！",
+      "g_tw_cn": "哇啊☆我们赢了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3545855058,
+    "DataType": "speaker",
+    "Script": "5;노노미;03;와아-☆ 이겼어요!\\n#5;hophop\\n#5;a\\n#5;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ！どうよ！思い知ったか、ヘルメット団め！",
+      "j_ko": "하하핫! 맛이 어떠냐, 헬멧단 놈들!",
+      "g_ja": "あははっ！どうよ！思い知ったか、ヘルメット団め！",
+      "g_ko": "하하핫! 맛이 어떠냐, 헬멧단 놈들!",
+      "g_en": "Hahaha! How do you like that, Helmet Gang?",
+      "g_th": "ฮะฮ่ะฮ่า! กินกระสุนกันไปอร่อยเลยล่ะสิ!",
+      "g_tw": "啊哈哈！怎麼樣！知道厲害了吧，混蛋頭盔團！",
+      "g_tw_cn": "啊哈哈！怎么样！知道厉害了吧，混蛋头盔团！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1089369137,
+    "DataType": "speaker",
+    "Script": "1;세리카;03;하하핫! 맛이 어떠냐, 헬멧단 놈들!\\n#1;em;[재잘]\\n#1;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "皆さんお疲れ様でした。学校に帰還しましょう。",
+      "j_ko": "모두들 수고하셨습니다. 이제 학교로 복귀하겠습니다.",
+      "g_ja": "皆さんお疲れ様でした。学校に帰還しましょう。",
+      "g_ko": "모두들 수고하셨습니다. 이제 학교로 복귀하겠습니다.",
+      "g_en": "Great job, everyone! You're safe to return to campus.",
+      "g_th": "ทุกคนทำได้ดีมากค่ะ กลับมาที่โรงเรียนอย่างปลอดภัยแล้วค่ะ",
+      "g_tw": "大家辛苦了，回學校來吧。",
+      "g_tw_cn": "大家辛苦了，回学校来吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1788051899,
+    "DataType": "speaker",
+    "Script": "3;통신아야네;01;모두들 수고하셨습니다. 이제 학교로 복귀하겠습니다.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">大人の力ってすごい！</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">어른의 힘, 굉장해!</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">大人の力ってすごい！</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">어른의 힘, 굉장해!</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\">Being an Adult is Amazing!</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">พลังแห่งความเป็นผู้ใหญ่!</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">大人的力量，不是蓋的！</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">大人的力量，不是盖的！</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;어른의 힘, 굉장해!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 719512360,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,959 @@
+[
+  {
+    "BondScenarioId": 2300302,
+    "Data": [
+      {
+        "GroupId": 230030010,
+        "Id": 1630,
+        "CharacterId": 23003,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030020,
+        "Message": {
+          "j_ko": "선생님. 이번에 새로 개봉하는 영화, <엘리미네이터 4>의 소식 들었어?",
+          "j_ja": "先生。今度新しく上映する映画、「エリミネーター4」の噂、聞いた？",
+          "g_en": "Have you heard of that new movie that's coming out, Eliminator 4?",
+          "g_tw": "老師。這次新上映的電影《魔鬼殲滅者4》的消息，你有聽說嗎？",
+          "g_tw_cn": "老师。这次新上映的电影《魔鬼歼灭者4》的消息，你有听说吗？",
+          "g_ja": "先生。今度新しく上映する映画、「エリミネーター4」の噂、聞いた？",
+          "g_ko": "선생님. 이번에 새로 개봉하는 영화, <엘리미네이터 4>의 소식 들었어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030020,
+        "Id": 1631,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030030,
+        "Message": {
+          "j_ko": "거대한 로봇이 도시를 파괴하는 SF 시리즈물이었지……?",
+          "j_ja": "巨大なロボットが都市を破壊していく、あのSFシリーズだよね？",
+          "g_en": "That's the a sci-fi series where giant robots destroy the city, right?",
+          "g_tw": "是巨大機器人會來破壞都市的那個科幻系列嗎？",
+          "g_tw_cn": "是巨大机器人会来破坏都市的那个科幻系列吗？",
+          "g_ja": "巨大なロボットが都市を破壊していく、あのSFシリーズだよね？",
+          "g_ko": "거대한 로봇이 도시를 파괴하는 SF 시리즈물이었지……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030030,
+        "Id": 1632,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030040,
+        "Message": {
+          "j_ko": "응, 그런데 이번에는 주인공의 조력자 역할로",
+          "j_ja": "そうそう。それで、どうやら今回は主人公のサポート役として、",
+          "g_en": "Yes, but I hear the main character's assistant in this one",
+          "g_tw": "對對。然後啊，沒想到這次來支援主角的角色，",
+          "g_tw_cn": "对对。然后啊，没想到这次来支持主角的角色，",
+          "g_ja": "そうそう。それで、どうやら今回は主人公のサポート役として、",
+          "g_ko": "응, 그런데 이번에는 주인공의 조력자 역할로"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030030,
+        "Id": 1633,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030040,
+        "Message": {
+          "j_ko": "해커 캐릭터가 등장한대.",
+          "j_ja": "なんとハッカーが登場するらしくて",
+          "g_en": "is a hacker.",
+          "g_tw": "竟然是個駭客",
+          "g_tw_cn": "竟然是个黑客",
+          "g_ja": "なんとハッカーが登場するらしくて",
+          "g_ko": "해커 캐릭터가 등장한대."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030040,
+        "Id": 1634,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030050,
+        "Message": {
+          "j_ko": "원래부터 좋아했던 영화의 후속편이었는데, 내가 관심 있어 하는 해킹에 관련된 캐릭터가 나온다니…….",
+          "j_ja": "元々好きだった映画の続編に、ハッキング関連の登場人物が出るなんて……",
+          "g_en": "I was already looking forward to this movie, and now I hear there's a hacker in it! Isn't that exciting?",
+          "g_tw": "我原本就喜歡的電影續集裡，竟然出現了駭客相關的角色……",
+          "g_tw_cn": "我原本就喜欢的电影续集里，竟然出现了黑客相关的角色……",
+          "g_ja": "元々好きだった映画の続編に、ハッキング関連の登場人物が出るなんて……",
+          "g_ko": "원래부터 좋아했던 영화의 후속편이었는데, 내가 관심 있어 하는 해킹에 관련된 캐릭터가 나온다니……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030040,
+        "Id": 1635,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030050,
+        "Message": {
+          "j_ko": "어떻게 묘사될지 벌써부터 기대가 되네.",
+          "j_ja": "どう描かれるのか、今から楽しみだね",
+          "g_en": "I can't wait to see how it's handled.",
+          "g_tw": "究竟會怎麼呈現呢，真是令人期待",
+          "g_tw_cn": "究竟会怎么呈现呢，真是令人期待",
+          "g_ja": "どう描かれるのか、今から楽しみだね",
+          "g_ko": "어떻게 묘사될지 벌써부터 기대가 되네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030050,
+        "Id": 1636,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030060,
+        "Message": {
+          "j_ko": "부디 마음에 들게 나왔으면 좋겠네.",
+          "j_ja": "確かに。まだ分からないけど、かっこいいと良いね",
+          "g_en": "I hope you like it.",
+          "g_tw": "確實，雖然還不能確定，但要是很酷就好了",
+          "g_tw_cn": "确实，虽然还不能确定，但要是很酷就好了",
+          "g_ja": "確かに。まだ分からないけど、かっこいいと良いね",
+          "g_ko": "부디 마음에 들게 나왔으면 좋겠네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030060,
+        "Id": 1637,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230032,
+        "NextGroupId": 230030070,
+        "Message": {
+          "j_ko": "이번 주말에 개봉한다니 보고 나서 어땠는지 소감을 말해줄게.",
+          "j_ja": "うん。今週末に上映するみたいだから、見たら感想を伝えるね",
+          "g_en": "It's coming out this weekend, so I'll let you know how it is.",
+          "g_tw": "嗯。好像是這個週末就要上映了，我看完再跟你說說感想",
+          "g_tw_cn": "嗯。好像是这个周末就要上映了，我看完再跟你说说感想",
+          "g_ja": "うん。今週末に上映するみたいだから、見たら感想を伝えるね",
+          "g_ko": "이번 주말에 개봉한다니 보고 나서 어땠는지 소감을 말해줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300303,
+    "Data": [
+      {
+        "GroupId": 230030070,
+        "Id": 1638,
+        "CharacterId": 23003,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030080,
+        "Message": {
+          "j_ko": "선생님, 오늘 동아리실에 올 때 시내에서 에너지 드링크 하나만 사다 줄 수 있어?",
+          "j_ja": "先生、今日部室に来る時に、エナジードリンクを一本買ってきてくれる？",
+          "g_en": "When you come to the club room today, can you bring me an energy drink from the city?",
+          "g_tw": "老師，今天你來社團教室的時候，可以幫我買罐能量飲料嗎？",
+          "g_tw_cn": "老师，今天你来社团教室的时候，可以帮我买罐能量饮料吗？",
+          "g_ja": "先生、今日部室に来る時に、エナジードリンクを一本買ってきてくれる？",
+          "g_ko": "선생님, 오늘 동아리실에 올 때 시내에서 에너지 드링크 하나만 사다 줄 수 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030080,
+        "Id": 1639,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030090,
+        "Message": {
+          "j_ko": "에너지 드링크? <요괴 MAX>면 될까?",
+          "j_ja": "エナジードリンク？「妖怪MAX」でいい？",
+          "g_en": "An energy drink? Like Frenzy MAX?",
+          "g_tw": "能量飲料？「妖怪MAX」可以嗎？",
+          "g_tw_cn": "能量饮料？「妖怪MAX」可以吗？",
+          "g_ja": "エナジードリンク？「妖怪MAX」でいい？",
+          "g_ko": "에너지 드링크? <요괴 MAX>면 될까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030090,
+        "Id": 1640,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030100,
+        "Message": {
+          "j_ko": "응, <요괴 MAX>의 패션 후르츠 맛으로.",
+          "j_ja": "うん、「妖怪MAX」のパッションフルーツ味でお願い",
+          "g_en": "Yes, Frenzy MAX! The passion fruit flavor.",
+          "g_tw": "嗯，那就「妖怪MAX」百香果口味好了",
+          "g_tw_cn": "嗯，那就「妖怪MAX」百香果口味好了",
+          "g_ja": "うん、「妖怪MAX」のパッションフルーツ味でお願い",
+          "g_ko": "응, <요괴 MAX>의 패션 후르츠 맛으로."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030090,
+        "Id": 1641,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030100,
+        "Message": {
+          "j_ko": "어째서인지 패션 후르츠 맛은 이 근처에서 취급하는 곳이 없더라고.",
+          "j_ja": "どういうわけか、その味はこの辺だとあまり取り扱ってないみたいで",
+          "g_en": "I can't find the passion fruit flavor anywhere around here.",
+          "g_tw": "不知道為什麼，這附近好像都買不太到那個口味",
+          "g_tw_cn": "不知道为什么，这附近好像都买不太到那个口味",
+          "g_ja": "どういうわけか、その味はこの辺だとあまり取り扱ってないみたいで",
+          "g_ko": "어째서인지 패션 후르츠 맛은 이 근처에서 취급하는 곳이 없더라고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030100,
+        "Id": 1642,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030110,
+        "Message": {
+          "j_ko": "알겠어.",
+          "j_ja": "そうなんだ。うん、了解",
+          "g_en": "Okay.",
+          "g_tw": "這樣啊。嗯，我知道了",
+          "g_tw_cn": "这样啊。嗯，我知道了",
+          "g_ja": "そうなんだ。うん、了解",
+          "g_ko": "알겠어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030110,
+        "Id": 1643,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230033,
+        "NextGroupId": 230030120,
+        "Message": {
+          "j_ko": "그럼 부탁 좀 할게.",
+          "j_ja": "ありがとう、よろしくね",
+          "g_en": "Thank you!",
+          "g_tw": "謝謝，拜託你了唷",
+          "g_tw_cn": "谢谢，拜托你了唷",
+          "g_ja": "ありがとう、よろしくね",
+          "g_ko": "그럼 부탁 좀 할게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300305,
+    "Data": [
+      {
+        "GroupId": 230030120,
+        "Id": 1644,
+        "CharacterId": 23003,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030130,
+        "Message": {
+          "j_ko": "이번에 새로 출시된 그래픽 카드의 성능이 그렇게 좋다는데…….",
+          "j_ja": "この間発売されたグラフィックボード、性能がものすごく良いみたい",
+          "g_en": "I hear that new graphics card that just came out has incredible performance...",
+          "g_tw": "前陣子發售的顯示卡，性能好像超強的",
+          "g_tw_cn": "前阵子发售的显卡，性能好像超强的",
+          "g_ja": "この間発売されたグラフィックボード、性能がものすごく良いみたい",
+          "g_ko": "이번에 새로 출시된 그래픽 카드의 성능이 그렇게 좋다는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030130,
+        "Id": 1645,
+        "CharacterId": 23003,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030140,
+        "Message": {
+          "j_ko": "업체에 문의해보니 재고가 한정되어 있어서 한 사람 앞에 한 개밖에 팔지 않는다지 뭐야.",
+          "j_ja": "業者の人に聞いたら、在庫が限られてるから一人一個しか売らないんだって",
+          "g_en": "I asked the company that sells it, and they said each person can only buy one because supplies are limited.",
+          "g_tw": "我問了問業者，因為庫存不夠的關係，限制一個人只能買一張",
+          "g_tw_cn": "我问了问业者，因为库存不够的关系，限制一个人只能买一张",
+          "g_ja": "業者の人に聞いたら、在庫が限られてるから一人一個しか売らないんだって",
+          "g_ko": "업체에 문의해보니 재고가 한정되어 있어서 한 사람 앞에 한 개밖에 팔지 않는다지 뭐야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030140,
+        "Id": 1646,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030150,
+        "Message": {
+          "j_ko": "컴퓨터에 대해서는 잘 모르지만, 한 개면 충분하지 않아?",
+          "j_ja": "パソコンには詳しくないんだけど、一個じゃ足りないの？",
+          "g_en": "I don't know much about computers, but is one graphics card enough?",
+          "g_tw": "雖然我不太懂電腦，不過一張還不夠嗎？",
+          "g_tw_cn": "虽然我不太懂电脑，不过一张还不够吗？",
+          "g_ja": "パソコンには詳しくないんだけど、一個じゃ足りないの？",
+          "g_ko": "컴퓨터에 대해서는 잘 모르지만, 한 개면 충분하지 않아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030150,
+        "Id": 1647,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030151,
+        "Message": {
+          "j_ko": "안 돼.",
+          "j_ja": "うん、足りないかな",
+          "g_en": "No.",
+          "g_tw": "嗯，不太夠呢",
+          "g_tw_cn": "嗯，不太够呢",
+          "g_ja": "うん、足りないかな",
+          "g_ko": "안 돼."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030150,
+        "Id": 1648,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030151,
+        "Message": {
+          "j_ko": "두 개 이상의 그래픽 카드를 연결해서 그래픽 처리 성능을 높이지 않으면 새로운 시뮬레이터의 기능을 제대로 시험해 볼 수 없거든.",
+          "j_ja": "二個以上ないと、性能的に新しいシミュレーターをきちんと試せないから",
+          "g_en": "I need at least two graphics cards to test the new simulator's functions properly.",
+          "g_tw": "如果沒有兩張以上的話，要測試新的模擬程式很可能會因為性能不足而沒辦法好好測試",
+          "g_tw_cn": "如果没有两张以上的话，要测试新的仿真程序很可能会因为性能不足而没办法好好测试",
+          "g_ja": "二個以上ないと、性能的に新しいシミュレーターをきちんと試せないから",
+          "g_ko": "두 개 이상의 그래픽 카드를 연결해서 그래픽 처리 성능을 높이지 않으면 새로운 시뮬레이터의 기능을 제대로 시험해 볼 수 없거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030151,
+        "Id": 1649,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030160,
+        "Message": {
+          "j_ko": "마음 같아서는 사실 두 개도 부족하지만,",
+          "j_ja": "個人的には二個でも足りないぐらいだけど",
+          "g_en": "Honestly, two isn't even enough...",
+          "g_tw": "雖然我個人是覺得兩張也不夠",
+          "g_tw_cn": "虽然我个人是觉得两张也不够",
+          "g_ja": "個人的には二個でも足りないぐらいだけど",
+          "g_ko": "마음 같아서는 사실 두 개도 부족하지만,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030151,
+        "Id": 1650,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030160,
+        "Message": {
+          "j_ko": "부품의 가격이 배로 뛰니 두 개로 만족하는 수밖에…….",
+          "j_ja": "ただでさえ高いのにこれ以上積むのも厳しいから、二個で我慢……",
+          "g_en": "But since it's already so expensive, I'll have to settle for two...",
+          "g_tw": "但是顯示卡本來就很貴了，如果再買更多的話實在有點吃不消，只好先用兩張將就一下",
+          "g_tw_cn": "但是显卡本来就很贵了，如果再买更多的话实在有点吃不消，只好先用两张将就一下",
+          "g_ja": "ただでさえ高いのにこれ以上積むのも厳しいから、二個で我慢……",
+          "g_ko": "부품의 가격이 배로 뛰니 두 개로 만족하는 수밖에……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030160,
+        "Id": 1651,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030170,
+        "Message": {
+          "j_ko": "무슨 말인지는 모르겠지만, 뭔가 굉장하네…….",
+          "j_ja": "正直よく分からないけど、すごいね……",
+          "g_en": "I don't know what you're going on about, but it sounds pretty important.",
+          "g_tw": "老實說我還是不太懂，但好厲害啊……",
+          "g_tw_cn": "老实说我还是不太懂，但好厉害啊……",
+          "g_ja": "正直よく分からないけど、すごいね……",
+          "g_ko": "무슨 말인지는 모르겠지만, 뭔가 굉장하네……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030160,
+        "Id": 1652,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030170,
+        "Message": {
+          "j_ko": "컴퓨터 조립의 세계는 심오하구나…….",
+          "j_ja": "パソコンの世界は深いね……",
+          "g_en": "The world of computers will always be a mystery to me...",
+          "g_tw": "電腦世界真是深奧啊……",
+          "g_tw_cn": "电脑世界真是深奥啊……",
+          "g_ja": "パソコンの世界は深いね……",
+          "g_ko": "컴퓨터 조립의 세계는 심오하구나……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030170,
+        "Id": 1653,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030180,
+        "Message": {
+          "j_ko": "그래서 말인데, 이번 주말에 부품 상점에 쇼핑하러 갈 때 같이 가줄 수 없을까?",
+          "j_ja": "そこで今週末なんだけど、それを買うのに一緒に行ってくれないかな？",
+          "g_en": "So I wanted to ask... Can you come with me to the parts store this weekend?",
+          "g_tw": "所以說這個週末，老師能跟我一起去買嗎？",
+          "g_tw_cn": "所以说这个周末，老师能跟我一起去买吗？",
+          "g_ja": "そこで今週末なんだけど、それを買うのに一緒に行ってくれないかな？",
+          "g_ko": "그래서 말인데, 이번 주말에 부품 상점에 쇼핑하러 갈 때 같이 가줄 수 없을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030170,
+        "Id": 1654,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030180,
+        "Message": {
+          "j_ko": "돈은 내가 낼 테니까 얼굴만 빌려주면 돼.",
+          "j_ja": "お金はもちろん私が出すから、来てくれると嬉しい",
+          "g_en": "I'll pay for everything. You just need to, y'know, stand there.",
+          "g_tw": "錢當然是我來出，你能來我就很高興了",
+          "g_tw_cn": "钱当然是我来出，你能来我就很高兴了",
+          "g_ja": "お金はもちろん私が出すから、来てくれると嬉しい",
+          "g_ko": "돈은 내가 낼 테니까 얼굴만 빌려주면 돼."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030180,
+        "Id": 1655,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 230035,
+        "NextGroupId": 230030190,
+        "Message": {
+          "j_ko": "알겠어. 주말에 보자.",
+          "j_ja": "分かった、じゃあまた週末に",
+          "g_en": "Okay. I'll see you this weekend.",
+          "g_tw": "我知道了，那就週末見",
+          "g_tw_cn": "我知道了，那就周末见",
+          "g_ja": "分かった、じゃあまた週末に",
+          "g_ko": "알겠어. 주말에 보자."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300306,
+    "Data": [
+      {
+        "GroupId": 230030190,
+        "Id": 1656,
+        "CharacterId": 23003,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030200,
+        "Message": {
+          "j_ko": "선생님, 전에 만들었던 드론의 개조가 모두 끝났어.",
+          "j_ja": "先生、前に作ってたドローンの改造が終わったよ",
+          "g_en": "I've finished modifying the drone I made before, Sensei.",
+          "g_tw": "老師，之前開始做的無人機改造完成了唷",
+          "g_tw_cn": "老师，之前开始做的无人机改造完成了唷",
+          "g_ja": "先生、前に作ってたドローンの改造が終わったよ",
+          "g_ko": "선생님, 전에 만들었던 드론의 개조가 모두 끝났어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030200,
+        "Id": 1657,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030210,
+        "Message": {
+          "j_ko": "드디어 끝났구나, 축하해.",
+          "j_ja": "ようやく終わったんだ、おめでとう",
+          "g_en": "You're finally done? Congrats!",
+          "g_tw": "終於完成了嗎？恭喜你",
+          "g_tw_cn": "终于完成了吗？恭喜你",
+          "g_ja": "ようやく終わったんだ、おめでとう",
+          "g_ko": "드디어 끝났구나, 축하해."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030200,
+        "Id": 1658,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030220,
+        "Message": {
+          "j_ko": "무슨 개조를 하고 있었던 거야?",
+          "j_ja": "どんな改造をしてたんだっけ？",
+          "g_en": "What modifications did you make?",
+          "g_tw": "做了些什麼改造來著？",
+          "g_tw_cn": "做了些什么改造来着？",
+          "g_ja": "どんな改造をしてたんだっけ？",
+          "g_ko": "무슨 개조를 하고 있었던 거야?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030210,
+        "Id": 1659,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030230,
+        "Message": {
+          "j_ko": "응. 게다가 이번에는 여러 가지 신기능을 추가했으니까 미리 기대해도 좋아.",
+          "j_ja": "ありがとう。今回はたくさん新機能を追加したから、楽しみにしてていいよ",
+          "g_en": "Yeah! I added several new features, so I hope they'll be useful.",
+          "g_tw": "謝謝，這次我增加了很多新的功能，可以好好期待一下唷",
+          "g_tw_cn": "谢谢，这次我增加了很多新的功能，可以好好期待一下唷",
+          "g_ja": "ありがとう。今回はたくさん新機能を追加したから、楽しみにしてていいよ",
+          "g_ko": "응. 게다가 이번에는 여러 가지 신기능을 추가했으니까 미리 기대해도 좋아."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030220,
+        "Id": 1660,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030230,
+        "Message": {
+          "j_ko": "사용자의 편의를 위해 여러 가지 신기능을 추가했어.",
+          "j_ja": "ユーザにとって便利な新機能を、色々とね",
+          "g_en": "I added a bunch of new features for user convenience.",
+          "g_tw": "增加了各式各樣方便用戶使用的新功能",
+          "g_tw_cn": "增加了各式各样方便用户使用的新功能",
+          "g_ja": "ユーザにとって便利な新機能を、色々とね",
+          "g_ko": "사용자의 편의를 위해 여러 가지 신기능을 추가했어."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030230,
+        "Id": 1661,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030240,
+        "Message": {
+          "j_ko": "오늘 오후에 학원 옥상에서 드론의 새로운 기능을 시연할 예정이니 한 번 보러 와 줘.",
+          "j_ja": "今日の午後にミレニアムの屋上で試運転する予定だから、見に来てくれる？",
+          "g_en": "I'll demonstrate these new features on the roof of the academy, so you should come check it out.",
+          "g_tw": "我打算今天下午在千年的樓頂進行測試，老師可以來看看嗎？",
+          "g_tw_cn": "我打算今天下午在千年的楼顶进行测试，老师可以来看看吗？",
+          "g_ja": "今日の午後にミレニアムの屋上で試運転する予定だから、見に来てくれる？",
+          "g_ko": "오늘 오후에 학원 옥상에서 드론의 새로운 기능을 시연할 예정이니 한 번 보러 와 줘."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030240,
+        "Id": 1662,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 230036,
+        "NextGroupId": 230030250,
+        "Message": {
+          "j_ko": "일이 끝나면 바로 갈게.",
+          "j_ja": "仕事が終わったらすぐに行くね",
+          "g_en": "I'll go right after I'm done with work.",
+          "g_tw": "工作結束後我馬上過去",
+          "g_tw_cn": "工作结束后我马上过去",
+          "g_ja": "仕事が終わったらすぐに行くね",
+          "g_ko": "일이 끝나면 바로 갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300320,
+    "Data": [
+      {
+        "GroupId": 230030250,
+        "Id": 230030010,
+        "CharacterId": 23003,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030260,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Hare_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030260,
+        "Id": 230030020,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030270,
+        "Message": {
+          "j_ko": "갑자기 무슨 일이야?",
+          "j_ja": "ハレ、どうしたの？",
+          "g_en": "What's this for?",
+          "g_tw": "晴，怎麼了？",
+          "g_tw_cn": "晴，怎么了？",
+          "g_ja": "ハレ、どうしたの？",
+          "g_ko": "갑자기 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030270,
+        "Id": 230030030,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030280,
+        "Message": {
+          "j_ko": "귀엽게 나왔네. 그런데 갑자기 왜……",
+          "j_ja": "この自撮り可愛いね！でも急に何故……？",
+          "g_en": "That looks cute. But why...?",
+          "g_tw": "這張自拍真可愛呢！但怎麼會突然……？",
+          "g_tw_cn": "这张自拍真可爱呢！但怎么会突然……？",
+          "g_ja": "この自撮り可愛いね！でも急に何故……？",
+          "g_ko": "귀엽게 나왔네. 그런데 갑자기 왜……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030280,
+        "Id": 230030040,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 2300320,
+        "NextGroupId": 230030290,
+        "Message": {
+          "j_ko": "……하레 양?",
+          "j_ja": "あの、ハレさん……？",
+          "g_en": "...Hare?",
+          "g_tw": "那個，晴同學……？",
+          "g_tw_cn": "那个，晴同学……？",
+          "g_ja": "あの、ハレさん……？",
+          "g_ko": "……하레 양?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030290,
+        "Id": 230030050,
+        "CharacterId": 23003,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030300,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030300,
+        "Id": 230030060,
+        "CharacterId": 23003,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030310,
+        "Message": {
+          "j_ko": "그, 아까 사진 말인데……",
+          "j_ja": "その、あの写真のことだけど……",
+          "g_en": "Um, about the photo from before...",
+          "g_tw": "那個，關於那張照片……",
+          "g_tw_cn": "那个，关于那张照片……",
+          "g_ja": "その、あの写真のことだけど……",
+          "g_ko": "그, 아까 사진 말인데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030300,
+        "Id": 230030070,
+        "CharacterId": 23003,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030310,
+        "Message": {
+          "j_ko": "가능하다면 지워줬으면 해서……",
+          "j_ja": "できれば、消してもらいたくて……",
+          "g_en": "Can you delete it?",
+          "g_tw": "可以的話，希望你能刪掉……",
+          "g_tw_cn": "可以的话，希望你能删掉……",
+          "g_ja": "できれば、消してもらいたくて……",
+          "g_ko": "가능하다면 지워줬으면 해서……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030310,
+        "Id": 230030080,
+        "CharacterId": 23003,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030320,
+        "Message": {
+          "j_ko": "귀엽게 잘 나왔는데?",
+          "j_ja": "可愛く写ってると思うよ？",
+          "g_en": "But you look cute in it!",
+          "g_tw": "我覺得拍得很可愛耶？",
+          "g_tw_cn": "我觉得拍得很可爱耶？",
+          "g_ja": "可愛く写ってると思うよ？",
+          "g_ko": "귀엽게 잘 나왔는데?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030320,
+        "Id": 230030090,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030330,
+        "Message": {
+          "j_ko": "그렇게 말해도",
+          "j_ja": "でも",
+          "g_en": "You say that, but...",
+          "g_tw": "但是",
+          "g_tw_cn": "但是",
+          "g_ja": "でも",
+          "g_ko": "그렇게 말해도"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030320,
+        "Id": 230030100,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030330,
+        "Message": {
+          "j_ko": "귀여운 사진이라면 새로 찍어서 보내줄 수도 있는데",
+          "j_ja": "何て言うかその、写真なら改めて可愛く撮って送るから……",
+          "g_en": "I'll take a different one and send it to you.",
+          "g_tw": "該怎麼說呢，如果是可愛的照片的話，我能再拍一張發送給你……",
+          "g_tw_cn": "该怎么说呢，如果是可爱的照片的话，我能再拍一张发送给你……",
+          "g_ja": "何て言うかその、写真なら改めて可愛く撮って送るから……",
+          "g_ko": "귀여운 사진이라면 새로 찍어서 보내줄 수도 있는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030330,
+        "Id": 230030110,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030340,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ",
+          "g_en": "Oh.",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030330,
+        "Id": 230030120,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030340,
+        "Message": {
+          "j_ko": "ㄱ",
+          "j_ja": "えｔ",
+          "g_en": "Okay.",
+          "g_tw": "這",
+          "g_tw_cn": "这",
+          "g_ja": "えｔ",
+          "g_ko": "ㄱ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030330,
+        "Id": 230030130,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030340,
+        "Message": {
+          "j_ko": "그게 그러니까ㅏ 방금 그건",
+          "j_ja": "そｎ",
+          "g_en": "Um... That was...",
+          "g_tw": "那",
+          "g_tw_cn": "那",
+          "g_ja": "そｎ",
+          "g_ko": "그게 그러니까ㅏ 방금 그건"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 230030340,
+            "Id": 230030140,
+            "CharacterId": 23003,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 230030350,
+            "Message": {
+              "j_ko": "아테나 3호가 다시 장난을 친 거니까……",
+              "j_ja": "今のはその、アテナ3号がまた悪戯して……",
+              "g_en": "Athena-3 misbehaving again...",
+              "g_tw": "剛才那是雅典娜3號又在惡作劇……",
+              "g_tw_cn": "刚才那是雅典娜3号又在恶作剧……",
+              "g_ja": "今のはその、アテナ3号がまた悪戯して……",
+              "g_ko": "아테나 3호가 다시 장난을 친 거니까……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 230030340,
+        "Id": 230030140,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230030350,
+        "Message": {
+          "j_ko": "아테나 3호가 다시 장난을 친 거니까……",
+          "j_ja": "今のはその、アテナ3号がまた悪戯して……",
+          "g_en": "Athena-3 misbehaving again...",
+          "g_tw": "剛才那是雅典娜3號又在惡作劇……",
+          "g_tw_cn": "刚才那是雅典娜3号又在恶作剧……",
+          "g_ja": "今のはその、アテナ3号がまた悪戯して……",
+          "g_ko": "아테나 3호가 다시 장난을 친 거니까……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230030350,
+        "Id": 230030150,
+        "CharacterId": 23003,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "신경 쓰지 말아줘……",
+          "j_ja": "だから、気にしないでもらえると……",
+          "g_en": "Please just forget it.",
+          "g_tw": "所以，請不要放在心上……",
+          "g_tw_cn": "所以，请不要放在心上……",
+          "g_ja": "だから、気にしないでもらえると……",
+          "g_ko": "신경 쓰지 말아줘……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

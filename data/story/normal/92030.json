@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第3話</span><br/><span class=\"scenario-cmd-title\">さよなら、便利屋68</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제3화</span><br/><span class=\"scenario-cmd-title\">안녕, 흥신소 68</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第3話</span><br/><span class=\"scenario-cmd-title\">さよなら、便利屋68</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제3화</span><br/><span class=\"scenario-cmd-title\">안녕, 흥신소 68</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 3</span><br/><span class=\"scenario-cmd-title\">Farewell, Problem Solver 68</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 3</span><br/><span class=\"scenario-cmd-title\">บอกลาหน่วยรับจ้างสารพัด 68</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第3話</span><br/><span class=\"scenario-cmd-title\">珍重再見，便利屋68</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第3话</span><br/><span class=\"scenario-cmd-title\">珍重再见，便利屋68</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제3화;안녕, 흥신소 68",
+    "BGMId": 16,
+    "Sound": "",
+    "BGName": 2497355149,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "便利屋68・事務所",
+      "j_ko": "흥신소 68의 사무실",
+      "g_ja": "便利屋68・事務所",
+      "g_ko": "흥신소 68의 사무실",
+      "g_en": "Problem Solver 68 Office",
+      "g_th": "สำนักงานหน่วยรับจ้างสารพัด 68",
+      "g_tw": "便利屋68．辦公室",
+      "g_tw_cn": "便利屋68．办公室",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;흥신소 68의 사무실",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はあ……。",
+      "j_ko": "하아…….",
+      "g_ja": "はあ……。",
+      "g_ko": "하아…….",
+      "g_en": "*sigh*",
+      "g_th": "เฮ้อ...",
+      "g_tw": "唉……",
+      "g_tw_cn": "唉……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 519823036,
+    "DataType": "speaker",
+    "Script": "3;아루;07;하아…….\\n#3;a\\n#3;stiff\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "アルちゃ～ん、さっきからため息ばっかりだよ、テキパキ荷物運ぼう？",
+      "j_ko": "아루 쨩~ 거기서 한숨만 쉬고 있으면 어떡해. 짐 안 옮길 거야?",
+      "g_ja": "アルちゃ～ん、さっきからため息ばっかりだよ、テキパキ荷物運ぼう？",
+      "g_ko": "아루 쨩~ 거기서 한숨만 쉬고 있으면 어떡해. 짐 안 옮길 거야?",
+      "g_en": "Don't just stand there, Aru! Let's get moving already!",
+      "g_th": "อารุจัง~ ไปถอนหายใจอยู่ตรงนั้นทำไม ไม่ย้ายของเหรอ?",
+      "g_tw": "亞瑠醬～你從剛才就一直在嘆氣唷，快點搬行李吧？",
+      "g_tw_cn": "亚瑠酱～你从刚才就一直在叹气唷，快点搬行李吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2554261549,
+    "DataType": "speaker",
+    "Script": "1;무츠키;02;아루 쨩~ 거기서 한숨만 쉬고 있으면 어떡해. 짐 안 옮길 거야?\\n#1;ar\\n#1;em;[반응]\\n#3;m5",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">アビドス砂漠へ（１）</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">아비도스 사막으로 1</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">アビドス砂漠へ（１）</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">아비도스 사막으로 1</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\">Into the Abydos Desert Part 1</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">มุ่งสู่ทะเลทรายอะบิดอส 1</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">前往阿拜多斯沙漠（１）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">前往阿拜多斯沙漠（１）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;아비도스 사막으로 1",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3254559687,
+    "ShowTextColor": "black"
+  }
+]

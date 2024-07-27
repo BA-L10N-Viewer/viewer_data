@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マコトの理不尽な要求に戸惑いはしたけど……",
+      "j_ko": "마코토의 요구 이후, 처음엔 어떻게 해야할까 고민했는데.",
+      "g_ja": "マコトの理不尽な要求に戸惑いはしたけど……",
+      "g_ko": "마코토의 요구 이후, 처음엔 어떻게 해야할까 고민했는데.",
+      "g_en": "I was deliberating on the best approach to answer Makoto's demand.",
+      "g_th": "พอมาโคโตะขอร้องให้แสดงเปิดงาน ตอนแรกก็คิดว่าจะทำยังไงดี",
+      "g_tw": "聽見真琴提出的要求之後，剛開始還有點煩惱該如何是好。",
+      "g_tw_cn": "听见真琴提出的要求之后，刚开始还有点烦恼该如何是好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;마코토의 요구 이후, 처음엔 어떻게 해야할까 고민했는데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうだ。ピアノならここにあったわね。",
+      "j_ko": "마침 이곳에 피아노가 있었지……",
+      "g_ja": "そうだ。ピアノならここにあったわね。",
+      "g_ko": "마침 이곳에 피아노가 있었지……",
+      "g_en": "And there happened to be a piano here...",
+      "g_th": "แต่โชคดีที่มีเปียโนอยู่ที่นี่พอดี...",
+      "g_tw": "正巧這裡有台鋼琴……",
+      "g_tw_cn": "正巧这里有台钢琴……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;16;마침 이곳에 피아노가 있었지……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここなら邪魔も入らなそう。",
+      "j_ko": "이곳이라면…… 어떻게든 할 수 있을 거야.",
+      "g_ja": "ここなら邪魔も入らなそう。",
+      "g_ko": "이곳이라면…… 어떻게든 할 수 있을 거야.",
+      "g_en": "With this...I may be able to manage it.",
+      "g_th": "ถ้าเป็นที่นี่... ไม่ว่ายังไงก็น่าจะทำได้ละนะ",
+      "g_tw": "這個地方的話……應該沒問題吧。",
+      "g_tw_cn": "这个地方的话……应该没问题吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;17;이곳이라면…… 어떻게든 할 수 있을 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パーティーを楽しみにしている先生のためにも……",
+      "j_ko": "……파티를 기대하고 있을 선생님을 위해.",
+      "g_ja": "パーティーを楽しみにしている先生のためにも……",
+      "g_ko": "……파티를 기대하고 있을 선생님을 위해.",
+      "g_en": "...If for no other reason than for Sensei, who is surely looking forward to the party.",
+      "g_th": "เพื่อคุณครูที่กำลังตั้งตารองานปาร์ตี้...",
+      "g_tw": "為了期待派對的老師……",
+      "g_tw_cn": "为了期待派对的老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;99;……파티를 기대하고 있을 선생님을 위해.\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……よし。",
+      "j_ko": "좋아. 시작해보자.",
+      "g_ja": "……よし。",
+      "g_ko": "좋아. 시작해보자.",
+      "g_en": "Okay. Let's begin.",
+      "g_th": "ดีละ มาเริ่มกันเลย",
+      "g_tw": "嗯，開始吧。",
+      "g_tw_cn": "嗯，开始吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "#na;히나;좋아. 시작해보자.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ゲヘナのパーティー……毎年、ゲヘナやキヴォトスの有力者を集めて開かれている）",
+      "j_ko": "(게헨나 파티…… 매년 만마전에서 게헨나 및 키보토스의 유력 인사를 끌어모아 여는 파티였지.)",
+      "g_ja": "（ゲヘナのパーティー……毎年、ゲヘナやキヴォトスの有力者を集めて開かれている）",
+      "g_ko": "(게헨나 파티…… 매년 만마전에서 게헨나 및 키보토스의 유력 인사를 끌어모아 여는 파티였지.)",
+      "g_en": "(The Gehenna Party... A gathering of the great and glamorous from across Gehenna and even Kivotos itself—all hosted by the Pandemonium Society.)",
+      "g_th": "(ปาร์ตี้เกเฮนน่า... เป็นปาร์ตี้ที่แพนเดโมเนียม โซไซตี้เชิญผู้มีอิทธิพลในเกเฮนน่าและคิโวทอสมาเข้า<br/>ร่วมทุกปี)",
+      "g_tw": "（格黑娜派對……每年都由萬魔殿舉辦，<br/>　是格黑娜與奇普托斯各界知名人士都會前來參加的派對）",
+      "g_tw_cn": "（格黑娜派对……每年都由万魔殿举办，<br/>　是格黑娜与奇普托斯各界知名人士都会前来参加的派对）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(게헨나 파티…… 매년 만마전에서 게헨나 및 키보토스의 유력 인사를 끌어모아 여는 파티였지.)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ただ、今日手に入れた情報から考えて……例年とは何か違う気がする）",
+      "j_ko": "(다만 오늘 급양부나 다른 부원들이 수집한 정보를 보면…… 그 규모나 성향이 예년과 달라졌다는 느낌이야.)",
+      "g_ja": "（ただ、今日手に入れた情報から考えて……例年とは何か違う気がする）",
+      "g_ko": "(다만 오늘 급양부나 다른 부원들이 수집한 정보를 보면…… 그 규모나 성향이 예년과 달라졌다는 느낌이야.)",
+      "g_en": "(Based on the food orders received by the School Lunch Club and information from other club members, this year's party is on a scale unheard of in previous years.)",
+      "g_th": "(แต่จากข้อมูลที่ได้จากสมาชิกชมรมโภชนาการและข้อมูลอื่นที่รวบรวมมา... ปาร์ตี้ครั้งนี้มีขนาดและ<br/>ทิศทางที่ต่างไปจากปีก่อน)",
+      "g_tw": "（不過根據今天供給部和其他成員收集的情報來看……規模和性質都和往年不同）",
+      "g_tw_cn": "（不过根据今天供给部和其他成员收集的情报来看……规模和性质都和往年不同）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(다만 오늘 급양부나 다른 부원들이 수집한 정보를 보면…… 그 규모나 성향이 예년과 달라졌다는 느낌이야.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

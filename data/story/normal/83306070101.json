@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "病棟のカゴに追加の医薬品があるはずなので、取ってきていただいても良いですか？",
+      "j_ko": "참고로 의약품이라면 병동 카트에 있습니다.",
+      "g_ja": "病棟のカゴに追加の医薬品があるはずなので、取ってきていただいても良いですか？",
+      "g_ko": "참고로 의약품이라면 병동 카트에 있습니다.",
+      "g_en": "Please feel free to take medical supplies from our response cart.",
+      "g_th": "พวกยาต่างๆ อยู่ในรถเข็นห้องพยาบาลค่ะ",
+      "g_tw": "如果是醫藥品的話，應該會放在病房的推車上。",
+      "g_tw_cn": "如果是医药品的话，应该会放在病房的推车上。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1867911819,
+    "DataType": "speaker",
+    "Script": "3;치나츠;02;참고로 의약품이라면 병동 카트에 있습니다.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ふふ。委員長が手伝ってくださるなんて、新鮮ですね。",
+      "j_ko": "부장님께서 도와주신다니 조금 신선한 느낌이네요.",
+      "g_ja": "……ふふ。委員長が手伝ってくださるなんて、新鮮ですね。",
+      "g_ko": "부장님께서 도와주신다니 조금 신선한 느낌이네요.",
+      "g_en": "Having the head prefect help me work is certainly a new experience.",
+      "g_th": "รู้สึกแปลกใหม่ดีนะคะที่ท่านประธานมาช่วยอีกแรง",
+      "g_tw": "委員長竟然要幫忙，讓人覺得很新奇呢。",
+      "g_tw_cn": "委员长竟然要帮忙，让人觉得很新奇呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1867911819,
+    "DataType": "speaker",
+    "Script": "3;치나츠;07;부장님께서 도와주신다니 조금 신선한 느낌이네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

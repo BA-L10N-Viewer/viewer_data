@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そういえば、給食部の下には秘密があるとか……）",
+      "j_ko": "(그러고 보니 급양부의 아래엔 비밀이 있다고 했었지.)",
+      "g_ja": "（そういえば、給食部の下には秘密があるとか……）",
+      "g_ko": "(그러고 보니 급양부의 아래엔 비밀이 있다고 했었지.)",
+      "g_en": "(...Is there any truth to her claims of a secret beneath the School Lunch Club?)",
+      "g_th": "(จะว่าไป ที่บอกว่ามีความลับอยู่ใต้ห้องชมรมโภชนาการ)",
+      "g_tw": "（這麼說來，他曾說過供給部底下有祕密吧）",
+      "g_tw_cn": "（这么说来，他曾说过供给部底下有秘密吧）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(그러고 보니 급양부의 아래엔 비밀이 있다고 했었지.)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……鬼怒川カスミの発言だから、鵜呑みにはできないけど……）",
+      "j_ko": "(……온천개발부의 부장이 한 말이니, 딱히 신뢰할 수 있을만한 정보는 아니지만.)",
+      "g_ja": "（……鬼怒川カスミの発言だから、鵜呑みにはできないけど……）",
+      "g_ko": "(……온천개발부의 부장이 한 말이니, 딱히 신뢰할 수 있을만한 정보는 아니지만.)",
+      "g_en": "(...I shouldn't rely on what the president of the Hot Springs Department tells me. She is hardly a reliable source.)",
+      "g_th": "(ในเมื่อเป็นคำที่ออกมาจากปากของหัวหน้าชมรมพัฒนาออนเซ็น ก็ถือว่าไม่ใช่ข้อมูลที่น่าเชื่อถือสัก<br/>เท่าไร)",
+      "g_tw": "（雖然溫泉開發部部長的發言，並不是能完全相信的資訊……）",
+      "g_tw_cn": "（虽然温泉开发部部长的发言，并不是能完全相信的信息……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;04;(……온천개발부의 부장이 한 말이니, 딱히 신뢰할 수 있을만한 정보는 아니지만.)\\n#3;closeup\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

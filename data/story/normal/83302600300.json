@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（<ruby>牛牧<rp>(</rp><rt>うしまき</rt><rp>)</rp></ruby>ジュリ……）",
+      "j_ko": "(소동의 중심에 있던 건 우시마키 주리……)",
+      "g_ja": "（<ruby>牛牧<rp>(</rp><rt>うしまき</rt><rp>)</rp></ruby>ジュリ……）",
+      "g_ko": "(소동의 중심에 있던 건 우시마키 주리……)",
+      "g_en": "(Poor Ushimaki Juri was trapped in the path of the storm.)",
+      "g_th": "(ศูนย์กลางของความโกลาหลอยู่ที่อุชิมากิ จูริ...)",
+      "g_tw": "（引起騷動的主要人物是牛牧茱莉……）",
+      "g_tw_cn": "（引起骚动的主要人物是牛牧茱莉……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(소동의 중심에 있던 건 우시마키 주리……)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（いつもフウカと一緒に頑張ってるようだし）",
+      "j_ko": "(늘 후우카를 따라 고생하는 아이였지.)",
+      "g_ja": "（いつもフウカと一緒に頑張ってるようだし）",
+      "g_ko": "(늘 후우카를 따라 고생하는 아이였지.)",
+      "g_en": "(She works so hard to support Fuuka...)",
+      "g_th": "(เด็กที่ต้องเหนื่อยจากการตามช่วยงานฟูกะ)",
+      "g_tw": "（他平常都跟著風華一起努力）",
+      "g_tw_cn": "（他平常都跟着风华一起努力）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(늘 후우카를 따라 고생하는 아이였지.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（今回の件で落ち込まないといいんだけど……）",
+      "j_ko": "(이번 일로 부디 상심하지 않았으면 좋겠는데.)",
+      "g_ja": "（今回の件で落ち込まないといいんだけど……）",
+      "g_ko": "(이번 일로 부디 상심하지 않았으면 좋겠는데.)",
+      "g_en": "(I hope her spirits haven't been dealt too great a blow.)",
+      "g_th": "(หวังว่าเธอจะไม่เสียใจกับเรื่องในครั้งนี้นะ)",
+      "g_tw": "（希望他不會因為這次的事而傷心難過）",
+      "g_tw_cn": "（希望他不会因为这次的事而伤心难过）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(이번 일로 부디 상심하지 않았으면 좋겠는데.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが……お疲れでしょうし、まずはコーヒーでもいかがですか？",
+      "j_ko": "후우. 일단 성이 난 마음을 진정시키기 위해. 부장님. 커피 어떠신가요?",
+      "g_ja": "ですが……お疲れでしょうし、まずはコーヒーでもいかがですか？",
+      "g_ko": "후우. 일단 성이 난 마음을 진정시키기 위해. 부장님. 커피 어떠신가요?",
+      "g_en": "*sigh* But first, would you like a cup of coffee, Head Prefect? It may soothe your nerves.",
+      "g_th": "ฮู่ว... ท่านประธานคะ ฉันว่าเราดื่มกาแฟดับความโมโหกันก่อนดีไหมคะ?",
+      "g_tw": "呼……委員長要不要喝咖啡，平息一下怒氣呢？",
+      "g_tw_cn": "呼……委员长要不要喝咖啡，平息一下怒气呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;01;후우. 일단 성이 난 마음을 진정시키기 위해. 부장님. 커피 어떠신가요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "特別な豆を手に入れたので、ぜひ委員長に飲んでいただきたいなと！",
+      "j_ko": "저, 이번에 구한 비장의 원두가 있으니, 필요하시다면 말씀만 해주세요!",
+      "g_ja": "特別な豆を手に入れたので、ぜひ委員長に飲んでいただきたいなと！",
+      "g_ko": "저, 이번에 구한 비장의 원두가 있으니, 필요하시다면 말씀만 해주세요!",
+      "g_en": "I acquired some amazing beans, so please let me know if you would like me to brew some!",
+      "g_th": "ฉันได้เมล็ดกาแฟหายากมาด้วย ถ้าอยากดื่มก็บอกได้เลยนะคะ!",
+      "g_tw": "那個，我這次獲得了很棒的原豆，如果需要的話請告訴我！",
+      "g_tw_cn": "那个，我这次获得了很棒的原豆，如果需要的话请告诉我！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;03;저, 이번에 구한 비장의 원두가 있으니, 필요하시다면 말씀만 해주세요!\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

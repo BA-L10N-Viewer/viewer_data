@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そういうわけで、イロハ。カスミの居場所を教えてくれないかしら。",
+      "j_ko": "……그런 이유로 이로하. 네게 카스미의 행방을 묻고 싶어.",
+      "g_ja": "……そういうわけで、イロハ。カスミの居場所を教えてくれないかしら。",
+      "g_ko": "……그런 이유로 이로하. 네게 카스미의 행방을 묻고 싶어.",
+      "g_en": "...Iroha. Could you tell me anything about Kasumi's whereabouts?",
+      "g_th": "ก็เพราะแบบนี้ละ... อิโรฮะ ฉันเลยอยากถามร่องรอยของคาสุมิจากเธอน่ะ",
+      "g_tw": "……事情就是這樣，伊呂波。<br/>我想問你知不知道佳澄的行蹤。",
+      "g_tw_cn": "……事情就是这样，伊吕波。<br/>我想问你知不知道佳澄的行踪。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;01;……그런 이유로 이로하. 네게 카스미의 행방을 묻고 싶어.",
+    "BGMId": 3,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ……たしかにマコト先輩は、温泉開発を依頼するためにアジトまで行ってましたね。",
+      "j_ko": "아아…… 그랬죠. 만마전이 온천개발 발주를 넣었을 때, 마코토 선배가 직접 대면계약을 했었으니.",
+      "g_ja": "ああ……たしかにマコト先輩は、温泉開発を依頼するためにアジトまで行ってましたね。",
+      "g_ko": "아아…… 그랬죠. 만마전이 온천개발 발주를 넣었을 때, 마코토 선배가 직접 대면계약을 했었으니.",
+      "g_en": "...The Pandemonium Society put in an order for a new hot spring and Makoto went to sign the contract in person.",
+      "g_th": "อ่า... งั้นเหรอคะ ตอนที่แพนเดโมเนียม โซไซตี้สั่งให้พัฒนาออนเซ็น รุ่นพี่มาโคโตะเป็นคนที่ไปทำ<br/>สัญญาด้วยตัวเอง",
+      "g_tw": "啊啊……沒錯，萬魔殿委託溫泉開發的時候，確實是由真琴前輩親自去簽約的。",
+      "g_tw_cn": "啊啊……没错，万魔殿委托温泉开发的时候，确实是由真琴前辈亲自去签约的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;아아…… 그랬죠. 만마전이 온천개발 발주를 넣었을 때, 마코토 선배가 직접 대면계약을 했었으니.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まったく、素直に話せば良いものを……本当に面倒くさい。",
+      "j_ko": "아니, 본인이 알려주면 되었을 일을 빙빙 돌리면서 말해주지 않는다는 건가요. ……진짜 귀찮아.",
+      "g_ja": "まったく、素直に話せば良いものを……本当に面倒くさい。",
+      "g_ko": "아니, 본인이 알려주면 되었을 일을 빙빙 돌리면서 말해주지 않는다는 건가요. ……진짜 귀찮아.",
+      "g_en": "As she might have told you herself, if she didn't insist on these ridiculous power games... It's so annoying.",
+      "g_th": "ไม่สิ เรื่องแบบนี้ตัวเองบอกเองก็ได้แท้ๆ ทำไมต้องพูดอ้อมค้อมแล้วไม่บอกคนอื่นด้วยคะเนี่ย... น่ารำคาญจริงๆ",
+      "g_tw": "真是的，明明本人自己說就好了，偏要拐彎抹角不肯說出口嗎……真的有夠煩。",
+      "g_tw_cn": "真是的，明明本人自己说就好了，偏要拐弯抹角不肯说出口吗……真的有够烦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;05;아니, 본인이 알려주면 되었을 일을 빙빙 돌리면서 말해주지 않는다는 건가요. ……진짜 귀찮아.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁ……マコト先輩が契約を交わしに行ったアジトの場所なら、私がお伝えします。",
+      "j_ko": "후우, 마코토 선배가 계약 당시 향했던 아지트 장소라면, 제가 알려드릴게요.",
+      "g_ja": "はぁ……マコト先輩が契約を交わしに行ったアジトの場所なら、私がお伝えします。",
+      "g_ko": "후우, 마코토 선배가 계약 당시 향했던 아지트 장소라면, 제가 알려드릴게요.",
+      "g_en": "*sigh* I can tell you the location of the hideout where Makoto signed the contract.",
+      "g_th": "เฮ้อ... ถ้าเป็นกองบัญชาการที่รุ่นพี่มาโคโตะไปทำสัญญามาตอนนั้นละก็ ฉันจะบอกให้เองค่ะ",
+      "g_tw": "唉，我會告訴你真琴前輩簽約時去的地方。",
+      "g_tw_cn": "唉，我会告诉你真琴前辈签约时去的地方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;06;후우, 마코토 선배가 계약 당시 향했던 아지트 장소라면, 제가 알려드릴게요.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここからそう遠くありません。えっと、地図のこの辺りに……",
+      "j_ko": "여기서 그리 멀지 않아요. 그러니까, 지도에서 보자면 이쪽에…….",
+      "g_ja": "ここからそう遠くありません。えっと、地図のこの辺りに……",
+      "g_ko": "여기서 그리 멀지 않아요. 그러니까, 지도에서 보자면 이쪽에…….",
+      "g_en": "It's not far from here. I'll mark it on this map...",
+      "g_th": "ที่นั่นไม่ไกลจากตรงนี้มากเท่าไรหรอกค่ะ ถ้าดูจากในแผนที่แล้ว อยู่ทางฝั่งนี้...",
+      "g_tw": "距離這裡不遠。<br/>從地圖上來看，大約在這邊……",
+      "g_tw_cn": "距离这里不远。<br/>从地图上来看，大约在这边……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;여기서 그리 멀지 않아요. 그러니까, 지도에서 보자면 이쪽에…….\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

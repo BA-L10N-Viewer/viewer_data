@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "キキキキッ！この私から情報を得られると思ったのが間違いだったな！",
+      "j_ko": "키키키키킥!! 히나! 네 녀석은 내게서 그 어떠한 정보도 알아낼 수 없을 거다!",
+      "g_ja": "キキキキッ！この私から情報を得られると思ったのが間違いだったな！",
+      "g_ko": "키키키키킥!! 히나! 네 녀석은 내게서 그 어떠한 정보도 알아낼 수 없을 거다!",
+      "g_en": "Kiheheheh!!! Hina, don't stand there like a gasping fish! You'll never get anything from me!",
+      "g_th": "หึหึหึหึหึ!! ฮินะ! เธอมาเค้นข้อมูลอะไรจากเราไปไม่ได้หรอก!",
+      "g_tw": "嘻嘻嘻嘻！陽奈！你是無法從我身上調查出任何情報的！",
+      "g_tw_cn": "嘻嘻嘻嘻！阳奈！你是无法从我身上调查出任何情报的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;03;키키키키킥!! 히나! 네 녀석은 내게서 그 어떠한 정보도 알아낼 수 없을 거다!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私とイロハしか知らない情報を、そう簡単に渡すものか！",
+      "j_ko": "나와 이로하만이 아는 정보를 순순히 건네줄 순 없지!",
+      "g_ja": "私とイロハしか知らない情報を、そう簡単に渡すものか！",
+      "g_ko": "나와 이로하만이 아는 정보를 순순히 건네줄 순 없지!",
+      "g_en": "There are things in this world that only Iroha and I are permitted to know!",
+      "g_th": "ข้อมูลที่มีแต่เรากับอิโรฮะเท่านั้นที่รู้น่ะ เราไม่บอกเธอง่ายๆ หรอกนะ!",
+      "g_tw": "這可是只有我和伊呂波知道的情報，我才不會乖乖交出來！",
+      "g_tw_cn": "这可是只有我和伊吕波知道的情报，我才不会乖乖交出来！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;10;나와 이로하만이 아는 정보를 순순히 건네줄 순 없지!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

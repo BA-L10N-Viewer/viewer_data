@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パーティー開催まで残り4日……",
+      "j_ko": "파티가 열리기까지 앞으로 4일……",
+      "g_ja": "パーティー開催まで残り4日……",
+      "g_ko": "파티가 열리기까지 앞으로 4일……",
+      "g_en": "Four days until the party...",
+      "g_th": "เหลืออีก 4 วันจนกว่าจะถึงวันงาน...",
+      "g_tw": "距離派對還有4天……",
+      "g_tw_cn": "距离派对还有4天……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;파티가 열리기까지 앞으로 4일……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……時間が足りない。",
+      "j_ko": "……시간이, 촉박할지도 모르겠어.",
+      "g_ja": "……時間が足りない。",
+      "g_ko": "……시간이, 촉박할지도 모르겠어.",
+      "g_en": "...My time is running short.",
+      "g_th": "เวลาดูจะกระชั้นชิดเข้ามาแล้วสิ...",
+      "g_tw": "……時間可能有點緊迫。",
+      "g_tw_cn": "……时间可能有点紧迫。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;……시간이, 촉박할지도 모르겠어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "……….",
+      "g_ja": "……。",
+      "g_ko": "……….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;……….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もう少し練習時間を増やさないと……",
+      "j_ko": "좋았어. 내일은 선도부 업무를 보기 전에 먼저 움직여볼까.",
+      "g_ja": "もう少し練習時間を増やさないと……",
+      "g_ko": "좋았어. 내일은 선도부 업무를 보기 전에 먼저 움직여볼까.",
+      "g_en": "Very well. I'll spend some time rehearsing before I resume my duties with the Prefect Team tomorrow.",
+      "g_th": "ดีละ พรุ่งนี้ไปก่อนที่จะเริ่มงานของคณะกรรมการวินัยดีกว่า",
+      "g_tw": "好，明天就在進行風紀委員會的工作前，先去練琴吧。",
+      "g_tw_cn": "好，明天就在进行风纪委员会的工作前，先去练琴吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;03;좋았어. 내일은 선도부 업무를 보기 전에 먼저 움직여볼까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よし、明日は仕事の前に来よう。",
+      "j_ko": "좀 더, 열심히 연습하지 않으면……",
+      "g_ja": "よし、明日は仕事の前に来よう。",
+      "g_ko": "좀 더, 열심히 연습하지 않으면……",
+      "g_en": "If I don't practice as hard as I can...",
+      "g_th": "เพราะถ้าไม่ตั้งใจฝึกให้มากกว่านี้...",
+      "g_tw": "得更努力才行……",
+      "g_tw_cn": "得更努力才行……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;좀 더, 열심히 연습하지 않으면……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

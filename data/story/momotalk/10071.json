@@ -1,0 +1,897 @@
+[
+  {
+    "BondScenarioId": 1007102,
+    "Data": [
+      {
+        "GroupId": 100710010,
+        "Id": 100710010,
+        "CharacterId": 10071,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710020,
+        "Message": {
+          "j_ko": "선생님. 혹시 오늘 시간 괜찮으신지요.",
+          "j_ja": "先生、少々お時間よろしいでしょうか",
+          "g_en": "Sensei, are you free today?",
+          "g_tw": "老師，能占用你一些時間嗎？",
+          "g_tw_cn": "老师，能占用你一些时间吗？",
+          "g_ja": "先生、少々お時間よろしいでしょうか",
+          "g_ko": "선생님. 혹시 오늘 시간 괜찮으신지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710020,
+        "Id": 100710020,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710030,
+        "Message": {
+          "j_ko": "점차 날씨도 더워지고, 곧 여름인지라.",
+          "j_ja": "もうすぐ夏ですし、段々と暑くなってきましたから",
+          "g_en": "The weather is getting warmer, and it'll be summer soon.",
+          "g_tw": "夏天就快到了，天氣越來越熱",
+          "g_tw_cn": "夏天就快到了，天气越来越热",
+          "g_ja": "もうすぐ夏ですし、段々と暑くなってきましたから",
+          "g_ko": "점차 날씨도 더워지고, 곧 여름인지라."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710020,
+        "Id": 100710030,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710030,
+        "Message": {
+          "j_ko": "바뀐 계절에 맞추어 SRT의 작전에 지장이 없도록 장비를 점검하려 했습니다만……",
+          "j_ja": "SRTの作戦に支障がないよう、季節に合わせた装備を揃えているのですが……",
+          "g_en": "I need to update our armory and gear stocks so the change of weather doesn't interrupt our operations...",
+          "g_tw": "為了不影響SRT的作戰，我準備了一些與季節相符的裝備……",
+          "g_tw_cn": "为了不影响SRT的作战，我准备了一些与季节相符的装备……",
+          "g_ja": "SRTの作戦に支障がないよう、季節に合わせた装備を揃えているのですが……",
+          "g_ko": "바뀐 계절에 맞추어 SRT의 작전에 지장이 없도록 장비를 점검하려 했습니다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710030,
+        "Id": 100710040,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710040,
+        "Message": {
+          "j_ko": "확신하기 어려운 부분이 있어 상담을 부탁드리고 싶습니다.",
+          "j_ja": "私では判断が難しい部分を、ご相談させていただきたくて",
+          "g_en": "But there's something I'm not too sure of, so I was hoping you could advise me.",
+          "g_tw": "不過有些部分我難以判斷，所以希望能跟老師商量",
+          "g_tw_cn": "不过有些部分我难以判断，所以希望能跟老师商量",
+          "g_ja": "私では判断が難しい部分を、ご相談させていただきたくて",
+          "g_ko": "확신하기 어려운 부분이 있어 상담을 부탁드리고 싶습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710040,
+        "Id": 100710050,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710050,
+        "Message": {
+          "j_ko": "상담이라면 언제든지 괜찮아.",
+          "j_ja": "ミヤコの相談なら、いつでも聞くよ",
+          "g_en": "I always have time to talk to you.",
+          "g_tw": "如果是都子找我商量，我隨時都會聽哦",
+          "g_tw_cn": "如果是都子找我商量，我随时都会听哦",
+          "g_ja": "ミヤコの相談なら、いつでも聞くよ",
+          "g_ko": "상담이라면 언제든지 괜찮아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710050,
+        "Id": 100710060,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710060,
+        "Message": {
+          "j_ko": "흔쾌히 허락해 주셔서 감사합니다.",
+          "j_ja": "ご快諾くださり、ありがとうございます",
+          "g_en": "Thank you for understanding.",
+          "g_tw": "謝謝老師爽快的答應",
+          "g_tw_cn": "谢谢老师爽快的答应",
+          "g_ja": "ご快諾くださり、ありがとうございます",
+          "g_ko": "흔쾌히 허락해 주셔서 감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710060,
+        "Id": 100710070,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710070,
+        "Message": {
+          "j_ko": "그럼 곧 좌표를 보내 드리겠습니다.",
+          "j_ja": "座標を送りますので、こちらでお願いします",
+          "g_en": "I'll send you the coordinates soon.",
+          "g_tw": "我會將座標傳送給你，麻煩你走一趟了",
+          "g_tw_cn": "我会将座标发送给你，麻烦你走一趟了",
+          "g_ja": "座標を送りますので、こちらでお願いします",
+          "g_ko": "그럼 곧 좌표를 보내 드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710060,
+        "Id": 100710080,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100712,
+        "NextGroupId": 100710070,
+        "Message": {
+          "j_ko": "해당 랑데부 포인트에서 기다리고 있겠습니다.",
+          "j_ja": "では、ランデブーポイントで待機しています",
+          "g_en": "Meet me at the rendezvous point.",
+          "g_tw": "那麼，我會在會面地點待命",
+          "g_tw_cn": "那么，我会在会面地点待命",
+          "g_ja": "では、ランデブーポイントで待機しています",
+          "g_ko": "해당 랑데부 포인트에서 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007103,
+    "Data": [
+      {
+        "GroupId": 100710070,
+        "Id": 100710090,
+        "CharacterId": 10071,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710080,
+        "Message": {
+          "j_ko": "이번 작전을 수행하며 느낀 점인데……",
+          "j_ja": "今回の作戦を遂行しながら感じたのですが……",
+          "g_en": "So during this mission, I felt...",
+          "g_tw": "在執行這次作戰時，我感覺到……",
+          "g_tw_cn": "在运行这次作战时，我感觉到……",
+          "g_ja": "今回の作戦を遂行しながら感じたのですが……",
+          "g_ko": "이번 작전을 수행하며 느낀 점인데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710080,
+        "Id": 100710100,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710090,
+        "Message": {
+          "j_ko": "역시 SRT의 훈련은 육상 훈련에 집중되어 있다 보니",
+          "j_ja": "SRTの訓練は、陸上を想定したものが多いため",
+          "g_en": "Since SRT's training is focused on land-based operations,",
+          "g_tw": "由於SRT的訓練多以陸上作戰為前提",
+          "g_tw_cn": "由于SRT的训练多以陆上作战为前提",
+          "g_ja": "SRTの訓練は、陸上を想定したものが多いため",
+          "g_ko": "역시 SRT의 훈련은 육상 훈련에 집중되어 있다 보니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710080,
+        "Id": 100710110,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710090,
+        "Message": {
+          "j_ko": "해상에서는 사고가 일어났을 때 제대로 대처하지 못하는 것 같아요.",
+          "j_ja": "海上作戦に対処する能力が足りていないような気がします",
+          "g_en": "we aren't able to handle actions at sea very well.",
+          "g_tw": "因此應對海上作戰的能力似乎不夠充分",
+          "g_tw_cn": "因此应对海上作战的能力似乎不够充分",
+          "g_ja": "海上作戦に対処する能力が足りていないような気がします",
+          "g_ko": "해상에서는 사고가 일어났을 때 제대로 대처하지 못하는 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710090,
+        "Id": 100710120,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710100,
+        "Message": {
+          "j_ko": "미야코는 충분히 잘하고 있어",
+          "j_ja": "ミヤコは十分頑張ってるよ",
+          "g_en": "Miyako, you're doing fine.",
+          "g_tw": "都子已經非常努力了唷",
+          "g_tw_cn": "都子已经非常努力了唷",
+          "g_ja": "ミヤコは十分頑張ってるよ",
+          "g_ko": "미야코는 충분히 잘하고 있어"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710100,
+        "Id": 100710130,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710110,
+        "Message": {
+          "j_ko": "……감사합니다.",
+          "j_ja": "……ありがとうございます",
+          "g_en": "Thank you...",
+          "g_tw": "……謝謝你",
+          "g_tw_cn": "……谢谢你",
+          "g_ja": "……ありがとうございます",
+          "g_ko": "……감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710110,
+        "Id": 100710140,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710120,
+        "Message": {
+          "j_ko": "하지만 제 미숙함은 스스로도 충분히 인지하고 있으니까요.",
+          "j_ja": "しかし、自分が未熟な自覚はあります",
+          "g_en": "But I'm fully aware of my shortcomings.",
+          "g_tw": "不過，我也有自己能力不足的自覺",
+          "g_tw_cn": "不过，我也有自己能力不足的自觉",
+          "g_ja": "しかし、自分が未熟な自覚はあります",
+          "g_ko": "하지만 제 미숙함은 스스로도 충분히 인지하고 있으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100710120,
+            "Id": 100710150,
+            "CharacterId": 10071,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100710130,
+            "Message": {
+              "j_ko": "그래서 드리는 말씀입니다만……",
+              "j_ja": "急なお願いなのですが……",
+              "g_en": "Which brings me back to my point.",
+              "g_tw": "所以雖然有點突然……",
+              "g_tw_cn": "所以虽然有点突然……",
+              "g_ja": "急なお願いなのですが……",
+              "g_ko": "그래서 드리는 말씀입니다만……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100710120,
+        "Id": 100710150,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710130,
+        "Message": {
+          "j_ko": "그래서 드리는 말씀입니다만……",
+          "j_ja": "急なお願いなのですが……",
+          "g_en": "Which brings me back to my point.",
+          "g_tw": "所以雖然有點突然……",
+          "g_tw_cn": "所以虽然有点突然……",
+          "g_ja": "急なお願いなのですが……",
+          "g_ko": "그래서 드리는 말씀입니다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710130,
+        "Id": 100710160,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710140,
+        "Message": {
+          "j_ko": "이번에 해상에서의 인질 구출 상황을 대비한 훈련을 하려 하는데",
+          "j_ja": "海上での人質救出を想定した訓練を行いたいので",
+          "g_en": "I am planning to run some hostage rescue drills at sea.",
+          "g_tw": "我想進行模擬在海上營救人質的訓練",
+          "g_tw_cn": "我想进行仿真在海上营救人质的训练",
+          "g_ja": "海上での人質救出を想定した訓練を行いたいので",
+          "g_ko": "이번에 해상에서의 인질 구출 상황을 대비한 훈련을 하려 하는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710130,
+        "Id": 100710170,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710140,
+        "Message": {
+          "j_ko": "선생님께서 협력해 주실 수 없을까요?",
+          "j_ja": "先生に、ご協力いただけないでしょうか？",
+          "g_en": "Would you be able to help us with that?",
+          "g_tw": "可以請老師協助嗎？",
+          "g_tw_cn": "可以请老师协助吗？",
+          "g_ja": "先生に、ご協力いただけないでしょうか？",
+          "g_ko": "선생님께서 협력해 주실 수 없을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710140,
+        "Id": 100710180,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710150,
+        "Message": {
+          "j_ko": "응, 괜찮아.",
+          "j_ja": "うん、もちろん",
+          "g_en": "Um, sure.",
+          "g_tw": "嗯，當然可以",
+          "g_tw_cn": "嗯，当然可以",
+          "g_ja": "うん、もちろん",
+          "g_ko": "응, 괜찮아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710150,
+        "Id": 100710190,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710160,
+        "Message": {
+          "j_ko": "감사합니다, 선생님.",
+          "j_ja": "ありがとうございます",
+          "g_en": "Thank you, Sensei.",
+          "g_tw": "非常感謝",
+          "g_tw_cn": "非常感谢",
+          "g_ja": "ありがとうございます",
+          "g_ko": "감사합니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710150,
+        "Id": 100710200,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100713,
+        "NextGroupId": 100710160,
+        "Message": {
+          "j_ko": "그럼 마을 동편의 부둣가에서 기다리고 있겠습니다.",
+          "j_ja": "それでは、村の東側にある埠頭でお待ちしております",
+          "g_en": "I'll be waiting for you at the docks on the east side of town.",
+          "g_tw": "那麼，我在村子東邊的碼頭等你",
+          "g_tw_cn": "那么，我在村子东边的码头等你",
+          "g_ja": "それでは、村の東側にある埠頭でお待ちしております",
+          "g_ko": "그럼 마을 동편의 부둣가에서 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007105,
+    "Data": [
+      {
+        "GroupId": 100710160,
+        "Id": 100710210,
+        "CharacterId": 10071,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710170,
+        "Message": {
+          "j_ko": "선생님, 그거 들으셨나요?",
+          "j_ja": "先生、聞きましたか？",
+          "g_en": "Sensei, have you heard?",
+          "g_tw": "老師，你聽說了嗎？",
+          "g_tw_cn": "老师，你听说了吗？",
+          "g_ja": "先生、聞きましたか？",
+          "g_ko": "선생님, 그거 들으셨나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710170,
+        "Id": 100710220,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710180,
+        "Message": {
+          "j_ko": "마을의 서쪽 해안에 걸어서 이동할 수 있는 섬이 있다고 하네요.",
+          "j_ja": "村の西海岸から、歩いて行ける離島があるそうです",
+          "g_en": "There's an island off the west coast of town that you can walk to.",
+          "g_tw": "似乎有個可以從村子的西海岸徒步抵達的離島",
+          "g_tw_cn": "似乎有个可以从村子的西海岸徒步抵达的离岛",
+          "g_ja": "村の西海岸から、歩いて行ける離島があるそうです",
+          "g_ko": "마을의 서쪽 해안에 걸어서 이동할 수 있는 섬이 있다고 하네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710180,
+        "Id": 100710230,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710190,
+        "Message": {
+          "j_ko": "걸어서 이동할 수 있는 섬?",
+          "j_ja": "海の上を……？",
+          "g_en": "An island you can walk to?",
+          "g_tw": "從海上……？",
+          "g_tw_cn": "从海上……？",
+          "g_ja": "海の上を……？",
+          "g_ko": "걸어서 이동할 수 있는 섬?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710190,
+        "Id": 100710240,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710200,
+        "Message": {
+          "j_ko": "네. 서쪽 해안은 수심이 얕아서 썰물 때마다 바닥이 드러나는데",
+          "j_ja": "はい。西側の海岸は水深が浅いので",
+          "g_en": "Yes. During low tide, the water pulls away and reveals a path.",
+          "g_tw": "是的。因為西側海岸的水深較淺",
+          "g_tw_cn": "是的。因为西侧海岸的水深较浅",
+          "g_ja": "はい。西側の海岸は水深が浅いので",
+          "g_ko": "네. 서쪽 해안은 수심이 얕아서 썰물 때마다 바닥이 드러나는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710190,
+        "Id": 100710250,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710200,
+        "Message": {
+          "j_ko": "그때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요",
+          "j_ja": "潮が引くと、島につながる道が現れると聞きました",
+          "g_en": "And during that window, you can walk to the island.",
+          "g_tw": "所以聽說在退潮的時候，與離島連接的道路就會出現",
+          "g_tw_cn": "所以听说在退潮的时候，与离岛连接的道路就会出现",
+          "g_ja": "潮が引くと、島につながる道が現れると聞きました",
+          "g_ko": "그때 도보로 이동할 수 있는 거리에 섬이 하나 있다고 해요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710200,
+        "Id": 100710260,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710210,
+        "Message": {
+          "j_ko": "그거 신기하네",
+          "j_ja": "面白そうだね",
+          "g_en": "That's amazing.",
+          "g_tw": "好像很有趣呢",
+          "g_tw_cn": "好像很有趣呢",
+          "g_ja": "面白そうだね",
+          "g_ko": "그거 신기하네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710210,
+        "Id": 100710270,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710220,
+        "Message": {
+          "j_ko": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러 간다고 하네요",
+          "j_ja": "私もそう思いました。それに島は景観が良いので、住民も休日はよく遊びに行くみたいです",
+          "g_en": "Yes. And the scenery there is beautiful, so the locals go there on their days off.",
+          "g_tw": "我也這麼覺得。而且由於那座島的風景非常棒，居民們似乎也時常會在假日去島上玩",
+          "g_tw_cn": "我也这么觉得。而且由于那座岛的风景非常棒，居民们似乎也时常会在假日去岛上玩",
+          "g_ja": "私もそう思いました。それに島は景観が良いので、住民も休日はよく遊びに行くみたいです",
+          "g_ko": "네. 게다가 섬의 경관도 좋아서 주민들도 휴일에는 종종 놀러 간다고 하네요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710220,
+        "Id": 100710280,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710230,
+        "Message": {
+          "j_ko": "혹시 선생님께서도 괜찮으시다면",
+          "j_ja": "もし先生がよろしければ",
+          "g_en": "If it's all right with you...",
+          "g_tw": "如果老師願意的話",
+          "g_tw_cn": "如果老师愿意的话",
+          "g_ja": "もし先生がよろしければ",
+          "g_ko": "혹시 선생님께서도 괜찮으시다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710220,
+        "Id": 100710290,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710230,
+        "Message": {
+          "j_ko": "함께 그 섬에 가보지 않으시겠어요?",
+          "j_ja": "お付き合いしていただけませんか？",
+          "g_en": "would you like to go the island with me?",
+          "g_tw": "能請老師陪我一起去嗎？",
+          "g_tw_cn": "能请老师陪我一起去吗？",
+          "g_ja": "お付き合いしていただけませんか？",
+          "g_ko": "함께 그 섬에 가보지 않으시겠어요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710230,
+        "Id": 100710300,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710240,
+        "Message": {
+          "j_ko": "좋아",
+          "j_ja": "もちろん、喜んで",
+          "g_en": "Okay.",
+          "g_tw": "當然，我很樂意",
+          "g_tw_cn": "当然，我很乐意",
+          "g_ja": "もちろん、喜んで",
+          "g_ko": "좋아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710240,
+        "Id": 100710310,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710250,
+        "Message": {
+          "j_ko": "감사합니다, 선생님.",
+          "j_ja": "ありがとうございます、先生",
+          "g_en": "Thank you, Sensei.",
+          "g_tw": "謝謝你，老師",
+          "g_tw_cn": "谢谢你，老师",
+          "g_ja": "ありがとうございます、先生",
+          "g_ko": "감사합니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710240,
+        "Id": 100710320,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100715,
+        "NextGroupId": 100710250,
+        "Message": {
+          "j_ko": "그럼 내일 물 빠지는 때에 맞춰서 부둣가 앞에서 뵙겠습니다.",
+          "j_ja": "それでは明日、干潮に合わせて埠頭の前でお会いしましょう",
+          "g_en": "I'll meet you tomorrow at the dock when the water has receded.",
+          "g_tw": "那麼明天，我們就在退潮時在碼頭碰面吧",
+          "g_tw_cn": "那么明天，我们就在退潮时在码头碰面吧",
+          "g_ja": "それでは明日、干潮に合わせて埠頭の前でお会いしましょう",
+          "g_ko": "그럼 내일 물 빠지는 때에 맞춰서 부둣가 앞에서 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007106,
+    "Data": [
+      {
+        "GroupId": 100710250,
+        "Id": 100710330,
+        "CharacterId": 10071,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710260,
+        "Message": {
+          "j_ko": "여기는 RABBIT 1. RABBIT 소대 정기 현황 보고.",
+          "j_ja": "こちらはRABBIT1。状況を報告します",
+          "g_en": "This is RABBIT 1. RABBIT Squad status report.",
+          "g_tw": "這裡是RABBIT1。報告目前狀況",
+          "g_tw_cn": "这里是RABBIT1。报告目前状况",
+          "g_ja": "こちらはRABBIT1。状況を報告します",
+          "g_ko": "여기는 RABBIT 1. RABBIT 소대 정기 현황 보고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710260,
+        "Id": 100710340,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710270,
+        "Message": {
+          "j_ko": "현재 시각 0600시. 사고 및 작전으로 인한 결원 없음—",
+          "j_ja": "現在時刻は0600。負傷者0名、引き続き――",
+          "g_en": "Current time is 0600 hours. All squad members are accounted for.",
+          "g_tw": "現在時間0600。\n負傷人數為0，請繼續──",
+          "g_tw_cn": "现在时间0600。\n负伤人数为0，请继续──",
+          "g_ja": "現在時刻は0600。負傷者0名、引き続き――",
+          "g_ko": "현재 시각 0600시. 사고 및 작전으로 인한 결원 없음—"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710270,
+        "Id": 100710350,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710280,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ……",
+          "g_en": "Ah",
+          "g_tw": "啊……",
+          "g_tw_cn": "啊……",
+          "g_ja": "あ……",
+          "g_ko": "아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710270,
+        "Id": 100710360,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710280,
+        "Message": {
+          "j_ko": "이른 아침부터 죄송합니다, 선생님.",
+          "j_ja": "このような時間に、すみません",
+          "g_en": "I hope I didn't wake you, Sensei.",
+          "g_tw": "不好意思，在這種時間打擾老師",
+          "g_tw_cn": "不好意思，在这种时间打扰老师",
+          "g_ja": "このような時間に、すみません",
+          "g_ko": "이른 아침부터 죄송합니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710280,
+        "Id": 100710370,
+        "CharacterId": 10071,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710290,
+        "Message": {
+          "j_ko": "주소를 잘못 기입해서 RABBIT 소대의 정기 현황 보고가 선생님께 가고 말았네요……",
+          "j_ja": "送り先を間違えてしまい……",
+          "g_en": "I must've sent the RABBIT Squad status report to you by accident...",
+          "g_tw": "我弄錯了傳送的對象……",
+          "g_tw_cn": "我弄错了发送的对象……",
+          "g_ja": "送り先を間違えてしまい……",
+          "g_ko": "주소를 잘못 기입해서 RABBIT 소대의 정기 현황 보고가 선생님께 가고 말았네요……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710290,
+        "Id": 100710380,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710300,
+        "Message": {
+          "j_ko": "괜찮아, 신경 쓰지 마.",
+          "j_ja": "大丈夫だよ、気にしないで",
+          "g_en": "It's okay. Don't worry about it.",
+          "g_tw": "沒關係的，別在意",
+          "g_tw_cn": "没关系的，别在意",
+          "g_ja": "大丈夫だよ、気にしないで",
+          "g_ko": "괜찮아, 신경 쓰지 마."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710300,
+        "Id": 100710390,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710310,
+        "Message": {
+          "j_ko": "그보다 꽤 이른 시간에 일어났네.",
+          "j_ja": "それより、こんな朝早くから起きてるんだ",
+          "g_en": "You're awake so early.",
+          "g_tw": "話說回來，你這麼早就起床了啊",
+          "g_tw_cn": "话说回来，你这么早就起床了啊",
+          "g_ja": "それより、こんな朝早くから起きてるんだ",
+          "g_ko": "그보다 꽤 이른 시간에 일어났네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710310,
+        "Id": 100710400,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710320,
+        "Message": {
+          "j_ko": "네, 규칙적인 생활은 특수부대의 기본 소양이니까요",
+          "j_ja": "はい。規則正しい生活は、特殊部隊の基本ですから",
+          "g_en": "Keeping a strict routine is critical to the special forces.",
+          "g_tw": "是的。畢竟保持規律的生活是特殊部隊的基本",
+          "g_tw_cn": "是的。毕竟保持规律的生活是特殊部队的基本",
+          "g_ja": "はい。規則正しい生活は、特殊部隊の基本ですから",
+          "g_ko": "네, 규칙적인 생활은 특수부대의 기본 소양이니까요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710320,
+        "Id": 100710410,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710330,
+        "Message": {
+          "j_ko": "특별히 야간 작전이 있거나 몸 상태가 나쁜 게 아니라면 매일 이 시간에 일어나 일지를 정리한답니다.",
+          "j_ja": "夜間作戦の日や体調が悪い時を除いて、毎日この時間は日誌の整理などを行って……",
+          "g_en": "Unless I'm sick or stayed up on a night mission, I always wake up at this time to organize my logs.",
+          "g_tw": "除了執行夜間作戰或身體狀態特別差的時候之外，我每天都會在這個時間整理日誌……",
+          "g_tw_cn": "除了运行夜间作战或身体状态特别差的时候之外，我每天都会在这个时间整理日志……",
+          "g_ja": "夜間作戦の日や体調が悪い時を除いて、毎日この時間は日誌の整理などを行って……",
+          "g_ko": "특별히 야간 작전이 있거나 몸 상태가 나쁜 게 아니라면 매일 이 시간에 일어나 일지를 정리한답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710320,
+        "Id": 100710420,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710330,
+        "Message": {
+          "j_ko": "그리고 그 이후에는 아침 구보를 하거나, 체조를 하며 몸을 가볍게 풀어 두지요",
+          "j_ja": "それから、朝のジョギングをしたり、軽く体操をして身体をほぐしています",
+          "g_en": "And then I go for a morning walk, or do some exercises to warm up.",
+          "g_tw": "接著再去進行晨跑或是做些輕鬆的體操伸展身體",
+          "g_tw_cn": "接着再去进行晨跑或是做些轻松的体操伸展身体",
+          "g_ja": "それから、朝のジョギングをしたり、軽く体操をして身体をほぐしています",
+          "g_ko": "그리고 그 이후에는 아침 구보를 하거나, 체조를 하며 몸을 가볍게 풀어 두지요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710330,
+        "Id": 100710430,
+        "CharacterId": 10071,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100710340,
+        "Message": {
+          "j_ko": "그렇게 부지런하다니, 대단하네",
+          "j_ja": "ミヤコはすごいね……",
+          "g_en": "That's very impressive.",
+          "g_tw": "都子真厲害……",
+          "g_tw_cn": "都子真厉害……",
+          "g_ja": "ミヤコはすごいね……",
+          "g_ko": "그렇게 부지런하다니, 대단하네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710340,
+        "Id": 100710440,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "후후, 처음에는 조금 귀찮을 수도 있지만 습관이 되면 아무렇지도 않답니다.",
+          "j_ja": "ふふ。最初は少し面倒かもしれませんが、習慣にしてしまえば、なんてことありませんよ",
+          "g_en": "Heehee. It takes some getting used to, but once you get into the habit, it's not a big deal.",
+          "g_tw": "呵呵。一開始可能會覺得麻煩，不過養成習慣之後就不算什麼了",
+          "g_tw_cn": "呵呵。一开始可能会觉得麻烦，不过养成习惯之后就不算什么了",
+          "g_ja": "ふふ。最初は少し面倒かもしれませんが、習慣にしてしまえば、なんてことありませんよ",
+          "g_ko": "후후, 처음에는 조금 귀찮을 수도 있지만 습관이 되면 아무렇지도 않답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100710340,
+        "Id": 100710450,
+        "CharacterId": 10071,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100716,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "오히려 이제는 아침 운동을 하지 않으면 몸이 무겁게 느껴질 정도니까요",
+          "j_ja": "むしろ、朝のジョギングが出来なかった日は、身体を重く感じてしまうくらいです",
+          "g_en": "These days, I feel sluggish if I skip my morning exercises.",
+          "g_tw": "現在如果早上沒運動的話，我反而還會覺得身體僵硬呢",
+          "g_tw_cn": "现在如果早上没运动的话，我反而还会觉得身体僵硬呢",
+          "g_ja": "むしろ、朝のジョギングが出来なかった日は、身体を重く感じてしまうくらいです",
+          "g_ko": "오히려 이제는 아침 운동을 하지 않으면 몸이 무겁게 느껴질 정도니까요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それにしても、委員長が定期訓練に参加されるのは久しぶりなので嬉しいです。",
+      "j_ko": "그건 그렇고 부장님과 간만에 진행하는 정기훈련이네요.",
+      "g_ja": "それにしても、委員長が定期訓練に参加されるのは久しぶりなので嬉しいです。",
+      "g_ko": "그건 그렇고 부장님과 간만에 진행하는 정기훈련이네요.",
+      "g_en": "You know, it's been a while since you joined us for a regular training session, Head Prefect.",
+      "g_th": "จะว่าไป เราไม่ได้ฝึกสามัญกับท่านประธานนานแล้วนะคะเนี่ย",
+      "g_tw": "話說這是久違和委員長一起參加的定期訓練呢。",
+      "g_tw_cn": "话说这是久违和委员长一起参加的定期训练呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;07;그건 그렇고 부장님과 간만에 진행하는 정기훈련이네요.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "万魔殿が主催するパーティーのためとはいえ、手は抜けませんね。",
+      "j_ko": "만마전이 주최한 파티를 위한 훈련이라고는 해도, 허투루 할 순 없지요.",
+      "g_ja": "万魔殿が主催するパーティーのためとはいえ、手は抜けませんね。",
+      "g_ko": "만마전이 주최한 파티를 위한 훈련이라고는 해도, 허투루 할 순 없지요.",
+      "g_en": "It's unfortunate that we're training for a party hosted by the Pandemonium Society, but still, we should do our best.",
+      "g_th": "ต่อให้เป็นการฝึกซ้อมสำหรับงานเลี้ยง แต่เราก็คงทำลวกๆ กันไม่ได้ถูกไหมคะ?",
+      "g_tw": "就算是為了萬魔殿舉辦的派對而進行的訓練，也得打起精神才行。",
+      "g_tw_cn": "就算是为了万魔殿举办的派对而进行的训练，也得打起精神才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;08;만마전이 주최한 파티를 위한 훈련이라고는 해도, 허투루 할 순 없지요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

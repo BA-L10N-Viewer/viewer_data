@@ -1,0 +1,2094 @@
+{
+  "11010": [
+    "[STORY_MAIN_1_1_1_NAME]",
+    "[STORY_MAIN_1_1_1_DESC]"
+  ],
+  "11020": [
+    "[STORY_MAIN_1_1_2_NAME]",
+    "[STORY_MAIN_1_1_2_DESC]"
+  ],
+  "11025": [
+    "[STORY_MAIN_1_1_3_NAME]",
+    "[STORY_MAIN_1_1_3_DESC]"
+  ],
+  "11030": [
+    "[STORY_MAIN_1_1_4_NAME]",
+    "[STORY_MAIN_1_1_4_DESC]"
+  ],
+  "11035": [
+    "[STORY_MAIN_1_1_5_NAME]",
+    "[STORY_MAIN_1_1_5_DESC]"
+  ],
+  "11040": [
+    "[STORY_MAIN_1_1_6_NAME]",
+    "[STORY_MAIN_1_1_6_DESC]"
+  ],
+  "11050": [
+    "[STORY_MAIN_1_1_7_NAME]",
+    "[STORY_MAIN_1_1_7_DESC]"
+  ],
+  "11060": [
+    "[STORY_MAIN_1_1_8_NAME]",
+    "[STORY_MAIN_1_1_8_DESC]"
+  ],
+  "11065": [
+    "[STORY_MAIN_1_1_9_NAME]",
+    "[STORY_MAIN_1_1_9_DESC]"
+  ],
+  "11070": [
+    "[STORY_MAIN_1_1_10_NAME]",
+    "[STORY_MAIN_1_1_10_DESC]"
+  ],
+  "11080": [
+    "[STORY_MAIN_1_1_11_NAME]",
+    "[STORY_MAIN_1_1_11_DESC]"
+  ],
+  "11090": [
+    "[STORY_MAIN_1_1_12_NAME]",
+    "[STORY_MAIN_1_1_12_DESC]"
+  ],
+  "11095": [
+    "[STORY_MAIN_1_1_13_NAME]",
+    "[STORY_MAIN_1_1_13_DESC]"
+  ],
+  "11100": [
+    "[STORY_MAIN_1_1_14_NAME]",
+    "[STORY_MAIN_1_1_14_DESC]"
+  ],
+  "11110": [
+    "[STORY_MAIN_1_1_15_NAME]",
+    "[STORY_MAIN_1_1_15_DESC]"
+  ],
+  "11115": [
+    "[STORY_MAIN_1_1_16_NAME]",
+    "[STORY_MAIN_1_1_16_DESC]"
+  ],
+  "11120": [
+    "[STORY_MAIN_1_1_17_NAME]",
+    "[STORY_MAIN_1_1_17_DESC]"
+  ],
+  "11130": [
+    "[STORY_MAIN_1_1_18_NAME]",
+    "[STORY_MAIN_1_1_18_DESC]"
+  ],
+  "11140": [
+    "[STORY_MAIN_1_1_19_NAME]",
+    "[STORY_MAIN_1_1_19_DESC]"
+  ],
+  "11145": [
+    "[STORY_MAIN_1_1_20_NAME]",
+    "[STORY_MAIN_1_1_20_DESC]"
+  ],
+  "11150": [
+    "[STORY_MAIN_1_1_21_NAME]",
+    "[STORY_MAIN_1_1_21_DESC]"
+  ],
+  "11160": [
+    "[STORY_MAIN_1_1_22_NAME]",
+    "[STORY_MAIN_1_1_22_DESC]"
+  ],
+  "11170": [
+    "[STORY_MAIN_1_1_23_NAME]",
+    "[STORY_MAIN_1_1_23_DESC]"
+  ],
+  "11180": [
+    "[STORY_MAIN_1_1_24_NAME]",
+    "[STORY_MAIN_1_1_24_DESC]"
+  ],
+  "11190": [
+    "[STORY_MAIN_1_1_25_NAME]",
+    "[STORY_MAIN_1_1_25_DESC]"
+  ],
+  "11195": [
+    "[STORY_MAIN_1_1_26_NAME]",
+    "[STORY_MAIN_1_1_26_DESC]"
+  ],
+  "11200": [
+    "[STORY_MAIN_1_1_27_NAME]",
+    "[STORY_MAIN_1_1_27_DESC]"
+  ],
+  "11205": [
+    "[STORY_MAIN_1_1_28_NAME]",
+    "[STORY_MAIN_1_1_28_DESC]"
+  ],
+  "12010": [
+    "[STORY_MAIN_1_2_1_NAME]",
+    "[STORY_MAIN_1_2_1_DESC]"
+  ],
+  "12015": [
+    "[STORY_MAIN_1_2_2_NAME]",
+    "[STORY_MAIN_1_2_2_DESC]"
+  ],
+  "12020": [
+    "[STORY_MAIN_1_2_3_NAME]",
+    "[STORY_MAIN_1_2_3_DESC]"
+  ],
+  "12030": [
+    "[STORY_MAIN_1_2_4_NAME]",
+    "[STORY_MAIN_1_2_4_DESC]"
+  ],
+  "12040": [
+    "[STORY_MAIN_1_2_5_NAME]",
+    "[STORY_MAIN_1_2_5_DESC]"
+  ],
+  "12050": [
+    "[STORY_MAIN_1_2_6_NAME]",
+    "[STORY_MAIN_1_2_6_DESC]"
+  ],
+  "12060": [
+    "[STORY_MAIN_1_2_7_NAME]",
+    "[STORY_MAIN_1_2_7_DESC]"
+  ],
+  "12065": [
+    "[STORY_MAIN_1_2_8_NAME]",
+    "[STORY_MAIN_1_2_8_DESC]"
+  ],
+  "12070": [
+    "[STORY_MAIN_1_2_9_NAME]",
+    "[STORY_MAIN_1_2_9_DESC]"
+  ],
+  "12075": [
+    "[STORY_MAIN_1_2_10_NAME]",
+    "[STORY_MAIN_1_2_10_DESC]"
+  ],
+  "12080": [
+    "[STORY_MAIN_1_2_11_NAME]",
+    "[STORY_MAIN_1_2_11_DESC]"
+  ],
+  "12085": [
+    "[STORY_MAIN_1_2_12_NAME]",
+    "[STORY_MAIN_1_2_12_DESC]"
+  ],
+  "12090": [
+    "[STORY_MAIN_1_2_13_NAME]",
+    "[STORY_MAIN_1_2_13_DESC]"
+  ],
+  "12095": [
+    "[STORY_MAIN_1_2_14_NAME]",
+    "[STORY_MAIN_1_2_14_DESC]"
+  ],
+  "12100": [
+    "[STORY_MAIN_1_2_15_NAME]",
+    "[STORY_MAIN_1_2_15_DESC]"
+  ],
+  "12110": [
+    "[STORY_MAIN_1_2_16_NAME]",
+    "[STORY_MAIN_1_2_16_DESC]"
+  ],
+  "12120": [
+    "[STORY_MAIN_1_2_17_NAME]",
+    "[STORY_MAIN_1_2_17_DESC]"
+  ],
+  "12130": [
+    "[STORY_MAIN_1_2_18_NAME]",
+    "[STORY_MAIN_1_2_18_DESC]"
+  ],
+  "12135": [
+    "[STORY_MAIN_1_2_19_NAME]",
+    "[STORY_MAIN_1_2_19_DESC]"
+  ],
+  "12140": [
+    "[STORY_MAIN_1_2_20_NAME]",
+    "[STORY_MAIN_1_2_20_DESC]"
+  ],
+  "12145": [
+    "[STORY_MAIN_1_2_21_NAME]",
+    "[STORY_MAIN_1_2_21_DESC]"
+  ],
+  "12150": [
+    "[STORY_MAIN_1_2_22_NAME]",
+    "[STORY_MAIN_1_2_22_DESC]"
+  ],
+  "12155": [
+    "[STORY_MAIN_1_2_23_NAME]",
+    "[STORY_MAIN_1_2_23_DESC]"
+  ],
+  "12160": [
+    "[STORY_MAIN_1_2_24_NAME]",
+    "[STORY_MAIN_1_2_24_DESC]"
+  ],
+  "12170": [
+    "[STORY_MAIN_1_2_25_NAME]",
+    "[STORY_MAIN_1_2_25_DESC]"
+  ],
+  "12175": [
+    "[STORY_MAIN_1_2_26_NAME]",
+    "[STORY_MAIN_1_2_26_DESC]"
+  ],
+  "12180": [
+    "[STORY_MAIN_1_2_27_NAME]",
+    "[STORY_MAIN_1_2_27_DESC]"
+  ],
+  "12185": [
+    "[STORY_MAIN_1_2_28_NAME]",
+    "[STORY_MAIN_1_2_28_DESC]"
+  ],
+  "12190": [
+    "[STORY_MAIN_1_2_29_NAME]",
+    "[STORY_MAIN_1_2_29_DESC]"
+  ],
+  "12195": [
+    "[STORY_MAIN_1_2_30_NAME]",
+    "[STORY_MAIN_1_2_30_DESC]"
+  ],
+  "12200": [
+    "[STORY_MAIN_1_2_31_NAME]",
+    "[STORY_MAIN_1_2_31_DESC]"
+  ],
+  "13010": [
+    "[STORY_MAIN_1_3_1_NAME]",
+    "[STORY_MAIN_1_3_1_DESC]"
+  ],
+  "13020": [
+    "[STORY_MAIN_1_3_2_NAME]",
+    "[STORY_MAIN_1_3_2_DESC]"
+  ],
+  "13030": [
+    "[STORY_MAIN_1_3_3_NAME]",
+    "[STORY_MAIN_1_3_3_DESC]"
+  ],
+  "13035": [
+    "[STORY_MAIN_1_3_4_NAME]",
+    "[STORY_MAIN_1_3_4_DESC]"
+  ],
+  "13040": [
+    "[STORY_MAIN_1_3_5_NAME]",
+    "[STORY_MAIN_1_3_5_DESC]"
+  ],
+  "13050": [
+    "[STORY_MAIN_1_3_6_NAME]",
+    "[STORY_MAIN_1_3_6_DESC]"
+  ],
+  "13060": [
+    "[STORY_MAIN_1_3_7_NAME]",
+    "[STORY_MAIN_1_3_7_DESC]"
+  ],
+  "13070": [
+    "[STORY_MAIN_1_3_8_NAME]",
+    "[STORY_MAIN_1_3_8_DESC]"
+  ],
+  "13080": [
+    "[STORY_MAIN_1_3_9_NAME]",
+    "[STORY_MAIN_1_3_9_DESC]"
+  ],
+  "13090": [
+    "[STORY_MAIN_1_3_10_NAME]",
+    "[STORY_MAIN_1_3_10_DESC]"
+  ],
+  "13100": [
+    "[STORY_MAIN_1_3_11_NAME]",
+    "[STORY_MAIN_1_3_11_DESC]"
+  ],
+  "13110": [
+    "[STORY_MAIN_1_3_12_NAME]",
+    "[STORY_MAIN_1_3_12_DESC]"
+  ],
+  "13120": [
+    "[STORY_MAIN_1_3_13_NAME]",
+    "[STORY_MAIN_1_3_13_DESC]"
+  ],
+  "13130": [
+    "[STORY_MAIN_1_3_14_NAME]",
+    "[STORY_MAIN_1_3_14_DESC]"
+  ],
+  "13140": [
+    "[STORY_MAIN_1_3_15_NAME]",
+    "[STORY_MAIN_1_3_15_DESC]"
+  ],
+  "13150": [
+    "[STORY_MAIN_1_3_16_NAME]",
+    "[STORY_MAIN_1_3_16_DESC]"
+  ],
+  "13160": [
+    "[STORY_MAIN_1_3_17_NAME]",
+    "[STORY_MAIN_1_3_17_DESC]"
+  ],
+  "13170": [
+    "[STORY_MAIN_1_3_18_NAME]",
+    "[STORY_MAIN_1_3_18_DESC]"
+  ],
+  "13175": [
+    "[STORY_MAIN_1_3_19_NAME]",
+    "[STORY_MAIN_1_3_19_DESC]"
+  ],
+  "13180": [
+    "[STORY_MAIN_1_3_20_NAME]",
+    "[STORY_MAIN_1_3_20_DESC]"
+  ],
+  "13185": [
+    "[STORY_MAIN_1_3_21_NAME]",
+    "[STORY_MAIN_1_3_21_DESC]"
+  ],
+  "13190": [
+    "[STORY_MAIN_1_3_22_NAME]",
+    "[STORY_MAIN_1_3_22_DESC]"
+  ],
+  "13195": [
+    "[STORY_MAIN_1_3_23_NAME]",
+    "[STORY_MAIN_1_3_23_DESC]"
+  ],
+  "13200": [
+    "[STORY_MAIN_1_3_24_NAME]",
+    "[STORY_MAIN_1_3_24_DESC]"
+  ],
+  "13210": [
+    "[STORY_MAIN_1_3_25_NAME]",
+    "[STORY_MAIN_1_3_25_DESC]"
+  ],
+  "13215": [
+    "[STORY_MAIN_1_3_26_NAME]",
+    "[STORY_MAIN_1_3_26_DESC]"
+  ],
+  "13220": [
+    "[STORY_MAIN_1_3_27_NAME]",
+    "[STORY_MAIN_1_3_27_DESC]"
+  ],
+  "13225": [
+    "[STORY_MAIN_1_3_28_NAME]",
+    "[STORY_MAIN_1_3_28_DESC]"
+  ],
+  "13230": [
+    "[STORY_MAIN_1_3_29_NAME]",
+    "[STORY_MAIN_1_3_29_DESC]"
+  ],
+  "13235": [
+    "[STORY_MAIN_1_3_30_NAME]",
+    "[STORY_MAIN_1_3_30_DESC]"
+  ],
+  "13240": [
+    "[STORY_MAIN_1_3_31_NAME]",
+    "[STORY_MAIN_1_3_31_DESC]"
+  ],
+  "13245": [
+    "[STORY_MAIN_1_3_32_NAME]",
+    "[STORY_MAIN_1_3_32_DESC]"
+  ],
+  "13250": [
+    "[STORY_MAIN_1_3_33_NAME]",
+    "[STORY_MAIN_1_3_33_DESC]"
+  ],
+  "13255": [
+    "[STORY_MAIN_1_3_34_NAME]",
+    "[STORY_MAIN_1_3_34_DESC]"
+  ],
+  "13260": [
+    "[STORY_MAIN_1_3_35_NAME]",
+    "[STORY_MAIN_1_3_35_DESC]"
+  ],
+  "13265": [
+    "[STORY_MAIN_1_3_36_NAME]",
+    "[STORY_MAIN_1_3_36_DESC]"
+  ],
+  "13270": [
+    "[STORY_MAIN_1_3_37_NAME]",
+    "[STORY_MAIN_1_3_37_DESC]"
+  ],
+  "13280": [
+    "[STORY_MAIN_1_3_38_NAME]",
+    "[STORY_MAIN_1_3_38_DESC]"
+  ],
+  "13290": [
+    "[STORY_MAIN_1_3_39_NAME]",
+    "[STORY_MAIN_1_3_39_DESC]"
+  ],
+  "13300": [
+    "[STORY_MAIN_1_3_40_NAME]",
+    "[STORY_MAIN_1_3_40_DESC]"
+  ],
+  "13310": [
+    "[STORY_MAIN_1_3_41_NAME]",
+    "[STORY_MAIN_1_3_41_DESC]"
+  ],
+  "13320": [
+    "[STORY_MAIN_1_3_42_NAME]",
+    "[STORY_MAIN_1_3_42_DESC]"
+  ],
+  "13330": [
+    "[STORY_MAIN_1_3_43_NAME]",
+    "[STORY_MAIN_1_3_43_DESC]"
+  ],
+  "13340": [
+    "[STORY_MAIN_1_3_44_NAME]",
+    "[STORY_MAIN_1_3_44_DESC]"
+  ],
+  "13350": [
+    "[STORY_MAIN_1_3_45_NAME]",
+    "[STORY_MAIN_1_3_45_DESC]"
+  ],
+  "13355": [
+    "[STORY_MAIN_1_3_46_NAME]",
+    "[STORY_MAIN_1_3_46_DESC]"
+  ],
+  "13360": [
+    "[STORY_MAIN_1_3_47_NAME]",
+    "[STORY_MAIN_1_3_47_DESC]"
+  ],
+  "13365": [
+    "[STORY_MAIN_1_3_48_NAME]",
+    "[STORY_MAIN_1_3_48_DESC]"
+  ],
+  "13370": [
+    "[STORY_MAIN_1_3_49_NAME]",
+    "[STORY_MAIN_1_3_49_DESC]"
+  ],
+  "13380": [
+    "[STORY_MAIN_1_3_50_NAME]",
+    "[STORY_MAIN_1_3_50_DESC]"
+  ],
+  "13390": [
+    "[STORY_MAIN_1_3_51_NAME]",
+    "[STORY_MAIN_1_3_51_DESC]"
+  ],
+  "13395": [
+    "[STORY_MAIN_1_3_52_NAME]",
+    "[STORY_MAIN_1_3_52_DESC]"
+  ],
+  "13400": [
+    "[STORY_MAIN_1_3_53_NAME]",
+    "[STORY_MAIN_1_3_53_DESC]"
+  ],
+  "13410": [
+    "[STORY_MAIN_1_3_54_NAME]",
+    "[STORY_MAIN_1_3_54_DESC]"
+  ],
+  "13420": [
+    "[STORY_MAIN_1_3_55_NAME]",
+    "[STORY_MAIN_1_3_55_DESC]"
+  ],
+  "13430": [
+    "[STORY_MAIN_1_3_56_NAME]",
+    "[STORY_MAIN_1_3_56_DESC]"
+  ],
+  "21010": [
+    "[STORY_MAIN_2_1_1_NAME]",
+    "[STORY_MAIN_2_1_1_DESC]"
+  ],
+  "21020": [
+    "[STORY_MAIN_2_1_2_NAME]",
+    "[STORY_MAIN_2_1_2_DESC]"
+  ],
+  "21030": [
+    "[STORY_MAIN_2_1_3_NAME]",
+    "[STORY_MAIN_2_1_3_DESC]"
+  ],
+  "21035": [
+    "[STORY_MAIN_2_1_4_NAME]",
+    "[STORY_MAIN_2_1_4_DESC]"
+  ],
+  "21040": [
+    "[STORY_MAIN_2_1_5_NAME]",
+    "[STORY_MAIN_2_1_5_DESC]"
+  ],
+  "21050": [
+    "[STORY_MAIN_2_1_6_NAME]",
+    "[STORY_MAIN_2_1_6_DESC]"
+  ],
+  "21060": [
+    "[STORY_MAIN_2_1_7_NAME]",
+    "[STORY_MAIN_2_1_7_DESC]"
+  ],
+  "21070": [
+    "[STORY_MAIN_2_1_8_NAME]",
+    "[STORY_MAIN_2_1_8_DESC]"
+  ],
+  "21075": [
+    "[STORY_MAIN_2_1_9_NAME]",
+    "[STORY_MAIN_2_1_9_DESC]"
+  ],
+  "21080": [
+    "[STORY_MAIN_2_1_10_NAME]",
+    "[STORY_MAIN_2_1_10_DESC]"
+  ],
+  "21090": [
+    "[STORY_MAIN_2_1_11_NAME]",
+    "[STORY_MAIN_2_1_11_DESC]"
+  ],
+  "21100": [
+    "[STORY_MAIN_2_1_12_NAME]",
+    "[STORY_MAIN_2_1_12_DESC]"
+  ],
+  "21105": [
+    "[STORY_MAIN_2_1_13_NAME]",
+    "[STORY_MAIN_2_1_13_DESC]"
+  ],
+  "21110": [
+    "[STORY_MAIN_2_1_14_NAME]",
+    "[STORY_MAIN_2_1_14_DESC]"
+  ],
+  "21115": [
+    "[STORY_MAIN_2_1_15_NAME]",
+    "[STORY_MAIN_2_1_15_DESC]"
+  ],
+  "21120": [
+    "[STORY_MAIN_2_1_16_NAME]",
+    "[STORY_MAIN_2_1_16_DESC]"
+  ],
+  "21130": [
+    "[STORY_MAIN_2_1_17_NAME]",
+    "[STORY_MAIN_2_1_17_DESC]"
+  ],
+  "21135": [
+    "[STORY_MAIN_2_1_18_NAME]",
+    "[STORY_MAIN_2_1_18_DESC]"
+  ],
+  "21140": [
+    "[STORY_MAIN_2_1_19_NAME]",
+    "[STORY_MAIN_2_1_19_DESC]"
+  ],
+  "21150": [
+    "[STORY_MAIN_2_1_20_NAME]",
+    "[STORY_MAIN_2_1_20_DESC]"
+  ],
+  "21155": [
+    "[STORY_MAIN_2_1_21_NAME]",
+    "[STORY_MAIN_2_1_21_DESC]"
+  ],
+  "21160": [
+    "[STORY_MAIN_2_1_22_NAME]",
+    "[STORY_MAIN_2_1_22_DESC]"
+  ],
+  "21165": [
+    "[STORY_MAIN_2_1_23_NAME]",
+    "[STORY_MAIN_2_1_23_DESC]"
+  ],
+  "21170": [
+    "[STORY_MAIN_2_1_24_NAME]",
+    "[STORY_MAIN_2_1_24_DESC]"
+  ],
+  "21180": [
+    "[STORY_MAIN_2_1_25_NAME]",
+    "[STORY_MAIN_2_1_25_DESC]"
+  ],
+  "21190": [
+    "[STORY_MAIN_2_1_26_NAME]",
+    "[STORY_MAIN_2_1_26_DESC]"
+  ],
+  "21195": [
+    "[STORY_MAIN_2_1_27_NAME]",
+    "[STORY_MAIN_2_1_27_DESC]"
+  ],
+  "21200": [
+    "[STORY_MAIN_2_1_28_NAME]",
+    "[STORY_MAIN_2_1_28_DESC]"
+  ],
+  "22010": [
+    "[STORY_MAIN_2_2_1_NAME]",
+    "[STORY_MAIN_2_2_1_DESC]"
+  ],
+  "22020": [
+    "[STORY_MAIN_2_2_2_NAME]",
+    "[STORY_MAIN_2_2_2_DESC]"
+  ],
+  "22030": [
+    "[STORY_MAIN_2_2_3_NAME]",
+    "[STORY_MAIN_2_2_3_DESC]"
+  ],
+  "22040": [
+    "[STORY_MAIN_2_2_4_NAME]",
+    "[STORY_MAIN_2_2_4_DESC]"
+  ],
+  "22050": [
+    "[STORY_MAIN_2_2_5_NAME]",
+    "[STORY_MAIN_2_2_5_DESC]"
+  ],
+  "22060": [
+    "[STORY_MAIN_2_2_6_NAME]",
+    "[STORY_MAIN_2_2_6_DESC]"
+  ],
+  "22065": [
+    "[STORY_MAIN_2_2_7_NAME]",
+    "[STORY_MAIN_2_2_7_DESC]"
+  ],
+  "22070": [
+    "[STORY_MAIN_2_2_8_NAME]",
+    "[STORY_MAIN_2_2_8_DESC]"
+  ],
+  "22080": [
+    "[STORY_MAIN_2_2_9_NAME]",
+    "[STORY_MAIN_2_2_9_DESC]"
+  ],
+  "22090": [
+    "[STORY_MAIN_2_2_10_NAME]",
+    "[STORY_MAIN_2_2_10_DESC]"
+  ],
+  "22100": [
+    "[STORY_MAIN_2_2_11_NAME]",
+    "[STORY_MAIN_2_2_11_DESC]"
+  ],
+  "22110": [
+    "[STORY_MAIN_2_2_12_NAME]",
+    "[STORY_MAIN_2_2_12_DESC]"
+  ],
+  "22120": [
+    "[STORY_MAIN_2_2_13_NAME]",
+    "[STORY_MAIN_2_2_13_DESC]"
+  ],
+  "22130": [
+    "[STORY_MAIN_2_2_14_NAME]",
+    "[STORY_MAIN_2_2_14_DESC]"
+  ],
+  "22140": [
+    "[STORY_MAIN_2_2_15_NAME]",
+    "[STORY_MAIN_2_2_15_DESC]"
+  ],
+  "22150": [
+    "[STORY_MAIN_2_2_16_NAME]",
+    "[STORY_MAIN_2_2_16_DESC]"
+  ],
+  "22160": [
+    "[STORY_MAIN_2_2_17_NAME]",
+    "[STORY_MAIN_2_2_17_DESC]"
+  ],
+  "22170": [
+    "[STORY_MAIN_2_2_18_NAME]",
+    "[STORY_MAIN_2_2_18_DESC]"
+  ],
+  "22175": [
+    "[STORY_MAIN_2_2_19_NAME]",
+    "[STORY_MAIN_2_2_19_DESC]"
+  ],
+  "22180": [
+    "[STORY_MAIN_2_2_20_NAME]",
+    "[STORY_MAIN_2_2_20_DESC]"
+  ],
+  "22185": [
+    "[STORY_MAIN_2_2_21_NAME]",
+    "[STORY_MAIN_2_2_21_DESC]"
+  ],
+  "22190": [
+    "[STORY_MAIN_2_2_22_NAME]",
+    "[STORY_MAIN_2_2_22_DESC]"
+  ],
+  "22200": [
+    "[STORY_MAIN_2_2_23_NAME]",
+    "[STORY_MAIN_2_2_23_DESC]"
+  ],
+  "22210": [
+    "[STORY_MAIN_2_2_24_NAME]",
+    "[STORY_MAIN_2_2_24_DESC]"
+  ],
+  "22220": [
+    "[STORY_MAIN_2_2_25_NAME]",
+    "[STORY_MAIN_2_2_25_DESC]"
+  ],
+  "22230": [
+    "[STORY_MAIN_2_2_26_NAME]",
+    "[STORY_MAIN_2_2_26_DESC]"
+  ],
+  "22240": [
+    "[STORY_MAIN_2_2_27_NAME]",
+    "[STORY_MAIN_2_2_27_DESC]"
+  ],
+  "22250": [
+    "[STORY_MAIN_2_2_28_NAME]",
+    "[STORY_MAIN_2_2_28_DESC]"
+  ],
+  "31010": [
+    "[STORY_MAIN_3_1_1_NAME]",
+    "[STORY_MAIN_3_1_1_DESC]"
+  ],
+  "31020": [
+    "[STORY_MAIN_3_1_2_NAME]",
+    "[STORY_MAIN_3_1_2_DESC]"
+  ],
+  "31030": [
+    "[STORY_MAIN_3_1_3_NAME]",
+    "[STORY_MAIN_3_1_3_DESC]"
+  ],
+  "31040": [
+    "[STORY_MAIN_3_1_4_NAME]",
+    "[STORY_MAIN_3_1_4_DESC]"
+  ],
+  "31050": [
+    "[STORY_MAIN_3_1_5_NAME]",
+    "[STORY_MAIN_3_1_5_DESC]"
+  ],
+  "31060": [
+    "[STORY_MAIN_3_1_6_NAME]",
+    "[STORY_MAIN_3_1_6_DESC]"
+  ],
+  "31070": [
+    "[STORY_MAIN_3_1_7_NAME]",
+    "[STORY_MAIN_3_1_7_DESC]"
+  ],
+  "31080": [
+    "[STORY_MAIN_3_1_8_NAME]",
+    "[STORY_MAIN_3_1_8_DESC]"
+  ],
+  "31090": [
+    "[STORY_MAIN_3_1_9_NAME]",
+    "[STORY_MAIN_3_1_9_DESC]"
+  ],
+  "31100": [
+    "[STORY_MAIN_3_1_10_NAME]",
+    "[STORY_MAIN_3_1_10_DESC]"
+  ],
+  "31110": [
+    "[STORY_MAIN_3_1_11_NAME]",
+    "[STORY_MAIN_3_1_11_DESC]"
+  ],
+  "31120": [
+    "[STORY_MAIN_3_1_12_NAME]",
+    "[STORY_MAIN_3_1_12_DESC]"
+  ],
+  "31130": [
+    "[STORY_MAIN_3_1_13_NAME]",
+    "[STORY_MAIN_3_1_13_DESC]"
+  ],
+  "31140": [
+    "[STORY_MAIN_3_1_14_NAME]",
+    "[STORY_MAIN_3_1_14_DESC]"
+  ],
+  "31150": [
+    "[STORY_MAIN_3_1_15_NAME]",
+    "[STORY_MAIN_3_1_15_DESC]"
+  ],
+  "31160": [
+    "[STORY_MAIN_3_1_16_NAME]",
+    "[STORY_MAIN_3_1_16_DESC]"
+  ],
+  "31170": [
+    "[STORY_MAIN_3_1_17_NAME]",
+    "[STORY_MAIN_3_1_17_DESC]"
+  ],
+  "32010": [
+    "[STORY_MAIN_3_2_1_NAME]",
+    "[STORY_MAIN_3_2_1_DESC]"
+  ],
+  "32020": [
+    "[STORY_MAIN_3_2_2_NAME]",
+    "[STORY_MAIN_3_2_2_DESC]"
+  ],
+  "32030": [
+    "[STORY_MAIN_3_2_3_NAME]",
+    "[STORY_MAIN_3_2_3_DESC]"
+  ],
+  "32040": [
+    "[STORY_MAIN_3_2_4_NAME]",
+    "[STORY_MAIN_3_2_4_DESC]"
+  ],
+  "32050": [
+    "[STORY_MAIN_3_2_5_NAME]",
+    "[STORY_MAIN_3_2_5_DESC]"
+  ],
+  "32060": [
+    "[STORY_MAIN_3_2_6_NAME]",
+    "[STORY_MAIN_3_2_6_DESC]"
+  ],
+  "32065": [
+    "[STORY_MAIN_3_2_7_NAME]",
+    "[STORY_MAIN_3_2_7_DESC]"
+  ],
+  "32070": [
+    "[STORY_MAIN_3_2_8_NAME]",
+    "[STORY_MAIN_3_2_8_DESC]"
+  ],
+  "32080": [
+    "[STORY_MAIN_3_2_9_NAME]",
+    "[STORY_MAIN_3_2_9_DESC]"
+  ],
+  "32090": [
+    "[STORY_MAIN_3_2_10_NAME]",
+    "[STORY_MAIN_3_2_10_DESC]"
+  ],
+  "32100": [
+    "[STORY_MAIN_3_2_11_NAME]",
+    "[STORY_MAIN_3_2_11_DESC]"
+  ],
+  "32105": [
+    "[STORY_MAIN_3_2_12_NAME]",
+    "[STORY_MAIN_3_2_12_DESC]"
+  ],
+  "32110": [
+    "[STORY_MAIN_3_2_13_NAME]",
+    "[STORY_MAIN_3_2_13_DESC]"
+  ],
+  "32120": [
+    "[STORY_MAIN_3_2_14_NAME]",
+    "[STORY_MAIN_3_2_14_DESC]"
+  ],
+  "32130": [
+    "[STORY_MAIN_3_2_15_NAME]",
+    "[STORY_MAIN_3_2_15_DESC]"
+  ],
+  "32140": [
+    "[STORY_MAIN_3_2_16_NAME]",
+    "[STORY_MAIN_3_2_16_DESC]"
+  ],
+  "32150": [
+    "[STORY_MAIN_3_2_17_NAME]",
+    "[STORY_MAIN_3_2_17_DESC]"
+  ],
+  "32160": [
+    "[STORY_MAIN_3_2_18_NAME]",
+    "[STORY_MAIN_3_2_18_DESC]"
+  ],
+  "32165": [
+    "[STORY_MAIN_3_2_19_NAME]",
+    "[STORY_MAIN_3_2_19_DESC]"
+  ],
+  "32170": [
+    "[STORY_MAIN_3_2_20_NAME]",
+    "[STORY_MAIN_3_2_20_DESC]"
+  ],
+  "32175": [
+    "[STORY_MAIN_3_2_21_NAME]",
+    "[STORY_MAIN_3_2_21_DESC]"
+  ],
+  "32180": [
+    "[STORY_MAIN_3_2_22_NAME]",
+    "[STORY_MAIN_3_2_22_DESC]"
+  ],
+  "32185": [
+    "[STORY_MAIN_3_2_23_NAME]",
+    "[STORY_MAIN_3_2_23_DESC]"
+  ],
+  "32190": [
+    "[STORY_MAIN_3_2_24_NAME]",
+    "[STORY_MAIN_3_2_24_DESC]"
+  ],
+  "32200": [
+    "[STORY_MAIN_3_2_25_NAME]",
+    "[STORY_MAIN_3_2_25_DESC]"
+  ],
+  "33010": [
+    "[STORY_MAIN_3_3_1_NAME]",
+    "[STORY_MAIN_3_3_1_DESC]"
+  ],
+  "33020": [
+    "[STORY_MAIN_3_3_2_NAME]",
+    "[STORY_MAIN_3_3_2_DESC]"
+  ],
+  "33030": [
+    "[STORY_MAIN_3_3_3_NAME]",
+    "[STORY_MAIN_3_3_3_DESC]"
+  ],
+  "33040": [
+    "[STORY_MAIN_3_3_4_NAME]",
+    "[STORY_MAIN_3_3_4_DESC]"
+  ],
+  "33050": [
+    "[STORY_MAIN_3_3_5_NAME]",
+    "[STORY_MAIN_3_3_5_DESC]"
+  ],
+  "33060": [
+    "[STORY_MAIN_3_3_6_NAME]",
+    "[STORY_MAIN_3_3_6_DESC]"
+  ],
+  "33070": [
+    "[STORY_MAIN_3_3_7_NAME]",
+    "[STORY_MAIN_3_3_7_DESC]"
+  ],
+  "33075": [
+    "[STORY_MAIN_3_3_8_NAME]",
+    "[STORY_MAIN_3_3_8_DESC]"
+  ],
+  "33080": [
+    "[STORY_MAIN_3_3_9_NAME]",
+    "[STORY_MAIN_3_3_9_DESC]"
+  ],
+  "33085": [
+    "[STORY_MAIN_3_3_10_NAME]",
+    "[STORY_MAIN_3_3_10_DESC]"
+  ],
+  "33090": [
+    "[STORY_MAIN_3_3_11_NAME]",
+    "[STORY_MAIN_3_3_11_DESC]"
+  ],
+  "33095": [
+    "[STORY_MAIN_3_3_12_NAME]",
+    "[STORY_MAIN_3_3_12_DESC]"
+  ],
+  "33100": [
+    "[STORY_MAIN_3_3_13_NAME]",
+    "[STORY_MAIN_3_3_13_DESC]"
+  ],
+  "33110": [
+    "[STORY_MAIN_3_3_14_NAME]",
+    "[STORY_MAIN_3_3_14_DESC]"
+  ],
+  "33120": [
+    "[STORY_MAIN_3_3_15_NAME]",
+    "[STORY_MAIN_3_3_15_DESC]"
+  ],
+  "33130": [
+    "[STORY_MAIN_3_3_16_NAME]",
+    "[STORY_MAIN_3_3_16_DESC]"
+  ],
+  "33140": [
+    "[STORY_MAIN_3_3_17_NAME]",
+    "[STORY_MAIN_3_3_17_DESC]"
+  ],
+  "33150": [
+    "[STORY_MAIN_3_3_18_NAME]",
+    "[STORY_MAIN_3_3_18_DESC]"
+  ],
+  "33160": [
+    "[STORY_MAIN_3_3_19_NAME]",
+    "[STORY_MAIN_3_3_19_DESC]"
+  ],
+  "33170": [
+    "[STORY_MAIN_3_3_20_NAME]",
+    "[STORY_MAIN_3_3_20_DESC]"
+  ],
+  "33180": [
+    "[STORY_MAIN_3_3_21_NAME]",
+    "[STORY_MAIN_3_3_21_DESC]"
+  ],
+  "33190": [
+    "[STORY_MAIN_3_3_22_NAME]",
+    "[STORY_MAIN_3_3_22_DESC]"
+  ],
+  "33195": [
+    "[STORY_MAIN_3_3_23_NAME]",
+    "[STORY_MAIN_3_3_23_DESC]"
+  ],
+  "33200": [
+    "[STORY_MAIN_3_3_24_NAME]",
+    "[STORY_MAIN_3_3_24_DESC]"
+  ],
+  "33205": [
+    "[STORY_MAIN_3_3_25_NAME]",
+    "[STORY_MAIN_3_3_25_DESC]"
+  ],
+  "33210": [
+    "[STORY_MAIN_3_3_26_NAME]",
+    "[STORY_MAIN_3_3_26_DESC]"
+  ],
+  "33215": [
+    "[STORY_MAIN_3_3_27_NAME]",
+    "[STORY_MAIN_3_3_27_DESC]"
+  ],
+  "33220": [
+    "[STORY_MAIN_3_3_28_NAME]",
+    "[STORY_MAIN_3_3_28_DESC]"
+  ],
+  "33225": [
+    "[STORY_MAIN_3_3_29_NAME]",
+    "[STORY_MAIN_3_3_29_DESC]"
+  ],
+  "33230": [
+    "[STORY_MAIN_3_3_30_NAME]",
+    "[STORY_MAIN_3_3_30_DESC]"
+  ],
+  "33235": [
+    "[STORY_MAIN_3_3_31_NAME]",
+    "[STORY_MAIN_3_3_31_DESC]"
+  ],
+  "33240": [
+    "[STORY_MAIN_3_3_32_NAME]",
+    "[STORY_MAIN_3_3_32_DESC]"
+  ],
+  "33245": [
+    "[STORY_MAIN_3_3_33_NAME]",
+    "[STORY_MAIN_3_3_33_DESC]"
+  ],
+  "33250": [
+    "[STORY_MAIN_3_3_34_NAME]",
+    "[STORY_MAIN_3_3_34_DESC]"
+  ],
+  "34010": [
+    "[STORY_MAIN_3_4_1_NAME]",
+    "[STORY_MAIN_3_4_1_DESC]"
+  ],
+  "34020": [
+    "[STORY_MAIN_3_4_2_NAME]",
+    "[STORY_MAIN_3_4_2_DESC]"
+  ],
+  "34030": [
+    "[STORY_MAIN_3_4_3_NAME]",
+    "[STORY_MAIN_3_4_3_DESC]"
+  ],
+  "34040": [
+    "[STORY_MAIN_3_4_4_NAME]",
+    "[STORY_MAIN_3_4_4_DESC]"
+  ],
+  "34050": [
+    "[STORY_MAIN_3_4_5_NAME]",
+    "[STORY_MAIN_3_4_5_DESC]"
+  ],
+  "34060": [
+    "[STORY_MAIN_3_4_6_NAME]",
+    "[STORY_MAIN_3_4_6_DESC]"
+  ],
+  "34070": [
+    "[STORY_MAIN_3_4_7_NAME]",
+    "[STORY_MAIN_3_4_7_DESC]"
+  ],
+  "34080": [
+    "[STORY_MAIN_3_4_8_NAME]",
+    "[STORY_MAIN_3_4_8_DESC]"
+  ],
+  "34090": [
+    "[STORY_MAIN_3_4_9_NAME]",
+    "[STORY_MAIN_3_4_9_DESC]"
+  ],
+  "34095": [
+    "[STORY_MAIN_3_4_10_NAME]",
+    "[STORY_MAIN_3_4_10_DESC]"
+  ],
+  "34100": [
+    "[STORY_MAIN_3_4_11_NAME]",
+    "[STORY_MAIN_3_4_11_DESC]"
+  ],
+  "34105": [
+    "[STORY_MAIN_3_4_12_NAME]",
+    "[STORY_MAIN_3_4_12_DESC]"
+  ],
+  "34110": [
+    "[STORY_MAIN_3_4_13_NAME]",
+    "[STORY_MAIN_3_4_13_DESC]"
+  ],
+  "34120": [
+    "[STORY_MAIN_3_4_14_NAME]",
+    "[STORY_MAIN_3_4_14_DESC]"
+  ],
+  "34130": [
+    "[STORY_MAIN_3_4_15_NAME]",
+    "[STORY_MAIN_3_4_15_DESC]"
+  ],
+  "34140": [
+    "[STORY_MAIN_3_4_16_NAME]",
+    "[STORY_MAIN_3_4_16_DESC]"
+  ],
+  "34145": [
+    "[STORY_MAIN_3_4_17_NAME]",
+    "[STORY_MAIN_3_4_17_DESC]"
+  ],
+  "34150": [
+    "[STORY_MAIN_3_4_18_NAME]",
+    "[STORY_MAIN_3_4_18_DESC]"
+  ],
+  "34155": [
+    "[STORY_MAIN_3_4_19_NAME]",
+    "[STORY_MAIN_3_4_19_DESC]"
+  ],
+  "34160": [
+    "[STORY_MAIN_3_4_20_NAME]",
+    "[STORY_MAIN_3_4_20_DESC]"
+  ],
+  "34170": [
+    "[STORY_MAIN_3_4_21_NAME]",
+    "[STORY_MAIN_3_4_21_DESC]"
+  ],
+  "34180": [
+    "[STORY_MAIN_3_4_22_NAME]",
+    "[STORY_MAIN_3_4_22_DESC]"
+  ],
+  "34190": [
+    "[STORY_MAIN_3_4_23_NAME]",
+    "[STORY_MAIN_3_4_23_DESC]"
+  ],
+  "34195": [
+    "[STORY_MAIN_3_4_24_NAME]",
+    "[STORY_MAIN_3_4_24_DESC]"
+  ],
+  "34200": [
+    "[STORY_MAIN_3_4_25_NAME]",
+    "[STORY_MAIN_3_4_25_DESC]"
+  ],
+  "34205": [
+    "[STORY_MAIN_3_4_26_NAME]",
+    "[STORY_MAIN_3_4_26_DESC]"
+  ],
+  "34210": [
+    "[STORY_MAIN_3_4_27_NAME]",
+    "[STORY_MAIN_3_4_27_DESC]"
+  ],
+  "34215": [
+    "[STORY_MAIN_3_4_28_NAME]",
+    "[STORY_MAIN_3_4_28_DESC]"
+  ],
+  "34220": [
+    "[STORY_MAIN_3_4_29_NAME]",
+    "[STORY_MAIN_3_4_29_DESC]"
+  ],
+  "34225": [
+    "[STORY_MAIN_3_4_30_NAME]",
+    "[STORY_MAIN_3_4_30_DESC]"
+  ],
+  "34230": [
+    "[STORY_MAIN_3_4_31_NAME]",
+    "[STORY_MAIN_3_4_31_DESC]"
+  ],
+  "34240": [
+    "[STORY_MAIN_3_4_32_NAME]",
+    "[STORY_MAIN_3_4_32_DESC]"
+  ],
+  "34245": [
+    "[STORY_MAIN_3_4_33_NAME]",
+    "[STORY_MAIN_3_4_33_DESC]"
+  ],
+  "34250": [
+    "[STORY_MAIN_3_4_34_NAME]",
+    "[STORY_MAIN_3_4_34_DESC]"
+  ],
+  "34255": [
+    "[STORY_MAIN_3_4_35_NAME]",
+    "[STORY_MAIN_3_4_35_DESC]"
+  ],
+  "34260": [
+    "[STORY_MAIN_3_4_36_NAME]",
+    "[STORY_MAIN_3_4_36_DESC]"
+  ],
+  "34270": [
+    "[STORY_MAIN_3_4_37_NAME]",
+    "[STORY_MAIN_3_4_37_DESC]"
+  ],
+  "41010": [
+    "[STORY_MAIN_4_1_1_NAME]",
+    "[STORY_MAIN_4_1_1_DESC]"
+  ],
+  "41020": [
+    "[STORY_MAIN_4_1_2_NAME]",
+    "[STORY_MAIN_4_1_2_DESC]"
+  ],
+  "41025": [
+    "[STORY_MAIN_4_1_3_NAME]",
+    "[STORY_MAIN_4_1_3_DESC]"
+  ],
+  "41030": [
+    "[STORY_MAIN_4_1_4_NAME]",
+    "[STORY_MAIN_4_1_4_DESC]"
+  ],
+  "41040": [
+    "[STORY_MAIN_4_1_5_NAME]",
+    "[STORY_MAIN_4_1_5_DESC]"
+  ],
+  "41050": [
+    "[STORY_MAIN_4_1_6_NAME]",
+    "[STORY_MAIN_4_1_6_DESC]"
+  ],
+  "41060": [
+    "[STORY_MAIN_4_1_7_NAME]",
+    "[STORY_MAIN_4_1_7_DESC]"
+  ],
+  "41070": [
+    "[STORY_MAIN_4_1_8_NAME]",
+    "[STORY_MAIN_4_1_8_DESC]"
+  ],
+  "41080": [
+    "[STORY_MAIN_4_1_9_NAME]",
+    "[STORY_MAIN_4_1_9_DESC]"
+  ],
+  "41085": [
+    "[STORY_MAIN_4_1_10_NAME]",
+    "[STORY_MAIN_4_1_10_DESC]"
+  ],
+  "41090": [
+    "[STORY_MAIN_4_1_11_NAME]",
+    "[STORY_MAIN_4_1_11_DESC]"
+  ],
+  "41100": [
+    "[STORY_MAIN_4_1_12_NAME]",
+    "[STORY_MAIN_4_1_12_DESC]"
+  ],
+  "41105": [
+    "[STORY_MAIN_4_1_13_NAME]",
+    "[STORY_MAIN_4_1_13_DESC]"
+  ],
+  "41110": [
+    "[STORY_MAIN_4_1_14_NAME]",
+    "[STORY_MAIN_4_1_14_DESC]"
+  ],
+  "41120": [
+    "[STORY_MAIN_4_1_15_NAME]",
+    "[STORY_MAIN_4_1_15_DESC]"
+  ],
+  "41130": [
+    "[STORY_MAIN_4_1_16_NAME]",
+    "[STORY_MAIN_4_1_16_DESC]"
+  ],
+  "41140": [
+    "[STORY_MAIN_4_1_17_NAME]",
+    "[STORY_MAIN_4_1_17_DESC]"
+  ],
+  "41150": [
+    "[STORY_MAIN_4_1_18_NAME]",
+    "[STORY_MAIN_4_1_18_DESC]"
+  ],
+  "41160": [
+    "[STORY_MAIN_4_1_19_NAME]",
+    "[STORY_MAIN_4_1_19_DESC]"
+  ],
+  "41170": [
+    "[STORY_MAIN_4_1_20_NAME]",
+    "[STORY_MAIN_4_1_20_DESC]"
+  ],
+  "41180": [
+    "[STORY_MAIN_4_1_21_NAME]",
+    "[STORY_MAIN_4_1_21_DESC]"
+  ],
+  "41185": [
+    "[STORY_MAIN_4_1_22_NAME]",
+    "[STORY_MAIN_4_1_22_DESC]"
+  ],
+  "41190": [
+    "[STORY_MAIN_4_1_23_NAME]",
+    "[STORY_MAIN_4_1_23_DESC]"
+  ],
+  "41200": [
+    "[STORY_MAIN_4_1_24_NAME]",
+    "[STORY_MAIN_4_1_24_DESC]"
+  ],
+  "42010": [
+    "[STORY_MAIN_4_2_1_NAME]",
+    "[STORY_MAIN_4_2_1_DESC]"
+  ],
+  "42020": [
+    "[STORY_MAIN_4_2_2_NAME]",
+    "[STORY_MAIN_4_2_2_DESC]"
+  ],
+  "42030": [
+    "[STORY_MAIN_4_2_3_NAME]",
+    "[STORY_MAIN_4_2_3_DESC]"
+  ],
+  "42040": [
+    "[STORY_MAIN_4_2_4_NAME]",
+    "[STORY_MAIN_4_2_4_DESC]"
+  ],
+  "42050": [
+    "[STORY_MAIN_4_2_5_NAME]",
+    "[STORY_MAIN_4_2_5_DESC]"
+  ],
+  "42060": [
+    "[STORY_MAIN_4_2_6_NAME]",
+    "[STORY_MAIN_4_2_6_DESC]"
+  ],
+  "42070": [
+    "[STORY_MAIN_4_2_7_NAME]",
+    "[STORY_MAIN_4_2_7_DESC]"
+  ],
+  "42080": [
+    "[STORY_MAIN_4_2_8_NAME]",
+    "[STORY_MAIN_4_2_8_DESC]"
+  ],
+  "42090": [
+    "[STORY_MAIN_4_2_9_NAME]",
+    "[STORY_MAIN_4_2_9_DESC]"
+  ],
+  "42100": [
+    "[STORY_MAIN_4_2_10_NAME]",
+    "[STORY_MAIN_4_2_10_DESC]"
+  ],
+  "42110": [
+    "[STORY_MAIN_4_2_11_NAME]",
+    "[STORY_MAIN_4_2_11_DESC]"
+  ],
+  "42120": [
+    "[STORY_MAIN_4_2_12_NAME]",
+    "[STORY_MAIN_4_2_12_DESC]"
+  ],
+  "42130": [
+    "[STORY_MAIN_4_2_13_NAME]",
+    "[STORY_MAIN_4_2_13_DESC]"
+  ],
+  "42140": [
+    "[STORY_MAIN_4_2_14_NAME]",
+    "[STORY_MAIN_4_2_14_DESC]"
+  ],
+  "42150": [
+    "[STORY_MAIN_4_2_15_NAME]",
+    "[STORY_MAIN_4_2_15_DESC]"
+  ],
+  "42160": [
+    "[STORY_MAIN_4_2_16_NAME]",
+    "[STORY_MAIN_4_2_16_DESC]"
+  ],
+  "42170": [
+    "[STORY_MAIN_4_2_17_NAME]",
+    "[STORY_MAIN_4_2_17_DESC]"
+  ],
+  "42175": [
+    "[STORY_MAIN_4_2_18_NAME]",
+    "[STORY_MAIN_4_2_18_DESC]"
+  ],
+  "42180": [
+    "[STORY_MAIN_4_2_19_NAME]",
+    "[STORY_MAIN_4_2_19_DESC]"
+  ],
+  "42185": [
+    "[STORY_MAIN_4_2_20_NAME]",
+    "[STORY_MAIN_4_2_20_DESC]"
+  ],
+  "42190": [
+    "[STORY_MAIN_4_2_21_NAME]",
+    "[STORY_MAIN_4_2_21_DESC]"
+  ],
+  "42195": [
+    "[STORY_MAIN_4_2_22_NAME]",
+    "[STORY_MAIN_4_2_22_DESC]"
+  ],
+  "42200": [
+    "[STORY_MAIN_4_2_23_NAME]",
+    "[STORY_MAIN_4_2_23_DESC]"
+  ],
+  "42205": [
+    "[STORY_MAIN_4_2_24_NAME]",
+    "[STORY_MAIN_4_2_24_DESC]"
+  ],
+  "42210": [
+    "[STORY_MAIN_4_2_25_NAME]",
+    "[STORY_MAIN_4_2_25_DESC]"
+  ],
+  "42215": [
+    "[STORY_MAIN_4_2_26_NAME]",
+    "[STORY_MAIN_4_2_26_DESC]"
+  ],
+  "42220": [
+    "[STORY_MAIN_4_2_27_NAME]",
+    "[STORY_MAIN_4_2_27_DESC]"
+  ],
+  "42225": [
+    "[STORY_MAIN_4_2_28_NAME]",
+    "[STORY_MAIN_4_2_28_DESC]"
+  ],
+  "42230": [
+    "[STORY_MAIN_4_2_29_NAME]",
+    "[STORY_MAIN_4_2_29_DESC]"
+  ],
+  "42235": [
+    "[STORY_MAIN_4_2_30_NAME]",
+    "[STORY_MAIN_4_2_30_DESC]"
+  ],
+  "42240": [
+    "[STORY_MAIN_4_2_31_NAME]",
+    "[STORY_MAIN_4_2_31_DESC]"
+  ],
+  "51010": [
+    "[STORY_MAIN_5_1_1_NAME]",
+    "[STORY_MAIN_5_1_1_DESC]"
+  ],
+  "51020": [
+    "[STORY_MAIN_5_1_2_NAME]",
+    "[STORY_MAIN_5_1_2_DESC]"
+  ],
+  "51025": [
+    "[STORY_MAIN_5_1_3_NAME]",
+    "[STORY_MAIN_5_1_3_DESC]"
+  ],
+  "51030": [
+    "[STORY_MAIN_5_1_4_NAME]",
+    "[STORY_MAIN_5_1_4_DESC]"
+  ],
+  "51040": [
+    "[STORY_MAIN_5_1_5_NAME]",
+    "[STORY_MAIN_5_1_5_DESC]"
+  ],
+  "51050": [
+    "[STORY_MAIN_5_1_6_NAME]",
+    "[STORY_MAIN_5_1_6_DESC]"
+  ],
+  "51060": [
+    "[STORY_MAIN_5_1_7_NAME]",
+    "[STORY_MAIN_5_1_7_DESC]"
+  ],
+  "51070": [
+    "[STORY_MAIN_5_1_8_NAME]",
+    "[STORY_MAIN_5_1_8_DESC]"
+  ],
+  "51080": [
+    "[STORY_MAIN_5_1_9_NAME]",
+    "[STORY_MAIN_5_1_9_DESC]"
+  ],
+  "51090": [
+    "[STORY_MAIN_5_1_10_NAME]",
+    "[STORY_MAIN_5_1_10_DESC]"
+  ],
+  "51095": [
+    "[STORY_MAIN_5_1_11_NAME]",
+    "[STORY_MAIN_5_1_11_DESC]"
+  ],
+  "51100": [
+    "[STORY_MAIN_5_1_12_NAME]",
+    "[STORY_MAIN_5_1_12_DESC]"
+  ],
+  "51110": [
+    "[STORY_MAIN_5_1_13_NAME]",
+    "[STORY_MAIN_5_1_13_DESC]"
+  ],
+  "51120": [
+    "[STORY_MAIN_5_1_14_NAME]",
+    "[STORY_MAIN_5_1_14_DESC]"
+  ],
+  "51125": [
+    "[STORY_MAIN_5_1_15_NAME]",
+    "[STORY_MAIN_5_1_15_DESC]"
+  ],
+  "51130": [
+    "[STORY_MAIN_5_1_16_NAME]",
+    "[STORY_MAIN_5_1_16_DESC]"
+  ],
+  "51140": [
+    "[STORY_MAIN_5_1_17_NAME]",
+    "[STORY_MAIN_5_1_17_DESC]"
+  ],
+  "51150": [
+    "[STORY_MAIN_5_1_18_NAME]",
+    "[STORY_MAIN_5_1_18_DESC]"
+  ],
+  "51160": [
+    "[STORY_MAIN_5_1_19_NAME]",
+    "[STORY_MAIN_5_1_19_DESC]"
+  ],
+  "51170": [
+    "[STORY_MAIN_5_1_20_NAME]",
+    "[STORY_MAIN_5_1_20_DESC]"
+  ],
+  "51180": [
+    "[STORY_MAIN_5_1_21_NAME]",
+    "[STORY_MAIN_5_1_21_DESC]"
+  ],
+  "51185": [
+    "[STORY_MAIN_5_1_22_NAME]",
+    "[STORY_MAIN_5_1_22_DESC]"
+  ],
+  "51190": [
+    "[STORY_MAIN_5_1_23_NAME]",
+    "[STORY_MAIN_5_1_23_DESC]"
+  ],
+  "51200": [
+    "[STORY_MAIN_5_1_24_NAME]",
+    "[STORY_MAIN_5_1_24_DESC]"
+  ],
+  "51205": [
+    "[STORY_MAIN_5_1_25_NAME]",
+    "[STORY_MAIN_5_1_25_DESC]"
+  ],
+  "51210": [
+    "[STORY_MAIN_5_1_26_NAME]",
+    "[STORY_MAIN_5_1_26_DESC]"
+  ],
+  "51220": [
+    "[STORY_MAIN_5_1_27_NAME]",
+    "[STORY_MAIN_5_1_27_DESC]"
+  ],
+  "51225": [
+    "[STORY_MAIN_5_1_28_NAME]",
+    "[STORY_MAIN_5_1_28_DESC]"
+  ],
+  "51230": [
+    "[STORY_MAIN_5_1_29_NAME]",
+    "[STORY_MAIN_5_1_29_DESC]"
+  ],
+  "51240": [
+    "[STORY_MAIN_5_1_30_NAME]",
+    "[STORY_MAIN_5_1_30_DESC]"
+  ],
+  "51245": [
+    "[STORY_MAIN_5_1_31_NAME]",
+    "[STORY_MAIN_5_1_31_DESC]"
+  ],
+  "51250": [
+    "[STORY_MAIN_5_1_32_NAME]",
+    "[STORY_MAIN_5_1_32_DESC]"
+  ],
+  "51260": [
+    "[STORY_MAIN_5_1_33_NAME]",
+    "[STORY_MAIN_5_1_33_DESC]"
+  ],
+  "101010": [
+    "[STORY_MAIN_finalS1_1_1_NAME]",
+    "[STORY_MAIN_finalS1_1_1_DESC]"
+  ],
+  "101020": [
+    "[STORY_MAIN_finalS1_1_2_NAME]",
+    "[STORY_MAIN_finalS1_1_2_DESC]"
+  ],
+  "101030": [
+    "[STORY_MAIN_finalS1_1_3_NAME]",
+    "[STORY_MAIN_finalS1_1_3_DESC]"
+  ],
+  "101040": [
+    "[STORY_MAIN_finalS1_1_4_NAME]",
+    "[STORY_MAIN_finalS1_1_4_DESC]"
+  ],
+  "101050": [
+    "[STORY_MAIN_finalS1_1_5_NAME]",
+    "[STORY_MAIN_finalS1_1_5_DESC]"
+  ],
+  "101060": [
+    "[STORY_MAIN_finalS1_1_6_NAME]",
+    "[STORY_MAIN_finalS1_1_6_DESC]"
+  ],
+  "101070": [
+    "[STORY_MAIN_finalS1_1_7_NAME]",
+    "[STORY_MAIN_finalS1_1_7_DESC]"
+  ],
+  "101080": [
+    "[STORY_MAIN_finalS1_1_8_NAME]",
+    "[STORY_MAIN_finalS1_1_8_DESC]"
+  ],
+  "101090": [
+    "[STORY_MAIN_finalS1_1_9_NAME]",
+    "[STORY_MAIN_finalS1_1_9_DESC]"
+  ],
+  "101100": [
+    "[STORY_MAIN_finalS1_1_10_NAME]",
+    "[STORY_MAIN_finalS1_1_10_DESC]"
+  ],
+  "101110": [
+    "[STORY_MAIN_finalS1_1_11_NAME]",
+    "[STORY_MAIN_finalS1_1_11_DESC]"
+  ],
+  "101115": [
+    "[STORY_MAIN_finalS1_1_12_NAME]",
+    "[STORY_MAIN_finalS1_1_12_DESC]"
+  ],
+  "101120": [
+    "[STORY_MAIN_finalS1_1_13_NAME]",
+    "[STORY_MAIN_finalS1_1_13_DESC]"
+  ],
+  "101125": [
+    "[STORY_MAIN_finalS1_1_14_NAME]",
+    "[STORY_MAIN_finalS1_1_14_DESC]"
+  ],
+  "101130": [
+    "[STORY_MAIN_finalS1_1_15_NAME]",
+    "[STORY_MAIN_finalS1_1_15_DESC]"
+  ],
+  "101135": [
+    "[STORY_MAIN_finalS1_1_16_NAME]",
+    "[STORY_MAIN_finalS1_1_16_DESC]"
+  ],
+  "101140": [
+    "[STORY_MAIN_finalS1_1_17_NAME]",
+    "[STORY_MAIN_finalS1_1_17_DESC]"
+  ],
+  "101145": [
+    "[STORY_MAIN_finalS1_1_18_NAME]",
+    "[STORY_MAIN_finalS1_1_18_DESC]"
+  ],
+  "101150": [
+    "[STORY_MAIN_finalS1_1_19_NAME]",
+    "[STORY_MAIN_finalS1_1_19_DESC]"
+  ],
+  "102010": [
+    "[STORY_MAIN_finalS1_2_1_NAME]",
+    "[STORY_MAIN_finalS1_2_1_DESC]"
+  ],
+  "102015": [
+    "[STORY_MAIN_finalS1_2_2_NAME]",
+    "[STORY_MAIN_finalS1_2_2_DESC]"
+  ],
+  "102020": [
+    "[STORY_MAIN_finalS1_2_3_NAME]",
+    "[STORY_MAIN_finalS1_2_3_DESC]"
+  ],
+  "102030": [
+    "[STORY_MAIN_finalS1_2_4_NAME]",
+    "[STORY_MAIN_finalS1_2_4_DESC]"
+  ],
+  "102040": [
+    "[STORY_MAIN_finalS1_2_5_NAME]",
+    "[STORY_MAIN_finalS1_2_5_DESC]"
+  ],
+  "102050": [
+    "[STORY_MAIN_finalS1_2_6_NAME]",
+    "[STORY_MAIN_finalS1_2_6_DESC]"
+  ],
+  "102060": [
+    "[STORY_MAIN_finalS1_2_7_NAME]",
+    "[STORY_MAIN_finalS1_2_7_DESC]"
+  ],
+  "102065": [
+    "[STORY_MAIN_finalS1_2_8_NAME]",
+    "[STORY_MAIN_finalS1_2_8_DESC]"
+  ],
+  "102070": [
+    "[STORY_MAIN_finalS1_2_9_NAME]",
+    "[STORY_MAIN_finalS1_2_9_DESC]"
+  ],
+  "102075": [
+    "[STORY_MAIN_finalS1_2_10_NAME]",
+    "[STORY_MAIN_finalS1_2_10_DESC]"
+  ],
+  "102080": [
+    "[STORY_MAIN_finalS1_2_11_NAME]",
+    "[STORY_MAIN_finalS1_2_11_DESC]"
+  ],
+  "102085": [
+    "[STORY_MAIN_finalS1_2_12_NAME]",
+    "[STORY_MAIN_finalS1_2_12_DESC]"
+  ],
+  "102090": [
+    "[STORY_MAIN_finalS1_2_13_NAME]",
+    "[STORY_MAIN_finalS1_2_13_DESC]"
+  ],
+  "102095": [
+    "[STORY_MAIN_finalS1_2_14_NAME]",
+    "[STORY_MAIN_finalS1_2_14_DESC]"
+  ],
+  "1020100": [
+    "[STORY_MAIN_finalS1_2_15_NAME]",
+    "[STORY_MAIN_finalS1_2_15_DESC]"
+  ],
+  "102105": [
+    "[STORY_MAIN_finalS1_2_16_NAME]",
+    "[STORY_MAIN_finalS1_2_16_DESC]"
+  ],
+  "102110": [
+    "[STORY_MAIN_finalS1_2_17_NAME]",
+    "[STORY_MAIN_finalS1_2_17_DESC]"
+  ],
+  "102115": [
+    "[STORY_MAIN_finalS1_2_18_NAME]",
+    "[STORY_MAIN_finalS1_2_18_DESC]"
+  ],
+  "102120": [
+    "[STORY_MAIN_finalS1_2_19_NAME]",
+    "[STORY_MAIN_finalS1_2_19_DESC]"
+  ],
+  "102125": [
+    "[STORY_MAIN_finalS1_2_20_NAME]",
+    "[STORY_MAIN_finalS1_2_20_DESC]"
+  ],
+  "102130": [
+    "[STORY_MAIN_finalS1_2_21_NAME]",
+    "[STORY_MAIN_finalS1_2_21_DESC]"
+  ],
+  "102135": [
+    "[STORY_MAIN_finalS1_2_22_NAME]",
+    "[STORY_MAIN_finalS1_2_22_DESC]"
+  ],
+  "102140": [
+    "[STORY_MAIN_finalS1_2_23_NAME]",
+    "[STORY_MAIN_finalS1_2_23_DESC]"
+  ],
+  "102145": [
+    "[STORY_MAIN_finalS1_2_24_NAME]",
+    "[STORY_MAIN_finalS1_2_24_DESC]"
+  ],
+  "102150": [
+    "[STORY_MAIN_finalS1_2_25_NAME]",
+    "[STORY_MAIN_finalS1_2_25_DESC]"
+  ],
+  "102155": [
+    "[STORY_MAIN_finalS1_2_26_NAME]",
+    "[STORY_MAIN_finalS1_2_26_DESC]"
+  ],
+  "102160": [
+    "[STORY_MAIN_finalS1_2_27_NAME]",
+    "[STORY_MAIN_finalS1_2_27_DESC]"
+  ],
+  "102165": [
+    "[STORY_MAIN_finalS1_2_28_NAME]",
+    "[STORY_MAIN_finalS1_2_28_DESC]"
+  ],
+  "102170": [
+    "[STORY_MAIN_finalS1_2_29_NAME]",
+    "[STORY_MAIN_finalS1_2_29_DESC]"
+  ],
+  "102175": [
+    "[STORY_MAIN_finalS1_2_30_NAME]",
+    "[STORY_MAIN_finalS1_2_30_DESC]"
+  ],
+  "102180": [
+    "[STORY_MAIN_finalS1_2_31_NAME]",
+    "[STORY_MAIN_finalS1_2_31_DESC]"
+  ],
+  "102185": [
+    "[STORY_MAIN_finalS1_2_32_NAME]",
+    "[STORY_MAIN_finalS1_2_32_DESC]"
+  ],
+  "102190": [
+    "[STORY_MAIN_finalS1_2_33_NAME]",
+    "[STORY_MAIN_finalS1_2_33_DESC]"
+  ],
+  "102195": [
+    "[STORY_MAIN_finalS1_2_34_NAME]",
+    "[STORY_MAIN_finalS1_2_34_DESC]"
+  ],
+  "102200": [
+    "[STORY_MAIN_finalS1_2_35_NAME]",
+    "[STORY_MAIN_finalS1_2_35_DESC]"
+  ],
+  "102205": [
+    "[STORY_MAIN_finalS1_2_36_NAME]",
+    "[STORY_MAIN_finalS1_2_36_DESC]"
+  ],
+  "102210": [
+    "[STORY_MAIN_finalS1_2_37_NAME]",
+    "[STORY_MAIN_finalS1_2_37_DESC]"
+  ],
+  "103010": [
+    "[STORY_MAIN_finalS1_3_1_NAME]",
+    "[STORY_MAIN_finalS1_3_1_DESC]"
+  ],
+  "103020": [
+    "[STORY_MAIN_finalS1_3_2_NAME]",
+    "[STORY_MAIN_finalS1_3_2_DESC]"
+  ],
+  "103030": [
+    "[STORY_MAIN_finalS1_3_3_NAME]",
+    "[STORY_MAIN_finalS1_3_3_DESC]"
+  ],
+  "103040": [
+    "[STORY_MAIN_finalS1_3_4_NAME]",
+    "[STORY_MAIN_finalS1_3_4_DESC]"
+  ],
+  "103050": [
+    "[STORY_MAIN_finalS1_3_5_NAME]",
+    "[STORY_MAIN_finalS1_3_5_DESC]"
+  ],
+  "103055": [
+    "[STORY_MAIN_finalS1_3_6_NAME]",
+    "[STORY_MAIN_finalS1_3_6_DESC]"
+  ],
+  "103060": [
+    "[STORY_MAIN_finalS1_3_7_NAME]",
+    "[STORY_MAIN_finalS1_3_7_DESC]"
+  ],
+  "103070": [
+    "[STORY_MAIN_finalS1_3_8_NAME]",
+    "[STORY_MAIN_finalS1_3_8_DESC]"
+  ],
+  "103080": [
+    "[STORY_MAIN_finalS1_3_9_NAME]",
+    "[STORY_MAIN_finalS1_3_9_DESC]"
+  ],
+  "103090": [
+    "[STORY_MAIN_finalS1_3_10_NAME]",
+    "[STORY_MAIN_finalS1_3_10_DESC]"
+  ],
+  "103100": [
+    "[STORY_MAIN_finalS1_3_11_NAME]",
+    "[STORY_MAIN_finalS1_3_11_DESC]"
+  ],
+  "103110": [
+    "[STORY_MAIN_finalS1_3_12_NAME]",
+    "[STORY_MAIN_finalS1_3_12_DESC]"
+  ],
+  "103120": [
+    "[STORY_MAIN_finalS1_3_13_NAME]",
+    "[STORY_MAIN_finalS1_3_13_DESC]"
+  ],
+  "103130": [
+    "[STORY_MAIN_finalS1_3_14_NAME]",
+    "[STORY_MAIN_finalS1_3_14_DESC]"
+  ],
+  "103140": [
+    "[STORY_MAIN_finalS1_3_15_NAME]",
+    "[STORY_MAIN_finalS1_3_15_DESC]"
+  ],
+  "103145": [
+    "[STORY_MAIN_finalS1_3_16_NAME]",
+    "[STORY_MAIN_finalS1_3_16_DESC]"
+  ],
+  "103150": [
+    "[STORY_MAIN_finalS1_3_17_NAME]",
+    "[STORY_MAIN_finalS1_3_17_DESC]"
+  ],
+  "103160": [
+    "[STORY_MAIN_finalS1_3_18_NAME]",
+    "[STORY_MAIN_finalS1_3_18_DESC]"
+  ],
+  "104010": [
+    "[STORY_MAIN_finalS1_4_1_NAME]",
+    "[STORY_MAIN_finalS1_4_1_DESC]"
+  ],
+  "104020": [
+    "[STORY_MAIN_finalS1_4_2_NAME]",
+    "[STORY_MAIN_finalS1_4_2_DESC]"
+  ],
+  "104030": [
+    "[STORY_MAIN_finalS1_4_3_NAME]",
+    "[STORY_MAIN_finalS1_4_3_DESC]"
+  ],
+  "104035": [
+    "[STORY_MAIN_finalS1_4_4_NAME]",
+    "[STORY_MAIN_finalS1_4_4_DESC]"
+  ],
+  "104040": [
+    "[STORY_MAIN_finalS1_4_5_NAME]",
+    "[STORY_MAIN_finalS1_4_5_DESC]"
+  ],
+  "104050": [
+    "[STORY_MAIN_finalS1_4_6_NAME]",
+    "[STORY_MAIN_finalS1_4_6_DESC]"
+  ],
+  "104060": [
+    "[STORY_MAIN_finalS1_4_7_NAME]",
+    "[STORY_MAIN_finalS1_4_7_DESC]"
+  ],
+  "104070": [
+    "[STORY_MAIN_finalS1_4_8_NAME]",
+    "[STORY_MAIN_finalS1_4_8_DESC]"
+  ],
+  "104080": [
+    "[STORY_MAIN_finalS1_4_9_NAME]",
+    "[STORY_MAIN_finalS1_4_9_DESC]"
+  ],
+  "104090": [
+    "[STORY_MAIN_finalS1_4_10_NAME]",
+    "[STORY_MAIN_finalS1_4_10_DESC]"
+  ],
+  "104100": [
+    "[STORY_MAIN_finalS1_4_11_NAME]",
+    "[STORY_MAIN_finalS1_4_11_DESC]"
+  ],
+  "104110": [
+    "[STORY_MAIN_finalS1_4_12_NAME]",
+    "[STORY_MAIN_finalS1_4_12_DESC]"
+  ],
+  "104120": [
+    "[STORY_MAIN_finalS1_4_13_NAME]",
+    "[STORY_MAIN_finalS1_4_13_DESC]"
+  ],
+  "1101": [
+    "[STORY_SIDE_11_1_NAME]",
+    "[STORY_SIDE_11_1_DESC]"
+  ],
+  "1102": [
+    "[STORY_SIDE_11_2_NAME]",
+    "[STORY_SIDE_11_2_DESC]"
+  ],
+  "1103": [
+    "[STORY_SIDE_11_3_NAME]",
+    "[STORY_SIDE_11_3_DESC]"
+  ],
+  "1104": [
+    "[STORY_SIDE_11_4_NAME]",
+    "[STORY_SIDE_11_4_DESC]"
+  ],
+  "1201": [
+    "[STORY_SIDE_12_1_NAME]",
+    "[STORY_SIDE_12_1_DESC]"
+  ],
+  "1202": [
+    "[STORY_SIDE_12_2_NAME]",
+    "[STORY_SIDE_12_2_DESC]"
+  ],
+  "1203": [
+    "[STORY_SIDE_12_3_NAME]",
+    "[STORY_SIDE_12_3_DESC]"
+  ],
+  "1301": [
+    "[STORY_SIDE_13_1_NAME]",
+    "[STORY_SIDE_13_1_DESC]"
+  ],
+  "1302": [
+    "[STORY_SIDE_13_2_NAME]",
+    "[STORY_SIDE_13_2_DESC]"
+  ],
+  "1303": [
+    "[STORY_SIDE_13_3_NAME]",
+    "[STORY_SIDE_13_3_DESC]"
+  ],
+  "1401": [
+    "[STORY_SIDE_14_1_NAME]",
+    "[STORY_SIDE_14_1_DESC]"
+  ],
+  "1402": [
+    "[STORY_SIDE_14_2_NAME]",
+    "[STORY_SIDE_14_2_DESC]"
+  ],
+  "1403": [
+    "[STORY_SIDE_14_3_NAME]",
+    "[STORY_SIDE_14_3_DESC]"
+  ],
+  "1501": [
+    "[STORY_SIDE_15_1_NAME]",
+    "[STORY_SIDE_15_1_DESC]"
+  ],
+  "1502": [
+    "[STORY_SIDE_15_2_NAME]",
+    "[STORY_SIDE_15_2_DESC]"
+  ],
+  "1503": [
+    "[STORY_SIDE_15_3_NAME]",
+    "[STORY_SIDE_15_3_DESC]"
+  ],
+  "1601": [
+    "[STORY_SIDE_16_1_NAME]",
+    "[STORY_SIDE_16_1_DESC]"
+  ],
+  "1602": [
+    "[STORY_SIDE_16_2_NAME]",
+    "[STORY_SIDE_16_2_DESC]"
+  ],
+  "1701": [
+    "[STORY_SIDE_17_1_NAME]",
+    "[STORY_SIDE_17_1_DESC]"
+  ],
+  "1702": [
+    "[STORY_SIDE_17_2_NAME]",
+    "[STORY_SIDE_17_2_DESC]"
+  ],
+  "1703": [
+    "[STORY_SIDE_17_3_NAME]",
+    "[STORY_SIDE_17_3_DESC]"
+  ],
+  "1801": [
+    "[STORY_SIDE_18_1_NAME]",
+    "[STORY_SIDE_18_1_DESC]"
+  ],
+  "1802": [
+    "[STORY_SIDE_18_2_NAME]",
+    "[STORY_SIDE_18_2_DESC]"
+  ],
+  "1901": [
+    "[STORY_SIDE_19_1_NAME]",
+    "[STORY_SIDE_19_1_DESC]"
+  ],
+  "1902": [
+    "[STORY_SIDE_19_2_NAME]",
+    "[STORY_SIDE_19_2_DESC]"
+  ],
+  "2001": [
+    "[STORY_SIDE_20_1_NAME]",
+    "[STORY_SIDE_20_1_DESC]"
+  ],
+  "2002": [
+    "[STORY_SIDE_20_2_NAME]",
+    "[STORY_SIDE_20_2_DESC]"
+  ],
+  "2101": [
+    "[STORY_SIDE_21_1_NAME]",
+    "[STORY_SIDE_21_1_DESC]"
+  ],
+  "2102": [
+    "[STORY_SIDE_21_2_NAME]",
+    "[STORY_SIDE_21_2_DESC]"
+  ],
+  "2201": [
+    "[STORY_SIDE_22_1_NAME]",
+    "[STORY_SIDE_22_1_DESC]"
+  ],
+  "2301": [
+    "[STORY_SIDE_23_1_NAME]",
+    "[STORY_SIDE_23_1_DESC]"
+  ],
+  "2302": [
+    "[STORY_SIDE_23_2_NAME]",
+    "[STORY_SIDE_23_2_DESC]"
+  ],
+  "2401": [
+    "[STORY_SIDE_24_1_NAME]",
+    "[STORY_SIDE_24_1_DESC]"
+  ],
+  "2402": [
+    "[STORY_SIDE_24_2_NAME]",
+    "[STORY_SIDE_24_2_DESC]"
+  ],
+  "2403": [
+    "[STORY_SIDE_24_3_NAME]",
+    "[STORY_SIDE_24_3_DESC]"
+  ],
+  "2404": [
+    "[STORY_SIDE_24_4_NAME]",
+    "[STORY_SIDE_24_4_DESC]"
+  ],
+  "2501": [
+    "[STORY_SIDE_25_1_NAME]",
+    "[STORY_SIDE_25_1_DESC]"
+  ],
+  "2502": [
+    "[STORY_SIDE_25_2_NAME]",
+    "[STORY_SIDE_25_2_DESC]"
+  ],
+  "2601": [
+    "[STORY_SIDE_26_1_NAME]",
+    "[STORY_SIDE_26_1_DESC]"
+  ],
+  "2602": [
+    "[STORY_SIDE_26_2_NAME]",
+    "[STORY_SIDE_26_2_DESC]"
+  ],
+  "2701": [
+    "[STORY_SIDE_27_1_NAME]",
+    "[STORY_SIDE_27_1_DESC]"
+  ],
+  "2702": [
+    "[STORY_SIDE_27_2_NAME]",
+    "[STORY_SIDE_27_2_DESC]"
+  ],
+  "2801": [
+    "[STORY_SIDE_28_1_NAME]",
+    "[STORY_SIDE_28_1_DESC]"
+  ],
+  "2802": [
+    "[STORY_SIDE_28_2_NAME]",
+    "[STORY_SIDE_28_2_DESC]"
+  ],
+  "2901": [
+    "[STORY_SIDE_29_1_NAME]",
+    "[STORY_SIDE_29_1_DESC]"
+  ],
+  "2902": [
+    "[STORY_SIDE_29_2_NAME]",
+    "[STORY_SIDE_29_2_DESC]"
+  ],
+  "3001": [
+    "[STORY_SIDE_30_1_NAME]",
+    "[STORY_SIDE_30_1_DESC]"
+  ],
+  "3002": [
+    "[STORY_SIDE_30_2_NAME]",
+    "[STORY_SIDE_30_2_DESC]"
+  ],
+  "3003": [
+    "[STORY_SIDE_30_3_NAME]",
+    "[STORY_SIDE_30_3_DESC]"
+  ],
+  "3101": [
+    "[STORY_SIDE_31_1_NAME]",
+    "[STORY_SIDE_31_1_DESC]"
+  ],
+  "3102": [
+    "[STORY_SIDE_31_2_NAME]",
+    "[STORY_SIDE_31_2_DESC]"
+  ],
+  "3103": [
+    "[STORY_SIDE_31_3_NAME]",
+    "[STORY_SIDE_31_3_DESC]"
+  ],
+  "3201": [
+    "[STORY_SIDE_32_1_NAME]",
+    "[STORY_SIDE_32_1_DESC]"
+  ],
+  "3202": [
+    "[STORY_SIDE_32_2_NAME]",
+    "[STORY_SIDE_32_2_DESC]"
+  ],
+  "3301": [
+    "[STORY_SIDE_33_1_NAME]",
+    "[STORY_SIDE_33_1_DESC]"
+  ],
+  "3302": [
+    "[STORY_SIDE_33_2_NAME]",
+    "[STORY_SIDE_33_2_DESC]"
+  ],
+  "3303": [
+    "[STORY_SIDE_33_3_NAME]",
+    "[STORY_SIDE_33_3_DESC]"
+  ],
+  "70000010": [
+    "[STORY_SHORT_70000_1_NAME]",
+    "[STORY_SHORT_70000_1_DESC]"
+  ],
+  "70000020": [
+    "[STORY_SHORT_70000_2_NAME]",
+    "[STORY_SHORT_70000_2_DESC]"
+  ],
+  "70001010": [
+    "[STORY_SHORT_70001_1_NAME]",
+    "[STORY_SHORT_70001_1_DESC]"
+  ],
+  "70001020": [
+    "[STORY_SHORT_70001_2_NAME]",
+    "[STORY_SHORT_70001_2_DESC]"
+  ],
+  "70001030": [
+    "[STORY_SHORT_70001_3_NAME]",
+    "[STORY_SHORT_70001_3_DESC]"
+  ],
+  "70002010": [
+    "[STORY_SHORT_70002_1_NAME]",
+    "[STORY_SHORT_70002_1_DESC]"
+  ],
+  "70002020": [
+    "[STORY_SHORT_70002_2_NAME]",
+    "[STORY_SHORT_70002_2_DESC]"
+  ]
+}

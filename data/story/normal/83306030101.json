@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いたずら電話に苛立ちを覚えていないわけではありませんが……",
+      "j_ko": "아무런 의미도 없는 장난 전화를 받는 건, 단지 짜증이 나고 마는 일이지만.",
+      "g_ja": "いたずら電話に苛立ちを覚えていないわけではありませんが……",
+      "g_ko": "아무런 의미도 없는 장난 전화를 받는 건, 단지 짜증이 나고 마는 일이지만.",
+      "g_en": "In the grand scheme of things, prank calls are a minor nuisance.",
+      "g_th": "ถึงการรับโทรศัพท์ก่อกวนที่ไม่มีความหมายอะไรเลยจะเป็นเรื่องน่าหงุดหงิด",
+      "g_tw": "接到沒意義的惡作劇電話，其實也只會讓人覺得煩躁而已。",
+      "g_tw_cn": "接到没意义的恶作剧电话，其实也只会让人觉得烦躁而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;06;아무런 의미도 없는 장난 전화를 받는 건, 단지 짜증이 나고 마는 일이지만.\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何よりも、そのせいで他の対応がおろそかになって、問題が大きくなってからでは遅いです。",
+      "j_ko": "문제는 그런 전화 때문에 정말로 저희가 나서야할 일이 전해지지 않거나, 바로 대응할 수 없다면……",
+      "g_ja": "何よりも、そのせいで他の対応がおろそかになって、問題が大きくなってからでは遅いです。",
+      "g_ko": "문제는 그런 전화 때문에 정말로 저희가 나서야할 일이 전해지지 않거나, 바로 대응할 수 없다면……",
+      "g_en": "But if one prevents us from answering a call for help or delays our response in any way...",
+      "g_th": "แต่ปัญหาก็คือ ถ้าโทรศัพท์สายแบบนั้นทำให้เราไม่ได้ออกไปทำงานที่ต้องทำจริงๆ หรือทำให้รับมือ<br/>ได้ล่าช้าละก็...",
+      "g_tw": "但問題在於……如果因為這種電話，導致重要情報無法傳達或有所延誤……",
+      "g_tw_cn": "但问题在于……如果因为这种电话，导致重要情报无法传达或有所延误……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;09;문제는 그런 전화 때문에 정말로 저희가 나서야할 일이 전해지지 않거나, 바로 대응할 수 없다면……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "できるだけ早急に対処しておきたいのが本音でした。",
+      "j_ko": "네, 그런 일은 있어선 안 되니까요. 장난 전화의 범인은 꼭 잡고 싶어요.",
+      "g_ja": "できるだけ早急に対処しておきたいのが本音でした。",
+      "g_ko": "네, 그런 일은 있어선 안 되니까요. 장난 전화의 범인은 꼭 잡고 싶어요.",
+      "g_en": "That would be inexcusable. I'll catch the culprit and hold them responsible, if I can.",
+      "g_th": "ใช่ค่ะ เราจะให้เกิดเรื่องแบบนั้นไม่ได้ ฉันละอยากจับตัวคนที่โทรมาแกล้งให้ได้จังเลยค่ะ",
+      "g_tw": "這種事絕對不能發生。<br/>必須趕緊抓到惡作劇電話的犯人才行。",
+      "g_tw_cn": "这种事绝对不能发生。<br/>必须赶紧抓到恶作剧电话的犯人才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;05;네, 그런 일은 있어선 안 되니까요. 장난 전화의 범인은 꼭 잡고 싶어요.\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_02",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあこれは…。",
+      "j_ko": "음 이건....",
+      "g_ja": "まあこれは…。",
+      "g_ko": "음 이건....",
+      "g_en": "Um, this is...",
+      "g_th": "อืม นี่มัน...",
+      "g_tw": "嗯，這……",
+      "g_tw_cn": "嗯，这……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;01;음 이건....",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

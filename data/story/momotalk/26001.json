@@ -1,0 +1,707 @@
+[
+  {
+    "BondScenarioId": 2600102,
+    "Data": [
+      {
+        "GroupId": 260010010,
+        "Id": 1558,
+        "CharacterId": 26001,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010020,
+        "Message": {
+          "j_ko": "선생님, 선생님.",
+          "j_ja": "先生、先生",
+          "g_en": "Sensei! Sensei!",
+          "g_tw": "老師，老師",
+          "g_tw_cn": "老师，老师",
+          "g_ja": "先生、先生",
+          "g_ko": "선생님, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010020,
+        "Id": 1559,
+        "CharacterId": 26001,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010030,
+        "Message": {
+          "j_ko": "선생님은 특별히 좋아하는 물건이 있으십니까?",
+          "j_ja": "先生は、何かいつも大事にしているものはありますか？",
+          "g_en": "Is there something that you particularly like?",
+          "g_tw": "老師有什麼一直都很重視的東西嗎？",
+          "g_tw_cn": "老师有什么一直都很重视的东西吗？",
+          "g_ja": "先生は、何かいつも大事にしているものはありますか？",
+          "g_ko": "선생님은 특별히 좋아하는 물건이 있으십니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010030,
+        "Id": 1560,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010040,
+        "Message": {
+          "j_ko": "갑자기 그렇게 물어봐도 잘 모르겠는데…….",
+          "j_ja": "パッと思いつくものは無いかな……",
+          "g_en": "That's a very broad question...",
+          "g_tw": "一時之間想不太到……",
+          "g_tw_cn": "一时之间想不太到……",
+          "g_ja": "パッと思いつくものは無いかな……",
+          "g_ko": "갑자기 그렇게 물어봐도 잘 모르겠는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010040,
+        "Id": 1561,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010050,
+        "Message": {
+          "j_ko": "특별히 좋아해서 수집하는 물건은 없으신가요?",
+          "j_ja": "特別に好きで、集めているものは？",
+          "g_en": "Like something you collect?",
+          "g_tw": "有沒有特別喜歡、收藏的東西呢？",
+          "g_tw_cn": "有没有特别喜欢、收藏的东西呢？",
+          "g_ja": "特別に好きで、集めているものは？",
+          "g_ko": "특별히 좋아해서 수집하는 물건은 없으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010040,
+        "Id": 1562,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010050,
+        "Message": {
+          "j_ko": "특별히 좋아해서 하루 종일 들고 다니는 물건은 없으신가요?",
+          "j_ja": "お気に入りで、一日中持ち歩いてるものは？",
+          "g_en": "Or something you carry around all day long?",
+          "g_tw": "或者是很中意、總是帶在身邊的東西呢？",
+          "g_tw_cn": "或者是很中意、总是带在身边的东西呢？",
+          "g_ja": "お気に入りで、一日中持ち歩いてるものは？",
+          "g_ko": "특별히 좋아해서 하루 종일 들고 다니는 물건은 없으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010040,
+        "Id": 1563,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010050,
+        "Message": {
+          "j_ko": "특별히 좋아해서 몸에서 조금이라도 떨어지면 불안을 느끼는 물건은 없으신가요?",
+          "j_ja": "肌身離さず持っていて、少し手放すと不安になるもの、何かありませんか？",
+          "g_en": "Like if you leave it behind, you feel anxious all day?",
+          "g_tw": "還是說有從不離身，只要一放手就渾身不安的東西呢？",
+          "g_tw_cn": "还是说有从不离身，只要一放手就浑身不安的东西呢？",
+          "g_ja": "肌身離さず持っていて、少し手放すと不安になるもの、何かありませんか？",
+          "g_ko": "특별히 좋아해서 몸에서 조금이라도 떨어지면 불안을 느끼는 물건은 없으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010050,
+        "Id": 1564,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010060,
+        "Message": {
+          "j_ko": "……그런 특별한 취향은 내게 없어.",
+          "j_ja": "そこまで執着するようなものは、私にはないかなあ……",
+          "g_en": "Not really...",
+          "g_tw": "我好像沒有執著到這種程度的東西……",
+          "g_tw_cn": "我好像没有执着到这种程度的东西……",
+          "g_ja": "そこまで執着するようなものは、私にはないかなあ……",
+          "g_ko": "……그런 특별한 취향은 내게 없어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010060,
+        "Id": 1565,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010070,
+        "Message": {
+          "j_ko": "그런가요……. 조금 어렵게 되었군요.",
+          "j_ja": "そうですか……難しいですね",
+          "g_en": "Really? Then that might make things difficult...",
+          "g_tw": "是嗎……這下麻煩了",
+          "g_tw_cn": "是吗……这下麻烦了",
+          "g_ja": "そうですか……難しいですね",
+          "g_ko": "그런가요……. 조금 어렵게 되었군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010070,
+        "Id": 1566,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010080,
+        "Message": {
+          "j_ko": "뭐가 어렵다는 말이야?",
+          "j_ja": "何が難しいの？",
+          "g_en": "What will be difficult?",
+          "g_tw": "什麼麻煩？",
+          "g_tw_cn": "什么麻烦？",
+          "g_ja": "何が難しいの？",
+          "g_ko": "뭐가 어렵다는 말이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010080,
+        "Id": 1567,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260012,
+        "NextGroupId": 260010090,
+        "Message": {
+          "j_ko": "아무것도 아닙니다.",
+          "j_ja": "いえ、何でもありません",
+          "g_en": "Never mind.",
+          "g_tw": "不，沒什麼",
+          "g_tw_cn": "不，没什么",
+          "g_ja": "いえ、何でもありません",
+          "g_ko": "아무것도 아닙니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2600103,
+    "Data": [
+      {
+        "GroupId": 260010090,
+        "Id": 1568,
+        "CharacterId": 26001,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010100,
+        "Message": {
+          "j_ko": "선생님, <메리 씨의 전화>라는 괴담을 알고 있으신가요?",
+          "j_ja": "先生、「メリーさんの電話」という怪談をご存知ですか？",
+          "g_en": "Have you heard of a ghost story called Mary's Calling, Sensei?",
+          "g_tw": "老師，你有聽過「瑪莉的電話」這個鬼故事嗎？",
+          "g_tw_cn": "老师，你有听过「玛莉的电话」这个鬼故事吗？",
+          "g_ja": "先生、「メリーさんの電話」という怪談をご存知ですか？",
+          "g_ko": "선생님, <메리 씨의 전화>라는 괴담을 알고 있으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010100,
+        "Id": 1569,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010110,
+        "Message": {
+          "j_ko": "잘 모르겠는데.",
+          "j_ja": "聞いたことないかも",
+          "g_en": "Never heard of it.",
+          "g_tw": "好像沒聽過",
+          "g_tw_cn": "好像没听过",
+          "g_ja": "聞いたことないかも",
+          "g_ko": "잘 모르겠는데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010110,
+        "Id": 1570,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010120,
+        "Message": {
+          "j_ko": "<메리 씨의 전화>는 어느 소녀가 메리라는 이름의 인형을 버리자, 그 인형이 소녀에게 직접 전화를 걸어온다는 내용의 괴담입니다.",
+          "j_ja": "ある少女の元に、昔捨てたはずのメリーという人形から電話が来るんです",
+          "g_en": "Mary's Calling is a scary story about a little girl with a doll named Mary. When the girl throws the doll away, the doll starts calling for her.",
+          "g_tw": "有個少女某天接到了一通電話，是她以前丟掉的，一個名叫瑪莉的人偶打來的",
+          "g_tw_cn": "有个少女某天接到了一通电话，是她以前丢掉的，一个名叫玛莉的人偶打来的",
+          "g_ja": "ある少女の元に、昔捨てたはずのメリーという人形から電話が来るんです",
+          "g_ko": "<메리 씨의 전화>는 어느 소녀가 메리라는 이름의 인형을 버리자, 그 인형이 소녀에게 직접 전화를 걸어온다는 내용의 괴담입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010110,
+        "Id": 1571,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010120,
+        "Message": {
+          "j_ko": "이 괴담의 무서운 포인트는 전화를 걸 때마다 메리의 위치가 점점 소녀에게 가까워지다가 마지막에는 등 뒤에서 인형이 나타난다는 점이지요.",
+          "j_ja": "怖いのは、電話が来るたびにメリーさんが徐々に近づいてくるという……",
+          "g_en": "The scary part is that each time Mary calls the little girl, she gets closer and closer to her. At the end, the doll appears right behind the little girl.",
+          "g_tw": "可怕的是，每次電話打過來的時候，瑪莉就會慢慢的靠近……",
+          "g_tw_cn": "可怕的是，每次电话打过来的时候，玛莉就会慢慢的靠近……",
+          "g_ja": "怖いのは、電話が来るたびにメリーさんが徐々に近づいてくるという……",
+          "g_ko": "이 괴담의 무서운 포인트는 전화를 걸 때마다 메리의 위치가 점점 소녀에게 가까워지다가 마지막에는 등 뒤에서 인형이 나타난다는 점이지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010120,
+        "Id": 1572,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010130,
+        "Message": {
+          "j_ko": "그런데 갑자기 괴담은 왜?",
+          "j_ja": "そういう話なんだ……ところで、どうして急にそんな怪談を？",
+          "g_en": "And why are you telling me this?",
+          "g_tw": "原來是這樣啊……話說為什麼突然要講鬼故事？",
+          "g_tw_cn": "原来是这样啊……话说为什么突然要讲鬼故事？",
+          "g_ja": "そういう話なんだ……ところで、どうして急にそんな怪談を？",
+          "g_ko": "그런데 갑자기 괴담은 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010130,
+        "Id": 1573,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010140,
+        "Message": {
+          "j_ko": "그냥, 갑자기 궁금해져서 그렇습니다.",
+          "j_ja": "特に意味はありません、何となくです",
+          "g_en": "I don't know. I was just curious if you'd heard of it.",
+          "g_tw": "沒什麼特別的意思，心血來潮而已",
+          "g_tw_cn": "没什么特别的意思，心血来潮而已",
+          "g_ja": "特に意味はありません、何となくです",
+          "g_ko": "그냥, 갑자기 궁금해져서 그렇습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010140,
+        "Id": 1574,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010150,
+        "Message": {
+          "j_ko": "이 전화를 역추적한다면 메리 씨는 어디서 전화를 걸고 있는 것으로 표시될까요?",
+          "j_ja": "……その電話を逆探知したら、メリーさんの居場所が分かりますね",
+          "g_en": "If you could trace back her calls, I wonder if you would see where Mary is calling from?",
+          "g_tw": "……如果反追蹤那個電話號碼的話，應該就能知道瑪莉在哪裡了",
+          "g_tw_cn": "……如果反追踪那个电话号码的话，应该就能知道玛莉在哪里了",
+          "g_ja": "……その電話を逆探知したら、メリーさんの居場所が分かりますね",
+          "g_ko": "이 전화를 역추적한다면 메리 씨는 어디서 전화를 걸고 있는 것으로 표시될까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010140,
+        "Id": 1575,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010150,
+        "Message": {
+          "j_ko": "언젠가 메리 씨가 제 핸드폰에도 전화를 걸어왔으면 좋겠습니다.",
+          "j_ja": "メリーさん、私のスマホに電話をかけてきてくれないでしょうか",
+          "g_en": "I wish Mary would call me sometime.",
+          "g_tw": "瑪莉，能不能打電話給我呢",
+          "g_tw_cn": "玛莉，能不能打电话给我呢",
+          "g_ja": "メリーさん、私のスマホに電話をかけてきてくれないでしょうか",
+          "g_ko": "언젠가 메리 씨가 제 핸드폰에도 전화를 걸어왔으면 좋겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010150,
+        "Id": 1576,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 260013,
+        "NextGroupId": 260010160,
+        "Message": {
+          "j_ko": "무, 무서워……!",
+          "j_ja": "怖いよ……",
+          "g_en": "How spooky!",
+          "g_tw": "好可怕……",
+          "g_tw_cn": "好可怕……",
+          "g_ja": "怖いよ……",
+          "g_ko": "무, 무서워……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2600105,
+    "Data": [
+      {
+        "GroupId": 260010160,
+        "Id": 1577,
+        "CharacterId": 26001,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010170,
+        "Message": {
+          "j_ko": "선생님, 혹시 최근에 이상한 내용의 전화를 받으신 적은 없으십니까?",
+          "j_ja": "先生、もしかして最近、変な電話がかかってきませんでしたか？",
+          "g_en": "Have you received any strange calls lately?",
+          "g_tw": "老師，難道說你最近有接到奇怪的電話嗎？",
+          "g_tw_cn": "老师，难道说你最近有接到奇怪的电话吗？",
+          "g_ja": "先生、もしかして最近、変な電話がかかってきませんでしたか？",
+          "g_ko": "선생님, 혹시 최근에 이상한 내용의 전화를 받으신 적은 없으십니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010170,
+        "Id": 1578,
+        "CharacterId": 26001,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010180,
+        "Message": {
+          "j_ko": "뭔가 위험해 보이는 사람이 위험한 말을 한다든가…….",
+          "j_ja": "怖い人から通話がかかってきたとか、怪しい内容の電話が来たとか……",
+          "g_en": "Like, has a suspicious person said anything scary to you?",
+          "g_tw": "像是可怕的人打來的電話，或是內容很奇怪的電話之類的……",
+          "g_tw_cn": "像是可怕的人打来的电话，或是内容很奇怪的电话之类的……",
+          "g_ja": "怖い人から通話がかかってきたとか、怪しい内容の電話が来たとか……",
+          "g_ko": "뭔가 위험해 보이는 사람이 위험한 말을 한다든가……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010180,
+        "Id": 1579,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010190,
+        "Message": {
+          "j_ko": "특별히 기억에 남는 전화는 없는데. 왜?",
+          "j_ja": "特に無かったと思うけど、どうして？",
+          "g_en": "Not that I can recall. Why?",
+          "g_tw": "好像沒什麼特別的電話，怎麼了嗎？",
+          "g_tw_cn": "好像没什么特别的电话，怎么了吗？",
+          "g_ja": "特に無かったと思うけど、どうして？",
+          "g_ko": "특별히 기억에 남는 전화는 없는데. 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010190,
+        "Id": 1580,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010200,
+        "Message": {
+          "j_ko": "그게 사실은…….",
+          "j_ja": "実は……",
+          "g_en": "The truth is...",
+          "g_tw": "其實……",
+          "g_tw_cn": "其实……",
+          "g_ja": "実は……",
+          "g_ko": "그게 사실은……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010200,
+        "Id": 1581,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260015,
+        "NextGroupId": 260010210,
+        "Message": {
+          "j_ko": "아니, 나중에 말씀드리겠습니다.",
+          "j_ja": "いえ、後ほど直接お話します",
+          "g_en": "Never mind. I'll tell you next time.",
+          "g_tw": "不，我之後直接跟你說",
+          "g_tw_cn": "不，我之后直接跟你说",
+          "g_ja": "いえ、後ほど直接お話します",
+          "g_ko": "아니, 나중에 말씀드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2600106,
+    "Data": [
+      {
+        "GroupId": 260010210,
+        "Id": 260010010,
+        "CharacterId": 26001,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010220,
+        "Message": {
+          "j_ko": "……아.",
+          "j_ja": "……あ",
+          "g_en": "...So.",
+          "g_tw": "……啊",
+          "g_tw_cn": "……啊",
+          "g_ja": "……あ",
+          "g_ko": "……아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010220,
+        "Id": 260010020,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010230,
+        "Message": {
+          "j_ko": "무슨 일이야?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's up?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010230,
+        "Id": 260010030,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010240,
+        "Message": {
+          "j_ko": "그게…… 컴퓨터와 연결된 이어폰을 착용하고 있다는 사실을 잊은 채 자리에서 일어나는 바람에 의자 위로 넘어질 뻔했습니다.",
+          "j_ja": "パソコンにイヤホンを繋げたまま立ち上がって、危うく転びそうに",
+          "g_en": "Well... I almost fell trying to get out of my chair. But only because the earphones I was wearing were connected to my computer.",
+          "g_tw": "耳機還插在電腦上就站起身來，差點就摔倒了",
+          "g_tw_cn": "耳机还插在电脑上就站起身来，差点就摔倒了",
+          "g_ja": "パソコンにイヤホンを繋げたまま立ち上がって、危うく転びそうに",
+          "g_ko": "그게…… 컴퓨터와 연결된 이어폰을 착용하고 있다는 사실을 잊은 채 자리에서 일어나는 바람에 의자 위로 넘어질 뻔했습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010240,
+        "Id": 260010040,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010250,
+        "Message": {
+          "j_ko": "음악에 몰두하다 보면 흔히 있는 일이지.",
+          "j_ja": "夢中になってるとよくあるよね",
+          "g_en": "That's the danger of listening to music that's too good I suppose.",
+          "g_tw": "聽得太入迷的時候常常會這樣呢",
+          "g_tw_cn": "听得太入迷的时候常常会这样呢",
+          "g_ja": "夢中になってるとよくあるよね",
+          "g_ko": "음악에 몰두하다 보면 흔히 있는 일이지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010250,
+        "Id": 260010050,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010260,
+        "Message": {
+          "j_ko": "네, 의외로 사람의 청각은 반복되는 자극에 쉽게 무디어지는 법이니까요.",
+          "j_ja": "はい。聴覚というものは、繰り返しの刺激には簡単に慣れてしまうものですから",
+          "g_en": "Yes, human hearing is surprisingly vulnerable to repetitive stimulus.",
+          "g_tw": "是的。聽覺這種東西，對於反覆的刺激是很容易習慣的",
+          "g_tw_cn": "是的。听觉这种东西，对于反复的刺激是很容易习惯的",
+          "g_ja": "はい。聴覚というものは、繰り返しの刺激には簡単に慣れてしまうものですから",
+          "g_ko": "네, 의외로 사람의 청각은 반복되는 자극에 쉽게 무디어지는 법이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010260,
+        "Id": 260010060,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010270,
+        "Message": {
+          "j_ko": "코타마는 평소에는 주로 어떤 음악을 들어?",
+          "j_ja": "コタマは普段、どんな音楽を聴くの？",
+          "g_en": "What sort of music do you listen to anyways?",
+          "g_tw": "小玉平常都聽什麼音樂？",
+          "g_tw_cn": "小玉平常都听什么音乐？",
+          "g_ja": "コタマは普段、どんな音楽を聴くの？",
+          "g_ko": "코타마는 평소에는 주로 어떤 음악을 들어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010270,
+        "Id": 260010070,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010280,
+        "Message": {
+          "j_ko": "제가 듣는 음악, 말입니까?",
+          "j_ja": "私がよく聞く音楽……",
+          "g_en": "The music I listen to?",
+          "g_tw": "我常聽的音樂嗎……",
+          "g_tw_cn": "我常听的音乐吗……",
+          "g_ja": "私がよく聞く音楽……",
+          "g_ko": "제가 듣는 음악, 말입니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010280,
+        "Id": 260010080,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010290,
+        "Message": {
+          "j_ko": "어, 그게…….",
+          "j_ja": "えっと、それは……",
+          "g_en": "Well, that is...",
+          "g_tw": "那個，是……",
+          "g_tw_cn": "那个，是……",
+          "g_ja": "えっと、それは……",
+          "g_ko": "어, 그게……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010280,
+        "Id": 260010090,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010290,
+        "Message": {
+          "j_ko": "…….",
+          "j_ja": "……",
+          "g_en": "...",
+          "g_tw": "……",
+          "g_tw_cn": "……",
+          "g_ja": "……",
+          "g_ko": "……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 260010290,
+            "Id": 260010100,
+            "CharacterId": 26001,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 260010300,
+            "Message": {
+              "j_ko": "비밀입니다.",
+              "j_ja": "秘密です",
+              "g_en": "It's a secret.",
+              "g_tw": "祕密",
+              "g_tw_cn": "秘密",
+              "g_ja": "秘密です",
+              "g_ko": "비밀입니다."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 260010290,
+        "Id": 260010100,
+        "CharacterId": 26001,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260010300,
+        "Message": {
+          "j_ko": "비밀입니다.",
+          "j_ja": "秘密です",
+          "g_en": "It's a secret.",
+          "g_tw": "祕密",
+          "g_tw_cn": "秘密",
+          "g_ja": "秘密です",
+          "g_ko": "비밀입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260010300,
+        "Id": 260010110,
+        "CharacterId": 26001,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 260016,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "어째서?!",
+          "j_ja": "なんで！？",
+          "g_en": "Why?!",
+          "g_tw": "為什麼！？",
+          "g_tw_cn": "为什么！？",
+          "g_ja": "なんで！？",
+          "g_ko": "어째서?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

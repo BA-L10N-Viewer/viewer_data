@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういえば……",
+      "j_ko": "흐음…… 그러고 보니……",
+      "g_ja": "そういえば……",
+      "g_ko": "흐음…… 그러고 보니……",
+      "g_en": "Hm... Now that I think of it...",
+      "g_th": "อืม... จะว่าไป...",
+      "g_tw": "啊……對了……",
+      "g_tw_cn": "啊……对了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;02;흐음…… 그러고 보니……\\n#4;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最近仕事が忙しくて、部屋を掃除できてなかったわ。",
+      "j_ko": "최근 업무가 바빠서 방 정리를 한 게 제법 오래된 것 같네.",
+      "g_ja": "最近仕事が忙しくて、部屋を掃除できてなかったわ。",
+      "g_ko": "최근 업무가 바빠서 방 정리를 한 게 제법 오래된 것 같네.",
+      "g_en": "I've had so much work to take care of that I've neglected the organization of my room...",
+      "g_th": "ช่วงนี้งานยุ่งซะจนไม่ได้จัดห้องมานานแล้วเลย",
+      "g_tw": "最近工作太忙，好像已經很久沒有整理房間了。",
+      "g_tw_cn": "最近工作太忙，好像已经很久没有整理房间了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;99;최근 업무가 바빠서 방 정리를 한 게 제법 오래된 것 같네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "思い出しついでに、やっておきましょうか。",
+      "j_ko": "마침 생각난 김에 이번 기회에 정리를 해둘까……",
+      "g_ja": "思い出しついでに、やっておきましょうか。",
+      "g_ko": "마침 생각난 김에 이번 기회에 정리를 해둘까……",
+      "g_en": "I should use this downtime to clean things up a bit...",
+      "g_th": "ไหนๆ ก็นึกขึ้นมาได้แล้ว งั้นจัดห้องดูสักหน่อยดีไหม...",
+      "g_tw": "既然想到了，就趁這個機會來整理吧……",
+      "g_tw_cn": "既然想到了，就趁这个机会来整理吧……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;01;마침 생각난 김에 이번 기회에 정리를 해둘까……\\n#4;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……よし。",
+      "j_ko": "………좋았어.",
+      "g_ja": "……よし。",
+      "g_ko": "………좋았어.",
+      "g_en": "...That should do for now.",
+      "g_th": "เอาละ...",
+      "g_tw": "……好。",
+      "g_tw_cn": "……好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;03;………좋았어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

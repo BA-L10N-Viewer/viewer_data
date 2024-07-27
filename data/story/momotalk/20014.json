@@ -1,0 +1,860 @@
+[
+  {
+    "BondScenarioId": 2001402,
+    "Data": [
+      {
+        "GroupId": 200140010,
+        "Id": 200140010,
+        "CharacterId": 20014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140020,
+        "Message": {
+          "j_ko": "선생님, 혹시 샬레에 반짇고리 있어?",
+          "j_ja": "先生、シャーレに裁縫箱はあるか？",
+          "g_en": "Sensei, is there a sewing box at Schale?",
+          "g_tw": "老師，夏萊有針線盒嗎？",
+          "g_tw_cn": "老师，夏莱有针线盒吗？",
+          "g_ja": "先生、シャーレに裁縫箱はあるか？",
+          "g_ko": "선생님, 혹시 샬레에 반짇고리 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140020,
+        "Id": 200140020,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140030,
+        "Message": {
+          "j_ko": "응, 사무실 책상에 있어.",
+          "j_ja": "うん、デスクの中にあるよ",
+          "g_en": "Yeah, on the office desk.",
+          "g_tw": "嗯，放在桌上哦",
+          "g_tw_cn": "嗯，放在桌上哦",
+          "g_ja": "うん、デスクの中にあるよ",
+          "g_ko": "응, 사무실 책상에 있어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140030,
+        "Id": 200140030,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140040,
+        "Message": {
+          "j_ko": "반짇고리는 갑자기 왜?",
+          "j_ja": "全然使って大丈夫だけど、何かあったの？",
+          "g_en": "Why do you need a sewing box?",
+          "g_tw": "儘管用吧，不過為什麼要針線盒呢？",
+          "g_tw_cn": "尽管用吧，不过为什么要针线盒呢？",
+          "g_ja": "全然使って大丈夫だけど、何かあったの？",
+          "g_ko": "반짇고리는 갑자기 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140040,
+        "Id": 200140040,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140050,
+        "Message": {
+          "j_ko": "그게, 쓰고 다니던 철모의 내피가 삭아 끊어지려고 해서.",
+          "j_ja": "鉄帽のバンドが切れそうになってて",
+          "g_en": "Um, the lining of my helmet is really worn out.",
+          "g_tw": "因為鋼盔帶好像快斷掉了",
+          "g_tw_cn": "因为钢盔带好像快断掉了",
+          "g_ja": "鉄帽のバンドが切れそうになってて",
+          "g_ko": "그게, 쓰고 다니던 철모의 내피가 삭아 끊어지려고 해서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140040,
+        "Id": 200140050,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140050,
+        "Message": {
+          "j_ko": "추가 보급을 기대하기 어려운 상황이니 이 정도는 직접 수선해야지.",
+          "j_ja": "こんな状況だし、自分で直すしか……",
+          "g_en": "I obviously can't expect a replacement, so I'm trying to fix it myself.",
+          "g_tw": "現在又是這種狀況，只好自己修了……",
+          "g_tw_cn": "现在又是这种状况，只好自己修了……",
+          "g_ja": "こんな状況だし、自分で直すしか……",
+          "g_ko": "추가 보급을 기대하기 어려운 상황이니 이 정도는 직접 수선해야지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140050,
+        "Id": 200140060,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140060,
+        "Message": {
+          "j_ko": "그 철모, 벗을 수 있는 거구나…….",
+          "j_ja": "直すってことはもしかして、その時は鉄帽脱ぐの？",
+          "g_en": "I didn't know you could take off your helmet.",
+          "g_tw": "難道修的時候會把鋼盔脫下來嗎？",
+          "g_tw_cn": "难道修的时候会把钢盔脱下来吗？",
+          "g_ja": "直すってことはもしかして、その時は鉄帽脱ぐの？",
+          "g_ko": "그 철모, 벗을 수 있는 거구나……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140060,
+        "Id": 200140070,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140070,
+        "Message": {
+          "j_ko": "응? 당연히 장비인데 벗을 수 있지.",
+          "j_ja": "まあ、それは当然",
+          "g_en": "Huh? Of course I can. It's just equipment.",
+          "g_tw": "嘛，那是當然的",
+          "g_tw_cn": "嘛，那是当然的",
+          "g_ja": "まあ、それは当然",
+          "g_ko": "응? 당연히 장비인데 벗을 수 있지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140060,
+        "Id": 200140080,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200142,
+        "NextGroupId": 200140070,
+        "Message": {
+          "j_ko": "어째서 사람을 철모에 깃든 요괴 취급하는 거야…….",
+          "j_ja": "……何で「絶対に脱がない」みたいに思われてるんだ",
+          "g_en": "Do you think I'm some kind of a weirdo that sleeps in my helmet?",
+          "g_tw": "……為什麼會被認為是「絕對不會脫下來」的那種人呢",
+          "g_tw_cn": "……为什么会被认为是「绝对不会脱下来」的那种人呢",
+          "g_ja": "……何で「絶対に脱がない」みたいに思われてるんだ",
+          "g_ko": "어째서 사람을 철모에 깃든 요괴 취급하는 거야……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001403,
+    "Data": [
+      {
+        "GroupId": 200140070,
+        "Id": 200140090,
+        "CharacterId": 20014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140080,
+        "Message": {
+          "j_ko": "선생님, 샬레 업무관 앞에 있는 바구니 치우지 마.",
+          "j_ja": "先生、念のため",
+          "g_en": "Sensei, don't touch the basket in front of the Schale office.",
+          "g_tw": "老師，為了保險起見",
+          "g_tw_cn": "老师，为了保险起见",
+          "g_ja": "先生、念のため",
+          "g_ko": "선생님, 샬레 업무관 앞에 있는 바구니 치우지 마."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140080,
+        "Id": 200140100,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140090,
+        "Message": {
+          "j_ko": "돌아갈 때 가져갈 테니까.",
+          "j_ja": "シャーレの前にかごを置いたんだけど、触らないでそのままにしてほしい。ちゃんと持って帰るから",
+          "g_en": "I'm gonna pick it up on my way back.",
+          "g_tw": "我在夏萊前面放了一個籃子，希望你好好放著別動它。我會把它帶回去的",
+          "g_tw_cn": "我在夏莱前面放了一个篮子，希望你好好放着别动它。我会把它带回去的",
+          "g_ja": "シャーレの前にかごを置いたんだけど、触らないでそのままにしてほしい。ちゃんと持って帰るから",
+          "g_ko": "돌아갈 때 가져갈 테니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140090,
+        "Id": 200140110,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140100,
+        "Message": {
+          "j_ko": "……뭔가 풀때기 같은 게 잔뜩 들어있던데.",
+          "j_ja": " あ、何か草みたいなのがたくさん入ってたアレ？",
+          "g_en": "It was full of some kind of grass.",
+          "g_tw": "啊，你說放了很多像草一樣的東西的那個嗎？",
+          "g_tw_cn": "啊，你说放了很多像草一样的东西的那个吗？",
+          "g_ja": " あ、何か草みたいなのがたくさん入ってたアレ？",
+          "g_ko": "……뭔가 풀때기 같은 게 잔뜩 들어있던데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140100,
+        "Id": 200140120,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140110,
+        "Message": {
+          "j_ko": "풀때기라니, 선생님은 두릅도 모르는 거야?",
+          "j_ja": "ああ。っていうか草って……先生は「タラボ」を知らないのか？",
+          "g_en": "Grass? Don't you know what fatsia sprouts look like?",
+          "g_tw": "沒錯。不過竟然說是草……老師不知道「楤木」嗎？",
+          "g_tw_cn": "没错。不过竟然说是草……老师不知道「楤木」吗？",
+          "g_ja": "ああ。っていうか草って……先生は「タラボ」を知らないのか？",
+          "g_ko": "풀때기라니, 선생님은 두릅도 모르는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140100,
+        "Id": 200140130,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140110,
+        "Message": {
+          "j_ko": "막 돋아난 두릅 순은 야생에서 쉽게 구할 수 있는 별미 중 하나지.",
+          "j_ja": "生え立てのタラの芽だ、その辺でも簡単に手に入る珍味のひとつ",
+          "g_en": "Fresh fatsia sprout is a delicacy readily available in the wild.",
+          "g_tw": "那是剛長出來的楤木芽，是在這附近也能輕鬆入手的珍味之一",
+          "g_tw_cn": "那是刚长出来的楤木芽，是在这附近也能轻松入手的珍味之一",
+          "g_ja": "生え立てのタラの芽だ、その辺でも簡単に手に入る珍味のひとつ",
+          "g_ko": "막 돋아난 두릅 순은 야생에서 쉽게 구할 수 있는 별미 중 하나지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140110,
+        "Id": 200140140,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140120,
+        "Message": {
+          "j_ko": "물에 살짝 데쳐서 먹어도 맛있고, 튀기면 밥 위에 얹어 덴푸라처럼 먹을 수도 있다고!",
+          "j_ja": "軽くゆがいただけでも美味しいし、天ぷらにも良い。ご飯にピッタリのおかずだ！",
+          "g_en": "You can lightly blanch it in water or deep fry it and put it on top of rice and eat it like tempura!",
+          "g_tw": "就算只是稍微燙一下就已經很美味了，做成天婦羅也不錯。很下飯的哦",
+          "g_tw_cn": "就算只是稍微烫一下就已经很美味了，做成天妇罗也不错。很下饭的哦",
+          "g_ja": "軽くゆがいただけでも美味しいし、天ぷらにも良い。ご飯にピッタリのおかずだ！",
+          "g_ko": "물에 살짝 데쳐서 먹어도 맛있고, 튀기면 밥 위에 얹어 덴푸라처럼 먹을 수도 있다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200140120,
+            "Id": 200140150,
+            "CharacterId": 20014,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200140130,
+            "Message": {
+              "j_ko": "물론 밀가루도 기름도 구할 수 없는 마당에 튀김은 어렵겠지만.",
+              "j_ja": "……まぁもちろん、小麦粉も油もロクに手に入らない今の状況で、天ぷらなんて夢のまた夢なんだが",
+              "g_en": "Of course, it'd be difficult to fry without flour or oil.",
+              "g_tw": "……不過，現在這種麵粉和油都無法輕鬆取得的狀況，要做天婦羅簡直是癡人說夢",
+              "g_tw_cn": "……不过，现在这种面粉和油都无法轻松取得的状况，要做天妇罗简直是痴人说梦",
+              "g_ja": "……まぁもちろん、小麦粉も油もロクに手に入らない今の状況で、天ぷらなんて夢のまた夢なんだが",
+              "g_ko": "물론 밀가루도 기름도 구할 수 없는 마당에 튀김은 어렵겠지만."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200140120,
+        "Id": 200140150,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140130,
+        "Message": {
+          "j_ko": "물론 밀가루도 기름도 구할 수 없는 마당에 튀김은 어렵겠지만.",
+          "j_ja": "……まぁもちろん、小麦粉も油もロクに手に入らない今の状況で、天ぷらなんて夢のまた夢なんだが",
+          "g_en": "Of course, it'd be difficult to fry without flour or oil.",
+          "g_tw": "……不過，現在這種麵粉和油都無法輕鬆取得的狀況，要做天婦羅簡直是癡人說夢",
+          "g_tw_cn": "……不过，现在这种面粉和油都无法轻松取得的状况，要做天妇罗简直是痴人说梦",
+          "g_ja": "……まぁもちろん、小麦粉も油もロクに手に入らない今の状況で、天ぷらなんて夢のまた夢なんだが",
+          "g_ko": "물론 밀가루도 기름도 구할 수 없는 마당에 튀김은 어렵겠지만."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140130,
+        "Id": 200140160,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140140,
+        "Message": {
+          "j_ko": "그 풀이라면……",
+          "j_ja": "多分だけど……",
+          "g_en": "That grass...",
+          "g_tw": "雖然不太確定……",
+          "g_tw_cn": "虽然不太确定……",
+          "g_ja": "多分だけど……",
+          "g_ko": "그 풀이라면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140140,
+        "Id": 200140170,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140150,
+        "Message": {
+          "j_ko": "서쪽 교외의 산길에 잔뜩 자라고 있던데.",
+          "j_ja": "同じようなやつが、西の山道にたくさん生えてた気がする",
+          "g_en": "I saw a bunch of it on a mountain path in the western suburbs.",
+          "g_tw": "不過在西邊的山路上好像長著很多類似的東西",
+          "g_tw_cn": "不过在西边的山路上好像长着很多类似的东西",
+          "g_ja": "同じようなやつが、西の山道にたくさん生えてた気がする",
+          "g_ko": "서쪽 교외의 산길에 잔뜩 자라고 있던데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140150,
+        "Id": 200140180,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140160,
+        "Message": {
+          "j_ko": "뭐? 거기가 어디야, 선생님?",
+          "j_ja": "本当か！？",
+          "g_en": "What? Where is that, Sensei?",
+          "g_tw": "真的嗎！？",
+          "g_tw_cn": "真的吗！？",
+          "g_ja": "本当か！？",
+          "g_ko": "뭐? 거기가 어디야, 선생님?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140150,
+        "Id": 200140190,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200143,
+        "NextGroupId": 200140160,
+        "Message": {
+          "j_ko": "당장 안내해!",
+          "j_ja": "先生、今すぐ案内してくれ！",
+          "g_en": "Take me there, now!",
+          "g_tw": "老師，請立刻帶我去吧！",
+          "g_tw_cn": "老师，请立刻带我去吧！",
+          "g_ja": "先生、今すぐ案内してくれ！",
+          "g_ko": "당장 안내해!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001405,
+    "Data": [
+      {
+        "GroupId": 200140160,
+        "Id": 200140200,
+        "CharacterId": 20014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140170,
+        "Message": {
+          "j_ko": "선생님, 혹시 휴게실에 있는 TV의 예약 녹화 기능 쓰는 법 알아?",
+          "j_ja": "先生。シャーレにあるTVって、録画機能は付いてるのか？",
+          "g_en": "Sensei, do you know how to schedule recordings on the TV in the break room?",
+          "g_tw": "老師，夏萊的電視有錄影功能嗎？",
+          "g_tw_cn": "老师，夏莱的电视有录像功能吗？",
+          "g_ja": "先生。シャーレにあるTVって、録画機能は付いてるのか？",
+          "g_ko": "선생님, 혹시 휴게실에 있는 TV의 예약 녹화 기능 쓰는 법 알아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140170,
+        "Id": 200140210,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140180,
+        "Message": {
+          "j_ko": "오늘 밤 크로노스 채널에서 흥미로운 심야 다큐멘터리가 나온다고 해서…….",
+          "j_ja": "今夜「クロノスチャンネル」で、気になるドキュメンタリーがあって……",
+          "g_en": "There's an interesting late-night documentary coming out tonight on the Kronos Channel...",
+          "g_tw": "今晚在「克洛盧斯頻道」有個我想看的紀錄片……",
+          "g_tw_cn": "今晚在「克洛卢斯频道」有个我想看的纪录片……",
+          "g_ja": "今夜「クロノスチャンネル」で、気になるドキュメンタリーがあって……",
+          "g_ko": "오늘 밤 크로노스 채널에서 흥미로운 심야 다큐멘터리가 나온다고 해서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140180,
+        "Id": 200140220,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140190,
+        "Message": {
+          "j_ko": "내가 대신 녹화해둘게.",
+          "j_ja": "うん、録画しておくね",
+          "g_en": "I'll record it for you.",
+          "g_tw": "嗯，我會幫你錄的",
+          "g_tw_cn": "嗯，我会帮你录的",
+          "g_ja": "うん、録画しておくね",
+          "g_ko": "내가 대신 녹화해둘게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140190,
+        "Id": 200140230,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140200,
+        "Message": {
+          "j_ko": "어, 음. 고마워.",
+          "j_ja": "あ",
+          "g_en": "Oh, um, thanks.",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "어, 음. 고마워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140190,
+        "Id": 200140240,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140200,
+        "Message": {
+          "j_ko": "요새 전자 제품은 기능이 너무 많아서 오히려 더 불편할 때가 있단 말이지.",
+          "j_ja": "助かる、ありがとう",
+          "g_en": "Electronics nowadays have so many functions that it's almost inconvenient.",
+          "g_tw": "幫大忙了，謝謝你",
+          "g_tw_cn": "帮大忙了，谢谢你",
+          "g_ja": "助かる、ありがとう",
+          "g_ko": "요새 전자 제품은 기능이 너무 많아서 오히려 더 불편할 때가 있단 말이지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140200,
+        "Id": 200140250,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140210,
+        "Message": {
+          "j_ko": "게다가 매뉴얼도 점차 디지털화되어서 읽기도 불편하니……",
+          "j_ja": "最近はやたらと機能が多い機器ばっかりで、マニュアルもどんどんデジタル化されて読みづらいし……",
+          "g_en": "Not only that, digital manuals are kinda hard to read...",
+          "g_tw": "最近到處都是有各種功能的機器，說明書也漸漸都電子化，讀起來很不方便……",
+          "g_tw_cn": "最近到处都是有各种功能的机器，说明书也渐渐都电子化，读起来很不方便……",
+          "g_ja": "最近はやたらと機能が多い機器ばっかりで、マニュアルもどんどんデジタル化されて読みづらいし……",
+          "g_ko": "게다가 매뉴얼도 점차 디지털화되어서 읽기도 불편하니……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140200,
+        "Id": 200140260,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140210,
+        "Message": {
+          "j_ko": "기본적인 기능에 충실하던 옛날 제품들이 그리워.",
+          "j_ja": "シンプルな機能で使いやすかった、昔の製品が恋しい……",
+          "g_en": "I miss the regular products with basic functions...",
+          "g_tw": "好懷念功能單純又好上手的老產品啊……",
+          "g_tw_cn": "好怀念功能单纯又好上手的老产品啊……",
+          "g_ja": "シンプルな機能で使いやすかった、昔の製品が恋しい……",
+          "g_ko": "기본적인 기능에 충실하던 옛날 제품들이 그리워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140210,
+        "Id": 200140270,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140220,
+        "Message": {
+          "j_ko": "뭔가 사키는 예스럽네……",
+          "j_ja": "いや、「昔」も何も……",
+          "g_en": "You're kind of traditional...",
+          "g_tw": "呃，你說「老」產品……",
+          "g_tw_cn": "呃，你说「老」产品……",
+          "g_ja": "いや、「昔」も何も……",
+          "g_ko": "뭔가 사키는 예스럽네……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140220,
+        "Id": 200140280,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140230,
+        "Message": {
+          "j_ko": "뭐……?",
+          "j_ja": "ん？",
+          "g_en": "What...?",
+          "g_tw": "嗯？",
+          "g_tw_cn": "嗯？",
+          "g_ja": "ん？",
+          "g_ko": "뭐……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140220,
+        "Id": 200140290,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140230,
+        "Message": {
+          "j_ko": "지금 나를 할머니 같다고 한 거야?!",
+          "j_ja": "それはつまり、私が「おばあちゃん」だと言いたいのか？",
+          "g_en": "Did you just call me old-fashioned?!",
+          "g_tw": "你是想說我像個「老奶奶」一樣嗎？",
+          "g_tw_cn": "你是想说我像个「老奶奶」一样吗？",
+          "g_ja": "それはつまり、私が「おばあちゃん」だと言いたいのか？",
+          "g_ko": "지금 나를 할머니 같다고 한 거야?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140230,
+        "Id": 200140300,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200145,
+        "NextGroupId": 200140240,
+        "Message": {
+          "j_ko": "그런 말은 하지 않았어…….",
+          "j_ja": "いや、そうじゃなくって……",
+          "g_en": "That's not exactly what I said...",
+          "g_tw": "呃，我不是這個意思……",
+          "g_tw_cn": "呃，我不是这个意思……",
+          "g_ja": "いや、そうじゃなくって……",
+          "g_ko": "그런 말은 하지 않았어……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001406,
+    "Data": [
+      {
+        "GroupId": 200140240,
+        "Id": 200140310,
+        "CharacterId": 20014,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140250,
+        "Message": {
+          "j_ko": "선생님. 방금 발키리 경찰학교의 지인에게 들었는데.",
+          "j_ja": "さっきヴァルキューレの知り合いから聞いたんだけど",
+          "g_en": "Sensei, I heard something from my acquaintance at Valkyrie Police School.",
+          "g_tw": "剛剛我從女武神警察學園裡認識的人聽說",
+          "g_tw_cn": "刚刚我从女武神警察学园里认识的人听说",
+          "g_ja": "さっきヴァルキューレの知り合いから聞いたんだけど",
+          "g_ko": "선생님. 방금 발키리 경찰학교의 지인에게 들었는데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140250,
+        "Id": 200140320,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140260,
+        "Message": {
+          "j_ko": "공원 뒤의 산 중턱에 안 쓰는 야영 물자가 버려져 있대.",
+          "j_ja": "公園の裏手にある山に、キャンプ用品が色々捨てられてたらしい",
+          "g_en": "Some unused camping stuff was left on the hillside behind the park.",
+          "g_tw": "有很多露營用品被丟在公園的後山裡",
+          "g_tw_cn": "有很多露营用品被丢在公园的后山里",
+          "g_ja": "公園の裏手にある山に、キャンプ用品が色々捨てられてたらしい",
+          "g_ko": "공원 뒤의 산 중턱에 안 쓰는 야영 물자가 버려져 있대."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140250,
+        "Id": 200140330,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140260,
+        "Message": {
+          "j_ko": "그 근처에 초소가 있었을 때, 치장물자로 쌓아 둔 걸 버려두고 왔다나.",
+          "j_ja": "昔ちょっとした基地みたいなのがあったらしくて、そこが無くなる時に放置されたんだとか",
+          "g_en": "When they evacuated a guard post nearby, they left behind their equipment.",
+          "g_tw": "以前似乎有個像基地一樣的據點在那裡，或許是放棄據點的時候就被丟棄在那裡了",
+          "g_tw_cn": "以前似乎有个像基地一样的据点在那里，或许是放弃据点的时候就被丢弃在那里了",
+          "g_ja": "昔ちょっとした基地みたいなのがあったらしくて、そこが無くなる時に放置されたんだとか",
+          "g_ko": "그 근처에 초소가 있었을 때, 치장물자로 쌓아 둔 걸 버려두고 왔다나."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140260,
+        "Id": 200140340,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140270,
+        "Message": {
+          "j_ko": "대부분 낡은 물건이긴 하지만, 우리 입장에서는 없는 것보다 도움이 될 것 같아서.",
+          "j_ja": "たとえ古いものだとしても、今の私たちにとっては無いよりマシだろうし",
+          "g_en": "They're all kind of old, but we could probably use it.",
+          "g_tw": "就算是老舊的東西，對現在的我們來說也比沒有還好",
+          "g_tw_cn": "就算是老旧的东西，对现在的我们来说也比没有还好",
+          "g_ja": "たとえ古いものだとしても、今の私たちにとっては無いよりマシだろうし",
+          "g_ko": "대부분 낡은 물건이긴 하지만, 우리 입장에서는 없는 것보다 도움이 될 것 같아서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140260,
+        "Id": 200140350,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140270,
+        "Message": {
+          "j_ko": "이번 주말에 등산을 겸해서 수거해 오려고.",
+          "j_ja": "ちょっと今週末に行こうかと思ってるんだけど……",
+          "g_en": "I'm gonna pick up the stuff when I go hiking this weekend.",
+          "g_tw": "我在想這個周末要不要過去看看……",
+          "g_tw_cn": "我在想这个周末要不要过去看看……",
+          "g_ja": "ちょっと今週末に行こうかと思ってるんだけど……",
+          "g_ko": "이번 주말에 등산을 겸해서 수거해 오려고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140270,
+        "Id": 200140360,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140280,
+        "Message": {
+          "j_ko": "……다만 혼자 옮기기엔 양이 꽤 많은 것 같아서.",
+          "j_ja": "その、聞いた感じ多分量が多くて",
+          "g_en": "But I don't think I'll be able to get it all myself.",
+          "g_tw": "那個，從聽到的消息來看，量大概不少",
+          "g_tw_cn": "那个，从听到的消息来看，量大概不少",
+          "g_ja": "その、聞いた感じ多分量が多くて",
+          "g_ko": "……다만 혼자 옮기기엔 양이 꽤 많은 것 같아서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140270,
+        "Id": 200140370,
+        "CharacterId": 20014,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140280,
+        "Message": {
+          "j_ko": "선생님이 좀 도와줄 수는 없을까?",
+          "j_ja": "手伝ってくれたら助かる",
+          "g_en": "...Can you help me?",
+          "g_tw": "你能一起來的話就幫大忙了",
+          "g_tw_cn": "你能一起来的话就帮大忙了",
+          "g_ja": "手伝ってくれたら助かる",
+          "g_ko": "선생님이 좀 도와줄 수는 없을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140280,
+        "Id": 200140380,
+        "CharacterId": 20014,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140290,
+        "Message": {
+          "j_ko": "응. 괜찮아. 도와줄게.",
+          "j_ja": "うん、了解。喜んで",
+          "g_en": "Okay, sure. I'll help you.",
+          "g_tw": "嗯，了解。我很樂意",
+          "g_tw_cn": "嗯，了解。我很乐意",
+          "g_ja": "うん、了解。喜んで",
+          "g_ko": "응. 괜찮아. 도와줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140290,
+        "Id": 200140390,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140300,
+        "Message": {
+          "j_ko": "선뜻 도와줘서 고마워.",
+          "j_ja": "ありがと",
+          "g_en": "...Thanks for your help.",
+          "g_tw": "謝謝",
+          "g_tw_cn": "谢谢",
+          "g_ja": "ありがと",
+          "g_ko": "선뜻 도와줘서 고마워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140290,
+        "Id": 200140400,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140300,
+        "Message": {
+          "j_ko": "다른 대원들도 바쁜 것 같고, 혼자서 왕복하는 것도 어려워서 곤란하던 참이었거든.",
+          "j_ja": "何かみんな忙しいらしくて、でもひとりで往復するのもアレだし……",
+          "g_en": "Everyone else seemed busy, and I was worried I wouldn't be able to carry everything myself.",
+          "g_tw": "其他隊員好像都在忙，不過一個人來回搬又有點……",
+          "g_tw_cn": "其他队员好像都在忙，不过一个人来回搬又有点……",
+          "g_ja": "何かみんな忙しいらしくて、でもひとりで往復するのもアレだし……",
+          "g_ko": "다른 대원들도 바쁜 것 같고, 혼자서 왕복하는 것도 어려워서 곤란하던 참이었거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200140300,
+        "Id": 200140410,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200140310,
+        "Message": {
+          "j_ko": "아, 참. 그러고 보니 그 산은 등산로가 험하기로 유명하니까……",
+          "j_ja": "そういえばその山、結構登山道が険しいみたいだから",
+          "g_en": "Oh, just so you know, the hiking trail is supposed to be pretty hard...",
+          "g_tw": "話說回來，那座山的山路好像挺險峻的",
+          "g_tw_cn": "话说回来，那座山的山路好像挺险峻的",
+          "g_ja": "そういえばその山、結構登山道が険しいみたいだから",
+          "g_ko": "아, 참. 그러고 보니 그 산은 등산로가 험하기로 유명하니까……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200140310,
+            "Id": 200140420,
+            "CharacterId": 20014,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 200146,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "가급적 두꺼운 옷을 입고 오는 게 좋을 거야.",
+              "j_ja": "多分ちゃんとした格好で来た方が良い",
+              "g_en": "Be sure to wear comfortable shoes.",
+              "g_tw": "我想還是穿得像樣一點比較好",
+              "g_tw_cn": "我想还是穿得像样一点比较好",
+              "g_ja": "多分ちゃんとした格好で来た方が良い",
+              "g_ko": "가급적 두꺼운 옷을 입고 오는 게 좋을 거야."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200140310,
+        "Id": 200140420,
+        "CharacterId": 20014,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200146,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "가급적 두꺼운 옷을 입고 오는 게 좋을 거야.",
+          "j_ja": "多分ちゃんとした格好で来た方が良い",
+          "g_en": "Be sure to wear comfortable shoes.",
+          "g_tw": "我想還是穿得像樣一點比較好",
+          "g_tw_cn": "我想还是穿得像样一点比较好",
+          "g_ja": "多分ちゃんとした格好で来た方が良い",
+          "g_ko": "가급적 두꺼운 옷을 입고 오는 게 좋을 거야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

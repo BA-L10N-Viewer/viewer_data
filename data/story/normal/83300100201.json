@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "委員長、何か分かりましたか？",
+      "j_ko": "아, 부장님. 뭔가 알아낸 건 계신가요?",
+      "g_ja": "委員長、何か分かりましたか？",
+      "g_ko": "아, 부장님. 뭔가 알아낸 건 계신가요?",
+      "g_en": "Ah, Head Prefect. Have you found anything?",
+      "g_th": "อ๊ะ ท่านประธาน ได้เรื่องอะไรมาบ้างไหมคะ?",
+      "g_tw": "啊，委員長。有查出什麼線索嗎？",
+      "g_tw_cn": "啊，委员长。有查出什么线索吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;01;아, 부장님. 뭔가 알아낸 건 계신가요?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いや、これといって特に……アコはどう？",
+      "j_ko": "아니, 아직 큰 소득은 없어. 아코는 어때?",
+      "g_ja": "いや、これといって特に……アコはどう？",
+      "g_ko": "아니, 아직 큰 소득은 없어. 아코는 어때?",
+      "g_en": "Nothing as yet... What about you, Ako?",
+      "g_th": "ไม่ ยังไม่รู้อะไรมากเลย แล้วอาโกะล่ะ?",
+      "g_tw": "不，暫時還沒有太大的收穫。亞子呢？",
+      "g_tw_cn": "不，暂时还没有太大的收获。亚子呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;아니, 아직 큰 소득은 없어. 아코는 어때?\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すみません、まだ状況が掴めておらず……",
+      "j_ko": "제쪽에서도 아직까지 특기할만한 정보를 얻진 못했어요.",
+      "g_ja": "すみません、まだ状況が掴めておらず……",
+      "g_ko": "제쪽에서도 아직까지 특기할만한 정보를 얻진 못했어요.",
+      "g_en": "I don't have anything special to report either.",
+      "g_th": "ทางฉันเองก็ยังไม่ได้ข้อมูลอะไรเป็นพิเศษเลยค่ะ",
+      "g_tw": "我這邊也還沒能獲得特別的情報。",
+      "g_tw_cn": "我这边也还没能获得特别的情报。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;04;제쪽에서도 아직까지 특기할만한 정보를 얻진 못했어요.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん、何が起こっているのでしょう？",
+      "j_ko": "으음, 정말 무슨 일이 벌어지고 있는 걸까요.",
+      "g_ja": "うーん、何が起こっているのでしょう？",
+      "g_ko": "으음, 정말 무슨 일이 벌어지고 있는 걸까요.",
+      "g_en": "Hmm... I wonder what's going on...",
+      "g_th": "อืม ตกลงว่าเกิดเรื่องอะไรอยู่กันคะเนี่ย",
+      "g_tw": "唔嗯，真的有發生什麼事嗎？",
+      "g_tw_cn": "唔嗯，真的有发生什么事吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;12;으음, 정말 무슨 일이 벌어지고 있는 걸까요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

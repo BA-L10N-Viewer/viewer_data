@@ -1,0 +1,1238 @@
+[
+  {
+    "BondScenarioId": 2003102,
+    "Data": [
+      {
+        "GroupId": 200310010,
+        "Id": 200310010,
+        "CharacterId": 20031,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310020,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310020,
+        "Id": 200310020,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310030,
+        "Message": {
+          "j_ko": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았었어?",
+          "j_ja": "この前、シャーレに新しく休憩室を作るから、畳が必要って言ってなかった？",
+          "g_en": "Didn't you say that you needed some tatami mats for Schale's lounge?",
+          "g_tw": "你之前是不是有說過整修夏萊的休息室需要榻榻米？",
+          "g_tw_cn": "你之前是不是有说过整修夏莱的休息室需要榻榻米？",
+          "g_ja": "この前、シャーレに新しく休憩室を作るから、畳が必要って言ってなかった？",
+          "g_ko": "전에 샬레의 휴게실을 보수하는 데 다다미가 필요하다고 하지 않았었어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310030,
+        "Id": 200310030,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310040,
+        "Message": {
+          "j_ko": "응. 좌식 휴게실을 원하는 학생들이 몇 있어서……",
+          "j_ja": "うん、座敷の休憩室が欲しいって言われて……",
+          "g_en": "Yup. A few of the students would like to be able to sit comfortably on the floor.",
+          "g_tw": "嗯，因為有幾個學生想要那種休息室……",
+          "g_tw_cn": "嗯，因为有几个学生想要那种休息室……",
+          "g_ja": "うん、座敷の休憩室が欲しいって言われて……",
+          "g_ko": "응. 좌식 휴게실을 원하는 학생들이 몇 있어서……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310030,
+        "Id": 200310040,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310040,
+        "Message": {
+          "j_ko": "그런 이야기를 한 것 같기는 한데…… 갑자기 왜?",
+          "j_ja": "でも、急にどうしたの？",
+          "g_en": "I think I mentioned it, but... Why do you ask?",
+          "g_tw": "好像有說過……怎麼突然問這個？",
+          "g_tw_cn": "好像有说过……怎么突然问这个？",
+          "g_ja": "でも、急にどうしたの？",
+          "g_ko": "그런 이야기를 한 것 같기는 한데…… 갑자기 왜?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310040,
+        "Id": 200310050,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310050,
+        "Message": {
+          "j_ko": "그럼 다음에 구교사에 올 때 다다미 좀 가져가.",
+          "j_ja": "じゃあ今度、旧校舎来たときに持っていっていいよ",
+          "g_en": "Next time you visit the Former Institute, I'll have some tatami mats for you.",
+          "g_tw": "那老師下次來舊校舍的時候可以拿一些榻榻米走哦",
+          "g_tw_cn": "那老师下次来旧校舍的时候可以拿一些榻榻米走哦",
+          "g_ja": "じゃあ今度、旧校舎来たときに持っていっていいよ",
+          "g_ko": "그럼 다음에 구교사에 올 때 다다미 좀 가져가."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310050,
+        "Id": 200310060,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310060,
+        "Message": {
+          "j_ko": "저번에 무너진 온천장을 정리하다가 창고에 쌓아 놨던 고급 다다미를 잔뜩 찾았거든.",
+          "j_ja": "温泉郷の跡地を整理してたら、高級畳をたくさん見つけてさ",
+          "g_en": "I found a whole bunch of fine tatami in storage when we were cleaning up after the hot spring resort.",
+          "g_tw": "之前整理崩毀的溫泉浴場時，我找到很多積放在倉庫的高級榻榻米",
+          "g_tw_cn": "之前整理崩毁的温泉浴场时，我找到很多积放在仓库的高级榻榻米",
+          "g_ja": "温泉郷の跡地を整理してたら、高級畳をたくさん見つけてさ",
+          "g_ko": "저번에 무너진 온천장을 정리하다가 창고에 쌓아 놨던 고급 다다미를 잔뜩 찾았거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310060,
+        "Id": 200310070,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310070,
+        "Message": {
+          "j_ko": "특별반에서 직접 쓰지 그래?",
+          "j_ja": "特別クラスでは使わないの？",
+          "g_en": "The Spec Ops students don't want them?",
+          "g_tw": "特別班不留著用嗎？",
+          "g_tw_cn": "特别班不留着用吗？",
+          "g_ja": "特別クラスでは使わないの？",
+          "g_ko": "특별반에서 직접 쓰지 그래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310070,
+        "Id": 200310080,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310080,
+        "Message": {
+          "j_ko": "음, 푹신하고 좋은 향이 나기는 하지만……",
+          "j_ja": "うーん、畳って香りはいいんだけど……",
+          "g_en": "Well... They are pretty soft, and they smell nice, but...",
+          "g_tw": "唔嗯，雖然很鬆軟而且有香味……",
+          "g_tw_cn": "唔嗯，虽然很松软而且有香味……",
+          "g_ja": "うーん、畳って香りはいいんだけど……",
+          "g_ko": "음, 푹신하고 좋은 향이 나기는 하지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310070,
+        "Id": 200310090,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310080,
+        "Message": {
+          "j_ko": "다다미 바닥은 썩기 쉬우니까. 구교사의 환경에는 그다지 적합하지 않은 것 같아서.",
+          "j_ja": "腐りやすいから、旧校舎にはあまり向かない気がするんだよね",
+          "g_en": "Tatami floors rot too easily. I don't think the Former Institute is a good place for them.",
+          "g_tw": "但是榻榻米很容易壞，感覺不太適合舊校舍的環境",
+          "g_tw_cn": "但是榻榻米很容易坏，感觉不太适合旧校舍的环境",
+          "g_ja": "腐りやすいから、旧校舎にはあまり向かない気がするんだよね",
+          "g_ko": "다다미 바닥은 썩기 쉬우니까. 구교사의 환경에는 그다지 적합하지 않은 것 같아서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310070,
+        "Id": 200310100,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310080,
+        "Message": {
+          "j_ko": "하지만 이대로 방치해 두는 것도 아깝고……",
+          "j_ja": "でも、このまま放置しておくのももったいないし……",
+          "g_en": "And just leaving them in storage is a waste...",
+          "g_tw": "不過就這樣放著也很可惜……",
+          "g_tw_cn": "不过就这样放着也很可惜……",
+          "g_ja": "でも、このまま放置しておくのももったいないし……",
+          "g_ko": "하지만 이대로 방치해 두는 것도 아깝고……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310080,
+        "Id": 200310110,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310090,
+        "Message": {
+          "j_ko": "이왕이면 필요한 곳에서 가져다 쓰는 편이 좋을 것 같아서.",
+          "j_ja": "必要な人がいるならあげたほうがいいかなって",
+          "g_en": "I think it'd be better to give them to someone who'll actually use them.",
+          "g_tw": "既然如此，我覺得給有需要的人使用比較好",
+          "g_tw_cn": "既然如此，我觉得给有需要的人使用比较好",
+          "g_ja": "必要な人がいるならあげたほうがいいかなって",
+          "g_ko": "이왕이면 필요한 곳에서 가져다 쓰는 편이 좋을 것 같아서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310090,
+        "Id": 200310120,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310100,
+        "Message": {
+          "j_ko": "하지만 구교사의 물건을 가져다 쓰려니 어쩐지 미안한걸.",
+          "j_ja": "それはありがたいけど……",
+          "g_en": "I feel bad taking anything from the Former Institute.",
+          "g_tw": "拿舊校舍的東西來用，總覺得有點不好意思……",
+          "g_tw_cn": "拿旧校舍的东西来用，总觉得有点不好意思……",
+          "g_ja": "それはありがたいけど……",
+          "g_ko": "하지만 구교사의 물건을 가져다 쓰려니 어쩐지 미안한걸."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310090,
+        "Id": 200310130,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310100,
+        "Message": {
+          "j_ko": "구교사의 보수에 필요한 재료는 부족하지 않아?",
+          "j_ja": "旧校舎の修理に必要な素材は足りてる？",
+          "g_en": "Don't you need materials for your renovations and repairs?",
+          "g_tw": "整修舊校舍的材料不會不夠嗎？",
+          "g_tw_cn": "整修旧校舍的材料不会不够吗？",
+          "g_ja": "旧校舎の修理に必要な素材は足りてる？",
+          "g_ko": "구교사의 보수에 필요한 재료는 부족하지 않아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310100,
+        "Id": 200310140,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310110,
+        "Message": {
+          "j_ko": "괜찮아. 무너진 폐허에서 필요한 자재는 충분히 구할 수 있었거든.",
+          "j_ja": "うん。温泉郷跡から資材は十分手に入ったから",
+          "g_en": "It's all right. We can find plenty of materials scavenging around the nearby ruins.",
+          "g_tw": "沒關係。溫泉浴場留下的材料就已經很夠了",
+          "g_tw_cn": "没关系。温泉浴场留下的材料就已经很够了",
+          "g_ja": "うん。温泉郷跡から資材は十分手に入ったから",
+          "g_ko": "괜찮아. 무너진 폐허에서 필요한 자재는 충분히 구할 수 있었거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310100,
+        "Id": 200310150,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310110,
+        "Message": {
+          "j_ko": "그 밖에 아쉬운 점이라면……",
+          "j_ja": "強いて言うなら……",
+          "g_en": "If there's anything we don't have enough of...",
+          "g_tw": "要說還缺了什麼的話……",
+          "g_tw_cn": "要说还缺了什么的话……",
+          "g_ja": "強いて言うなら……",
+          "g_ko": "그 밖에 아쉬운 점이라면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310100,
+        "Id": 200310160,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310110,
+        "Message": {
+          "j_ko": "역시 입을 달래 줄 만한 간식 정도려나.",
+          "j_ja": "甘いお菓子、とかかな？",
+          "g_en": "It's snacks. Good ones to keep our mouths entertained.",
+          "g_tw": "像是是能解饞的零食，之類的吧？",
+          "g_tw_cn": "像是是能解馋的零食，之类的吧？",
+          "g_ja": "甘いお菓子、とかかな？",
+          "g_ko": "역시 입을 달래 줄 만한 간식 정도려나."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310110,
+        "Id": 200310170,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310120,
+        "Message": {
+          "j_ko": "다른 식재료라면 야생에서도 얼마든지 구할 수 있는데, 달콤한 과자는 언제나 아쉽거든.",
+          "j_ja": "他の食材はその辺でいくらでも手に入るけど、お菓子はそうもいかないからね",
+          "g_en": "There's more than enough food if we forage in the wild, but sweets are always in short supply.",
+          "g_tw": "其他食材在這附近也能取得，但香甜的點心總是很缺",
+          "g_tw_cn": "其他食材在这附近也能取得，但香甜的点心总是很缺",
+          "g_ja": "他の食材はその辺でいくらでも手に入るけど、お菓子はそうもいかないからね",
+          "g_ko": "다른 식재료라면 야생에서도 얼마든지 구할 수 있는데, 달콤한 과자는 언제나 아쉽거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310120,
+        "Id": 200310180,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310130,
+        "Message": {
+          "j_ko": "그럼 다음에 기회가 되면 과자를 좀 사 갈게.",
+          "j_ja": "じゃあ、畳はお菓子と交換しよう",
+          "g_en": "I'll bring some cookies next time I swing by.",
+          "g_tw": "那下次有機會的話，我會買一些點心過去",
+          "g_tw_cn": "那下次有机会的话，我会买一些点心过去",
+          "g_ja": "じゃあ、畳はお菓子と交換しよう",
+          "g_ko": "그럼 다음에 기회가 되면 과자를 좀 사 갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310130,
+        "Id": 200310190,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310140,
+        "Message": {
+          "j_ko": "후후, 기대하고 있겠어.",
+          "j_ja": "ふふっ、いいね。楽しみにしてる",
+          "g_en": "Heehee. I'm looking forward to it.",
+          "g_tw": "呵呵，我會期待的",
+          "g_tw_cn": "呵呵，我会期待的",
+          "g_ja": "ふふっ、いいね。楽しみにしてる",
+          "g_ko": "후후, 기대하고 있겠어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310130,
+        "Id": 200310200,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200312,
+        "NextGroupId": 200310140,
+        "Message": {
+          "j_ko": "그럼 다음에 보자, 선생님.",
+          "j_ja": "じゃあ、また今度ね、先生",
+          "g_en": "See you later, Sensei.",
+          "g_tw": "那麼之後見囉，老師",
+          "g_tw_cn": "那么之后见啰，老师",
+          "g_ja": "じゃあ、また今度ね、先生",
+          "g_ko": "그럼 다음에 보자, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003103,
+    "Data": [
+      {
+        "GroupId": 200310140,
+        "Id": 200310210,
+        "CharacterId": 20031,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310150,
+        "Message": {
+          "j_ko": "확실히 지하수의 수압이 예전 같지가 않네",
+          "j_ja": "先生、地下水の水圧が変なんだ",
+          "g_en": "The spring is taking a really long time to refill.",
+          "g_tw": "地下水的水壓確實不如從前了",
+          "g_tw_cn": "地下水的水压确实不如从前了",
+          "g_ja": "先生、地下水の水圧が変なんだ",
+          "g_ko": "확실히 지하수의 수압이 예전 같지가 않네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310150,
+        "Id": 200310220,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310160,
+        "Message": {
+          "j_ko": "저번에 청소를 한 뒤로 벌써 며칠이나 지났는데, 아직도 탕에 물이 거의 차지 않았어.",
+          "j_ja": "前に掃除してから何日も経ってるのに、湯船に水がほとんど溜まってなくて",
+          "g_en": "It's already been a few days since we emptied it out, and there's hardly enough water to splash around in.",
+          "g_tw": "上次打掃後已經過了幾天，但浴池的水卻幾乎積不起來",
+          "g_tw_cn": "上次打扫后已经过了几天，但浴池的水却几乎积不起来",
+          "g_ja": "前に掃除してから何日も経ってるのに、湯船に水がほとんど溜まってなくて",
+          "g_ko": "저번에 청소를 한 뒤로 벌써 며칠이나 지났는데, 아직도 탕에 물이 거의 차지 않았어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310150,
+        "Id": 200310230,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310160,
+        "Message": {
+          "j_ko": "목욕을 할 수 있으려면 앞으로 1주일은 물을 더 받아야 할 것 같은데……",
+          "j_ja": "この調子だと、あと一週間はかかっちゃうなぁ……",
+          "g_en": "It'll be another week at least until we can take a hot bath...",
+          "g_tw": "看這個情況，如果想洗澡可能還得要一個星期……",
+          "g_tw_cn": "看这个情况，如果想洗澡可能还得要一个星期……",
+          "g_ja": "この調子だと、あと一週間はかかっちゃうなぁ……",
+          "g_ko": "목욕을 할 수 있으려면 앞으로 1주일은 물을 더 받아야 할 것 같은데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310160,
+        "Id": 200310240,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310170,
+        "Message": {
+          "j_ko": "그동안 목욕이나 샤워는 어떻게 하려고?",
+          "j_ja": "だったらお風呂はどうするの？",
+          "g_en": "How are you going to keep clean in the meantime?",
+          "g_tw": "那這段期間該怎麼洗澡呢？",
+          "g_tw_cn": "那这段期间该怎么洗澡呢？",
+          "g_ja": "だったらお風呂はどうするの？",
+          "g_ko": "그동안 목욕이나 샤워는 어떻게 하려고?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310170,
+        "Id": 200310250,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310180,
+        "Message": {
+          "j_ko": "뭐, 귀찮지만 하는 수 없지.",
+          "j_ja": "うーん、仕方ないけど……",
+          "g_en": "It'll be a pain, but there's no helping it.",
+          "g_tw": "唔嗯，雖然麻煩，但也沒辦法……",
+          "g_tw_cn": "唔嗯，虽然麻烦，但也没办法……",
+          "g_ja": "うーん、仕方ないけど……",
+          "g_ko": "뭐, 귀찮지만 하는 수 없지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310170,
+        "Id": 200310260,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310180,
+        "Message": {
+          "j_ko": "전처럼 얼어붙은 강에서 냉수 목욕을 하는 수밖에",
+          "j_ja": "前みたいに川で水浴びするしか……",
+          "g_en": "We'll have to bathe in the frozen river like before.",
+          "g_tw": "只能像之前一樣到結凍的河裡洗冷水澡了",
+          "g_tw_cn": "只能像之前一样到结冻的河里洗冷水澡了",
+          "g_ja": "前みたいに川で水浴びするしか……",
+          "g_ko": "전처럼 얼어붙은 강에서 냉수 목욕을 하는 수밖에"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310180,
+        "Id": 200310270,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310190,
+        "Message": {
+          "j_ko": "하지만 냉수 목욕은 건강에 좋지 않을 텐데……",
+          "j_ja": "でも、風邪引いちゃうよ？",
+          "g_en": "Cold baths aren't good for you, you know...",
+          "g_tw": "可是冷水澡對健康不好……",
+          "g_tw_cn": "可是冷水澡对健康不好……",
+          "g_ja": "でも、風邪引いちゃうよ？",
+          "g_ko": "하지만 냉수 목욕은 건강에 좋지 않을 텐데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310190,
+        "Id": 200310280,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310200,
+        "Message": {
+          "j_ko": "대신 다른 곳에서 목욕을 하는 건 어때?",
+          "j_ja": "別の場所へ入りにいったら？",
+          "g_en": "Why not bathe somewhere else?",
+          "g_tw": "到其他地方洗澡如何？",
+          "g_tw_cn": "到其他地方洗澡如何？",
+          "g_ja": "別の場所へ入りにいったら？",
+          "g_ko": "대신 다른 곳에서 목욕을 하는 건 어때?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310200,
+        "Id": 200310290,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310210,
+        "Message": {
+          "j_ko": "으음. 어떠려나……",
+          "j_ja": "どうかな……",
+          "g_en": "Mm. I wonder...",
+          "g_tw": "唔嗯，這個嘛……",
+          "g_tw_cn": "唔嗯，这个嘛……",
+          "g_ja": "どうかな……",
+          "g_ko": "으음. 어떠려나……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310200,
+        "Id": 200310300,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310210,
+        "Message": {
+          "j_ko": "아무리 정학 처분을 받은 특별반의 학생이라 하더라도",
+          "j_ja": "いくら特別クラスの生徒でも",
+          "g_en": "Even if they expect it from suspended students like us,",
+          "g_tw": "就算是受到停學處分的特別班學生……",
+          "g_tw_cn": "就算是受到停学处分的特别班学生……",
+          "g_ja": "いくら特別クラスの生徒でも",
+          "g_ko": "아무리 정학 처분을 받은 특별반의 학생이라 하더라도"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310200,
+        "Id": 200310310,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310210,
+        "Message": {
+          "j_ko": "광장에 설치된 온수 분수대에서 목욕을 하면 큰 소동이 벌어질 텐데……",
+          "j_ja": "広場にある噴水のお湯で入浴してたら大騒ぎになると思うけど……",
+          "g_en": "it'll cause a scene if we try bathing in the heated fountains in the plaza...",
+          "g_tw": "要是到廣場上的熱水噴泉洗澡也會引起大騷動的吧……",
+          "g_tw_cn": "要是到广场上的热水喷泉洗澡也会引起大骚动的吧……",
+          "g_ja": "広場にある噴水のお湯で入浴してたら大騒ぎになると思うけど……",
+          "g_ko": "광장에 설치된 온수 분수대에서 목욕을 하면 큰 소동이 벌어질 텐데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310210,
+        "Id": 200310320,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200313,
+        "NextGroupId": 200310220,
+        "Message": {
+          "j_ko": "다른 목욕탕에 가자는 뜻이었다고!",
+          "j_ja": "「他のお風呂に行ったら？」って意味だよ！",
+          "g_en": "I meant in another bath!",
+          "g_tw": "我的意思是去其他澡堂！",
+          "g_tw_cn": "我的意思是去其他澡堂！",
+          "g_ja": "「他のお風呂に行ったら？」って意味だよ！",
+          "g_ko": "다른 목욕탕에 가자는 뜻이었다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003105,
+    "Data": [
+      {
+        "GroupId": 200310220,
+        "Id": 200310330,
+        "CharacterId": 20031,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310230,
+        "Message": {
+          "j_ko": "지난번에 후르츠 밀크를 만든 뒤로 계속 시험해 봤는데",
+          "j_ja": "この前フルーツ牛乳を作ってから、ずっと試してたんだけど",
+          "g_en": "I've been experimenting with my fruit milk recipes.",
+          "g_tw": "上次做了水果牛奶之後，我一直在做實驗",
+          "g_tw_cn": "上次做了水果牛奶之后，我一直在做实验",
+          "g_ja": "この前フルーツ牛乳を作ってから、ずっと試してたんだけど",
+          "g_ko": "지난번에 후르츠 밀크를 만든 뒤로 계속 시험해 봤는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310230,
+        "Id": 200310340,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310240,
+        "Message": {
+          "j_ko": "다른 음료수와는 달리 후르츠 밀크는 갓 섞은 게 제일 맛있는 것 같더라고",
+          "j_ja": "フルーツ牛乳は混ぜたばかりのものが一番おいしいと思うんだよね",
+          "g_en": "The thing about fruit milk is that it's always most delicious right after it's mixed.",
+          "g_tw": "水果牛奶和其他飲料不同，在剛混合好的時候感覺是最好喝的",
+          "g_tw_cn": "水果牛奶和其他饮料不同，在刚混合好的时候感觉是最好喝的",
+          "g_ja": "フルーツ牛乳は混ぜたばかりのものが一番おいしいと思うんだよね",
+          "g_ko": "다른 음료수와는 달리 후르츠 밀크는 갓 섞은 게 제일 맛있는 것 같더라고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310240,
+        "Id": 200310350,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310250,
+        "Message": {
+          "j_ko": "우유에 섞인 과일은 향이나 식감이 변질되기 쉬우니까",
+          "j_ja": "果物は香りや食感が変わりやすいから",
+          "g_en": "If you leave it sitting too long, you start getting changes in the smell and texture.",
+          "g_tw": "因為混入牛奶中的水果香味和口感很容易變質",
+          "g_tw_cn": "因为混入牛奶中的水果香味和口感很容易变质",
+          "g_ja": "果物は香りや食感が変わりやすいから",
+          "g_ko": "우유에 섞인 과일은 향이나 식감이 변질되기 쉬우니까"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310250,
+        "Id": 200310360,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310260,
+        "Message": {
+          "j_ko": "그렇긴 하지……",
+          "j_ja": "そうだね",
+          "g_en": "I suppose so.",
+          "g_tw": "這倒是真的……",
+          "g_tw_cn": "这倒是真的……",
+          "g_ja": "そうだね",
+          "g_ko": "그렇긴 하지……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310250,
+        "Id": 200310370,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310260,
+        "Message": {
+          "j_ko": "게다가 우유는 상하기도 쉬우니까.",
+          "j_ja": "それに牛乳も鮮度が落ちやすいから",
+          "g_en": "And of course, there's also the danger of the milk spoiling.",
+          "g_tw": "而且牛奶也很容易壞",
+          "g_tw_cn": "而且牛奶也很容易坏",
+          "g_ja": "それに牛乳も鮮度が落ちやすいから",
+          "g_ko": "게다가 우유는 상하기도 쉬우니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310260,
+        "Id": 200310380,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310270,
+        "Message": {
+          "j_ko": "그런데 보통의 온천장에서는 미리 만들어 둔 후르츠 밀크를 팔잖아?",
+          "j_ja": "でも普通の温泉では、あらかじめ作ってあるフルーツ牛乳を売ってるんだよね？",
+          "g_en": "But most hot spring resorts and bathhouses just sell drinks they got from a store, right?",
+          "g_tw": "不過溫泉浴場賣的，一般不都是事先做好的水果牛奶嗎？",
+          "g_tw_cn": "不过温泉浴场卖的，一般不都是事先做好的水果牛奶吗？",
+          "g_ja": "でも普通の温泉では、あらかじめ作ってあるフルーツ牛乳を売ってるんだよね？",
+          "g_ko": "그런데 보통의 온천장에서는 미리 만들어 둔 후르츠 밀크를 팔잖아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310260,
+        "Id": 200310390,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310270,
+        "Message": {
+          "j_ko": "그래서 개선 아이디어를 하나 생각해 봤는데……",
+          "j_ja": "だから、一つ考えてみたんだけど……",
+          "g_en": "So I had an idea...",
+          "g_tw": "所以我想了一個改善方法……",
+          "g_tw_cn": "所以我想了一个改善方法……",
+          "g_ja": "だから、一つ考えてみたんだけど……",
+          "g_ko": "그래서 개선 아이디어를 하나 생각해 봤는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310270,
+        "Id": 200310400,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310280,
+        "Message": {
+          "j_ko": "휴게실 카운터에 바텐더가 상주하고 있다가 손님이 목욕을 하고 나오면 바로 후르츠 밀크를 블렌딩해 주는 거야.",
+          "j_ja": "休憩室にフルーツ牛乳バーを置くのはどうかな。バーテンダーがいて、お客さんがお風呂から上がったらすぐにフルーツ牛乳をブレンディングしてくれるんだよ",
+          "g_en": "What if there was a bartender in the lounge area, and whenever a customer finished their bath, the bartender mixed them up a fresh fruit milk on the spot?",
+          "g_tw": "那就是讓調酒師常駐休息室的吧檯，當客人洗完澡出來就馬上幫客人調製水果牛奶",
+          "g_tw_cn": "那就是让调酒师常驻休息室的吧台，当客人洗完澡出来就马上帮客人调制水果牛奶",
+          "g_ja": "休憩室にフルーツ牛乳バーを置くのはどうかな。バーテンダーがいて、お客さんがお風呂から上がったらすぐにフルーツ牛乳をブレンディングしてくれるんだよ",
+          "g_ko": "휴게실 카운터에 바텐더가 상주하고 있다가 손님이 목욕을 하고 나오면 바로 후르츠 밀크를 블렌딩해 주는 거야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310270,
+        "Id": 200310410,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310280,
+        "Message": {
+          "j_ko": "그럼 후르츠 밀크의 맛도 살릴 수 있고, 손님의 취향에 맞는 맞춤 서비스도 제공할 수 있겠지?",
+          "j_ja": "そうすればフルーツ牛乳を美味しいうちに飲んでもらえるし、お客さんの好みに合わせたブレンディングもできるでしょ？一度試してみる価値はあると思う",
+          "g_en": "That way, not only does the customer get the best fruit milk possible, but it's also tailor-made for their taste!",
+          "g_tw": "這麼一來不但可以保持水果牛奶的風味，也能提供適合客人愛好的客製化服務對吧？",
+          "g_tw_cn": "这么一来不但可以保持水果牛奶的风味，也能提供适合客人爱好的客制化服务对吧？",
+          "g_ja": "そうすればフルーツ牛乳を美味しいうちに飲んでもらえるし、お客さんの好みに合わせたブレンディングもできるでしょ？一度試してみる価値はあると思う",
+          "g_ko": "그럼 후르츠 밀크의 맛도 살릴 수 있고, 손님의 취향에 맞는 맞춤 서비스도 제공할 수 있겠지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310280,
+        "Id": 200310420,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310290,
+        "Message": {
+          "j_ko": "재미있는 생각이기는 하지만……",
+          "j_ja": "面白いアイデアだけど……",
+          "g_en": "It's an interesting idea, but...",
+          "g_tw": "這想法確實很有意思……",
+          "g_tw_cn": "这想法确实很有意思……",
+          "g_ja": "面白いアイデアだけど……",
+          "g_ko": "재미있는 생각이기는 하지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310290,
+        "Id": 200310430,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310300,
+        "Message": {
+          "j_ko": "우유 하나 때문에 일부러 종업원을 고용하는 온천장이 있을까?",
+          "j_ja": "温泉施設はフルーツ牛乳のためにそこまでするかな……？",
+          "g_en": "Are there any hot spring resorts that would hire someone just for that?",
+          "g_tw": "但會有溫泉浴場只為了水果牛奶而特地雇用服務員嗎？",
+          "g_tw_cn": "但会有温泉浴场只为了水果牛奶而特地雇用服务员吗？",
+          "g_ja": "温泉施設はフルーツ牛乳のためにそこまでするかな……？",
+          "g_ko": "우유 하나 때문에 일부러 종업원을 고용하는 온천장이 있을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310300,
+        "Id": 200310440,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310310,
+        "Message": {
+          "j_ko": "그래서 목욕탕 사장님께 소개받은 다른 온천장에서",
+          "j_ja": "あ、それについては大丈夫",
+          "g_en": "The only way to know for sure is to try it out. So I'm doing an experiment.",
+          "g_tw": "所以我決定在澡堂老闆介紹的其他溫泉浴場……",
+          "g_tw_cn": "所以我决定在澡堂老板介绍的其他温泉浴场……",
+          "g_ja": "あ、それについては大丈夫",
+          "g_ko": "그래서 목욕탕 사장님께 소개받은 다른 온천장에서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310300,
+        "Id": 200310450,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310310,
+        "Message": {
+          "j_ko": "시험 삼아 며칠간 일해보기로 했어.",
+          "j_ja": "あの銭湯に紹介してもらった温泉で、数日働かせてもらうことになったから",
+          "g_en": "The owner of the bathhouse in town set me up with a temporary job at another hot spring resort.",
+          "g_tw": "工作幾天試試看",
+          "g_tw_cn": "工作几天试试看",
+          "g_ja": "あの銭湯に紹介してもらった温泉で、数日働かせてもらうことになったから",
+          "g_ko": "시험 삼아 며칠간 일해보기로 했어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310310,
+        "Id": 200310460,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200315,
+        "NextGroupId": 200310320,
+        "Message": {
+          "j_ko": "……갑자기?",
+          "j_ja": "…………え？",
+          "g_en": "...Well that's pretty sudden.",
+          "g_tw": "……這麼突然？",
+          "g_tw_cn": "……这么突然？",
+          "g_ja": "…………え？",
+          "g_ko": "……갑자기?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310320,
+        "Id": 200310470,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310330,
+        "Message": {
+          "j_ko": "……선생님. 결국 감기에 걸렸다며?",
+          "j_ja": "先生、結局風邪ひいたんだって？",
+          "g_en": "Sensei. I hear you caught a cold.",
+          "g_tw": "……老師，結果你感冒了？",
+          "g_tw_cn": "……老师，结果你感冒了？",
+          "g_ja": "先生、結局風邪ひいたんだって？",
+          "g_ko": "……선생님. 결국 감기에 걸렸다며?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310330,
+        "Id": 200310480,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310340,
+        "Message": {
+          "j_ko": "아까 돌아가는 길에 잠깐 샬레에 들를 일이 있어서",
+          "j_ja": "さっきシャーレに用事があったから",
+          "g_en": "I had to stop by near Schale on my way home.",
+          "g_tw": "剛才回去的路上有事路過了夏萊",
+          "g_tw_cn": "刚才回去的路上有事路过了夏莱",
+          "g_ja": "さっきシャーレに用事があったから",
+          "g_ko": "아까 돌아가는 길에 잠깐 샬레에 들를 일이 있어서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310330,
+        "Id": 200310490,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310340,
+        "Message": {
+          "j_ko": "휴게실에 생강과 홍차를 섞은 우유를 두고 왔어.",
+          "j_ja": "休憩室に生姜を入れたミルクティーを置いてきたよ",
+          "g_en": "I left some ginger and milk tea for you in the lounge.",
+          "g_tw": "我在休息室放了加入生薑和紅茶的奶茶哦",
+          "g_tw_cn": "我在休息室放了加入生姜和红茶的奶茶哦",
+          "g_ja": "休憩室に生姜を入れたミルクティーを置いてきたよ",
+          "g_ko": "휴게실에 생강과 홍차를 섞은 우유를 두고 왔어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310340,
+        "Id": 200310500,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310350,
+        "Message": {
+          "j_ko": "몸이 으슬으슬할 때마다 조금씩 데워서 마시도록 해",
+          "j_ja": "寒気がする時に温めて飲んでね",
+          "g_en": "Please help yourself if you're feeling chilly.",
+          "g_tw": "身體發冷的時候就熱一些來喝吧",
+          "g_tw_cn": "身体发冷的时候就热一些来喝吧",
+          "g_ja": "寒気がする時に温めて飲んでね",
+          "g_ko": "몸이 으슬으슬할 때마다 조금씩 데워서 마시도록 해"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310350,
+        "Id": 200310510,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310360,
+        "Message": {
+          "j_ko": "지금의 나에게 딱 맞는 우유 블렌딩이네……",
+          "j_ja": "今の私にぴったりなブレンドだね……",
+          "g_en": "You've picked out just the milk blend I need...",
+          "g_tw": "這個牛奶特調正適合現在的我呢……",
+          "g_tw_cn": "这个牛奶特调正适合现在的我呢……",
+          "g_ja": "今の私にぴったりなブレンドだね……",
+          "g_ko": "지금의 나에게 딱 맞는 우유 블렌딩이네……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310350,
+        "Id": 200310520,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310360,
+        "Message": {
+          "j_ko": "일부러 챙겨줘서 고마워.",
+          "j_ja": "わざわざ気を遣ってくれてありがとう",
+          "g_en": "Thank you for taking care of me.",
+          "g_tw": "謝謝你這麼為我著想",
+          "g_tw_cn": "谢谢你这么为我着想",
+          "g_ja": "わざわざ気を遣ってくれてありがとう",
+          "g_ko": "일부러 챙겨줘서 고마워."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310360,
+        "Id": 200310530,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310370,
+        "Message": {
+          "j_ko": "그러니까 처음부터 나랑 같이 이불을 덮고 잤으면 좋았을 텐데.",
+          "j_ja": "だから私と一緒のお布団で寝ればいいって言ったのに",
+          "g_en": "You should have just shared a futon with me like I asked.",
+          "g_tw": "所以我才說要跟我一起蓋被子睡嘛",
+          "g_tw_cn": "所以我才说要跟我一起盖被子睡嘛",
+          "g_ja": "だから私と一緒のお布団で寝ればいいって言ったのに",
+          "g_ko": "그러니까 처음부터 나랑 같이 이불을 덮고 잤으면 좋았을 텐데."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310360,
+        "Id": 200310540,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310370,
+        "Message": {
+          "j_ko": "오늘은 꼭 두꺼운 이불을 덮고 푹 자도록 해.",
+          "j_ja": "今日はあったかいお布団でぐっすり寝てね",
+          "g_en": "Make sure to use extra thick blankets tonight.",
+          "g_tw": "今天一定要蓋上暖暖的棉被好好睡一覺哦",
+          "g_tw_cn": "今天一定要盖上暖暖的棉被好好睡一觉哦",
+          "g_ja": "今日はあったかいお布団でぐっすり寝てね",
+          "g_ko": "오늘은 꼭 두꺼운 이불을 덮고 푹 자도록 해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310370,
+        "Id": 200310550,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310380,
+        "Message": {
+          "j_ko": "……술에는 의존하지 말고.",
+          "j_ja": "……「発酵」に頼らずに",
+          "g_en": "Alcohol is not enough to keep you warm.",
+          "g_tw": "……還有別依賴酒精",
+          "g_tw_cn": "……还有别依赖酒精",
+          "g_ja": "……「発酵」に頼らずに",
+          "g_ko": "……술에는 의존하지 말고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310380,
+        "Id": 200310560,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310390,
+        "Message": {
+          "j_ko": "……명심하겠습니다.",
+          "j_ja": "……肝に銘じます",
+          "g_en": "I'll keep that in mind...",
+          "g_tw": "……我會銘記在心",
+          "g_tw_cn": "……我会铭记在心",
+          "g_ja": "……肝に銘じます",
+          "g_ko": "……명심하겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2003106,
+    "Data": [
+      {
+        "GroupId": 200310390,
+        "Id": 200310570,
+        "CharacterId": 20031,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310400,
+        "Message": {
+          "j_ko": "선생님, 지난번에 청소한 구교사의 탕에 물을 다시 모두 채웠어",
+          "j_ja": "先生、旧校舎の湯船にお湯が溜まったよ",
+          "g_en": "Sensei, we finally managed to refill the bath.",
+          "g_tw": "老師，我把之前打掃的舊校舍浴池重新裝滿水囉",
+          "g_tw_cn": "老师，我把之前打扫的旧校舍浴池重新装满水啰",
+          "g_ja": "先生、旧校舎の湯船にお湯が溜まったよ",
+          "g_ko": "선생님, 지난번에 청소한 구교사의 탕에 물을 다시 모두 채웠어"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310400,
+        "Id": 200310580,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310410,
+        "Message": {
+          "j_ko": "그사이에 겸사겸사 주변 환경도 정리하고 새 입욕제도 넣어두었으니",
+          "j_ja": "ついでに周りの環境整備をして、新しい入浴剤も入れておいた",
+          "g_en": "I've tidied up the whole place and put in some bath bombs too.",
+          "g_tw": "還順便整理了周遭環境，加了新的入浴劑",
+          "g_tw_cn": "还顺便整理了周遭环境，加了新的入浴剂",
+          "g_ja": "ついでに周りの環境整備をして、新しい入浴剤も入れておいた",
+          "g_ko": "그사이에 겸사겸사 주변 환경도 정리하고 새 입욕제도 넣어두었으니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310400,
+        "Id": 200310590,
+        "CharacterId": 20031,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310410,
+        "Message": {
+          "j_ko": "나중에 괜찮다면 선생님도 한 번 목욕하러 와",
+          "j_ja": "よかったら先生も入りに来て",
+          "g_en": "I'd love it if you came and had a bath here.",
+          "g_tw": "之後老師有空的話也來洗澡吧",
+          "g_tw_cn": "之后老师有空的话也来洗澡吧",
+          "g_ja": "よかったら先生も入りに来て",
+          "g_ko": "나중에 괜찮다면 선생님도 한 번 목욕하러 와"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310410,
+        "Id": 200310600,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310420,
+        "Message": {
+          "j_ko": "탕이 복구되었다니 다행이지만……",
+          "j_ja": "復旧できてよかったけど……",
+          "g_en": "I'm glad to hear the bath is fixed...",
+          "g_tw": "能修復真是太好了……",
+          "g_tw_cn": "能修复真是太好了……",
+          "g_ja": "復旧できてよかったけど……",
+          "g_ko": "탕이 복구되었다니 다행이지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310420,
+        "Id": 200310610,
+        "CharacterId": 20031,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200310430,
+        "Message": {
+          "j_ko": "설마 또 와인을 넣은 건 아니겠지?",
+          "j_ja": "「ぶどうジュース」は入ってないよね……？",
+          "g_en": "You didn't use wine again, did you?",
+          "g_tw": "但你該不會又加了紅酒進去吧？",
+          "g_tw_cn": "但你该不会又加了红酒进去吧？",
+          "g_ja": "「ぶどうジュース」は入ってないよね……？",
+          "g_ko": "설마 또 와인을 넣은 건 아니겠지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310430,
+        "Id": 200310620,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "후후, 어떠려나",
+          "j_ja": "ふふっ、どうかな",
+          "g_en": "Heehee... I wonder.",
+          "g_tw": "呵呵，誰知道呢",
+          "g_tw_cn": "呵呵，谁知道呢",
+          "g_ja": "ふふっ、どうかな",
+          "g_ko": "후후, 어떠려나"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310430,
+        "Id": 200310630,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "의심스러우면 구교사에 한 번 직접 와보는 건 어때?",
+          "j_ja": "気になるなら、直接確認しに来たらどう？",
+          "g_en": "If you're suspicious, come and see for yourself.",
+          "g_tw": "如果想知道的話，要不要親自來一趟舊校舍？",
+          "g_tw_cn": "如果想知道的话，要不要亲自来一趟旧校舍？",
+          "g_ja": "気になるなら、直接確認しに来たらどう？",
+          "g_ko": "의심스러우면 구교사에 한 번 직접 와보는 건 어때?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200310430,
+        "Id": 200310640,
+        "CharacterId": 20031,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200316,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "기다리고 있을게, 선생님.",
+          "j_ja": "待ってるよ、先生",
+          "g_en": "I'll be waiting, Sensei.",
+          "g_tw": "我等你唷，老師",
+          "g_tw_cn": "我等你唷，老师",
+          "g_ja": "待ってるよ、先生",
+          "g_ko": "기다리고 있을게, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

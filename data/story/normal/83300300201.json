@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それにしても、訓練から戻った直後になんて面倒なことを……",
+      "j_ko": "그나저나 훈련이 끝난 직후에 이게 정말 무슨 일이람.",
+      "g_ja": "それにしても、訓練から戻った直後になんて面倒なことを……",
+      "g_ko": "그나저나 훈련이 끝난 직후에 이게 정말 무슨 일이람.",
+      "g_en": "To think that this is all happening just as we returned from training.",
+      "g_th": "เราเพิ่งจะจบการฝึกฝนมาหมาดๆ นี่มันเรื่องอะไรกันเนี่ย",
+      "g_tw": "話說回來，訓練才剛結束就發生這種狀況。",
+      "g_tw_cn": "话说回来，训练才刚结束就发生这种状况。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 792267831,
+    "DataType": "speaker",
+    "Script": "3;이오리;06;그나저나 훈련이 끝난 직후에 이게 정말 무슨 일이람.\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "静かな日なんて存在しないのがゲヘナ学園ですから……",
+      "j_ko": "하루도 바람 잘날이 없는 곳이 게헨나 학원이니까요……",
+      "g_ja": "静かな日なんて存在しないのがゲヘナ学園ですから……",
+      "g_ko": "하루도 바람 잘날이 없는 곳이 게헨나 학원이니까요……",
+      "g_en": "Well, it wouldn't be Gehenna Academy if we sailed on untroubled waters...",
+      "g_th": "ก็ที่นี่คือสถาบันเกเฮนน่าที่ไม่มีวันเงียบสงบเลยนี่คะ...",
+      "g_tw": "畢竟格黑娜學園本來就是不平靜的地方……",
+      "g_tw_cn": "毕竟格黑娜学园本来就是不平静的地方……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1867911819,
+    "DataType": "speaker",
+    "Script": "3;이오리;06\\n4;치나츠;06;하루도 바람 잘날이 없는 곳이 게헨나 학원이니까요……\\n#4;a\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ。バレンタインくらいはみんな大人しくしてろよ、まったく。",
+      "j_ko": "으으으. 발렌타인 데이 정도만큼은 다들 얌전히 있어달라고. 정말로.",
+      "g_ja": "うぅ。バレンタインくらいはみんな大人しくしてろよ、まったく。",
+      "g_ko": "으으으. 발렌타인 데이 정도만큼은 다들 얌전히 있어달라고. 정말로.",
+      "g_en": "Hmph. The students could restrain themselves for Valentine's Day, at the very least.",
+      "g_th": "ฮึ่ยยย จะวันวาเลนไทน์ทั้งที อยู่กันแบบสงบเสงี่ยมสักหน่อยไม่ได้รึไง จริงๆ เลย",
+      "g_tw": "嗚嗚。真希望大家至少能在情人節這天安分一點。",
+      "g_tw_cn": "呜呜。真希望大家至少能在情人节这天安分一点。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 792267831,
+    "DataType": "speaker",
+    "Script": "3;이오리;06;으으으. 발렌타인 데이 정도만큼은 다들 얌전히 있어달라고. 정말로.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

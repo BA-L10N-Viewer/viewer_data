@@ -1,0 +1,438 @@
+[
+  {
+    "BondScenarioId": 1010102,
+    "Data": [
+      {
+        "GroupId": 101010010,
+        "Id": 101010010,
+        "CharacterId": 10101,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010020,
+        "Message": {
+          "j_ko": "선생.",
+          "j_ja": "先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010020,
+        "Id": 101010020,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010030,
+        "Message": {
+          "j_ko": "축제는 즐기고 있는지 모르겠군.",
+          "j_ja": "お祭りは楽しんでいるか"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010030,
+        "Id": 101010030,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010040,
+        "Message": {
+          "j_ko": "앗, 사오리.",
+          "j_ja": "もちろんだよ、サオリ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010030,
+        "Id": 101010040,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010040,
+        "Message": {
+          "j_ko": "물론, 즐기고 있지.",
+          "j_ja": "楽しめてるよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010040,
+        "Id": 101010050,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010050,
+        "Message": {
+          "j_ko": "다행이군.",
+          "j_ja": "それは良かった"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010040,
+        "Id": 101010060,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010050,
+        "Message": {
+          "j_ko": "나는 해변 구역의 식당에서 업무를 시작한 참이다.",
+          "j_ja": "私は海辺の食堂でアルバイトを始めたところだ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010050,
+        "Id": 101010070,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 101012,
+        "NextGroupId": 101010060,
+        "Message": {
+          "j_ko": "선생도 배가 고프면 와도 괜찮다.",
+          "j_ja": "お腹が空いたら、ぜひ先生も来てくれ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1010103,
+    "Data": [
+      {
+        "GroupId": 101010060,
+        "Id": 101010080,
+        "CharacterId": 10101,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010070,
+        "Message": {
+          "j_ko": "선생, 저번 일은 고마웠다.",
+          "j_ja": "先生、この間は世話になった"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010070,
+        "Id": 101010090,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010080,
+        "Message": {
+          "j_ko": "오늘은 다른 일이 생겨서, 축제장을 조금 둘러볼 생각이다.",
+          "j_ja": "今日は会場の見回りをするんだが、一人では手が足りなそうでな……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010070,
+        "Id": 101010100,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010080,
+        "Message": {
+          "j_ko": "혼자서는 조금 힘들 것 같아서, 도움을 요청하고 싶다만…….",
+          "j_ja": "よければ先生の力を借りられないだろうか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010080,
+        "Id": 101010110,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010090,
+        "Message": {
+          "j_ko": "물론, 나는 환영이지.",
+          "j_ja": "もちろん、手伝うよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010090,
+        "Id": 101010120,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 101013,
+        "NextGroupId": 101010100,
+        "Message": {
+          "j_ko": "고맙다. 그럼, 축제장 입구에서 기다리겠다.",
+          "j_ja": "感謝する。では、会場の入口で待ち合わせしよう"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010100,
+        "Id": 101010130,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010110,
+        "Message": {
+          "j_ko": "선생, 오늘 수집한 소리 샘플들을 시험해 봤다.",
+          "j_ja": "先生、さっき録音した音を加工してみた"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010110,
+        "Id": 101010140,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010120,
+        "Message": {
+          "j_ko": "다행히 괜찮은 작품이 나올 것 같아.",
+          "j_ja": "中々良い出来かもしれない"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010120,
+        "Id": 101010150,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010130,
+        "Message": {
+          "j_ko": "그거 잘 됐네!",
+          "j_ja": "良かった！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010130,
+        "Id": 101010160,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010140,
+        "Message": {
+          "j_ko": "어디",
+          "j_ja": "先生にもデータを送るから、聞いてみてくれ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010140,
+        "Id": 101010170,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010150,
+        "Message": {
+          "j_ko": "(파일 전송에 실패하였습니다.)",
+          "j_ja": "（ファイルの送信に失敗しました）"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 101010150,
+            "Id": 101010180,
+            "CharacterId": 10101,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 101010160,
+            "Message": {
+              "j_ko": "아",
+              "j_ja": "あ"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 101010150,
+            "Id": 101010190,
+            "CharacterId": 10101,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 101010160,
+            "Message": {
+              "j_ko": "이런",
+              "j_ja": "そうか"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 101010150,
+        "Id": 101010180,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010160,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010150,
+        "Id": 101010190,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010160,
+        "Message": {
+          "j_ko": "이런",
+          "j_ja": "そうか"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010160,
+        "Id": 101010200,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010170,
+        "Message": {
+          "j_ko": "용량 문제인가…….",
+          "j_ja": "容量のせいで……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010170,
+        "Id": 101010210,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010180,
+        "Message": {
+          "j_ko": "공연장에 직접 가서 듣는 것으로 할게.",
+          "j_ja": "会場で直接聞くね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010180,
+        "Id": 101010220,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010190,
+        "Message": {
+          "j_ko": "으음, 그래 주면 고맙겠다…….",
+          "j_ja": "あぁ、分かった"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1010105,
+    "Data": [
+      {
+        "GroupId": 101010190,
+        "Id": 101010230,
+        "CharacterId": 10101,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010200,
+        "Message": {
+          "j_ko": "선생",
+          "j_ja": "先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010200,
+        "Id": 101010240,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010210,
+        "Message": {
+          "j_ko": "오늘 저녁에 DJ공연이 예정되어 있다.",
+          "j_ja": "今日の夕方からDJステージがあるんだが"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010200,
+        "Id": 101010250,
+        "CharacterId": 10101,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010210,
+        "Message": {
+          "j_ko": "괜찮다면 보러 오지 않겠나?",
+          "j_ja": "良かったら見に来てくれないか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010210,
+        "Id": 101010260,
+        "CharacterId": 10101,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010220,
+        "Message": {
+          "j_ko": "응, 꼭 갈게.",
+          "j_ja": "うん、絶対に行くよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010220,
+        "Id": 101010270,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 101010230,
+        "Message": {
+          "j_ko": "고맙다. 시간은 해가 진 뒤, 장소는 축제장 메인 스테이지다.",
+          "j_ja": "日が沈んでから、メインステージで始まる予定だ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 101010230,
+        "Id": 101010280,
+        "CharacterId": 10101,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 101015,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "기다리고 있겠다.",
+          "j_ja": "では、待っている"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

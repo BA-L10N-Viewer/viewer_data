@@ -1,0 +1,556 @@
+[
+  {
+    "BondScenarioId": 1300202,
+    "Data": [
+      {
+        "GroupId": 130020010,
+        "Id": 1223,
+        "CharacterId": 13002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020020,
+        "Message": {
+          "j_ko": "문득 궁금해졌는데, 규동 가게에서는 어째서 킹 사이즈보다 큰 규동을 팔지 않는 걸까요?",
+          "j_ja": "どうして特盛より上の大きさの牛丼は売られていないのでしょうか？",
+          "g_en": "You know, I've been wondering... Why don't restaurants sell beef bowls larger than king size?",
+          "g_tw": "為什麼不賣比特盛更大的牛丼呢？",
+          "g_tw_cn": "为什么不卖比特盛更大的牛丼呢？",
+          "g_ja": "どうして特盛より上の大きさの牛丼は売られていないのでしょうか？",
+          "g_ko": "문득 궁금해졌는데, 규동 가게에서는 어째서 킹 사이즈보다 큰 규동을 팔지 않는 걸까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020020,
+        "Id": 1224,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020030,
+        "Message": {
+          "j_ko": "킹 사이즈 정도면 충분히 크지 않아?",
+          "j_ja": "特盛で十分大きくない……？",
+          "g_en": "Isn't king size big enough?",
+          "g_tw": "特盛還不夠大……？",
+          "g_tw_cn": "特盛还不够大……？",
+          "g_ja": "特盛で十分大きくない……？",
+          "g_ko": "킹 사이즈 정도면 충분히 크지 않아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020030,
+        "Id": 1225,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020040,
+        "Message": {
+          "j_ko": "안 돼요. 킹 사이즈 한 그릇으로는 배가 충분히 차지 않는다고요.",
+          "j_ja": "いえ、特盛一杯ではお腹いっぱいになれません",
+          "g_en": "No! I can never get full on one king-sized bowl.",
+          "g_tw": "不夠，一碗特盛吃不飽",
+          "g_tw_cn": "不够，一碗特盛吃不饱",
+          "g_ja": "いえ、特盛一杯ではお腹いっぱいになれません",
+          "g_ko": "안 돼요. 킹 사이즈 한 그릇으로는 배가 충분히 차지 않는다고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020040,
+        "Id": 1226,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020050,
+        "Message": {
+          "j_ko": "아카리는 어째서 그렇게 한 번에 많은 음식을 먹는 거야?",
+          "j_ja": "どうしてアカリはそんなにたくさん食べるの？",
+          "g_en": "Akari, why do you eat so much food at once?",
+          "g_tw": "為什麼亞伽里能吃那麼多？",
+          "g_tw_cn": "为什么亚伽里能吃那么多？",
+          "g_ja": "どうしてアカリはそんなにたくさん食べるの？",
+          "g_ko": "아카리는 어째서 그렇게 한 번에 많은 음식을 먹는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020050,
+        "Id": 1227,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020060,
+        "Message": {
+          "j_ko": "후후, 우문이군요. 제가 한 번에 많은 음식을 먹는 이유는 간단하답니다.",
+          "j_ja": "フフッ、愚問ですね。私がたくさん食べる理由は簡単です",
+          "g_en": "Heehee! What a silly question.",
+          "g_tw": "呵呵，真是愚蠢的問題。我吃很多的理由很簡單",
+          "g_tw_cn": "呵呵，真是愚蠢的问题。我吃很多的理由很简单",
+          "g_ja": "フフッ、愚問ですね。私がたくさん食べる理由は簡単です",
+          "g_ko": "후후, 우문이군요. 제가 한 번에 많은 음식을 먹는 이유는 간단하답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020050,
+        "Id": 1228,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130022,
+        "NextGroupId": 130020060,
+        "Message": {
+          "j_ko": "그 이유는…… 그곳에 음식이 있으니까!",
+          "j_ja": "なぜなら……そこに食べ物があるからです！",
+          "g_en": "If I see food...I eat it! All of it!",
+          "g_tw": "因為……食物在那裡！",
+          "g_tw_cn": "因为……食物在那里！",
+          "g_ja": "なぜなら……そこに食べ物があるからです！",
+          "g_ko": "그 이유는…… 그곳에 음식이 있으니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1300203,
+    "Data": [
+      {
+        "GroupId": 130020060,
+        "Id": 1229,
+        "CharacterId": 13002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020070,
+        "Message": {
+          "j_ko": "선생님은 어떤 라멘을 드실 때 면부터 드시나요, 아니면 국물부터 드시나요?",
+          "j_ja": "先生はラーメンを食べる時、麺から行きますか？それともスープからです？",
+          "g_en": "When you eat ramen, do you eat the noodles or drink the soup first?",
+          "g_tw": "老師吃拉麵的時候，是先吃麵嗎？還是先喝湯？",
+          "g_tw_cn": "老师吃拉面的时候，是先吃面吗？还是先喝汤？",
+          "g_ja": "先生はラーメンを食べる時、麺から行きますか？それともスープからです？",
+          "g_ko": "선생님은 어떤 라멘을 드실 때 면부터 드시나요, 아니면 국물부터 드시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020070,
+        "Id": 1230,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020080,
+        "Message": {
+          "j_ko": "면부터 먹어.",
+          "j_ja": "麺からかな",
+          "g_en": "Noodles first.",
+          "g_tw": "麵吧",
+          "g_tw_cn": "面吧",
+          "g_ja": "麺からかな",
+          "g_ko": "면부터 먹어."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020070,
+        "Id": 1231,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020090,
+        "Message": {
+          "j_ko": "국물부터 마셔.",
+          "j_ja": "スープからかな",
+          "g_en": "Soup first.",
+          "g_tw": "湯吧",
+          "g_tw_cn": "汤吧",
+          "g_ja": "スープからかな",
+          "g_ko": "국물부터 마셔."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020080,
+        "Id": 1232,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020100,
+        "Message": {
+          "j_ko": "선생님은 라멘의 면발을 중시하는 편이시군요.",
+          "j_ja": "なるほど、そうでしたか",
+          "g_en": "So you care more about the noodles when it comes to ramen.",
+          "g_tw": "原來如此，這樣啊",
+          "g_tw_cn": "原来如此，这样啊",
+          "g_ja": "なるほど、そうでしたか",
+          "g_ko": "선생님은 라멘의 면발을 중시하는 편이시군요."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020090,
+        "Id": 1233,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020100,
+        "Message": {
+          "j_ko": "선생님은 라멘의 국물을 중시하는 편이시군요.",
+          "j_ja": "なるほど、そうでしたか",
+          "g_en": "So you care more about the soup when it comes to ramen.",
+          "g_tw": "原來如此，這樣啊",
+          "g_tw_cn": "原来如此，这样啊",
+          "g_ja": "なるほど、そうでしたか",
+          "g_ko": "선생님은 라멘의 국물을 중시하는 편이시군요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020100,
+        "Id": 1234,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020110,
+        "Message": {
+          "j_ko": "저는 국물부터 마시는 걸 선호해요.",
+          "j_ja": "個人的にはスープ一択ですね",
+          "g_en": "I prefer to start with the soup.",
+          "g_tw": "我個人會選擇湯",
+          "g_tw_cn": "我个人会选择汤",
+          "g_ja": "個人的にはスープ一択ですね",
+          "g_ko": "저는 국물부터 마시는 걸 선호해요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020100,
+        "Id": 1235,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020110,
+        "Message": {
+          "j_ko": "진한 국물이야말로 라멘의 맛이 모두 담긴 정수라 할 수 있으니까요.",
+          "j_ja": "スープこそ、ラーメンの全てが詰まった精髄と言っても過言ではありません",
+          "g_en": "The thick soup of a bowl of ramen is its essence, containing its true flavor.",
+          "g_tw": "說湯是充滿了拉麵的全部精華也不為過",
+          "g_tw_cn": "说汤是充满了拉面的全部精华也不为过",
+          "g_ja": "スープこそ、ラーメンの全てが詰まった精髄と言っても過言ではありません",
+          "g_ko": "진한 국물이야말로 라멘의 맛이 모두 담긴 정수라 할 수 있으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 130020110,
+            "Id": 1236,
+            "CharacterId": 13002,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 130020120,
+            "Message": {
+              "j_ko": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!",
+              "j_ja": "そこにすり潰したニンニクが加わった日には……ああ、なんて素晴らしい！",
+              "g_en": "When you add the pungent taste of crushed garlic... Ooh, I can't stand how good it is!",
+              "g_tw": "在裡面加入搗碎的大蒜的日子……啊啊，多麼美妙啊！",
+              "g_tw_cn": "在里面加入捣碎的大蒜的日子……啊啊，多么美妙啊！",
+              "g_ja": "そこにすり潰したニンニクが加わった日には……ああ、なんて素晴らしい！",
+              "g_ko": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 130020110,
+        "Id": 1236,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020120,
+        "Message": {
+          "j_ko": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!",
+          "j_ja": "そこにすり潰したニンニクが加わった日には……ああ、なんて素晴らしい！",
+          "g_en": "When you add the pungent taste of crushed garlic... Ooh, I can't stand how good it is!",
+          "g_tw": "在裡面加入搗碎的大蒜的日子……啊啊，多麼美妙啊！",
+          "g_tw_cn": "在里面加入捣碎的大蒜的日子……啊啊，多么美妙啊！",
+          "g_ja": "そこにすり潰したニンニクが加わった日には……ああ、なんて素晴らしい！",
+          "g_ko": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020120,
+        "Id": 1237,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 130023,
+        "NextGroupId": 130020130,
+        "Message": {
+          "j_ko": "어쩐지 아저씨 같은 취향인걸…….",
+          "j_ja": "なんだか、おじさんみたいな好みだね……",
+          "g_en": "That sounds like something an old man would like...",
+          "g_tw": "總覺得像是大叔一樣的喜好啊……",
+          "g_tw_cn": "总觉得像是大叔一样的喜好啊……",
+          "g_ja": "なんだか、おじさんみたいな好みだね……",
+          "g_ko": "어쩐지 아저씨 같은 취향인걸……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1300205,
+    "Data": [
+      {
+        "GroupId": 130020130,
+        "Id": 1238,
+        "CharacterId": 13002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020140,
+        "Message": {
+          "j_ko": "무한리필은 정말 멋진 문화인 것 같아요.",
+          "j_ja": "食べ放題というのは、本当に素敵な文化だと思います",
+          "g_en": "All-you-can-eat is such a great concept.",
+          "g_tw": "我覺得吃到飽真的是很棒的文化",
+          "g_tw_cn": "我觉得吃到饱真的是很棒的文化",
+          "g_ja": "食べ放題というのは、本当に素敵な文化だと思います",
+          "g_ko": "무한리필은 정말 멋진 문화인 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020140,
+        "Id": 1239,
+        "CharacterId": 13002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020150,
+        "Message": {
+          "j_ko": "가격에 구애받지 않고 원하는 음식을 원하는 만큼 먹을 수 있다니…….",
+          "j_ja": "一定の価格で、食べたいものを好きなだけ食べられるなんて……",
+          "g_en": "You can eat as much as you want without worrying about the cost...",
+          "g_tw": "以一定的價格，想吃什麼就吃什麼……",
+          "g_tw_cn": "以一定的价格，想吃什么就吃什么……",
+          "g_ja": "一定の価格で、食べたいものを好きなだけ食べられるなんて……",
+          "g_ko": "가격에 구애받지 않고 원하는 음식을 원하는 만큼 먹을 수 있다니……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020140,
+        "Id": 1240,
+        "CharacterId": 13002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020150,
+        "Message": {
+          "j_ko": "이 아이디어를 낸 사람은 천재(天才)일 게 분명해요!",
+          "j_ja": "このアイデアを出した方は、天才に違いありません！",
+          "g_en": "The person who came up with that idea must be a genius!",
+          "g_tw": "提出這個想法的人，一定是天才！",
+          "g_tw_cn": "提出这个想法的人，一定是天才！",
+          "g_ja": "このアイデアを出した方は、天才に違いありません！",
+          "g_ko": "이 아이디어를 낸 사람은 천재(天才)일 게 분명해요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020150,
+        "Id": 1241,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 130025,
+        "NextGroupId": 130020160,
+        "Message": {
+          "j_ko": "어제 아카리가 방문한 무한리필 가게 주인으로서는 천재(天災)였겠지만…….",
+          "j_ja": "アカリをお客さんとして迎える側にとっては天災だね……",
+          "g_en": "And to the owner of the all-you-can-eat restaurant you visited the other day, you must have been a force of nature...",
+          "g_tw": "對於迎接亞伽里為客人的那一方來說，是天災吧……",
+          "g_tw_cn": "对于迎接亚伽里为客人的那一方来说，是天灾吧……",
+          "g_ja": "アカリをお客さんとして迎える側にとっては天災だね……",
+          "g_ko": "어제 아카리가 방문한 무한리필 가게 주인으로서는 천재(天災)였겠지만……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1300206,
+    "Data": [
+      {
+        "GroupId": 130020160,
+        "Id": 1242,
+        "CharacterId": 13002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020170,
+        "Message": {
+          "j_ko": "다음 대식 대회의 대결 종목은 <카레 많이 먹기>로 정해진 모양이에요.",
+          "j_ja": "次の大食い大会の種目は、「カレー」に決まったそうです",
+          "g_en": "It looks like the challenge for the next eating contest is to eat a lot of curry.",
+          "g_tw": "聽說下次的大胃王大賽項目是「咖哩」",
+          "g_tw_cn": "听说下次的大胃王大赛项目是「咖喱」",
+          "g_ja": "次の大食い大会の種目は、「カレー」に決まったそうです",
+          "g_ko": "다음 대식 대회의 대결 종목은 <카레 많이 먹기>로 정해진 모양이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020170,
+        "Id": 1243,
+        "CharacterId": 13002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020180,
+        "Message": {
+          "j_ko": "카레는 조금 자신 없는데…… 미리 연습을 해두어야겠어요.",
+          "j_ja": "カレー……ちょっと自信がないので、前もって特訓しておかないとです",
+          "g_en": "I'm not so confident about curry... I should practice.",
+          "g_tw": "咖哩……有點沒自信呢，需要提前特訓",
+          "g_tw_cn": "咖喱……有点没自信呢，需要提前特训",
+          "g_ja": "カレー……ちょっと自信がないので、前もって特訓しておかないとです",
+          "g_ko": "카레는 조금 자신 없는데…… 미리 연습을 해두어야겠어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020180,
+        "Id": 1244,
+        "CharacterId": 13002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020190,
+        "Message": {
+          "j_ko": "아카리도 가리는 음식이 있어?",
+          "j_ja": "アカリにも苦手な食べ物があるんだ？",
+          "g_en": "What, there's food you don't like?",
+          "g_tw": "亞伽里也有不喜歡的食物嗎？",
+          "g_tw_cn": "亚伽里也有不喜欢的食物吗？",
+          "g_ja": "アカリにも苦手な食べ物があるんだ？",
+          "g_ko": "아카리도 가리는 음식이 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020190,
+        "Id": 1245,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020200,
+        "Message": {
+          "j_ko": "못 먹는 건 아니지만 많이 먹기 힘든 음식은 있어요.",
+          "j_ja": "食べられはするのですが、大食いにはちょっと……というものはあります",
+          "g_en": "It's not that I can't eat it, but there are certain foods that I can't eat a ton of.",
+          "g_tw": "是能吃，但吃大量的話……有些東西沒辦法",
+          "g_tw_cn": "是能吃，但吃大量的话……有些东西没办法",
+          "g_ja": "食べられはするのですが、大食いにはちょっと……というものはあります",
+          "g_ko": "못 먹는 건 아니지만 많이 먹기 힘든 음식은 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020200,
+        "Id": 1246,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020210,
+        "Message": {
+          "j_ko": "예를 들자면 아까 말했던 카레처럼 매운 음식은 자꾸 물을 마시게 되어서 배가 빨리 차거든요.",
+          "j_ja": "例えばカレーですと、途中に何度もお水を飲んでしまうので……",
+          "g_en": "For example, I drink a lot of water when I eat spicy foods like curry, so I get full really quickly.",
+          "g_tw": "比如咖哩的話，中途會喝好幾次水……",
+          "g_tw_cn": "比如咖喱的话，中途会喝好几次水……",
+          "g_ja": "例えばカレーですと、途中に何度もお水を飲んでしまうので……",
+          "g_ko": "예를 들자면 아까 말했던 카레처럼 매운 음식은 자꾸 물을 마시게 되어서 배가 빨리 차거든요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130020200,
+        "Id": 1247,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130020210,
+        "Message": {
+          "j_ko": "대신 초밥처럼 개인적으로 좋아하는 음식은 다른 음식보다 두 배는 더 먹을 수 있어요.",
+          "j_ja": "逆にお寿司なんかは、私が好きなこともあって他の倍くらい食べられます",
+          "g_en": "But I can eat twice as much of foods I prefer, like sushi.",
+          "g_tw": "相反地，壽司之類的，因為有我喜歡的東西，所以能吃到其他的兩倍左右",
+          "g_tw_cn": "相反地，寿司之类的，因为有我喜欢的东西，所以能吃到其他的两倍左右",
+          "g_ja": "逆にお寿司なんかは、私が好きなこともあって他の倍くらい食べられます",
+          "g_ko": "대신 초밥처럼 개인적으로 좋아하는 음식은 다른 음식보다 두 배는 더 먹을 수 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 130020210,
+            "Id": 1248,
+            "CharacterId": 13002,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 130026,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "대식가라고 해서 기호가 없는 건 아니랍니다!",
+              "j_ja": "大食いだからといって、好き嫌いがないわけではないんですよ",
+              "g_en": "Gourmands have preferences too!",
+              "g_tw": "雖然食量很大，但也不是沒有喜好的",
+              "g_tw_cn": "虽然食量很大，但也不是没有喜好的",
+              "g_ja": "大食いだからといって、好き嫌いがないわけではないんですよ",
+              "g_ko": "대식가라고 해서 기호가 없는 건 아니랍니다!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 130020210,
+        "Id": 1248,
+        "CharacterId": 13002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130026,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "대식가라고 해서 기호가 없는 건 아니랍니다!",
+          "j_ja": "大食いだからといって、好き嫌いがないわけではないんですよ",
+          "g_en": "Gourmands have preferences too!",
+          "g_tw": "雖然食量很大，但也不是沒有喜好的",
+          "g_tw_cn": "虽然食量很大，但也不是没有喜好的",
+          "g_ja": "大食いだからといって、好き嫌いがないわけではないんですよ",
+          "g_ko": "대식가라고 해서 기호가 없는 건 아니랍니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

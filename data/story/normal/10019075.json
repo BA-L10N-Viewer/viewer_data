@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぺ、ペロロジラの攻略……！完了しました！！",
+      "j_ko": "페, 페로로지라……!! 공략 성공했습니다!",
+      "g_ja": "ぺ、ペロロジラの攻略……！完了しました！！",
+      "g_ko": "페, 페로로지라……!! 공략 성공했습니다!",
+      "g_en": "P-Perorodzilla...neutralized!",
+      "g_th": "พะ...เพโรโร่ซิลล่า...!! โจมตีสำเร็จแล้วค่ะ!",
+      "g_tw": "佩，佩洛洛吉拉的攻略……！成功了！",
+      "g_tw_cn": "佩，佩洛洛吉拉的攻略……！成功了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1488370305,
+    "DataType": "speaker",
+    "Script": "3;아유무;10;페, 페로로지라……!! 공략 성공했습니다!\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うう……お願いだからこれで終わって……！",
+      "j_ko": "으으…… 이걸로 제발 끝이길……!",
+      "g_ja": "うう……お願いだからこれで終わって……！",
+      "g_ko": "으으…… 이걸로 제발 끝이길……!",
+      "g_en": "Ugh... I really hope that was the last of it.",
+      "g_th": "ฮือ... จบสักทีเถอะ...!",
+      "g_tw": "嗚嗚……拜託就這樣結束吧……！",
+      "g_tw_cn": "呜呜……拜托就这样结束吧……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4116787067,
+    "DataType": "speaker",
+    "Script": "3;모모카;44;으으…… 이걸로 제발 끝이길……!\\n#3;em;[속상함]\\n#3;stiff\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2690570743,
+    "DataType": "speaker",
+    "Script": "3;린;S2_01;…….\\n#3;em;…\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

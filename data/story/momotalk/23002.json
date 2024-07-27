@@ -1,0 +1,1111 @@
+[
+  {
+    "BondScenarioId": 2300202,
+    "Data": [
+      {
+        "GroupId": 230020010,
+        "Id": 1502,
+        "CharacterId": 23002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020020,
+        "Message": {
+          "j_ko": "선생님, 혹시 선생님도 주사를 무서워하시나요?",
+          "j_ja": "先生は注射、怖いですか？",
+          "g_en": "Are you scared of getting shots too, Sensei?",
+          "g_tw": "老師會害怕打針嗎？",
+          "g_tw_cn": "老师会害怕打针吗？",
+          "g_ja": "先生は注射、怖いですか？",
+          "g_ko": "선생님, 혹시 선생님도 주사를 무서워하시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020020,
+        "Id": 1503,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020030,
+        "Message": {
+          "j_ko": "주사 정도야 문제없이 맞을 수 있지.",
+          "j_ja": "平気だよ",
+          "g_en": "I have no problem with getting shots.",
+          "g_tw": "不怕",
+          "g_tw_cn": "不怕",
+          "g_ja": "平気だよ",
+          "g_ko": "주사 정도야 문제없이 맞을 수 있지."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020020,
+        "Id": 1504,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020040,
+        "Message": {
+          "j_ko": "주사 무서워! 바늘 무서워!",
+          "j_ja": "注射無理！針怖い！",
+          "g_en": "I hate shots! I hate needles!",
+          "g_tw": "打針我不行！針好可怕！",
+          "g_tw_cn": "打针我不行！针好可怕！",
+          "g_ja": "注射無理！針怖い！",
+          "g_ko": "주사 무서워! 바늘 무서워!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020030,
+        "Id": 1505,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020050,
+        "Message": {
+          "j_ko": "와, 역시 어른이시네요!",
+          "j_ja": "そうなんですね、さすが大人です！",
+          "g_en": "Wow, and you're an adult!",
+          "g_tw": "這樣啊，不愧是大人！",
+          "g_tw_cn": "这样啊，不愧是大人！",
+          "g_ja": "そうなんですね、さすが大人です！",
+          "g_ko": "와, 역시 어른이시네요!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020030,
+        "Id": 1506,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020050,
+        "Message": {
+          "j_ko": "하지만 대부분의 학생은 뾰족한 주삿바늘을 무서워하니까요.",
+          "j_ja": "生徒はみんな大抵、注射の針を怖がってしまって……",
+          "g_en": "Most students are afraid of pointy needles.",
+          "g_tw": "學生們大部分都害怕打針……",
+          "g_tw_cn": "学生们大部分都害怕打针……",
+          "g_ja": "生徒はみんな大抵、注射の針を怖がってしまって……",
+          "g_ko": "하지만 대부분의 학생은 뾰족한 주삿바늘을 무서워하니까요."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020040,
+        "Id": 1507,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020050,
+        "Message": {
+          "j_ko": "……역시 어른들도 주사는 무섭나 보네요.",
+          "j_ja": "やっぱり大人でも注射は怖いんですね……",
+          "g_en": "...I guess even adults are scared of shots.",
+          "g_tw": "果然就算是大人也會害怕打針啊……",
+          "g_tw_cn": "果然就算是大人也会害怕打针啊……",
+          "g_ja": "やっぱり大人でも注射は怖いんですね……",
+          "g_ko": "……역시 어른들도 주사는 무섭나 보네요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020040,
+        "Id": 1508,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020050,
+        "Message": {
+          "j_ko": "확실히 뾰족한 주삿바늘은 보고만 있어도 섬뜩한 기분이 드니까요.",
+          "j_ja": "注射の針を見てゾッとするのは、大人も子供も関係ないのかもしれません",
+          "g_en": "Those needles always give me a bad feeling.",
+          "g_tw": "看來一見到針頭就毛骨悚然是跟年齡無關的也說不定",
+          "g_tw_cn": "看来一见到针头就毛骨悚然是跟年龄无关的也说不定",
+          "g_ja": "注射の針を見てゾッとするのは、大人も子供も関係ないのかもしれません",
+          "g_ko": "확실히 뾰족한 주삿바늘은 보고만 있어도 섬뜩한 기분이 드니까요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020050,
+        "Id": 1509,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020060,
+        "Message": {
+          "j_ko": "그런데 선배들에게 들었는데, 능숙한 간호사들은 주사를 아프지 않게 놓을 수 있대요.",
+          "j_ja": "でも先輩たち曰く、ベテランの看護師さんの注射は全然痛くないそうです",
+          "g_en": "The older students told me that skilled nurses know how to make shots painless.",
+          "g_tw": "但是前輩們都說，老練的護士們打的針似乎一點也不痛",
+          "g_tw_cn": "但是前辈们都说，老练的护士们打的针似乎一点也不痛",
+          "g_ja": "でも先輩たち曰く、ベテランの看護師さんの注射は全然痛くないそうです",
+          "g_ko": "그런데 선배들에게 들었는데, 능숙한 간호사들은 주사를 아프지 않게 놓을 수 있대요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020050,
+        "Id": 1510,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020060,
+        "Message": {
+          "j_ko": "주사가 아프지 않다면 병원에 오는 걸 무서워하는 사람들도 줄어들 텐데…….",
+          "j_ja": "注射が痛くなければ、病院を怖がる人も減りそうなのですが……",
+          "g_en": "If shots really were painless, more people would be okay with the hospital...",
+          "g_tw": "如果打針不會痛的話，或許害怕醫院的人也會變少吧……",
+          "g_tw_cn": "如果打针不会痛的话，或许害怕医院的人也会变少吧……",
+          "g_ja": "注射が痛くなければ、病院を怖がる人も減りそうなのですが……",
+          "g_ko": "주사가 아프지 않다면 병원에 오는 걸 무서워하는 사람들도 줄어들 텐데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 230020060,
+            "Id": 1511,
+            "CharacterId": 23002,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 230022,
+            "NextGroupId": 230020070,
+            "Message": {
+              "j_ko": "어떻게 하면 주사를 아프지 않게 놓을 수 있을까요?",
+              "j_ja": "どうすれば、痛くなくなるのでしょうか？",
+              "g_en": "I wonder how they make shots painless?",
+              "g_tw": "該怎麼做才能減輕疼痛呢？",
+              "g_tw_cn": "该怎么做才能减轻疼痛呢？",
+              "g_ja": "どうすれば、痛くなくなるのでしょうか？",
+              "g_ko": "어떻게 하면 주사를 아프지 않게 놓을 수 있을까요?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 230020060,
+        "Id": 1511,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230022,
+        "NextGroupId": 230020070,
+        "Message": {
+          "j_ko": "어떻게 하면 주사를 아프지 않게 놓을 수 있을까요?",
+          "j_ja": "どうすれば、痛くなくなるのでしょうか？",
+          "g_en": "I wonder how they make shots painless?",
+          "g_tw": "該怎麼做才能減輕疼痛呢？",
+          "g_tw_cn": "该怎么做才能减轻疼痛呢？",
+          "g_ja": "どうすれば、痛くなくなるのでしょうか？",
+          "g_ko": "어떻게 하면 주사를 아프지 않게 놓을 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300203,
+    "Data": [
+      {
+        "GroupId": 230020070,
+        "Id": 1512,
+        "CharacterId": 23002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020080,
+        "Message": {
+          "j_ko": "선생님, 요새 잠은 제대로 주무시고 계시는가요?",
+          "j_ja": "先生、最近きちんと眠れてますか？",
+          "g_en": "Have you been sleeping well, Sensei?",
+          "g_tw": "老師，最近睡得還好嗎？",
+          "g_tw_cn": "老师，最近睡得还好吗？",
+          "g_ja": "先生、最近きちんと眠れてますか？",
+          "g_ko": "선생님, 요새 잠은 제대로 주무시고 계시는가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020080,
+        "Id": 1513,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020090,
+        "Message": {
+          "j_ko": "눈 밑에 다크서클이 진한 게, 얼굴에 피로가 가득해 보여요…….",
+          "j_ja": "目の下のクマもひどかったですし、すごく疲れた顔をしていましたが",
+          "g_en": "Those dark circles look pretty bad, and your skin is looking pretty rough...",
+          "g_tw": "我看你的黑眼圈很重，也總是很累的樣子",
+          "g_tw_cn": "我看你的黑眼圈很重，也总是很累的样子",
+          "g_ja": "目の下のクマもひどかったですし、すごく疲れた顔をしていましたが",
+          "g_ko": "눈 밑에 다크서클이 진한 게, 얼굴에 피로가 가득해 보여요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020090,
+        "Id": 1514,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020100,
+        "Message": {
+          "j_ko": "요새 불면증이 심해져서…….",
+          "j_ja": "最近ちょっと不眠症っぽくてね……",
+          "g_en": "My insomnia has gotten pretty bad...",
+          "g_tw": "最近好像有點失眠……",
+          "g_tw_cn": "最近好像有点失眠……",
+          "g_ja": "最近ちょっと不眠症っぽくてね……",
+          "g_ko": "요새 불면증이 심해져서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020090,
+        "Id": 1515,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020100,
+        "Message": {
+          "j_ko": "어쩐지 밤에 잠이 잘 오질 않아…….",
+          "j_ja": "なんだか夜眠れなくって……",
+          "g_en": "I just can't sleep at night.",
+          "g_tw": "晚上總是睡不著……",
+          "g_tw_cn": "晚上总是睡不着……",
+          "g_ja": "なんだか夜眠れなくって……",
+          "g_ko": "어쩐지 밤에 잠이 잘 오질 않아……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020100,
+        "Id": 1516,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020110,
+        "Message": {
+          "j_ko": "잠은 제때 제대로 주무셔야죠!",
+          "j_ja": "やっぱり、そうだったんですか",
+          "g_en": "You have to sleep at the right time every day!",
+          "g_tw": "果然是這樣啊",
+          "g_tw_cn": "果然是这样啊",
+          "g_ja": "やっぱり、そうだったんですか",
+          "g_ko": "잠은 제때 제대로 주무셔야죠!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020100,
+        "Id": 1517,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020110,
+        "Message": {
+          "j_ko": "피로는 만병의 원인! 잠을 자꾸 설치면 건강도 나빠지고, 병에 걸릴 수도 있다고요.",
+          "j_ja": "疲れは万病のもと！きちんと睡眠をとらないと病気になってしまうかもです",
+          "g_en": "Exhaustion is the worst! Lack of sleep will ruin your health and make you sick!",
+          "g_tw": "疲勞是萬病之源！如果不好好睡覺的話可是會生病的",
+          "g_tw_cn": "疲劳是万病之源！如果不好好睡觉的话可是会生病的",
+          "g_ja": "疲れは万病のもと！きちんと睡眠をとらないと病気になってしまうかもです",
+          "g_ko": "피로는 만병의 원인! 잠을 자꾸 설치면 건강도 나빠지고, 병에 걸릴 수도 있다고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020110,
+        "Id": 1518,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020120,
+        "Message": {
+          "j_ko": "안 되겠어요. 선생님께서 잠을 푹 주무실 수 있도록 제가 좋은 방법을 준비해두고 있을 테니,",
+          "j_ja": "先生がぐっすり眠れるよう、何か良い方法を探しておきますね",
+          "g_en": "This won't do. I'll make something that'll help you sleep better at night.",
+          "g_tw": "為了讓老師能好好睡覺，我會想想辦法的",
+          "g_tw_cn": "为了让老师能好好睡觉，我会想想办法的",
+          "g_ja": "先生がぐっすり眠れるよう、何か良い方法を探しておきますね",
+          "g_ko": "안 되겠어요. 선생님께서 잠을 푹 주무실 수 있도록 제가 좋은 방법을 준비해두고 있을 테니,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020110,
+        "Id": 1519,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230023,
+        "NextGroupId": 230020120,
+        "Message": {
+          "j_ko": "내일 점심시간에 양호실을 찾아주세요!",
+          "j_ja": "明日のお昼、保健室に来てください！",
+          "g_en": "Come to the infirmary during lunch tomorrow!",
+          "g_tw": "明天白天，請老師來保健室一趟！",
+          "g_tw_cn": "明天白天，请老师来保健室一趟！",
+          "g_ja": "明日のお昼、保健室に来てください！",
+          "g_ko": "내일 점심시간에 양호실을 찾아주세요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020120,
+        "Id": 1520,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020130,
+        "Message": {
+          "j_ko": "역시 허브차는 잠이 오는 데까지 걸리는 시간이 너무 긴 것 같아요.",
+          "j_ja": "ハーブティーは良かったのですが眠るまで少し時間がかかってしまいますね",
+          "g_en": "Herbal tea takes too long to get you to sleep.",
+          "g_tw": "香草茶雖然是好東西，但是要讓人睡著還是需要花點時間呢",
+          "g_tw_cn": "香草茶虽然是好东西，但是要让人睡着还是需要花点时间呢",
+          "g_ja": "ハーブティーは良かったのですが眠るまで少し時間がかかってしまいますね",
+          "g_ko": "역시 허브차는 잠이 오는 데까지 걸리는 시간이 너무 긴 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020120,
+        "Id": 1521,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020130,
+        "Message": {
+          "j_ko": "그래서 인터넷에서 잠이 더 잘 오는 차를 조사해보았답니다.",
+          "j_ja": "そこで、ネットでもっと効果のあるものを見つけてきました！",
+          "g_en": "I'll search the internet for a tea that will make you sleepy in no time.",
+          "g_tw": "所以，我在網路上找到了更有效的東西！",
+          "g_tw_cn": "所以，我在网络上找到了更有效的东西！",
+          "g_ja": "そこで、ネットでもっと効果のあるものを見つけてきました！",
+          "g_ko": "그래서 인터넷에서 잠이 더 잘 오는 차를 조사해보았답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020130,
+        "Id": 1522,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020140,
+        "Message": {
+          "j_ko": "음…… 투구꽃 뿌리로 달인 차는 어떠신가요?",
+          "j_ja": "トリカブトの根っこ……？というもので淹れたお茶が良さそうです！",
+          "g_en": "Hm... What about tea brewed with wolfsbane root?",
+          "g_tw": "烏頭屬植物的根……？用這個泡的茶好像很不錯喔！",
+          "g_tw_cn": "乌头属植物的根……？用这个泡的茶好像很不错喔！",
+          "g_ja": "トリカブトの根っこ……？というもので淹れたお茶が良さそうです！",
+          "g_ko": "음…… 투구꽃 뿌리로 달인 차는 어떠신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020140,
+        "Id": 1523,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020150,
+        "Message": {
+          "j_ko": "죽일 셈이냐!",
+          "j_ja": "殺す気！？",
+          "g_en": "Are you trying to kill me?!",
+          "g_tw": "你想殺了我嗎！？",
+          "g_tw_cn": "你想杀了我吗！？",
+          "g_ja": "殺す気！？",
+          "g_ko": "죽일 셈이냐!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300205,
+    "Data": [
+      {
+        "GroupId": 230020150,
+        "Id": 1524,
+        "CharacterId": 23002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020160,
+        "Message": {
+          "j_ko": "선생님은 주로 어디서 라디오 체조를 하시나요?",
+          "j_ja": "先生は普段、どこでラジオ体操をしてるんですか？",
+          "g_en": "Where do you usually do your morning stretches, Sensei?",
+          "g_tw": "老師平常是在哪裡做廣播體操呢？",
+          "g_tw_cn": "老师平常是在哪里做广播体操呢？",
+          "g_ja": "先生は普段、どこでラジオ体操をしてるんですか？",
+          "g_ko": "선생님은 주로 어디서 라디오 체조를 하시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020160,
+        "Id": 1525,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020170,
+        "Message": {
+          "j_ko": "공원? 학교? 아니면 사무실?",
+          "j_ja": "公園？学校？それともシャーレで？",
+          "g_en": "At the park? School? Office?",
+          "g_tw": "是公園？學校？還是在夏萊呢？",
+          "g_tw_cn": "是公园？学校？还是在夏莱呢？",
+          "g_ja": "公園？学校？それともシャーレで？",
+          "g_ko": "공원? 학교? 아니면 사무실?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020160,
+        "Id": 1526,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020170,
+        "Message": {
+          "j_ko": "그러고 보니 선생님이 라디오 체조를 하는 모습은 본 적이 없는 것 같네요.",
+          "j_ja": "そういえば、先生がラジオ体操をしているところって見たことないですね",
+          "g_en": "Actually, I've never seen you do morning stretches before.",
+          "g_tw": "這麼說來，我還沒看過老師做廣播體操的樣子呢",
+          "g_tw_cn": "这么说来，我还没看过老师做广播体操的样子呢",
+          "g_ja": "そういえば、先生がラジオ体操をしているところって見たことないですね",
+          "g_ko": "그러고 보니 선생님이 라디오 체조를 하는 모습은 본 적이 없는 것 같네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020170,
+        "Id": 1527,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020180,
+        "Message": {
+          "j_ko": "라디오 체조는 초등학생 이후로 해 본 일이 없는데…….",
+          "j_ja": "ラジオ体操なんて、小学生以来やってないなあ……",
+          "g_en": "I don't think I've done them since elementary school...",
+          "g_tw": "廣播體操什麼的，小學之後就沒做過了……",
+          "g_tw_cn": "广播体操什么的，小学之后就没做过了……",
+          "g_ja": "ラジオ体操なんて、小学生以来やってないなあ……",
+          "g_ko": "라디오 체조는 초등학생 이후로 해 본 일이 없는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020180,
+        "Id": 1528,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020190,
+        "Message": {
+          "j_ko": "네? 라디오 체조를 안 나가신다고요?",
+          "j_ja": "えっ、ラジオ体操やってないんですか？",
+          "g_en": "What? You don't do your morning stretches?",
+          "g_tw": "咦？沒有在做廣播體操嗎？",
+          "g_tw_cn": "咦？没有在做广播体操吗？",
+          "g_ja": "えっ、ラジオ体操やってないんですか？",
+          "g_ko": "네? 라디오 체조를 안 나가신다고요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020180,
+        "Id": 1529,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020190,
+        "Message": {
+          "j_ko": "그럼 착한 아이 도장도 받을 수 없잖아요!",
+          "j_ja": "それじゃあ、はなまるスタンプがもらえないじゃないですか！",
+          "g_en": "How do you even get through the day?",
+          "g_tw": "那樣的話，不就拿不到花丸印章了嗎！",
+          "g_tw_cn": "那样的话，不就拿不到花丸印章了吗！",
+          "g_ja": "それじゃあ、はなまるスタンプがもらえないじゃないですか！",
+          "g_ko": "그럼 착한 아이 도장도 받을 수 없잖아요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020190,
+        "Id": 1530,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020200,
+        "Message": {
+          "j_ko": "선생님도 제가 나가는 공원에 함께 나오셔서 같이 라디오 체조를 해요!",
+          "j_ja": "先生も一緒に、私のいつもの公園に行ってラジオ体操をしましょう！",
+          "g_en": "You should come to the park with me and stretch!",
+          "g_tw": "老師也和我一起到平時去的公園做廣播體操吧！",
+          "g_tw_cn": "老师也和我一起到平时去的公园做广播体操吧！",
+          "g_ja": "先生も一緒に、私のいつもの公園に行ってラジオ体操をしましょう！",
+          "g_ko": "선생님도 제가 나가는 공원에 함께 나오셔서 같이 라디오 체조를 해요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020200,
+        "Id": 1531,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020210,
+        "Message": {
+          "j_ko": "싫어.",
+          "j_ja": "やだ",
+          "g_en": "No.",
+          "g_tw": "不要",
+          "g_tw_cn": "不要",
+          "g_ja": "やだ",
+          "g_ko": "싫어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020200,
+        "Id": 1532,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020210,
+        "Message": {
+          "j_ko": "귀찮아.",
+          "j_ja": "朝は眠い",
+          "g_en": "I'm too lazy.",
+          "g_tw": "早上很想睡覺",
+          "g_tw_cn": "早上很想睡觉",
+          "g_ja": "朝は眠い",
+          "g_ko": "귀찮아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020210,
+        "Id": 1533,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020220,
+        "Message": {
+          "j_ko": "안 돼요. 선생님처럼 책상 앞에 오래 앉아 있는 어른들에게 체조는 중요한 일과라고요!",
+          "j_ja": "先生みたいに座りっぱなしの大人こそ、ちゃんと身体を動かさないと！",
+          "g_en": "I won't take no for an answer. People like you who sit in front of a computer all day need to stretch!",
+          "g_tw": "像老師這樣老是久坐的大人，不好好活動身體可不行！",
+          "g_tw_cn": "像老师这样老是久坐的大人，不好好活动身体可不行！",
+          "g_ja": "先生みたいに座りっぱなしの大人こそ、ちゃんと身体を動かさないと！",
+          "g_ko": "안 돼요. 선생님처럼 책상 앞에 오래 앉아 있는 어른들에게 체조는 중요한 일과라고요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020210,
+        "Id": 1534,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230025,
+        "NextGroupId": 230020220,
+        "Message": {
+          "j_ko": "선생님~!",
+          "j_ja": "さあ、行きましょう！",
+          "g_en": "Sensei!",
+          "g_tw": "來，我們走吧！",
+          "g_tw_cn": "来，我们走吧！",
+          "g_ja": "さあ、行きましょう！",
+          "g_ko": "선생님~!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020220,
+        "Id": 1535,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020230,
+        "Message": {
+          "j_ko": "오랜만에 라디오 체조를 해 본 소감은 어떠신가요, 선생님?",
+          "j_ja": "久しぶりのラジオ体操の感想はいかがですか、先生？",
+          "g_en": "How do you feel after doing your morning stretches, Sensei?",
+          "g_tw": "久違的廣播體操的感想怎麼樣呢，老師？",
+          "g_tw_cn": "久违的广播体操的感想怎么样呢，老师？",
+          "g_ja": "久しぶりのラジオ体操の感想はいかがですか、先生？",
+          "g_ko": "오랜만에 라디오 체조를 해 본 소감은 어떠신가요, 선생님?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020220,
+        "Id": 1536,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020230,
+        "Message": {
+          "j_ko": "일찍 일어나서 체조를 하니 확실히 기분이 개운해지지 않으셨나요?",
+          "j_ja": "朝早く起きて体操をすると、すっきりしませんか？",
+          "g_en": "Don't you feel so refreshed?",
+          "g_tw": "一早起來做體操，不覺得精神都來了嗎？",
+          "g_tw_cn": "一早起来做体操，不觉得精神都来了吗？",
+          "g_ja": "朝早く起きて体操をすると、すっきりしませんか？",
+          "g_ko": "일찍 일어나서 체조를 하니 확실히 기분이 개운해지지 않으셨나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020230,
+        "Id": 1537,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020240,
+        "Message": {
+          "j_ko": "확실히 평소보다 개운한 느낌이네.",
+          "j_ja": "確かに、いつもより爽やかな気分",
+          "g_en": "I actually do.",
+          "g_tw": "確實，比平時更有精神了",
+          "g_tw_cn": "确实，比平时更有精神了",
+          "g_ja": "確かに、いつもより爽やかな気分",
+          "g_ko": "확실히 평소보다 개운한 느낌이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020240,
+        "Id": 1538,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020250,
+        "Message": {
+          "j_ko": "그렇죠? 라디오 체조는 평소에 안 쓰는 근육을 풀어주기 때문에 건강에도 좋답니다!",
+          "j_ja": "でしょう？ラジオ体操は普段使わない筋肉もほぐすので健康に良いんです！",
+          "g_en": "Right? These morning stretches help relieve tension in muscles that you don't really use, so they're great for your health!",
+          "g_tw": "對吧？做廣播體操可以運動到平時沒用到的肌肉，對健康很好的！",
+          "g_tw_cn": "对吧？做广播体操可以运动到平时没用到的肌肉，对健康很好的！",
+          "g_ja": "でしょう？ラジオ体操は普段使わない筋肉もほぐすので健康に良いんです！",
+          "g_ko": "그렇죠? 라디오 체조는 평소에 안 쓰는 근육을 풀어주기 때문에 건강에도 좋답니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020240,
+        "Id": 1539,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020250,
+        "Message": {
+          "j_ko": "그러니까 앞으로는 선생님도 매일 공원에서 진행하는 아침 라디오 체조에 참여하세요!",
+          "j_ja": "ですので、これからは先生も毎日、朝のラジオ体操に参加してくださいね！",
+          "g_en": "You should come to the park every day to do morning stretches!",
+          "g_tw": "所以說，接下來每一天請都要參加早上的廣播體操喔！",
+          "g_tw_cn": "所以说，接下来每一天请都要参加早上的广播体操喔！",
+          "g_ja": "ですので、これからは先生も毎日、朝のラジオ体操に参加してくださいね！",
+          "g_ko": "그러니까 앞으로는 선생님도 매일 공원에서 진행하는 아침 라디오 체조에 참여하세요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020250,
+        "Id": 1540,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020260,
+        "Message": {
+          "j_ko": "……찾아오지 않으시면 제가 샬레 하우스로 직접 찾아갈 거예요!",
+          "j_ja": "もし来てなかったら、私がシャーレまで迎えに行きますから！",
+          "g_en": "If you don't come, I'm going to come pick you up from Schale!",
+          "g_tw": "如果老師沒來的話，我會去夏萊迎接你的！",
+          "g_tw_cn": "如果老师没来的话，我会去夏莱迎接你的！",
+          "g_ja": "もし来てなかったら、私がシャーレまで迎えに行きますから！",
+          "g_ko": "……찾아오지 않으시면 제가 샬레 하우스로 직접 찾아갈 거예요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020260,
+        "Id": 1541,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020270,
+        "Message": {
+          "j_ko": "휴일은 좀 봐줘…….",
+          "j_ja": "せめて休日は勘弁して……",
+          "g_en": "Can I at least rest on my days off...?",
+          "g_tw": "至少假日放過我吧……",
+          "g_tw_cn": "至少假日放过我吧……",
+          "g_ja": "せめて休日は勘弁して……",
+          "g_ko": "휴일은 좀 봐줘……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300206,
+    "Data": [
+      {
+        "GroupId": 230020270,
+        "Id": 1542,
+        "CharacterId": 23002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020280,
+        "Message": {
+          "j_ko": "얼마 전에 트리니티 도서관에서 오래된 의학 서적을 발견했는데, 처음 보는 치료법이 잔뜩 적혀 있더라구요.",
+          "j_ja": "図書館で古い医学書を見つけたのですが、知らない治療法だらけでした！",
+          "g_en": "I found an old medical book at the Trinity Library a few days ago, and it was filled with treatment methods I've never heard of before.",
+          "g_tw": "我在圖書館找到了一本很舊的醫學書籍，裡面全都是我不知道的治療方法！",
+          "g_tw_cn": "我在图书馆找到了一本很旧的医学书籍，里面全都是我不知道的治疗方法！",
+          "g_ja": "図書館で古い医学書を見つけたのですが、知らない治療法だらけでした！",
+          "g_ko": "얼마 전에 트리니티 도서관에서 오래된 의학 서적을 발견했는데, 처음 보는 치료법이 잔뜩 적혀 있더라구요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020280,
+        "Id": 1543,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020290,
+        "Message": {
+          "j_ko": "혹시 현대에 전승되지 못한 금단의 의술 같은 걸까요?",
+          "j_ja": "もしかして……現代では秘匿された、禁断の医術なのでしょうか！？",
+          "g_en": "I wonder if they're taboo techniques that were never passed down to modern society?",
+          "g_tw": "難道說……是在現代被隱藏起來的，禁斷的醫術嗎！？",
+          "g_tw_cn": "难道说……是在现代被隐藏起来的，禁断的医术吗！？",
+          "g_ja": "もしかして……現代では秘匿された、禁断の医術なのでしょうか！？",
+          "g_ko": "혹시 현대에 전승되지 못한 금단의 의술 같은 걸까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020290,
+        "Id": 1544,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020300,
+        "Message": {
+          "j_ko": "민간에서 전해지던 대체요법 같은 게 아닐까?",
+          "j_ja": "民間療法みたいなものじゃないかな？",
+          "g_en": "Maybe they were alternative methods that were used between non-medical professionals?",
+          "g_tw": "是像民間療法那一類的東西吧？",
+          "g_tw_cn": "是像民间疗法那一类的东西吧？",
+          "g_ja": "民間療法みたいなものじゃないかな？",
+          "g_ko": "민간에서 전해지던 대체요법 같은 게 아닐까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020300,
+        "Id": 1545,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020310,
+        "Message": {
+          "j_ko": "그런가요…….",
+          "j_ja": "そういうことでしたか……",
+          "g_en": "I don't know...",
+          "g_tw": "是這樣嗎……",
+          "g_tw_cn": "是这样吗……",
+          "g_ja": "そういうことでしたか……",
+          "g_ko": "그런가요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020310,
+        "Id": 1546,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020320,
+        "Message": {
+          "j_ko": "그럼 다음에 선생님이 다치시면 여기 적힌 새로운 치료법으로 치료해 드릴게요.",
+          "j_ja": "ですが何事も挑戦です。もし先生が今度怪我をされたら試してみましょう！",
+          "g_en": "Well, when you get hurt next time, I'm going to use one of these methods on you.",
+          "g_tw": "但任何事都是挑戰。如果老師哪天受傷了的話就來試試看吧！",
+          "g_tw_cn": "但任何事都是挑战。如果老师哪天受伤了的话就来试试看吧！",
+          "g_ja": "ですが何事も挑戦です。もし先生が今度怪我をされたら試してみましょう！",
+          "g_ko": "그럼 다음에 선생님이 다치시면 여기 적힌 새로운 치료법으로 치료해 드릴게요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020310,
+        "Id": 1547,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020320,
+        "Message": {
+          "j_ko": "기대하고 계세요!",
+          "j_ja": "楽しみにしててくださいね！",
+          "g_en": "I'm so excited!",
+          "g_tw": "敬請期待喔！",
+          "g_tw_cn": "敬请期待喔！",
+          "g_ja": "楽しみにしててくださいね！",
+          "g_ko": "기대하고 계세요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020320,
+        "Id": 1548,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 230026,
+        "NextGroupId": 230020330,
+        "Message": {
+          "j_ko": "아니, 다치는 걸 기대하고 있어도 곤란한데…….",
+          "j_ja": "怪我を楽しみにっていうのはちょっと……",
+          "g_en": "I don't think you should be excited for me to get hurt...",
+          "g_tw": "期待受傷的話有點……",
+          "g_tw_cn": "期待受伤的话有点……",
+          "g_ja": "怪我を楽しみにっていうのはちょっと……",
+          "g_ko": "아니, 다치는 걸 기대하고 있어도 곤란한데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2300208,
+    "Data": [
+      {
+        "GroupId": 230020330,
+        "Id": 1549,
+        "CharacterId": 23002,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020340,
+        "Message": {
+          "j_ko": "샬레의 집무실은 어쩐지 조금 삭막한 느낌이 들어요.",
+          "j_ja": "シャーレの執務室はなんだか、少し殺風景な気がします",
+          "g_en": "Schale's executive office is a bit dreary.",
+          "g_tw": "夏萊的辦公室總感覺死氣沉沉的",
+          "g_tw_cn": "夏莱的办公室总感觉死气沉沉的",
+          "g_ja": "シャーレの執務室はなんだか、少し殺風景な気がします",
+          "g_ko": "샬레의 집무실은 어쩐지 조금 삭막한 느낌이 들어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020340,
+        "Id": 1550,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020350,
+        "Message": {
+          "j_ko": "꽃병이라도 하나 가져다 놓으면 좋을 텐데…….",
+          "j_ja": "花瓶なんか置いてみたら、素敵になるんじゃないでしょうか？",
+          "g_en": "A nice vase of flowers might brighten up the place...",
+          "g_tw": "如果放個花瓶之類的東西，應該會好一點吧？",
+          "g_tw_cn": "如果放个花瓶之类的东西，应该会好一点吧？",
+          "g_ja": "花瓶なんか置いてみたら、素敵になるんじゃないでしょうか？",
+          "g_ko": "꽃병이라도 하나 가져다 놓으면 좋을 텐데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020350,
+        "Id": 1551,
+        "CharacterId": 23002,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020360,
+        "Message": {
+          "j_ko": "선생님은 어떤 꽃을 좋아하시나요?",
+          "j_ja": "先生はどんなお花が好きですか？",
+          "g_en": "What kind of flowers do you like, Sensei?",
+          "g_tw": "老師喜歡哪種花呢？",
+          "g_tw_cn": "老师喜欢哪种花呢？",
+          "g_ja": "先生はどんなお花が好きですか？",
+          "g_ko": "선생님은 어떤 꽃을 좋아하시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020360,
+        "Id": 1552,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020370,
+        "Message": {
+          "j_ko": "꽃이라면 무엇이든 좋아해.",
+          "j_ja": "お花ならだいたい好きだよ",
+          "g_en": "I like all types of flowers.",
+          "g_tw": "花的話基本上都喜歡唷",
+          "g_tw_cn": "花的话基本上都喜欢唷",
+          "g_ja": "お花ならだいたい好きだよ",
+          "g_ko": "꽃이라면 무엇이든 좋아해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020360,
+        "Id": 1553,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020370,
+        "Message": {
+          "j_ko": "꽃가루가 날리지 않는 종류의 꽃.",
+          "j_ja": "害のある花粉が飛ばなければ何でも",
+          "g_en": "Flowers without pollen.",
+          "g_tw": "只要不會有有害的花粉亂飛的話都可以",
+          "g_tw_cn": "只要不会有有害的花粉乱飞的话都可以",
+          "g_ja": "害のある花粉が飛ばなければ何でも",
+          "g_ko": "꽃가루가 날리지 않는 종류의 꽃."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020370,
+        "Id": 1554,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020380,
+        "Message": {
+          "j_ko": "그럼 제가 좋아하는 꽃 중에서 몇 가지를 찾아볼게요.",
+          "j_ja": "それでは、私が好きなお花をいくつか見繕ってみますね！",
+          "g_en": "Then I'll find a few flowers that I like.",
+          "g_tw": "那麼，我就按照我的喜好來處理囉！",
+          "g_tw_cn": "那么，我就按照我的喜好来处理啰！",
+          "g_ja": "それでは、私が好きなお花をいくつか見繕ってみますね！",
+          "g_ko": "그럼 제가 좋아하는 꽃 중에서 몇 가지를 찾아볼게요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020380,
+        "Id": 1555,
+        "CharacterId": 23002,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 230020390,
+        "Message": {
+          "j_ko": "하나에는 무슨 꽃을 제일 좋아해?",
+          "j_ja": "ハナエは何の花が一番好き？",
+          "g_en": "What kind of flowers do you like, Hanae?",
+          "g_tw": "花繪最喜歡哪種花呢？",
+          "g_tw_cn": "花绘最喜欢哪种花呢？",
+          "g_ja": "ハナエは何の花が一番好き？",
+          "g_ko": "하나에는 무슨 꽃을 제일 좋아해?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020390,
+        "Id": 1556,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "음…… 저도 꽃이라면 대부분 괜찮지만, 그중에서도 나팔꽃이 제일 좋아요.",
+          "j_ja": "うーん……私もお花は何でも好きですが、一番はアサガオですね",
+          "g_en": "Um... I like most flowers, but I really like morning glories.",
+          "g_tw": "唔嗯……我也是什麼花都喜歡，但最喜歡的是牽牛花唷",
+          "g_tw_cn": "唔嗯……我也是什么花都喜欢，但最喜欢的是牵牛花唷",
+          "g_ja": "うーん……私もお花は何でも好きですが、一番はアサガオですね",
+          "g_ko": "음…… 저도 꽃이라면 대부분 괜찮지만, 그중에서도 나팔꽃이 제일 좋아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 230020390,
+        "Id": 1557,
+        "CharacterId": 23002,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 230028,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "아침에 활짝 핀 나팔꽃을 보면 아침을 알리기 위해 트럼펫을 부는 작은 천사가 떠오르거든요.",
+          "j_ja": "花開いたアサガオは、まるでトランペットで朝を知らせる天使みたいです",
+          "g_en": "When they blossom in the morning, they remind me of little angels playing trumpets to announce morning has come.",
+          "g_tw": "盛開的牽牛花，簡直就像是吹奏著小號傳達早晨到來的天使一樣",
+          "g_tw_cn": "盛开的牵牛花，简直就像是吹奏着小号传达早晨到来的天使一样",
+          "g_ja": "花開いたアサガオは、まるでトランペットで朝を知らせる天使みたいです",
+          "g_ko": "아침에 활짝 핀 나팔꽃을 보면 아침을 알리기 위해 트럼펫을 부는 작은 천사가 떠오르거든요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

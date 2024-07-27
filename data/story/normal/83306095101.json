@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マコト議長を誹謗中傷する落書きが、こんなにも……",
+      "j_ko": "이곳이고 저곳이고 마코토 의장을 바보라고 음해하는 낙서가 잔뜩……",
+      "g_ja": "マコト議長を誹謗中傷する落書きが、こんなにも……",
+      "g_ko": "이곳이고 저곳이고 마코토 의장을 바보라고 음해하는 낙서가 잔뜩……",
+      "g_en": "Almost all of this graffiti is slandering Chairman Makoto... Here's a picture of her with a pig's head...and that one shows her as a tyrant in a fool's cap...",
+      "g_th": "มีข้อความใส่ร้ายว่าประธานมาโคโตะโง่เง่าอยู่เต็มไปหมดเลย...",
+      "g_tw": "到處都有汙衊真琴議長是笨蛋的塗鴉……",
+      "g_tw_cn": "到处都有污蔑真琴议长是笨蛋的涂鸦……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;06;이곳이고 저곳이고 마코토 의장을 바보라고 음해하는 낙서가 잔뜩……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あっ。これは誹謗中傷というよりも、風刺画といったほうが良いのでしょうか？",
+      "j_ko": "아…… 근데, 생각해보면 음해라기보다는 단순한 풍자인 걸까요?",
+      "g_ja": "……あっ。これは誹謗中傷というよりも、風刺画といったほうが良いのでしょうか？",
+      "g_ko": "아…… 근데, 생각해보면 음해라기보다는 단순한 풍자인 걸까요?",
+      "g_en": "Hmm... On further analysis, perhaps this is more satire than slander?",
+      "g_th": "อ่า... จะว่าไป นี่อาจไม่ใช่การใส่ร้าย แต่เป็นการเอาความจริงมาเหน็บแนมรึเปล่าคะ?",
+      "g_tw": "啊……不過與其說是汙衊，比較像是諷刺吧？",
+      "g_tw_cn": "啊……不过与其说是污蔑，比较像是讽刺吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;02;아…… 근데, 생각해보면 음해라기보다는 단순한 풍자인 걸까요?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

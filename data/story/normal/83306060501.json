@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "皆さん気を失っているはずですが、どこか笑っているようにも……",
+      "j_ko": "다들 정신을 잃고 쓰러져 있긴 하지만, 그 중에서 간혹 입가에 미소를 띤 분도 계시더군요.",
+      "g_ja": "皆さん気を失っているはずですが、どこか笑っているようにも……",
+      "g_ko": "다들 정신을 잃고 쓰러져 있긴 하지만, 그 중에서 간혹 입가에 미소를 띤 분도 계시더군요.",
+      "g_en": "Hmm... They're all passed out, but some have smiles on their faces.",
+      "g_th": "ถึงทุกคนจะสลบเหมือดไป แต่บางคนก็ยิ้มมุมปากอยู่ด้วยนะคะ",
+      "g_tw": "雖然大家都失去了意識，但當中也有偶爾會露出笑容的人。",
+      "g_tw_cn": "虽然大家都失去了意识，但当中也有偶尔会露出笑容的人。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;02;다들 정신을 잃고 쓰러져 있긴 하지만, 그 중에서 간혹 입가에 미소를 띤 분도 계시더군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これは……美食のおかげ、なのでしょうか？",
+      "j_ko": "이 또한 미식의 결과라는 걸까요?",
+      "g_ja": "これは……美食のおかげ、なのでしょうか？",
+      "g_ko": "이 또한 미식의 결과라는 걸까요?",
+      "g_en": "Is that the power of gourmet food?",
+      "g_th": "เป็นเพราะอาหารรสเลิศอีกรึเปล่าคะ?",
+      "g_tw": "這也是美食造成的結果嗎？",
+      "g_tw_cn": "这也是美食造成的结果吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;06;이 또한 미식의 결과라는 걸까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……奥深いですね。",
+      "j_ko": "미식이란…… 심오하군요.",
+      "g_ja": "……奥深いですね。",
+      "g_ko": "미식이란…… 심오하군요.",
+      "g_en": "Perhaps the path of the gourmet is...more profound than I gave it credit for.",
+      "g_th": "อาหารรสเลิศช่างเป็นสิ่งที่... ล้ำลึกจังเลยนะคะ",
+      "g_tw": "美食……真是深奧啊。",
+      "g_tw_cn": "美食……真是深奥啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;04;미식이란…… 심오하군요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

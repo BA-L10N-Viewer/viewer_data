@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「わくわく温泉卵大作戦」はすごいぞ！？",
+      "j_ko": "<폭발! 온천계란 대작전>은 굉장할 거라고?!",
+      "g_ja": "「わくわく温泉卵大作戦」はすごいぞ！？",
+      "g_ko": "<폭발! 온천계란 대작전>은 굉장할 거라고?!",
+      "g_en": "Operation Hot Spring Eggs Boom will be amazing, you hear me?!",
+      "g_th": "<ยุทธการออนเซ็นไข่ระเบิด!> ก็เป็นแผนการที่สุดยอดไม่น้อยนะ!",
+      "g_tw": "「爆炸！溫泉蛋大作戰」非常厲害哦！？",
+      "g_tw_cn": "「爆炸！温泉蛋大作战」非常厉害哦！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3580762306,
+    "DataType": "speaker",
+    "Script": "3;카스미;03;<폭발! 온천계란 대작전>은 굉장할 거라고?!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "給食部の地下に流れる水には、ものすごい力がある！",
+      "j_ko": "급양부 아래에서 흐르는 수맥엔, 특별한 힘이 있으니까!",
+      "g_ja": "給食部の地下に流れる水には、ものすごい力がある！",
+      "g_ko": "급양부 아래에서 흐르는 수맥엔, 특별한 힘이 있으니까!",
+      "g_en": "The water vein beneath the School Lunch Club is more powerful than you would believe!",
+      "g_th": "สายน้ำใต้ดินที่ไหลอยู่ใต้ห้องชมรมโภชนาการมีพลังพิเศษแฝงอยู่!",
+      "g_tw": "因為供給部地下的水脈蘊含特殊的力量！",
+      "g_tw_cn": "因为供给部地下的水脉蕴含特殊的力量！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3580762306,
+    "DataType": "speaker",
+    "Script": "3;카스미;10;급양부 아래에서 흐르는 수맥엔, 특별한 힘이 있으니까!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここから脱出したら、すぐに……",
+      "j_ko": "이곳에서 나가기만 하면 바로……!",
+      "g_ja": "ここから脱出したら、すぐに……",
+      "g_ko": "이곳에서 나가기만 하면 바로……!",
+      "g_en": "As soon as I get out of here—!",
+      "g_th": "ถ้าได้ออกไปจากที่นี่ละก็ ฉันจะ...!",
+      "g_tw": "等我離開這裡……！",
+      "g_tw_cn": "等我离开这里……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3580762306,
+    "DataType": "speaker",
+    "Script": "3;카스미;11;이곳에서 나가기만 하면 바로……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当に実行するなら、こちらも全力で対処するわ。",
+      "j_ko": "정말로 그렇게 되면, 이쪽도 봐주는 것 없이 전력으로 갈 거야.",
+      "g_ja": "本当に実行するなら、こちらも全力で対処するわ。",
+      "g_ko": "정말로 그렇게 되면, 이쪽도 봐주는 것 없이 전력으로 갈 거야.",
+      "g_en": "When that happens, we won't hold back either.",
+      "g_th": "ถ้าเป็นอย่างนั้นจริงๆ ทางฉันก็จะใส่ให้สุดพลังเหมือนกัน จะไม่อ่อนข้อให้เลยละ",
+      "g_tw": "如果你真的那麼做，我也會全力以赴，絕不手下留情。",
+      "g_tw_cn": "如果你真的那么做，我也会全力以赴，绝不手下留情。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;15;정말로 그렇게 되면, 이쪽도 봐주는 것 없이 전력으로 갈 거야.\\n#3;em;[빠직]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひ、ひぃぃぃっ！！",
+      "j_ko": "히, 히이이이익!!",
+      "g_ja": "ひ、ひぃぃぃっ！！",
+      "g_ko": "히, 히이이이익!!",
+      "g_en": "E-EEEEEK!!!",
+      "g_th": "ฮะ... เฮือกกกก!!",
+      "g_tw": "噫，噫咿咿咿咿！！",
+      "g_tw_cn": "噫，噫咿咿咿咿！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3580762306,
+    "DataType": "speaker",
+    "Script": "2;카스미;04;히, 히이이이익!!\\n#2;em;[세로선]\\n#2;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

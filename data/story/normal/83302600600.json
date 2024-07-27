@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（パーティー料理……楽しみではあるけれど、少し不安かも）",
+      "j_ko": "(파티 음식…… 기대가 되면서, 동시에 걱정이 되기도 해.)",
+      "g_ja": "（パーティー料理……楽しみではあるけれど、少し不安かも）",
+      "g_ko": "(파티 음식…… 기대가 되면서, 동시에 걱정이 되기도 해.)",
+      "g_en": "(Party food... I was looking forward to it, but at the rate things are going...)",
+      "g_th": "(เรื่องอาหารสำหรับงานปาร์ตี้... ฉันก็ทั้งคาดหวังและกังวลไปพร้อมกันเลย)",
+      "g_tw": "（派對的餐點……既期待又讓人擔心）",
+      "g_tw_cn": "（派对的餐点……既期待又让人担心）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;03;(파티 음식…… 기대가 되면서, 동시에 걱정이 되기도 해.)\\n#3;closeup\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（当日は何事も起きないよう願うしかない）",
+      "j_ko": "(부디 파티 당일엔, 별일이 없었으면 좋겠는데.)",
+      "g_ja": "（当日は何事も起きないよう願うしかない）",
+      "g_ko": "(부디 파티 당일엔, 별일이 없었으면 좋겠는데.)",
+      "g_en": "(I worry something bad will happen during the party.)",
+      "g_th": "(ขออย่าให้มีเรื่องอะไรเกิดขึ้นในวันงานเลยนะ)",
+      "g_tw": "（希望派對當天不會發生什麼事）",
+      "g_tw_cn": "（希望派对当天不会发生什么事）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(부디 파티 당일엔, 별일이 없었으면 좋겠는데.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

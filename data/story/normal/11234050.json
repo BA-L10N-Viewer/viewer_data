@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "#A-04",
+      "j_ko": "100",
+      "g_ja": "",
+      "g_ko": "100",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-948,432];smooth;100;#A-04\\n#all;hide",
+    "BGMId": 999,
+    "Sound": "SE_REC_02",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "先生、最近はよく会えてるけど……。",
+      "j_ko": "선생님……. 어쩐지, 요새 더 자주 뵙는 느낌이 드네.",
+      "g_ja": "",
+      "g_ko": "선생님……. 어쩐지, 요새 더 자주 뵙는 느낌이 드네.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;01;선생님……. 어쩐지, 요새 더 자주 뵙는 느낌이 드네.",
+    "BGMId": 210,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "今後もこうやって、自分からきっかけを作った方が……。",
+      "j_ko": "역시 이번 일처럼 뭔가 계기를 만들어야…….",
+      "g_ja": "",
+      "g_ko": "역시 이번 일처럼 뭔가 계기를 만들어야…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;99;역시 이번 일처럼 뭔가 계기를 만들어야…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "……あれ。",
+      "j_ko": "……??? 음……? 그런데 나는 왜 이런 생각을…….",
+      "g_ja": "",
+      "g_ko": "……??? 음……? 그런데 나는 왜 이런 생각을…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;02;……??? 음……? 그런데 나는 왜 이런 생각을…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "どうして私、こんな気持ちに……。",
+      "j_ko": "……후후. 뭐, 어쩔 수 없을지도.",
+      "g_ja": "",
+      "g_ko": "……후후. 뭐, 어쩔 수 없을지도.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;01;……후후. 뭐, 어쩔 수 없을지도.\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

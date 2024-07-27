@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぐっ……今日も私は、新たな悟りを得た。",
+      "j_ko": "크윽…… 이 몸은, 오늘 또 다시 새로운 깨달음을 얻었다.",
+      "g_ja": "ぐっ……今日も私は、新たな悟りを得た。",
+      "g_ko": "크윽…… 이 몸은, 오늘 또 다시 새로운 깨달음을 얻었다.",
+      "g_en": "Ah... I've discovered an essential truth today.",
+      "g_th": "อึก... วันนี้เราได้เรียนรู้สิ่งใหม่อีกแล้ว",
+      "g_tw": "唔……我今天又有了新的領悟。",
+      "g_tw_cn": "唔……我今天又有了新的领悟。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;06;크윽…… 이 몸은, 오늘 또 다시 새로운 깨달음을 얻었다.\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何事も疑うより先に、まずは原因を考えるべきだと……！",
+      "j_ko": "어떤 일이든 의심하기보다…… 가장 먼저 그 일이 일어난 연유를 따져 물어봐야 할 필요가 있단 것을……!",
+      "g_ja": "何事も疑うより先に、まずは原因を考えるべきだと……！",
+      "g_ko": "어떤 일이든 의심하기보다…… 가장 먼저 그 일이 일어난 연유를 따져 물어봐야 할 필요가 있단 것을……!",
+      "g_en": "It's important to investigate why things happen...before you make assumptions!",
+      "g_th": "และนั่นก็คือ... ไม่ว่าจะเกิดอะไรขึ้น เราควรถามหาสาเหตุก่อนว่าทำไมถึงเกิดขึ้น ก่อนที่จะตีโพยตีพายไปใหญ่โต...!",
+      "g_tw": "不管面對任何事……比起一味的懷疑，應該先追究發生的理由……！",
+      "g_tw_cn": "不管面对任何事……比起一味的怀疑，应该先追究发生的理由……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;06;어떤 일이든 의심하기보다…… 가장 먼저 그 일이 일어난 연유를 따져 물어봐야 할 필요가 있단 것을……!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん、お前たち風紀委員会は例外だがな！キキキキッ！",
+      "j_ko": "아, 물론 너희 선도부는 예외지만 말이야! 키키키킷!",
+      "g_ja": "もちろん、お前たち風紀委員会は例外だがな！キキキキッ！",
+      "g_ko": "아, 물론 너희 선도부는 예외지만 말이야! 키키키킷!",
+      "g_en": "Though, of course, I already know everything about the Prefect Team! Kiheheheh!",
+      "g_th": "อ้อ แน่นอนว่าใช้ไม่ได้กับพวกเธอหรอกนะ คณะกรรมการวินัย! หึหึหึหึ!",
+      "g_tw": "啊，當然還是不包含你們風紀委員會！嘻嘻嘻嘻！",
+      "g_tw_cn": "啊，当然还是不包含你们风纪委员会！嘻嘻嘻嘻！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;03;아, 물론 너희 선도부는 예외지만 말이야! 키키키킷!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………あ、そう。",
+      "j_ko": "……………아, 그래.",
+      "g_ja": "…………あ、そう。",
+      "g_ko": "……………아, 그래.",
+      "g_en": "...Of course.",
+      "g_th": "อ่า... ตามใจเลย",
+      "g_tw": "…………啊，是嗎。",
+      "g_tw_cn": "…………啊，是吗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;……………아, 그래.\\n#3;em;[...]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううっ……ナマコ味の、ジュース……",
+      "j_ko": "으윽…… 해삼맛…… 주스……",
+      "g_ja": "ううっ……ナマコ味の、ジュース……",
+      "g_ko": "으윽…… 해삼맛…… 주스……",
+      "g_en": "Urgh... Sea cucumber...soda...",
+      "g_th": "อึก... น้ำผลไม้... รสปลิงทะเล...",
+      "g_tw": "呃唔……海參口味……果汁……",
+      "g_tw_cn": "呃唔……海参口味……果汁……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;04;으윽…… 해삼맛…… 주스……\\n#3;closeup\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うなぎ味の……ゼリー……",
+      "j_ko": "장어맛…… 젤리……",
+      "g_ja": "うなぎ味の……ゼリー……",
+      "g_ko": "장어맛…… 젤리……",
+      "g_en": "Eel-flavored...jelly...",
+      "g_th": "เยลลี่... รสปลาไหล...",
+      "g_tw": "章魚口味……果凍……",
+      "g_tw_cn": "章鱼口味……果冻……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;06;장어맛…… 젤리……\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

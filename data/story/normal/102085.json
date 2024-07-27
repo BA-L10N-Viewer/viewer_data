@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">第2サンクトゥム「ミレニアム郊外の閉鎖地域」</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">제2 성소 공략 - 밀레니엄 폐허 지구</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">第2サンクトゥム「ミレニアム郊外の閉鎖地域」</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">제2 성소 공략 - 밀레니엄 폐허 지구</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\"> The Second Sanctum - Millennium Ruins District</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">ปฏิบัติการบุกยึดหอคอยแห่งที่ 2 - พื้นที่รกร้างมิลเลเนียม</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">第2聖所「千年郊外的封鎖地區」</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">第2圣所「千年郊外的封锁地区」</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;제2 성소 공략 - 밀레니엄 폐허 지구",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2925304555,
+    "ShowTextColor": "black"
+  }
+]

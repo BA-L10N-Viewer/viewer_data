@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……はぁ、今日も忙しかったわね。",
+      "j_ko": "오늘도 다사다난했던 느낌이네……",
+      "g_ja": "……はぁ、今日も忙しかったわね。",
+      "g_ko": "오늘도 다사다난했던 느낌이네……",
+      "g_en": "It was another hectic day...",
+      "g_th": "วันนี้ก็เกิดเรื่องขึ้นมากมายเลย...",
+      "g_tw": "今天也是多災多難的一天呢……",
+      "g_tw_cn": "今天也是多灾多难的一天呢……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;오늘도 다사다난했던 느낌이네……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "……….",
+      "g_ja": "……。",
+      "g_ko": "……….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;……….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……でも。",
+      "j_ko": "……그래도 그만큼, 조금쯤은.",
+      "g_ja": "……でも。",
+      "g_ko": "……그래도 그만큼, 조금쯤은.",
+      "g_en": "... But still...even if it's just a little bit...",
+      "g_th": "แต่มันก็จะทำให้ฉัน...",
+      "g_tw": "不過相對地……",
+      "g_tw_cn": "不过相对地……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;……그래도 그만큼, 조금쯤은.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "少しは私も、成長したのかしら。",
+      "j_ko": "이런 나라도…… 성장을 했을까?",
+      "g_ja": "少しは私も、成長したのかしら。",
+      "g_ko": "이런 나라도…… 성장을 했을까?",
+      "g_en": "Perhaps I've grown.",
+      "g_th": "เติบโตขึ้นได้บ้าง... ใช่ไหมนะ?",
+      "g_tw": "我應該……多少也有所成長吧？",
+      "g_tw_cn": "我应该……多少也有所成长吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;이런 나라도…… 성장을 했을까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そうだといいわね。",
+      "j_ko": "……그랬으면, 좋겠네.",
+      "g_ja": "……そうだといいわね。",
+      "g_ko": "……그랬으면, 좋겠네.",
+      "g_en": "...I hope so.",
+      "g_th": "ถ้าเป็นแบบนั้นก็คงดีนะ...",
+      "g_tw": "……但願如此。",
+      "g_tw_cn": "……但愿如此。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;……그랬으면, 좋겠네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

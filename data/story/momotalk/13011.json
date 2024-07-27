@@ -1,0 +1,991 @@
+[
+  {
+    "BondScenarioId": 1301102,
+    "Data": [
+      {
+        "GroupId": 130110010,
+        "Id": 130110010,
+        "CharacterId": 13011,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110020,
+        "Message": {
+          "j_ko": "용사여……",
+          "j_ja": "勇者よ……",
+          "g_en": "Oh, brave hero...",
+          "g_tw": "勇者啊……",
+          "g_tw_cn": "勇者啊……",
+          "g_ja": "勇者よ……",
+          "g_ko": "용사여……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110020,
+        "Id": 130110020,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110030,
+        "Message": {
+          "j_ko": "이 모모톡을 받으면 곧바로 게임개발부의 부실로……",
+          "j_ja": "このモモトークを見たら、すぐにゲーム開発部の部室へと来たれ……",
+          "g_en": "Please come to the Game Development Department's club room as soon as you get this message...",
+          "g_tw": "看見這則MomoTalk後，馬上來遊戲開發部的社團教室……",
+          "g_tw_cn": "看见这则MomoTalk后，马上来游戏开发部的社团教室……",
+          "g_ja": "このモモトークを見たら、すぐにゲーム開発部の部室へと来たれ……",
+          "g_ko": "이 모모톡을 받으면 곧바로 게임개발부의 부실로……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110030,
+        "Id": 130110030,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110040,
+        "Message": {
+          "j_ko": "응, 바로 갈게.",
+          "j_ja": "うん、じゃあ今から行くね",
+          "g_en": "Okay, I'll be right there.",
+          "g_tw": "嗯，那我現在過去",
+          "g_tw_cn": "嗯，那我现在过去",
+          "g_ja": "うん、じゃあ今から行くね",
+          "g_ko": "응, 바로 갈게."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110030,
+        "Id": 130110040,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110050,
+        "Message": {
+          "j_ko": "어……",
+          "j_ja": "えー……",
+          "g_en": "Uhhh...",
+          "g_tw": "咦――……",
+          "g_tw_cn": "咦――……",
+          "g_ja": "えー……",
+          "g_ko": "어……"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110040,
+        "Id": 130110050,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110080,
+        "Message": {
+          "j_ko": "과연, 한 치의 망설임도 없는 빠른 퀘스트 수락!",
+          "j_ja": "ノータイムでクエスト受注！",
+          "g_en": "You have to accept the quest quickly, without even a moment of hesitation! ",
+          "g_tw": "竟然毫不猶豫地接受任務！",
+          "g_tw_cn": "竟然毫不犹豫地接受任务！",
+          "g_ja": "ノータイムでクエスト受注！",
+          "g_ko": "과연, 한 치의 망설임도 없는 빠른 퀘스트 수락!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110040,
+        "Id": 130110060,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110080,
+        "Message": {
+          "j_ko": "그래야 선생님이지!",
+          "j_ja": "さっすが先生！",
+          "g_en": "That's what a teacher does!",
+          "g_tw": "不愧是老師！",
+          "g_tw_cn": "不愧是老师！",
+          "g_ja": "さっすが先生！",
+          "g_ko": "그래야 선생님이지!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110050,
+        "Id": 130110070,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110060,
+        "Message": {
+          "j_ko": "뭐야, 그 미적지근한 반응은?! 전혀 예상 못했는데?!",
+          "j_ja": "ぐっ、ここでその選択肢！？これは予想してなかった……！",
+          "g_en": "Hey, what's with the lukewarm reaction? I wasn't expecting this!",
+          "g_tw": "唔，竟然選這個選項！？這是我沒預料到的……！",
+          "g_tw_cn": "唔，竟然选这个选项！？这是我没预料到的……！",
+          "g_ja": "ぐっ、ここでその選択肢！？これは予想してなかった……！",
+          "g_ko": "뭐야, 그 미적지근한 반응은?! 전혀 예상 못했는데?!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110050,
+        "Id": 130110080,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110060,
+        "Message": {
+          "j_ko": "아니, 아니지. 시나리오에 따라선 이런 분기도 충분히 매력적……",
+          "j_ja": "いや、でもシナリオによってはこういう分岐もアリ……",
+          "g_en": "No, no... Based on the scenario, this type of story branch should be just fine...",
+          "g_tw": "不，按照劇本來說，也是有可能有這樣的分歧……",
+          "g_tw_cn": "不，按照剧本来说，也是有可能有这样的分歧……",
+          "g_ja": "いや、でもシナリオによってはこういう分岐もアリ……",
+          "g_ko": "아니, 아니지. 시나리오에 따라선 이런 분기도 충분히 매력적……"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110050,
+        "Id": 130110090,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110060,
+        "Message": {
+          "j_ko": "……이 아니라!",
+          "j_ja": "……じゃなくて！",
+          "g_en": "...Or maybe not.",
+          "g_tw": "……不對啦！",
+          "g_tw_cn": "……不对啦！",
+          "g_ja": "……じゃなくて！",
+          "g_ko": "……이 아니라!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110060,
+        "Id": 130110100,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110070,
+        "Message": {
+          "j_ko": "오늘 약속했잖아! 부실에서 보기로!",
+          "j_ja": "約束したじゃん！今日部室でって！",
+          "g_en": "You promised to meet me at the club room today!",
+          "g_tw": "不是約好今天要來社團教室嗎！",
+          "g_tw_cn": "不是约好今天要来社团教室吗！",
+          "g_ja": "約束したじゃん！今日部室でって！",
+          "g_ko": "오늘 약속했잖아! 부실에서 보기로!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110070,
+        "Id": 130110110,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110080,
+        "Message": {
+          "j_ko": "그랬, 었나?",
+          "j_ja": "……そうだっけ？",
+          "g_en": "Isn't that right...?",
+          "g_tw": "……是嗎？",
+          "g_tw_cn": "……是吗？",
+          "g_ja": "……そうだっけ？",
+          "g_ko": "그랬, 었나?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110080,
+        "Id": 130110120,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110090,
+        "Message": {
+          "j_ko": "하여간 게임개발부 부실에서 기다리고 있을 테니까!",
+          "j_ja": "とにかく、ゲーム開発部の部室で待ってるから！",
+          "g_en": "I'll be waiting for you at the Game Development Department club room!",
+          "g_tw": "總之，我在遊戲開發部的社團教室等著！",
+          "g_tw_cn": "总之，我在游戏开发部的社团教室等着！",
+          "g_ja": "とにかく、ゲーム開発部の部室で待ってるから！",
+          "g_ko": "하여간 게임개발부 부실에서 기다리고 있을 테니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110080,
+        "Id": 130110130,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130112,
+        "NextGroupId": 130110090,
+        "Message": {
+          "j_ko": "얼른 와!",
+          "j_ja": "早く来てね！",
+          "g_en": "So hurry up!",
+          "g_tw": "快點來！",
+          "g_tw_cn": "快点来！",
+          "g_ja": "早く来てね！",
+          "g_ko": "얼른 와!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301103,
+    "Data": [
+      {
+        "GroupId": 130110090,
+        "Id": 130110140,
+        "CharacterId": 13011,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110100,
+        "Message": {
+          "j_ko": "선생님……",
+          "j_ja": "先生ー",
+          "g_en": "Sensei...",
+          "g_tw": "老師──",
+          "g_tw_cn": "老师──",
+          "g_ja": "先生ー",
+          "g_ko": "선생님……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110100,
+        "Id": 130110150,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110110,
+        "Message": {
+          "j_ko": "완벽한 레트로 게임 시나리오의 조건이 뭐라고 생각해?",
+          "j_ja": "最高のゲームシナリオの条件って何だと思う？",
+          "g_en": "What do you think you need for the perfect story in a retro game?",
+          "g_tw": "你覺得最棒的遊戲劇本要具備哪些條件？",
+          "g_tw_cn": "你觉得最棒的游戏剧本要具备哪些条件？",
+          "g_ja": "最高のゲームシナリオの条件って何だと思う？",
+          "g_ko": "완벽한 레트로 게임 시나리오의 조건이 뭐라고 생각해?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110110,
+        "Id": 130110160,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110120,
+        "Message": {
+          "j_ko": "완벽한 게임 시나리오……?",
+          "j_ja": "最高のゲームシナリオ……？",
+          "g_en": "A perfect game story...?",
+          "g_tw": "最棒的遊戲劇本……？",
+          "g_tw_cn": "最棒的游戏剧本……？",
+          "g_ja": "最高のゲームシナリオ……？",
+          "g_ko": "완벽한 게임 시나리오……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110110,
+        "Id": 130110170,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110120,
+        "Message": {
+          "j_ko": "……뭣 때문에 그래?",
+          "j_ja": "急にどうしたの？",
+          "g_en": "...What's the problem?",
+          "g_tw": "怎麼突然這麼問呢？",
+          "g_tw_cn": "怎么突然这么问呢？",
+          "g_ja": "急にどうしたの？",
+          "g_ko": "……뭣 때문에 그래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110120,
+        "Id": 130110180,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110130,
+        "Message": {
+          "j_ko": "딴 게 아니라……",
+          "j_ja": "それは……",
+          "g_en": "It's nothing...",
+          "g_tw": "因為……",
+          "g_tw_cn": "因为……",
+          "g_ja": "それは……",
+          "g_ko": "딴 게 아니라……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110120,
+        "Id": 130110190,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110130,
+        "Message": {
+          "j_ko": "그 녀석들!",
+          "j_ja": "ああっ、思い出したらイライラしてきた！",
+          "g_en": "Those dummies! ",
+          "g_tw": "啊啊！光回想起來就覺得好生氣！",
+          "g_tw_cn": "啊啊！光回想起来就觉得好生气！",
+          "g_ja": "ああっ、思い出したらイライラしてきた！",
+          "g_ko": "그 녀석들!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110120,
+        "Id": 130110200,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110130,
+        "Message": {
+          "j_ko": "멋대로 떠들고 있단 말야!",
+          "j_ja": "あいつら、好き放題言ってくれちゃって！",
+          "g_en": "They're just blabbing away!",
+          "g_tw": "那些傢伙竟敢在那邊亂講話！",
+          "g_tw_cn": "那些家伙竟敢在那边乱讲话！",
+          "g_ja": "あいつら、好き放題言ってくれちゃって！",
+          "g_ko": "멋대로 떠들고 있단 말야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110130,
+        "Id": 130110210,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110140,
+        "Message": {
+          "j_ko": "소재가 고리타분하다느니, 전개가 루즈하다느니.",
+          "j_ja": "発想が古いとか、展開が中だるみしてるだとか",
+          "g_en": "The story is boring, the game mechanics aren't tight... Yada, yada, yada...",
+          "g_tw": "說什麼想法過時，什麼劇情節奏崩壞",
+          "g_tw_cn": "说什么想法过时，什么剧情节奏崩坏",
+          "g_ja": "発想が古いとか、展開が中だるみしてるだとか",
+          "g_ko": "소재가 고리타분하다느니, 전개가 루즈하다느니."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110130,
+        "Id": 130110220,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110140,
+        "Message": {
+          "j_ko": "안 되겠어. 선생님, 게임개발부 부실에서 봐!",
+          "j_ja": "もうダメ！先生、今からゲーム開発部の部室に来て！",
+          "g_en": "I can't stand it. Meet me in the Game Development Department club room, Sensei!",
+          "g_tw": "這樣不行！老師，現在到遊戲開發部的社團教室來！",
+          "g_tw_cn": "这样不行！老师，现在到游戏开发部的社团教室来！",
+          "g_ja": "もうダメ！先生、今からゲーム開発部の部室に来て！",
+          "g_ko": "안 되겠어. 선생님, 게임개발부 부실에서 봐!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110140,
+        "Id": 130110230,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 130113,
+        "NextGroupId": 130110141,
+        "Message": {
+          "j_ko": "……어?",
+          "j_ja": "……？",
+          "g_en": "Huh?",
+          "g_tw": "……？",
+          "g_tw_cn": "……？",
+          "g_ja": "……？",
+          "g_ko": "……어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110141,
+        "Id": 130110231,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110142,
+        "Message": {
+          "j_ko": "어쩌지, 선생님?!",
+          "j_ja": "どうしよう先生！？",
+          "g_en": "What do I do, Sensei?!",
+          "g_tw": "怎麼辦，老師！？",
+          "g_tw_cn": "怎么办，老师！？",
+          "g_ja": "どうしよう先生！？",
+          "g_ko": "어쩌지, 선생님?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110141,
+        "Id": 130110232,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110142,
+        "Message": {
+          "j_ko": "모처럼 떠오른 아이디어가 완전 모순적이라,",
+          "j_ja": "せっかく浮かんだアイデアが思いっきり矛盾してて、",
+          "g_en": "My ideas are all so uninspired...",
+          "g_tw": "好不容易浮現的靈感整個大矛盾",
+          "g_tw_cn": "好不容易浮现的灵感整个大矛盾",
+          "g_ja": "せっかく浮かんだアイデアが思いっきり矛盾してて、",
+          "g_ko": "모처럼 떠오른 아이디어가 완전 모순적이라,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110141,
+        "Id": 130110233,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110142,
+        "Message": {
+          "j_ko": "그걸 타파할 다음 아이디어가 전혀 떠오르지 않아! 도와줘!!!",
+          "j_ja": "それを打破する次のアイデアが全然浮かばない！助けてーー！",
+          "g_en": "I can't think of anything else! Please help me!",
+          "g_tw": "完全想不出下一個靈感來解困！救救我──！",
+          "g_tw_cn": "完全想不出下一个灵感来解困！救救我──！",
+          "g_ja": "それを打破する次のアイデアが全然浮かばない！助けてーー！",
+          "g_ko": "그걸 타파할 다음 아이디어가 전혀 떠오르지 않아! 도와줘!!!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110142,
+        "Id": 130110234,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110150,
+        "Message": {
+          "j_ko": "우와아앙?!",
+          "j_ja": "うわあぁぁぁん！！！",
+          "g_en": "Waaahhh!",
+          "g_tw": "嗚哇啊！！！",
+          "g_tw_cn": "呜哇啊！！！",
+          "g_ja": "うわあぁぁぁん！！！",
+          "g_ko": "우와아앙?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301105,
+    "Data": [
+      {
+        "GroupId": 130110150,
+        "Id": 130110240,
+        "CharacterId": 13011,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110160,
+        "Message": {
+          "j_ko": "레트로 게임의 세계는 무진장 넓어, 선생님!",
+          "j_ja": "先生、レトロゲームの世界はすごく広いんだよ！",
+          "g_en": "The world of retro games is limitless, Sensei!",
+          "g_tw": "老師，復古遊戲的世界非常寬廣！",
+          "g_tw_cn": "老师，复古游戏的世界非常宽广！",
+          "g_ja": "先生、レトロゲームの世界はすごく広いんだよ！",
+          "g_ko": "레트로 게임의 세계는 무진장 넓어, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110160,
+        "Id": 130110250,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110161,
+        "Message": {
+          "j_ko": "그런 레트로 게임 내에서도 가장 시나리오 비중이 높은 게임이란",
+          "j_ja": "でもそんなレトロゲームの中でも、シナリオの比重が大きいゲームとして、",
+          "g_en": "But even in the retro game world, the most story-heavy games...",
+          "g_tw": "但在這些復古遊戲中，說到劇情比重大的遊戲",
+          "g_tw_cn": "但在这些复古游戏中，说到剧情比重大的游戏",
+          "g_ja": "でもそんなレトロゲームの中でも、シナリオの比重が大きいゲームとして、",
+          "g_ko": "그런 레트로 게임 내에서도 가장 시나리오 비중이 높은 게임이란"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110160,
+        "Id": 130110260,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110161,
+        "Message": {
+          "j_ko": "바로 연애 시뮬레이션 게임이라 할 수 있겠지! 응!",
+          "j_ja": "やっぱり恋愛シミュレーションゲームは外せない！",
+          "g_en": "would be dating sims! Yeah!",
+          "g_tw": "就不得不提戀愛模擬遊戲！",
+          "g_tw_cn": "就不得不提恋爱仿真游戏！",
+          "g_ja": "やっぱり恋愛シミュレーションゲームは外せない！",
+          "g_ko": "바로 연애 시뮬레이션 게임이라 할 수 있겠지! 응!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110161,
+        "Id": 130110270,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110170,
+        "Message": {
+          "j_ko": "연애 시뮬레이션……?",
+          "j_ja": "恋愛シミュレーション……？",
+          "g_en": "Dating sims...?",
+          "g_tw": "戀愛模擬……？",
+          "g_tw_cn": "恋爱仿真……？",
+          "g_ja": "恋愛シミュレーション……？",
+          "g_ko": "연애 시뮬레이션……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110170,
+        "Id": 130110280,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110180,
+        "Message": {
+          "j_ko": "오늘,",
+          "j_ja": "だから今日は、",
+          "g_en": "Today...",
+          "g_tw": "所以今天",
+          "g_tw_cn": "所以今天",
+          "g_ja": "だから今日は、",
+          "g_ko": "오늘,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110180,
+        "Id": 130110290,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110190,
+        "Message": {
+          "j_ko": "그 연애 시뮬레이션을 시뮬레이션 해보려고 해!",
+          "j_ja": "恋愛シミュレーションをシミュレーションしてみようと思うの！",
+          "g_en": "I'm going to \"simulate\" a dating sim!",
+          "g_tw": "我想要模擬戀愛模擬！",
+          "g_tw_cn": "我想要仿真恋爱仿真！",
+          "g_ja": "恋愛シミュレーションをシミュレーションしてみようと思うの！",
+          "g_ko": "그 연애 시뮬레이션을 시뮬레이션 해보려고 해!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110180,
+        "Id": 130110300,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110190,
+        "Message": {
+          "j_ko": "거리에서 보자, 선생님!",
+          "j_ja": "じゃあ後で場所は送るから、そこで待ち合わせね！先生！",
+          "g_en": "I'll see you out on the street, Sensei!",
+          "g_tw": "那我晚點發地點給你，在那裡碰面吧！老師！",
+          "g_tw_cn": "那我晚点发地点给你，在那里碰面吧！老师！",
+          "g_ja": "じゃあ後で場所は送るから、そこで待ち合わせね！先生！",
+          "g_ko": "거리에서 보자, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110190,
+        "Id": 130110310,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 130115,
+        "NextGroupId": 130110200,
+        "Message": {
+          "j_ko": "시뮬레이션을……. 시뮬레이션……?",
+          "j_ja": "シミュレーションをシミュレーション……？",
+          "g_en": "A simulation...of a simulation...?",
+          "g_tw": "模擬戀愛模擬……？",
+          "g_tw_cn": "仿真恋爱仿真……？",
+          "g_ja": "シミュレーションをシミュレーション……？",
+          "g_ko": "시뮬레이션을……. 시뮬레이션……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110200,
+        "Id": 130110320,
+        "CharacterId": 13011,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110210,
+        "Message": {
+          "j_ko": "선생님, 오, 오늘 즐거웠어……",
+          "j_ja": "先生、その……今日、楽しかった。ありがと",
+          "g_en": "Today was fun, Sensei...",
+          "g_tw": "老師，那個……今天很開心。謝謝",
+          "g_tw_cn": "老师，那个……今天很开心。谢谢",
+          "g_ja": "先生、その……今日、楽しかった。ありがと",
+          "g_ko": "선생님, 오, 오늘 즐거웠어……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110210,
+        "Id": 130110330,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110220,
+        "Message": {
+          "j_ko": "응, 나도 즐거웠어.",
+          "j_ja": "うん、私も楽しかったよ",
+          "g_en": "I had fun too.",
+          "g_tw": "嗯，我也很開心",
+          "g_tw_cn": "嗯，我也很开心",
+          "g_ja": "うん、私も楽しかったよ",
+          "g_ko": "응, 나도 즐거웠어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110220,
+        "Id": 130110340,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110230,
+        "Message": {
+          "j_ko": "그럼 다행이다……",
+          "j_ja": "そ、それは良かった",
+          "g_en": "That's good to hear...",
+          "g_tw": "那，那真是太好了",
+          "g_tw_cn": "那，那真是太好了",
+          "g_ja": "そ、それは良かった",
+          "g_ko": "그럼 다행이다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110220,
+        "Id": 130110350,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110230,
+        "Message": {
+          "j_ko": "하지만, 오늘 일은 그, 다른 사람들한텐 비밀이야!",
+          "j_ja": "でも、今日のことはその、他の人には秘密だよ！",
+          "g_en": "We can't tell anyone what we did today!",
+          "g_tw": "但是，今天的事要和別人保密唷！",
+          "g_tw_cn": "但是，今天的事要和别人保密唷！",
+          "g_ja": "でも、今日のことはその、他の人には秘密だよ！",
+          "g_ko": "하지만, 오늘 일은 그, 다른 사람들한텐 비밀이야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110220,
+        "Id": 130110360,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110230,
+        "Message": {
+          "j_ko": "특히 미도리한테는 더욱더!",
+          "j_ja": "特にミドリとかには絶対言わないで！",
+          "g_en": "Especially not Midori!",
+          "g_tw": "特別是不能對綠說！",
+          "g_tw_cn": "特别是不能对绿说！",
+          "g_ja": "特にミドリとかには絶対言わないで！",
+          "g_ko": "특히 미도리한테는 더욱더!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110230,
+        "Id": 130110370,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110240,
+        "Message": {
+          "j_ko": "응? 굳이 그럴 것까지는……",
+          "j_ja": "どうしてそこまで？だって確か最初はゲーム開発部で……",
+          "g_en": "Huh? But why...",
+          "g_tw": "為什麼要到那種程度？一開始確實是為了遊戲開發部才……",
+          "g_tw_cn": "为什么要到那种程度？一开始确实是为了游戏开发部才……",
+          "g_ja": "どうしてそこまで？だって確か最初はゲーム開発部で……",
+          "g_ko": "응? 굳이 그럴 것까지는……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110240,
+        "Id": 130110380,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110250,
+        "Message": {
+          "j_ko": "부끄러우니까. 비밀!",
+          "j_ja": "ダメ！絶対に秘密！！",
+          "g_en": "Because it's embarrassing! It's a secret!",
+          "g_tw": "不行！絕對要保密！！",
+          "g_tw_cn": "不行！绝对要保密！！",
+          "g_ja": "ダメ！絶対に秘密！！",
+          "g_ko": "부끄러우니까. 비밀!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301106,
+    "Data": [
+      {
+        "GroupId": 130110250,
+        "Id": 130110390,
+        "CharacterId": 13011,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110260,
+        "Message": {
+          "j_ko": "선생님, 선생님!",
+          "j_ja": "先生先生！",
+          "g_en": "Sensei, Sensei!",
+          "g_tw": "老師老師！",
+          "g_tw_cn": "老师老师！",
+          "g_ja": "先生先生！",
+          "g_ko": "선생님, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110260,
+        "Id": 130110400,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110270,
+        "Message": {
+          "j_ko": "응! 모모이모모이!",
+          "j_ja": "モモイが現れた！",
+          "g_en": "Yes! Momoi! Momoi!",
+          "g_tw": "桃井出現了！",
+          "g_tw_cn": "桃井出现了！",
+          "g_ja": "モモイが現れた！",
+          "g_ko": "응! 모모이모모이!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110260,
+        "Id": 130110410,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110270,
+        "Message": {
+          "j_ko": "왜 그래?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's wrong?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "왜 그래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110270,
+        "Id": 130110420,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110280,
+        "Message": {
+          "j_ko": "하루하바라에서 커다란 이벤트가 있대!",
+          "j_ja": "今度、春葉原ですっごく大きなイベントがあるんだって！",
+          "g_en": "There's a big event going on at Haru Habara!",
+          "g_tw": "聽說這次在春葉原有非常大的活動！",
+          "g_tw_cn": "听说这次在春叶原有非常大的活动！",
+          "g_ja": "今度、春葉原ですっごく大きなイベントがあるんだって！",
+          "g_ko": "하루하바라에서 커다란 이벤트가 있대!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110270,
+        "Id": 130110430,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110280,
+        "Message": {
+          "j_ko": "무려 울트라 마린 시스터즈 40주년 스탬프 랠리가……!",
+          "j_ja": "なんと、ウルトラマリンシスターズ40周年スタンプラリー！",
+          "g_en": "There's a stamp rally going on for the Ultra Marine Sisters' fortieth anniversary!",
+          "g_tw": "竟然有究極瑪琳姊妹40週年集章活動！",
+          "g_tw_cn": "竟然有究极玛琳姊妹40周年集章活动！",
+          "g_ja": "なんと、ウルトラマリンシスターズ40周年スタンプラリー！",
+          "g_ko": "무려 울트라 마린 시스터즈 40주년 스탬프 랠리가……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110280,
+        "Id": 130110440,
+        "CharacterId": 13011,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110290,
+        "Message": {
+          "j_ko": "……스탬프 랠리?",
+          "j_ja": "スタンプラリー？",
+          "g_en": "...A stamp rally?",
+          "g_tw": "集章活動？",
+          "g_tw_cn": "集章活动？",
+          "g_ja": "スタンプラリー？",
+          "g_ko": "……스탬프 랠리?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110290,
+        "Id": 130110450,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110300,
+        "Message": {
+          "j_ko": "스탬프를 전부 모으면 특제 굿즈가 선물로 나온다고 하니",
+          "j_ja": "スタンプを全部集めたら、プレゼントとして限定グッズを貰えるみたいなの",
+          "g_en": "If you get all the stamps, you can get special items!",
+          "g_tw": "收集所有印章的話，就能拿到限定商品作為獎品",
+          "g_tw_cn": "收集所有印章的话，就能拿到限定商品作为奖品",
+          "g_ja": "スタンプを全部集めたら、プレゼントとして限定グッズを貰えるみたいなの",
+          "g_ko": "스탬프를 전부 모으면 특제 굿즈가 선물로 나온다고 하니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110290,
+        "Id": 130110460,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130110300,
+        "Message": {
+          "j_ko": "이건 놓칠 수 없어!",
+          "j_ja": "これは見逃せない……！",
+          "g_en": "We can't miss this!",
+          "g_tw": "這可不能錯過……！",
+          "g_tw_cn": "这可不能错过……！",
+          "g_ja": "これは見逃せない……！",
+          "g_ko": "이건 놓칠 수 없어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130110300,
+        "Id": 130110470,
+        "CharacterId": 13011,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130116,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "알았지, 선생님?!",
+          "j_ja": "一緒に行こ、先生！！",
+          "g_en": "Okay, Sensei?",
+          "g_tw": "一起去吧，老師！！",
+          "g_tw_cn": "一起去吧，老师！！",
+          "g_ja": "一緒に行こ、先生！！",
+          "g_ko": "알았지, 선생님?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

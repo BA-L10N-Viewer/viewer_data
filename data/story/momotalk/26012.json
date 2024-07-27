@@ -1,0 +1,549 @@
+[
+  {
+    "BondScenarioId": 2601202,
+    "Data": [
+      {
+        "GroupId": 260120010,
+        "Id": 260120010,
+        "CharacterId": 26012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120020,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님.",
+          "j_ja": "こんにちは、先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120020,
+        "Id": 260120020,
+        "CharacterId": 26012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120030,
+        "Message": {
+          "j_ko": "혹시 본관에게 도움을 주실 수 있으신가요……?",
+          "j_ja": "どうか、本官を助けていただけませんか……？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120030,
+        "Id": 260120030,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120040,
+        "Message": {
+          "j_ko": "물론이지. 어떤 도움이 필요한데?",
+          "j_ja": "もちろんだよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120040,
+        "Id": 260120040,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120050,
+        "Message": {
+          "j_ko": "본관, 이번에 라이프가드 임무를 맡게 되었습니다.",
+          "j_ja": "実は本官、この度ライフセーバーの任務を命じられました"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120040,
+        "Id": 260120050,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120050,
+        "Message": {
+          "j_ko": "시민들의 안전을 지키는 경관으로서 더할 나위 없는 영광입니다만…….",
+          "j_ja": "市民の安全を守る警官として、光栄なのですが……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120050,
+        "Id": 260120060,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120060,
+        "Message": {
+          "j_ko": "그게…….",
+          "j_ja": "その……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120050,
+        "Id": 260120070,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120060,
+        "Message": {
+          "j_ko": "평범한 수영이라면 가능하지만, 수상 인명 구조를 위한 영법이 따로 있다고 합니다.",
+          "j_ja": "水上で人命救助を行なった経験がなくてですね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120050,
+        "Id": 260120080,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120060,
+        "Message": {
+          "j_ko": "게다가 이 사실을 어제 알게 됐어요…….",
+          "j_ja": "特別な訓練を積む必要があると、昨日になって知りました……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120060,
+        "Id": 260120090,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120070,
+        "Message": {
+          "j_ko": "그러면 큰일이잖아?",
+          "j_ja": "それは大変だね……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120060,
+        "Id": 260120100,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120070,
+        "Message": {
+          "j_ko": "지금이라도 연습해야 하는 거 아냐?",
+          "j_ja": "練習、間に合いそう？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120070,
+        "Id": 260120110,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120080,
+        "Message": {
+          "j_ko": "혹시 선생님께서 수영 연습을 도와주실 수 있으신가요?!",
+          "j_ja": "そこでご相談がありまして……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120070,
+        "Id": 260120120,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260122,
+        "NextGroupId": 260120080,
+        "Message": {
+          "j_ko": "이대로라면 본관, 임무 부적합 판정을 받을지도 모릅니다!",
+          "j_ja": "訓練に付き合っていただきたいのです！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601203,
+    "Data": [
+      {
+        "GroupId": 260120080,
+        "Id": 260120130,
+        "CharacterId": 26012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120090,
+        "Message": {
+          "j_ko": "선생님, 안녕하세요.",
+          "j_ja": "先生、こんにちは"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120090,
+        "Id": 260120140,
+        "CharacterId": 26012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120100,
+        "Message": {
+          "j_ko": "저번 연습 이후 오랫동안 생각해 본 바…….",
+          "j_ja": "あれから考えてみましたが……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120090,
+        "Id": 260120150,
+        "CharacterId": 26012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120100,
+        "Message": {
+          "j_ko": "역시 빠른 시간 내에 구조 영법을 배우는 건 힘들 것 같습니다.",
+          "j_ja": "やはり、今から訓練をしても間に合いそうもありません"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120100,
+        "Id": 260120160,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120110,
+        "Message": {
+          "j_ko": "으응, 아무래도 익숙지 않으니까…….",
+          "j_ja": "1日2日じゃ難しいよね……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120110,
+        "Id": 260120170,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120120,
+        "Message": {
+          "j_ko": "그러니 본관은 응급처치에 집중하기로 했습니다!",
+          "j_ja": "なので本官は、応急処置に専念することにしました！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120110,
+        "Id": 260120180,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120120,
+        "Message": {
+          "j_ko": "누군가 익수자를 물에서 구조하면, 그때 본관이 정신을 차릴 수 있도록 조치하는 거죠!",
+          "j_ja": "落水者の生存率を少しでも上げるために！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120120,
+        "Id": 260120190,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120130,
+        "Message": {
+          "j_ko": "방향을 바꿨구나?",
+          "j_ja": "方針を変えたんだね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120120,
+        "Id": 260120200,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120130,
+        "Message": {
+          "j_ko": "맞아, 그것도 중요한 일이지.",
+          "j_ja": "たしかに、それも大事だよね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120130,
+        "Id": 260120210,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120140,
+        "Message": {
+          "j_ko": "네! 선생님께서 괜찮으시다면, 이번에도 훈련을 참관해 주셨으면 합니다!",
+          "j_ja": "はい！先生がよろしければ、今回も訓練に付き合っていただいても良いでしょうか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120130,
+        "Id": 260120220,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260123,
+        "NextGroupId": 260120140,
+        "Message": {
+          "j_ko": "저번과 같은 실수는 하지 않을 테니 안심하셔도 좋습니다!",
+          "j_ja": "前回のような失敗はしないので、ご安心ください！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120140,
+        "Id": 260120230,
+        "CharacterId": 26012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120150,
+        "Message": {
+          "j_ko": "선생님, 혹시 매뉴얼을 읽으셨나요?",
+          "j_ja": "……先生、もしかしてマニュアルを読みましたか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120150,
+        "Id": 260120240,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120160,
+        "Message": {
+          "j_ko": "응, 읽었어.",
+          "j_ja": "うん、読んだよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120160,
+        "Id": 260120250,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120170,
+        "Message": {
+          "j_ko": "훈련 때는 하지 않았지만, 실제로 내가 빠지면 해줄 거지?",
+          "j_ja": "もし私が溺れたら、キリノは助けてくれるんだよね？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120170,
+        "Id": 260120260,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120180,
+        "Message": {
+          "j_ko": "무",
+          "j_ja": "も"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120170,
+        "Id": 260120270,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120180,
+        "Message": {
+          "j_ko": "물론입니다!",
+          "j_ja": "もちろんです！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120170,
+        "Id": 260120280,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120180,
+        "Message": {
+          "j_ko": "본관은 공과 사를 확실히 구분할 줄 아는 경관이니까요!",
+          "j_ja": "本官は、公私の区別をつけられる警官なので！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120180,
+        "Id": 260120290,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120190,
+        "Message": {
+          "j_ko": "제세동기를 말한 건데?",
+          "j_ja": "AEDのことを言ってるんだけど……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120190,
+        "Id": 260120300,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120200,
+        "Message": {
+          "j_ko": "보, 본관을 놀리지 말아 주세요!",
+          "j_ja": "ほ、本官をからかわないでください！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2601205,
+    "Data": [
+      {
+        "GroupId": 260120200,
+        "Id": 260120310,
+        "CharacterId": 26012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120210,
+        "Message": {
+          "j_ko": "선생님! 안녕하십니까! 키리노입니다!",
+          "j_ja": "先生！こんにちは、キリノです！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120210,
+        "Id": 260120320,
+        "CharacterId": 26012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120220,
+        "Message": {
+          "j_ko": "선생님의 도움 덕에 라이프가드 임무를 위한 훈련을 마치고, 이제 마지막 점검을 하려 합니다.",
+          "j_ja": "先生のおかげで、ライフセーバーの訓練が終了しました！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120220,
+        "Id": 260120330,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120230,
+        "Message": {
+          "j_ko": "축하해, 키리노.",
+          "j_ja": "おめでとう、キリノ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120230,
+        "Id": 260120340,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120240,
+        "Message": {
+          "j_ko": "선생님께서 물심양면으로 도와주신 덕분입니다!",
+          "j_ja": "これも先生が協力してくださったおかげです！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120230,
+        "Id": 260120350,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120240,
+        "Message": {
+          "j_ko": "그런 뜻에서 훈련의 마무리에 참관을 요청드릴까 하는데, 혹시 괜찮으신가요?",
+          "j_ja": "最後に訓練の復習をしようと思っているのですが、また付き合っていただけないでしょうか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120240,
+        "Id": 260120360,
+        "CharacterId": 26012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 260120250,
+        "Message": {
+          "j_ko": "물론이지. 꼭 갈게.",
+          "j_ja": "もちろん行くよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120250,
+        "Id": 260120370,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "감사합니다!",
+          "j_ja": "ありがとうございます！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 260120250,
+        "Id": 260120380,
+        "CharacterId": 26012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 260125,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "마침내 유종의 미를 거둘 수 있겠네요!",
+          "j_ja": "今度こそ、成長した姿をお見せしましょう！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

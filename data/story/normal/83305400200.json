@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぅ……これで混乱は収まったわね。",
+      "j_ko": "후우…… 이것으로 게헨나 전역의 혼란은 대충 마무리한 것 같네.",
+      "g_ja": "ふぅ……これで混乱は収まったわね。",
+      "g_ko": "후우…… 이것으로 게헨나 전역의 혼란은 대충 마무리한 것 같네.",
+      "g_en": "*sigh*...Matters in Gehenna should settle for a while after this.",
+      "g_th": "ฮู่ว... ความปั่นป่วนทั้งหมดในเกเฮนน่าก็น่าจะหมดแค่นี้แล้ว",
+      "g_tw": "呼……這樣格黑娜發生的混亂大致上都結束了。",
+      "g_tw_cn": "呼……这样格黑娜发生的混乱大致上都结束了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3528693056,
+    "DataType": "speaker",
+    "Script": "3;히나 드레스;99;후우…… 이것으로 게헨나 전역의 혼란은 대충 마무리한 것 같네.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……いよいよ私の出番。",
+      "j_ko": "남은 것은…… 마지막으로 내게 주어진 무대.",
+      "g_ja": "……いよいよ私の出番。",
+      "g_ko": "남은 것은…… 마지막으로 내게 주어진 무대.",
+      "g_en": "The only thing left now, at last...is the stage set for me.",
+      "g_th": "งานที่เหลือก็คือ... การแสดงบนเวทีที่ได้รับมอบหมายมา",
+      "g_tw": "接下來……是屬於我的舞台。",
+      "g_tw_cn": "接下来……是属于我的舞台。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3528693056,
+    "DataType": "speaker",
+    "Script": "3;히나 드레스;05;남은 것은…… 마지막으로 내게 주어진 무대.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "…………….",
+      "g_ja": "…………。",
+      "g_ko": "…………….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "………………",
+      "g_tw_cn": "………………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3528693056,
+    "DataType": "speaker",
+    "Script": "3;히나 드레스;05;…………….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一歩、踏み出す時。",
+      "j_ko": "걸음을, 내딛을 때야.",
+      "g_ja": "一歩、踏み出す時。",
+      "g_ko": "걸음을, 내딛을 때야.",
+      "g_en": "It's time to step forward.",
+      "g_th": "ถึงเวลาแล้วสินะ",
+      "g_tw": "是時候向前邁進了。",
+      "g_tw_cn": "是时候向前迈进了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3528693056,
+    "DataType": "speaker",
+    "Script": "#na;히나 드레스;걸음을, 내딛을 때야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  }
+]

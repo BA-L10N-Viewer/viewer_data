@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何があったの？",
+      "j_ko": "괜찮아? 무슨 일이 있었던 거야?",
+      "g_ja": "何があったの？",
+      "g_ko": "괜찮아? 무슨 일이 있었던 거야?",
+      "g_en": "Are you well? What happened here?",
+      "g_th": "เป็นยังไงบ้าง? เกิดเรื่องอะไรขึ้นน่ะ?",
+      "g_tw": "你還好嗎？發生了什麼事？",
+      "g_tw_cn": "你还好吗？发生了什么事？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;06;괜찮아? 무슨 일이 있었던 거야?\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううっ……委員、長……",
+      "j_ko": "으윽…… 부장, 니임……",
+      "g_ja": "ううっ……委員、長……",
+      "g_ko": "으윽…… 부장, 니임……",
+      "g_en": "Urgh... Head Prefect...",
+      "g_th": "อึก... ท่านประธาน...",
+      "g_tw": "呃……委員長……",
+      "g_tw_cn": "呃……委员长……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;06;으윽…… 부장, 니임……\\n#3;closeup\\n#3;stiff\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "襲撃、です……給食の時間に、正体不明の料理が……",
+      "j_ko": "습격, 이었습니다…… 점심 식사 시간 도중에…… 정체불명의 요리가……",
+      "g_ja": "襲撃、です……給食の時間に、正体不明の料理が……",
+      "g_ko": "습격, 이었습니다…… 점심 식사 시간 도중에…… 정체불명의 요리가……",
+      "g_en": "There was an ambush...during lunch...with unidentified food...",
+      "g_th": "มีการจู่โจมค่ะ... ระหว่างที่ฉันพักกินข้าวกลางวันอยู่... ก็มีอาหารอะไรไม่รู้...",
+      "g_tw": "是襲擊……在午餐時間……來歷不明的料理……",
+      "g_tw_cn": "是袭击……在午餐时间……来历不明的料理……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;04;습격, 이었습니다…… 점심 식사 시간 도중에…… 정체불명의 요리가……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううっ。",
+      "j_ko": "으윽.",
+      "g_ja": "ううっ。",
+      "g_ko": "으윽.",
+      "g_en": "Urgh...",
+      "g_th": "อึก...",
+      "g_tw": "呃唔。",
+      "g_tw_cn": "呃唔。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2755732452,
+    "DataType": "speaker",
+    "Script": "3;선도부원;06;으윽.\\n#3;closeup\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……！",
+      "j_ko": "……!",
+      "g_ja": "……！",
+      "g_ko": "……!",
+      "g_en": "...!",
+      "g_th": ".....!",
+      "g_tw": "……！",
+      "g_tw_cn": "……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;04;……!\\n#3;em;[!]\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

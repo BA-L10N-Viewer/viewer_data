@@ -1,0 +1,916 @@
+[
+  {
+    "BondScenarioId": 1009402,
+    "Data": [
+      {
+        "GroupId": 100940010,
+        "Id": 100940010,
+        "CharacterId": 10094,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940020,
+        "Message": {
+          "j_ko": "선생님, 선생님!",
+          "j_ja": "先生先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940020,
+        "Id": 100940020,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940030,
+        "Message": {
+          "j_ko": "모모이, 모모이!",
+          "j_ja": "モモイモモイ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940030,
+        "Id": 100940030,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940040,
+        "Message": {
+          "j_ko": "있잖아, 들어 봐!",
+          "j_ja": "聞いて！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940030,
+        "Id": 100940040,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940040,
+        "Message": {
+          "j_ko": "메이드복이라는 게 생겼어!",
+          "j_ja": "私、メイド服をゲットしたの！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940040,
+        "Id": 100940050,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940050,
+        "Message": {
+          "j_ko": "그 말을 들으니까 불안해졌어!",
+          "j_ja": "モモイがメイドに！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940050,
+        "Id": 100940060,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940060,
+        "Message": {
+          "j_ko": "그리하여, 나는 원대한 계획을 세운 것이었다…….",
+          "j_ja": "そう……かくして私の深遠な計画は始まった……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940060,
+        "Id": 100940070,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940070,
+        "Message": {
+          "j_ko": "메이드복을 입었더니, 갑자기!",
+          "j_ja": "メイド服にこめられたロマン……これを理解せんとするならばっ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940060,
+        "Id": 100940080,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940070,
+        "Message": {
+          "j_ko": "메이드 같은 기분이 되어야 할 것 같은 거 있지!",
+          "j_ja": "まずはメイドの気分になりきらないとね！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940070,
+        "Id": 100940090,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940080,
+        "Message": {
+          "j_ko": "정말 의식의 흐름대로네.",
+          "j_ja": "モモイらしいね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940080,
+        "Id": 100940100,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940090,
+        "Message": {
+          "j_ko": "아무튼! 그러니까!",
+          "j_ja": "そう？……まぁ、そういうことで！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940080,
+        "Id": 100940110,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940090,
+        "Message": {
+          "j_ko": "메이드 같은 기분이 되려면, 그런 일을 해 봐야 하지 않을까?",
+          "j_ja": "メイドの気分になるなら、メイドっぽいことをするのが一番でしょ？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940090,
+        "Id": 100940120,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940100,
+        "Message": {
+          "j_ko": "그러니까 내가 샬레의 휴게실을 청소해 줄게!",
+          "j_ja": "ってことで今から、シャーレの休憩室を掃除しに行くね！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940090,
+        "Id": 100940130,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940100,
+        "Message": {
+          "j_ko": "그러면 선생님, 거기서 봐!",
+          "j_ja": "じゃあ先生、待っててね！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940100,
+        "Id": 100940140,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100942,
+        "NextGroupId": 100940110,
+        "Message": {
+          "j_ko": "모모이? 모모이?!",
+          "j_ja": "モモイ？モモイ！？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1009403,
+    "Data": [
+      {
+        "GroupId": 100940110,
+        "Id": 100940150,
+        "CharacterId": 10094,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940120,
+        "Message": {
+          "j_ko": "선생님, 선생님!",
+          "j_ja": "先生先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940120,
+        "Id": 100940160,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940130,
+        "Message": {
+          "j_ko": "응! 모모이, 모모이!",
+          "j_ja": "モモイモモイ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940130,
+        "Id": 100940170,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940140,
+        "Message": {
+          "j_ko": "있잖아, 들어 봐!",
+          "j_ja": "聞いて！先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940140,
+        "Id": 100940180,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940150,
+        "Message": {
+          "j_ko": "메이드의 업무에 대해 조금 알아봤는데…….",
+          "j_ja": "あのあとメイドの仕事について、ちょっと調べてみたんだ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940140,
+        "Id": 100940190,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940150,
+        "Message": {
+          "j_ko": "식사 준비도 아주 중요한 일이었대!",
+          "j_ja": "メイドにとって、食事の支度もすごく大事なんだって！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940150,
+        "Id": 100940200,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940160,
+        "Message": {
+          "j_ko": "어…… 다 먹고 살자고 하는 일이니까……?",
+          "j_ja": "まあ……食事は生活に欠かせないからね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940160,
+        "Id": 100940210,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940170,
+        "Message": {
+          "j_ko": "그리하여 나는 또 다시 원대한 계획을 세운 것이었다…….",
+          "j_ja": "そう……かくして私の深遠な計画は再び始動した……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940170,
+        "Id": 100940220,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940180,
+        "Message": {
+          "j_ko": "이번에는 내가 선생님에게",
+          "j_ja": "料理でご主人様を満足させられなければ、メイドとしては半人前っ……！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940170,
+        "Id": 100940230,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940180,
+        "Message": {
+          "j_ko": "멋진 요리를 대접해 줄게!",
+          "j_ja": "だから！先生に素敵なお料理を作ってあげないと、ってね！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100940180,
+            "Id": 100940240,
+            "CharacterId": 10094,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100940190,
+            "Message": {
+              "j_ko": "그러면 선생님, 게임개발부실에서 봐!",
+              "j_ja": "そういうわけだから！後でゲーム開発部の部室集合！"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100940180,
+        "Id": 100940240,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940190,
+        "Message": {
+          "j_ko": "그러면 선생님, 게임개발부실에서 봐!",
+          "j_ja": "そういうわけだから！後でゲーム開発部の部室集合！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940190,
+        "Id": 100940250,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100943,
+        "NextGroupId": 100940200,
+        "Message": {
+          "j_ko": "모모이? 모모이?!",
+          "j_ja": "モモイ？モモイ！？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1009405,
+    "Data": [
+      {
+        "GroupId": 100940200,
+        "Id": 100940260,
+        "CharacterId": 10094,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940210,
+        "Message": {
+          "j_ko": "선생님!",
+          "j_ja": "先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940210,
+        "Id": 100940270,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940220,
+        "Message": {
+          "j_ko": "모모이!",
+          "j_ja": "モモイ！？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940220,
+        "Id": 100940280,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940230,
+        "Message": {
+          "j_ko": "있잖아, 들어 봐!",
+          "j_ja": "聞いて！先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940220,
+        "Id": 100940290,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940230,
+        "Message": {
+          "j_ko": "메이드의 일과에 대해",
+          "j_ja": "メイドの仕事で、大事なことを忘れてたの！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940220,
+        "Id": 100940300,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940230,
+        "Message": {
+          "j_ko": "쭉 잊고 있었던 것이 있었어…….",
+          "j_ja": "さっきそれを思い出して……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940230,
+        "Id": 100940310,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940240,
+        "Message": {
+          "j_ko": "갑자기 불안해졌다.",
+          "j_ja": "また怪しい雲行きに……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940240,
+        "Id": 100940320,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940250,
+        "Message": {
+          "j_ko": "그런 거 아니라니까!",
+          "j_ja": "だから違うって！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940240,
+        "Id": 100940330,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940250,
+        "Message": {
+          "j_ko": "이건 선생님도 좋아할 거라고!",
+          "j_ja": "先生もこれはきっと喜ぶと思うよ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940240,
+        "Id": 100940340,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940250,
+        "Message": {
+          "j_ko": "……아마.",
+          "j_ja": "……たぶん"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940250,
+        "Id": 100940350,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940260,
+        "Message": {
+          "j_ko": "그래서 잊고 있었던 게 뭐야?",
+          "j_ja": "一体何を忘れてたの？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940260,
+        "Id": 100940360,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940270,
+        "Message": {
+          "j_ko": "그건 말이지……!",
+          "j_ja": "それはね……！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940260,
+        "Id": 100940370,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940270,
+        "Message": {
+          "j_ko": "몸과 마음을 휴식하는 거야!",
+          "j_ja": "ゆっくり、体と心を休ませること！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940270,
+        "Id": 100940380,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940280,
+        "Message": {
+          "j_ko": "진짜 뜬금없네…….",
+          "j_ja": "ほ、本当に今回は休むだけ？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940280,
+        "Id": 100940390,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940290,
+        "Message": {
+          "j_ko": "그렇지 않아!",
+          "j_ja": "そう！だってさ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940290,
+        "Id": 100940400,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940300,
+        "Message": {
+          "j_ko": "원래 사람은 쉬지 않으면 고장 나는 법이라고?",
+          "j_ja": "人って休まないと壊れちゃうじゃん？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100940300,
+            "Id": 100940410,
+            "CharacterId": 10094,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100940310,
+            "Message": {
+              "j_ko": "그러니까 휴식은, 내일의 고된 일과를 위해서라도.",
+              "j_ja": "だから、明日のために休むのは大事！"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100940300,
+            "Id": 100940420,
+            "CharacterId": 10094,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100940310,
+            "Message": {
+              "j_ko": "반드시까지는 아니겠지만 상당히 필요한 일과인 거지!",
+              "j_ja": "先生もそう思うでしょ？"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100940300,
+        "Id": 100940410,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940310,
+        "Message": {
+          "j_ko": "그러니까 휴식은, 내일의 고된 일과를 위해서라도.",
+          "j_ja": "だから、明日のために休むのは大事！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940300,
+        "Id": 100940420,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940310,
+        "Message": {
+          "j_ko": "반드시까지는 아니겠지만 상당히 필요한 일과인 거지!",
+          "j_ja": "先生もそう思うでしょ？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940310,
+        "Id": 100940430,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940320,
+        "Message": {
+          "j_ko": "앞뒤 사정 빼고, 휴식에는 나도 찬성.",
+          "j_ja": "うん、適度な休息は大事だね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940320,
+        "Id": 100940440,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940330,
+        "Message": {
+          "j_ko": "그렇지?",
+          "j_ja": "でしょ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940330,
+        "Id": 100940450,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940340,
+        "Message": {
+          "j_ko": "이번에 밀레니엄에 찾아오면",
+          "j_ja": "だからさ、今度、ミレニアムに来て！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940330,
+        "Id": 100940460,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100945,
+        "NextGroupId": 100940340,
+        "Message": {
+          "j_ko": "최고의 휴식을 만끽하게 해 줄게!",
+          "j_ja": "メイドとして、最高の休息をプレゼントするから！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940340,
+        "Id": 100940470,
+        "CharacterId": 10094,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940350,
+        "Message": {
+          "j_ko": "우에엥……",
+          "j_ja": "うぅぅ……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940340,
+        "Id": 100940480,
+        "CharacterId": 10094,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940350,
+        "Message": {
+          "j_ko": "아직도 온몸이 아파……",
+          "j_ja": "まだ筋肉痛がぁ……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940350,
+        "Id": 100940490,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940360,
+        "Message": {
+          "j_ko": "나도 그래…….",
+          "j_ja": "私も……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940360,
+        "Id": 100940500,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940370,
+        "Message": {
+          "j_ko": "휴식이란 이렇게 어려운 일과였단 말인가!",
+          "j_ja": "休むのって、こんなに難しいことだったの！？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940370,
+        "Id": 100940510,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940380,
+        "Message": {
+          "j_ko": "평범하게 쉬는 게 좋지 않을까…….",
+          "j_ja": "普通にくつろげばよかったね……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940380,
+        "Id": 100940520,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940390,
+        "Message": {
+          "j_ko": "하지만 말이지!",
+          "j_ja": "でも！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940380,
+        "Id": 100940530,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940390,
+        "Message": {
+          "j_ko": "뭔가 아깝잖아!",
+          "j_ja": "それじゃ面白くない！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940390,
+        "Id": 100940540,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940400,
+        "Message": {
+          "j_ko": "좀 더 슈퍼–하고, 울트라–한데다.",
+          "j_ja": "もっと、スーパーウルトラ画期的かつ効率的でっ！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940390,
+        "Id": 100940550,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940400,
+        "Message": {
+          "j_ko": "획기적이고 기발하면서 효율적이고 기억에 남는!",
+          "j_ja": "人の記憶にずっと残りそうな！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100940400,
+            "Id": 100940560,
+            "CharacterId": 10094,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100940410,
+            "Message": {
+              "j_ko": "그런 휴식법 없을까, 선생님?",
+              "j_ja": "う～ん、どこかにそんな休息方法ってないのかなぁ？"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100940400,
+        "Id": 100940560,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940410,
+        "Message": {
+          "j_ko": "그런 휴식법 없을까, 선생님?",
+          "j_ja": "う～ん、どこかにそんな休息方法ってないのかなぁ？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940410,
+        "Id": 100940570,
+        "CharacterId": 10094,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940420,
+        "Message": {
+          "j_ko": "우리들의 허리가 나으면, 같이 생각해 보자…….",
+          "j_ja": "筋肉痛が治ったら、また考えようか……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940420,
+        "Id": 100940580,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100940430,
+        "Message": {
+          "j_ko": "…….",
+          "j_ja": "……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940430,
+        "Id": 100940590,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "알았어…….",
+          "j_ja": "そうだね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100940430,
+        "Id": 100940600,
+        "CharacterId": 10094,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "약속한 거다, 선생님?",
+          "j_ja": "ふふっ、約束だよ？先生！"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

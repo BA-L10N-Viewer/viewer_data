@@ -1,0 +1,1032 @@
+[
+  {
+    "BondScenarioId": 2001002,
+    "Data": [
+      {
+        "GroupId": 200100010,
+        "Id": 200100010,
+        "CharacterId": 20010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100020,
+        "Message": {
+          "j_ko": "오늘도 공무를 수행하시느라 대단히 수고 많으셨습니다.",
+          "j_ja": "本日もお仕事、大変お疲れ様でございました",
+          "g_en": "Great work today performing your official duties.",
+          "g_tw": "您今天也工作辛苦了",
+          "g_tw_cn": "您今天也工作辛苦了",
+          "g_ja": "本日もお仕事、大変お疲れ様でございました",
+          "g_ko": "오늘도 공무를 수행하시느라 대단히 수고 많으셨습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100020,
+        "Id": 200100020,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100030,
+        "Message": {
+          "j_ko": "선생님만 괜찮으시다면 피곤하신 몸을 돌봐 드리고 싶은데, 어떠신지요?",
+          "j_ja": "先生さえよろしければ、ぜひお疲れの身体を労わって差し上げたいのですが、いかがでございましょう？",
+          "g_en": "As long as it's okay with you, I would like to take care of your tired body.",
+          "g_tw": "如果老師不嫌棄的話，務必讓我照顧您疲憊的身體，您覺得怎麼樣？",
+          "g_tw_cn": "如果老师不嫌弃的话，务必让我照顾您疲惫的身体，您觉得怎么样？",
+          "g_ja": "先生さえよろしければ、ぜひお疲れの身体を労わって差し上げたいのですが、いかがでございましょう？",
+          "g_ko": "선생님만 괜찮으시다면 피곤하신 몸을 돌봐 드리고 싶은데, 어떠신지요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100030,
+        "Id": 200100030,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100040,
+        "Message": {
+          "j_ko": "……이건 무슨 컨셉이야?",
+          "j_ja": "……何か変な物でも食べた？",
+          "g_en": "...What are you up to?",
+          "g_tw": "……吃了什麼奇怪的東西嗎？",
+          "g_tw_cn": "……吃了什么奇怪的东西吗？",
+          "g_ja": "……何か変な物でも食べた？",
+          "g_ko": "……이건 무슨 컨셉이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100040,
+        "Id": 200100040,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100050,
+        "Message": {
+          "j_ko": "사람이 모처럼 예의를 차려 인사를 했는데 무슨 컨셉이냐니, 실례잖아요!",
+          "j_ja": "ただ気遣ってるだけなのに酷くないですか！？",
+          "g_en": "How rude! I'm just trying to be polite!",
+          "g_tw": "只是關心一下而已，這麼說不會太過份了嗎！？",
+          "g_tw_cn": "只是关心一下而已，这么说不会太过份了吗！？",
+          "g_ja": "ただ気遣ってるだけなのに酷くないですか！？",
+          "g_ko": "사람이 모처럼 예의를 차려 인사를 했는데 무슨 컨셉이냐니, 실례잖아요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100050,
+        "Id": 200100050,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100060,
+        "Message": {
+          "j_ko": "앗",
+          "j_ja": "はっ",
+          "g_en": "Oh!",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "はっ",
+          "g_ko": "앗"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100050,
+        "Id": 200100060,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100060,
+        "Message": {
+          "j_ko": "아무것도 아니랍니다, 선생님. 호호…….",
+          "j_ja": "な、何でもありません。お気になさらず、おほほ……",
+          "g_en": "It's nothing, Sensei. Haha...",
+          "g_tw": "什，什麼都沒有。請不要介意，哦呵呵……",
+          "g_tw_cn": "什，什么都没有。请不要介意，哦呵呵……",
+          "g_ja": "な、何でもありません。お気になさらず、おほほ……",
+          "g_ko": "아무것도 아니랍니다, 선생님. 호호……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100060,
+        "Id": 200100070,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100070,
+        "Message": {
+          "j_ko": "……무슨 문제라도 있는 거야?",
+          "j_ja": "大丈夫？何かあったの？",
+          "g_en": "...Is there a problem?",
+          "g_tw": "沒事吧？發生了什麼事？",
+          "g_tw_cn": "没事吧？发生了什么事？",
+          "g_ja": "大丈夫？何かあったの？",
+          "g_ko": "……무슨 문제라도 있는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100070,
+        "Id": 200100080,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100080,
+        "Message": {
+          "j_ko": "아뇨. 그저 심경의 변화가 생겼을 뿐이에요.",
+          "j_ja": "いえその、ちょっとした心境の変化と言いますか……",
+          "g_en": "No, I just had a change of heart.",
+          "g_tw": "不，該說是一點心境的變化嗎……",
+          "g_tw_cn": "不，该说是一点心境的变化吗……",
+          "g_ja": "いえその、ちょっとした心境の変化と言いますか……",
+          "g_ko": "아뇨. 그저 심경의 변화가 생겼을 뿐이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100070,
+        "Id": 200100090,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100080,
+        "Message": {
+          "j_ko": "지난 온천장 운영을 통해 저는 여러 가지를 배웠답니다.",
+          "j_ja": "以前の温泉郷での運営を通じて、色々なことを学んだんです",
+          "g_en": "I learned a lot from running the hot springs resort last time.",
+          "g_tw": "之前經營溫泉浴場的時候，學到了很多東西",
+          "g_tw_cn": "之前经营温泉浴场的时候，学到了很多东西",
+          "g_ja": "以前の温泉郷での運営を通じて、色々なことを学んだんです",
+          "g_ko": "지난 온천장 운영을 통해 저는 여러 가지를 배웠답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100080,
+        "Id": 200100100,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100090,
+        "Message": {
+          "j_ko": "탕을 깨끗하게 청소하는 법부터, 목욕용품의 재고 정리까지…….",
+          "j_ja": "お風呂を綺麗に掃除する方法から、様々な物品の在庫整理まで……",
+          "g_en": "From how to clean the hot baths to how to organize the inventory of bath products...",
+          "g_tw": "從將浴室打掃乾淨的方法，到整理各種物品的庫存……",
+          "g_tw_cn": "从将浴室打扫干净的方法，到整理各种物品的库存……",
+          "g_ja": "お風呂を綺麗に掃除する方法から、様々な物品の在庫整理まで……",
+          "g_ko": "탕을 깨끗하게 청소하는 법부터, 목욕용품의 재고 정리까지……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100080,
+        "Id": 200100110,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100090,
+        "Message": {
+          "j_ko": "하지만 접객에는 부족함이 많았던 탓에, 온천장을 찾아 주신 손님들께 여러모로 실례를 저지른 것 같아요.",
+          "j_ja": "しかし特に接客では色々と至らずに、先生を始めとしてお客様方に失礼なことをしてしまった気がします",
+          "g_en": "However, I lacked in the area of hospitality, so I think I may have inconvenienced the guests.",
+          "g_tw": "但特別是接待客人這方面做得還不夠好，總覺得自己好像對老師和客人們做了失禮的事",
+          "g_tw_cn": "但特别是接待客人这方面做得还不够好，总觉得自己好像对老师和客人们做了失礼的事",
+          "g_ja": "しかし特に接客では色々と至らずに、先生を始めとしてお客様方に失礼なことをしてしまった気がします",
+          "g_ko": "하지만 접객에는 부족함이 많았던 탓에, 온천장을 찾아 주신 손님들께 여러모로 실례를 저지른 것 같아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100080,
+        "Id": 200100120,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100090,
+        "Message": {
+          "j_ko": "그래서 다음번에는 실수하지 않도록 미리 예행연습을 해두려고요.",
+          "j_ja": "ですので次は失敗しないように、予行練習をしておこうと思いまして",
+          "g_en": "So to prevent making mistakes again, I'm going to practice in advance.",
+          "g_tw": "因此，為了下次不再失敗，我想預先練習一下",
+          "g_tw_cn": "因此，为了下次不再失败，我想预先练习一下",
+          "g_ja": "ですので次は失敗しないように、予行練習をしておこうと思いまして",
+          "g_ko": "그래서 다음번에는 실수하지 않도록 미리 예행연습을 해두려고요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200100090,
+            "Id": 200100130,
+            "CharacterId": 20010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 200102,
+            "NextGroupId": 200100100,
+            "Message": {
+              "j_ko": "다시 말하자면…… 온천 수행입니다!",
+              "j_ja": "つまりはそう、修行です！",
+              "g_en": "In other words...it's hot springs training!",
+              "g_tw": "也就是……修行！",
+              "g_tw_cn": "也就是……修行！",
+              "g_ja": "つまりはそう、修行です！",
+              "g_ko": "다시 말하자면…… 온천 수행입니다!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200100090,
+        "Id": 200100130,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200102,
+        "NextGroupId": 200100100,
+        "Message": {
+          "j_ko": "다시 말하자면…… 온천 수행입니다!",
+          "j_ja": "つまりはそう、修行です！",
+          "g_en": "In other words...it's hot springs training!",
+          "g_tw": "也就是……修行！",
+          "g_tw_cn": "也就是……修行！",
+          "g_ja": "つまりはそう、修行です！",
+          "g_ko": "다시 말하자면…… 온천 수행입니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001003,
+    "Data": [
+      {
+        "GroupId": 200100100,
+        "Id": 200100140,
+        "CharacterId": 20010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100110,
+        "Message": {
+          "j_ko": "으으…… 지난번의 수행은 완전히 실패였어요.",
+          "j_ja": "この前の修行は完全に失敗でした",
+          "g_en": "Ugh... The training I did last time was a complete failure.",
+          "g_tw": "之前的修行完全失敗了",
+          "g_tw_cn": "之前的修行完全失败了",
+          "g_ja": "この前の修行は完全に失敗でした",
+          "g_ko": "으으…… 지난번의 수행은 완전히 실패였어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100110,
+        "Id": 200100150,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100120,
+        "Message": {
+          "j_ko": "설마 가이세키 요리라는 게 그렇게나 다채로운 것일 줄이야……",
+          "j_ja": "まさか会席料理というものが、あそこまでのものだったとは……",
+          "g_en": "I had no clue that kaiseki cuisine was so elaborate and diverse...",
+          "g_tw": "沒想到會席料理竟然是那麼厲害的東西……",
+          "g_tw_cn": "没想到会席料理竟然是那么厉害的东西……",
+          "g_ja": "まさか会席料理というものが、あそこまでのものだったとは……",
+          "g_ko": "설마 가이세키 요리라는 게 그렇게나 다채로운 것일 줄이야……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100110,
+        "Id": 200100160,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100120,
+        "Message": {
+          "j_ko": "매일 배급 식품만 먹어왔던 저로서는 상상도 하지 못할 세계였어요.",
+          "j_ja": "ほぼ毎日配給品だけを食べてきた私としては、あまりにも未知の世界で……",
+          "g_en": "As someone who ate rationed food everyday, it was a whole new unimaginable world.",
+          "g_tw": "對於每天幾乎只吃配給品的我來說，是個過於未知的世界……",
+          "g_tw_cn": "对于每天几乎只吃配给品的我来说，是个过于未知的世界……",
+          "g_ja": "ほぼ毎日配給品だけを食べてきた私としては、あまりにも未知の世界で……",
+          "g_ko": "매일 배급 식품만 먹어왔던 저로서는 상상도 하지 못할 세계였어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100120,
+        "Id": 200100170,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100130,
+        "Message": {
+          "j_ko": "하지만 그 덕분에 새로이 깨닫게 된 사실도 있답니다.",
+          "j_ja": "ですが私はめげません、まだまだやるべきことがありますから",
+          "g_en": "But thanks to that, I learned something new.",
+          "g_tw": "但是我不會氣餒，因為還有很多必須做的事",
+          "g_tw_cn": "但是我不会气馁，因为还有很多必须做的事",
+          "g_ja": "ですが私はめげません、まだまだやるべきことがありますから",
+          "g_ko": "하지만 그 덕분에 새로이 깨닫게 된 사실도 있답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100120,
+        "Id": 200100180,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100130,
+        "Message": {
+          "j_ko": "온천장에서 가장 중요한 시설은…… 욕탕이라는 사실을요!",
+          "j_ja": "次に取り組むべきは、温泉郷で一番大事な施設……温泉！",
+          "g_en": "The most important facility in a hot springs resort...is the hot bath!",
+          "g_tw": "接下來該著手的，是溫泉浴場最重要的設施……溫泉！",
+          "g_tw_cn": "接下来该着手的，是温泉浴场最重要的设施……温泉！",
+          "g_ja": "次に取り組むべきは、温泉郷で一番大事な施設……温泉！",
+          "g_ko": "온천장에서 가장 중요한 시설은…… 욕탕이라는 사실을요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100130,
+        "Id": 200100190,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100140,
+        "Message": {
+          "j_ko": "보통은 그렇지.",
+          "j_ja": "なるほど",
+          "g_en": "That's normally the case.",
+          "g_tw": "原來如此",
+          "g_tw_cn": "原来如此",
+          "g_ja": "なるほど",
+          "g_ko": "보통은 그렇지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100140,
+        "Id": 200100200,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100150,
+        "Message": {
+          "j_ko": "온천장은 말 그대로 온천을 즐기기 위한 시설.",
+          "j_ja": "温泉郷は文字通り、温泉を中心としたもの",
+          "g_en": "A hot springs resort is literally an establishment for enjoying hot springs.",
+          "g_tw": "溫泉浴場顧名思義，是以溫泉為中心",
+          "g_tw_cn": "温泉浴场顾名思义，是以温泉为中心",
+          "g_ja": "温泉郷は文字通り、温泉を中心としたもの",
+          "g_ko": "온천장은 말 그대로 온천을 즐기기 위한 시설."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100140,
+        "Id": 200100210,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100150,
+        "Message": {
+          "j_ko": "훌륭한 욕탕을 갖추고 있다면 손님은 자연히 모여드는 법이니까요.",
+          "j_ja": "立派な温泉があれば、お客様は自然と集まってきてくれるはず",
+          "g_en": "If we have great hot baths, guests will naturally flock to us.",
+          "g_tw": "照理來說只要有出色的溫泉，客人們自然會聚集過來",
+          "g_tw_cn": "照理来说只要有出色的温泉，客人们自然会聚集过来",
+          "g_ja": "立派な温泉があれば、お客様は自然と集まってきてくれるはず",
+          "g_ko": "훌륭한 욕탕을 갖추고 있다면 손님은 자연히 모여드는 법이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100150,
+        "Id": 200100220,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100160,
+        "Message": {
+          "j_ko": "그래서 이번에는 욕탕을 깨끗이 정비하는 데 집중하려고요!",
+          "j_ja": "なので今度は、お風呂場の掃除を頑張ってみようかと！",
+          "g_en": "So this time I'm going to focus on keeping the hot baths clean!",
+          "g_tw": "所以這次，要努力打掃浴室！",
+          "g_tw_cn": "所以这次，要努力打扫浴室！",
+          "g_ja": "なので今度は、お風呂場の掃除を頑張ってみようかと！",
+          "g_ko": "그래서 이번에는 욕탕을 깨끗이 정비하는 데 집중하려고요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100160,
+        "Id": 200100230,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200103,
+        "NextGroupId": 200100170,
+        "Message": {
+          "j_ko": "……어디서?",
+          "j_ja": "……どこで？",
+          "g_en": "...Where?",
+          "g_tw": "……掃哪裡？",
+          "g_tw_cn": "……扫哪里？",
+          "g_ja": "……どこで？",
+          "g_ko": "……어디서?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001005,
+    "Data": [
+      {
+        "GroupId": 200100170,
+        "Id": 200100240,
+        "CharacterId": 20010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100180,
+        "Message": {
+          "j_ko": "여러 차례의 수행을 통해 드디어 저는 깨달았답니다.",
+          "j_ja": "これまでの修行を経て、私は悟りました",
+          "g_en": "After training several times, I finally came to a realization.",
+          "g_tw": "經過這些修行，我領悟到了",
+          "g_tw_cn": "经过这些修行，我领悟到了",
+          "g_ja": "これまでの修行を経て、私は悟りました",
+          "g_ko": "여러 차례의 수행을 통해 드디어 저는 깨달았답니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100180,
+        "Id": 200100250,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100190,
+        "Message": {
+          "j_ko": "궁극의 접객은 훌륭한 요리나 시설을 제공하는 것보다 종업원의 태도에 있다는 것을……",
+          "j_ja": "接客の真髄というのは、料理や施設ではなく……従業員の態度そのものであるということに！",
+          "g_en": "Hospitality ultimately lies in the attitude of the staff, rather than the provision of fine cuisine or facilities...",
+          "g_tw": "接待客人的精髓不是料理和設施……而是員工的態度！",
+          "g_tw_cn": "接待客人的精髓不是料理和设施……而是员工的态度！",
+          "g_ja": "接客の真髄というのは、料理や施設ではなく……従業員の態度そのものであるということに！",
+          "g_ko": "궁극의 접객은 훌륭한 요리나 시설을 제공하는 것보다 종업원의 태도에 있다는 것을……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100190,
+        "Id": 200100260,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100200,
+        "Message": {
+          "j_ko": "맛있는 요리가 더 중요하지 않을까?",
+          "j_ja": "なるほど。それに美味しい料理があればバッチリだね",
+          "g_en": "Wouldn't delicious food be more important?",
+          "g_tw": "原來如此。再加上好吃的料理就完美了",
+          "g_tw_cn": "原来如此。再加上好吃的料理就完美了",
+          "g_ja": "なるほど。それに美味しい料理があればバッチリだね",
+          "g_ko": "맛있는 요리가 더 중요하지 않을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100190,
+        "Id": 200100270,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100200,
+        "Message": {
+          "j_ko": "훌륭한 욕탕이 더 중요하지 않을까?",
+          "j_ja": "なるほど。それに立派な温泉があればバッチリだね",
+          "g_en": "Wouldn't great hot baths be more important?",
+          "g_tw": "原來如此。再加上出色的溫泉就完美了",
+          "g_tw_cn": "原来如此。再加上出色的温泉就完美了",
+          "g_ja": "なるほど。それに立派な温泉があればバッチリだね",
+          "g_ko": "훌륭한 욕탕이 더 중요하지 않을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100200,
+        "Id": 200100280,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100210,
+        "Message": {
+          "j_ko": "하",
+          "j_ja": "そ、そうですね……",
+          "g_en": "Ha",
+          "g_tw": "說，說的也是……",
+          "g_tw_cn": "说，说的也是……",
+          "g_ja": "そ、そうですね……",
+          "g_ko": "하"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100210,
+        "Id": 200100290,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100220,
+        "Message": {
+          "j_ko": "하지만 할 수 없잖아요?",
+          "j_ja": "ですがその、後者はしばらく厳しいと言いますか",
+          "g_en": "But we can't do that.",
+          "g_tw": "但是，該說後者一時之間很難辦到嗎",
+          "g_tw_cn": "但是，该说后者一时之间很难办到吗",
+          "g_ja": "ですがその、後者はしばらく厳しいと言いますか",
+          "g_ko": "하지만 할 수 없잖아요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100210,
+        "Id": 200100300,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100220,
+        "Message": {
+          "j_ko": "저희가 갖고 있는 돈만으로는 비싼 요리나 시설을 준비할 수는 없으니까요…….",
+          "j_ja": "私たちのお金では、なかなか高い料理や豪勢な施設は用意できないので……",
+          "g_en": "We can't prepare expensive dishes or offer great facilities with the funds we have...",
+          "g_tw": "因為光憑我們的資金，很難提供昂貴的料理和豪華的設施……",
+          "g_tw_cn": "因为光凭我们的资金，很难提供昂贵的料理和豪华的设施……",
+          "g_ja": "私たちのお金では、なかなか高い料理や豪勢な施設は用意できないので……",
+          "g_ko": "저희가 갖고 있는 돈만으로는 비싼 요리나 시설을 준비할 수는 없으니까요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200100220,
+            "Id": 200100310,
+            "CharacterId": 20010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200100230,
+            "Message": {
+              "j_ko": "여하튼 이번 기회에 온천장의 여주인다운 기품 있는 몸가짐을 갖출 수 있도록, 특별한 훈련을 하고자 합니다.",
+              "j_ja": "とにかくまずはできることから！今回は温泉の女将らしく、気品のある所作を習得したいと思います",
+              "g_en": "Anyway, I would like to take this opportunity to undertake special training to learn the ways of a dignified hot springs resort owner.",
+              "g_tw": "總之先從能做到的事開始！這次我想學習，像溫泉女將一樣有氣質的行為舉止",
+              "g_tw_cn": "总之先从能做到的事开始！这次我想学习，像温泉女将一样有气质的行为举止",
+              "g_ja": "とにかくまずはできることから！今回は温泉の女将らしく、気品のある所作を習得したいと思います",
+              "g_ko": "여하튼 이번 기회에 온천장의 여주인다운 기품 있는 몸가짐을 갖출 수 있도록, 특별한 훈련을 하고자 합니다."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 200100220,
+            "Id": 200100320,
+            "CharacterId": 20010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 200105,
+            "NextGroupId": 200100230,
+            "Message": {
+              "j_ko": "다시 말하자면…… 예절 수행입니다!",
+              "j_ja": "つまり、礼節の修業です！",
+              "g_en": "In other words...it's etiquette training!",
+              "g_tw": "也就是……學習禮儀！",
+              "g_tw_cn": "也就是……学习礼仪！",
+              "g_ja": "つまり、礼節の修業です！",
+              "g_ko": "다시 말하자면…… 예절 수행입니다!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200100220,
+        "Id": 200100310,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100230,
+        "Message": {
+          "j_ko": "여하튼 이번 기회에 온천장의 여주인다운 기품 있는 몸가짐을 갖출 수 있도록, 특별한 훈련을 하고자 합니다.",
+          "j_ja": "とにかくまずはできることから！今回は温泉の女将らしく、気品のある所作を習得したいと思います",
+          "g_en": "Anyway, I would like to take this opportunity to undertake special training to learn the ways of a dignified hot springs resort owner.",
+          "g_tw": "總之先從能做到的事開始！這次我想學習，像溫泉女將一樣有氣質的行為舉止",
+          "g_tw_cn": "总之先从能做到的事开始！这次我想学习，像温泉女将一样有气质的行为举止",
+          "g_ja": "とにかくまずはできることから！今回は温泉の女将らしく、気品のある所作を習得したいと思います",
+          "g_ko": "여하튼 이번 기회에 온천장의 여주인다운 기품 있는 몸가짐을 갖출 수 있도록, 특별한 훈련을 하고자 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100220,
+        "Id": 200100320,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200105,
+        "NextGroupId": 200100230,
+        "Message": {
+          "j_ko": "다시 말하자면…… 예절 수행입니다!",
+          "j_ja": "つまり、礼節の修業です！",
+          "g_en": "In other words...it's etiquette training!",
+          "g_tw": "也就是……學習禮儀！",
+          "g_tw_cn": "也就是……学习礼仪！",
+          "g_ja": "つまり、礼節の修業です！",
+          "g_ko": "다시 말하자면…… 예절 수행입니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100230,
+        "Id": 200100330,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100240,
+        "Message": {
+          "j_ko": "선생님…….",
+          "j_ja": "先生",
+          "g_en": "Sensei...",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100240,
+        "Id": 200100340,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100250,
+        "Message": {
+          "j_ko": "무슨 문제라도 있어?",
+          "j_ja": "どうしたの？",
+          "g_en": "Is something wrong?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 문제라도 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100250,
+        "Id": 200100350,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100260,
+        "Message": {
+          "j_ko": "아뇨. 문제는 없어요. 다만……",
+          "j_ja": "いえ、大したことではないのですが……",
+          "g_en": "No, not at all. Except...",
+          "g_tw": "不，沒什麼大不了的……",
+          "g_tw_cn": "不，没什么大不了的……",
+          "g_ja": "いえ、大したことではないのですが……",
+          "g_ko": "아뇨. 문제는 없어요. 다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100250,
+        "Id": 200100360,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100260,
+        "Message": {
+          "j_ko": "한쪽 발을 다치고 선생님께 업힐 수 있었으니",
+          "j_ja": "片足を捻って先生におんぶしていただけたのであれば",
+          "g_en": "Since you carried me around when I injured one of my legs,",
+          "g_tw": "只是扭了一隻腳就能讓老師背的話",
+          "g_tw_cn": "只是扭了一只脚就能让老师背的话",
+          "g_ja": "片足を捻って先生におんぶしていただけたのであれば",
+          "g_ko": "한쪽 발을 다치고 선생님께 업힐 수 있었으니"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100250,
+        "Id": 200100370,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100260,
+        "Message": {
+          "j_ko": "다른 발도 다쳤으면 더 좋은 일이 생기지 않았을까 싶어서…….",
+          "j_ja": "もしかしてもう片方の足も怪我したら、もっと良いことをしていただけたり……？",
+          "g_en": "I was thinking maybe something better would have happened if the other foot was injured as well...",
+          "g_tw": "如果另一隻腳也受傷的話，老師會為我做更好的事嗎……",
+          "g_tw_cn": "如果另一只脚也受伤的话，老师会为我做更好的事吗……",
+          "g_ja": "もしかしてもう片方の足も怪我したら、もっと良いことをしていただけたり……？",
+          "g_ko": "다른 발도 다쳤으면 더 좋은 일이 생기지 않았을까 싶어서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100260,
+        "Id": 200100380,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100270,
+        "Message": {
+          "j_ko": "그런 나쁜 생각은 하면 안 돼!",
+          "j_ja": "とりあえず意図的なのはやめてもらえると……",
+          "g_en": "Don't have such terrible thoughts!",
+          "g_tw": "總之，拜託先打消你那種意圖……",
+          "g_tw_cn": "总之，拜托先打消你那种意图……",
+          "g_ja": "とりあえず意図的なのはやめてもらえると……",
+          "g_ko": "그런 나쁜 생각은 하면 안 돼!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001006,
+    "Data": [
+      {
+        "GroupId": 200100270,
+        "Id": 200100390,
+        "CharacterId": 20010,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100280,
+        "Message": {
+          "j_ko": "전에 삐끗한 발목이 좀처럼 낫지를 않네요.",
+          "j_ja": "あれから足は少しずつ良くなったのですが、まだ全快ではないという感じです",
+          "g_en": "The ankle I sprained before isn't getting better.",
+          "g_tw": "從那之後腳一點一點地變好了，但感覺沒有痊癒",
+          "g_tw_cn": "从那之后脚一点一点地变好了，但感觉没有痊愈",
+          "g_ja": "あれから足は少しずつ良くなったのですが、まだ全快ではないという感じです",
+          "g_ko": "전에 삐끗한 발목이 좀처럼 낫지를 않네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100280,
+        "Id": 200100400,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100290,
+        "Message": {
+          "j_ko": "일상을 보내는 데 큰 불편은 없지만 통증이 약간 남아 있어서…….",
+          "j_ja": "日常生活に支障はありませんが、いつも通り歩こうとするには少し痛くて……",
+          "g_en": "It doesn't really bother me during my daily routine, but it's still a bit painful...",
+          "g_tw": "雖然日常生活沒有大礙，但正常走路的話會有點痛……",
+          "g_tw_cn": "虽然日常生活没有大碍，但正常走路的话会有点痛……",
+          "g_ja": "日常生活に支障はありませんが、いつも通り歩こうとするには少し痛くて……",
+          "g_ko": "일상을 보내는 데 큰 불편은 없지만 통증이 약간 남아 있어서……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100280,
+        "Id": 200100410,
+        "CharacterId": 20010,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100290,
+        "Message": {
+          "j_ko": "이대로라면 온천 수행을 하는 데 지장이 생겨버려요.",
+          "j_ja": "ちょっとまだ修業は難しそうですね……",
+          "g_en": "At this rate, it'll get in the way of my hot springs training.",
+          "g_tw": "學習禮儀還真不容易啊……",
+          "g_tw_cn": "学习礼仪还真不容易啊……",
+          "g_ja": "ちょっとまだ修業は難しそうですね……",
+          "g_ko": "이대로라면 온천 수행을 하는 데 지장이 생겨버려요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100290,
+        "Id": 200100420,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100300,
+        "Message": {
+          "j_ko": "이 근처에 탕치에 좋은 온천이 있다고 하는데……",
+          "j_ja": "そういえばこの間、湯治に良いっていう温泉の話を聞いたんだけど",
+          "g_en": "I heard there are hot springs for therapeutic bathing around here...",
+          "g_tw": "這麼說來，前陣子聽說有個溫泉很適合做溫泉治療",
+          "g_tw_cn": "这么说来，前阵子听说有个温泉很适合做温泉治疗",
+          "g_ja": "そういえばこの間、湯治に良いっていう温泉の話を聞いたんだけど",
+          "g_ko": "이 근처에 탕치에 좋은 온천이 있다고 하는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100300,
+        "Id": 200100430,
+        "CharacterId": 20010,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100310,
+        "Message": {
+          "j_ko": "괜찮으면 이번 주말에 같이 가지 않을래?",
+          "j_ja": "送っていくから、良かったら今週末どう？",
+          "g_en": "If it's okay with you, would you like to go with me this weekend?",
+          "g_tw": "我送你過去，這個週末有空嗎？",
+          "g_tw_cn": "我送你过去，这个周末有空吗？",
+          "g_ja": "送っていくから、良かったら今週末どう？",
+          "g_ko": "괜찮으면 이번 주말에 같이 가지 않을래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100310,
+        "Id": 200100440,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100320,
+        "Message": {
+          "j_ko": "네, 갈게요. 감사합니다.",
+          "j_ja": "あ、ありがとうございます",
+          "g_en": "Yes, I'll go. Thank you.",
+          "g_tw": "非，非常感謝",
+          "g_tw_cn": "非，非常感谢",
+          "g_ja": "あ、ありがとうございます",
+          "g_ko": "네, 갈게요. 감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100320,
+        "Id": 200100450,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100330,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "では週末に",
+          "g_en": "Oh.",
+          "g_tw": "那麼，週末見",
+          "g_tw_cn": "那么，周末见",
+          "g_ja": "では週末に",
+          "g_ko": "아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 200100330,
+            "Id": 200100460,
+            "CharacterId": 20010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200100340,
+            "Message": {
+              "j_ko": "ㄴ",
+              "j_ja": "ｍ",
+              "g_en": "H—",
+              "g_tw": "等",
+              "g_tw_cn": "等",
+              "g_ja": "ｍ",
+              "g_ko": "ㄴ"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 200100330,
+            "Id": 200100470,
+            "CharacterId": 20010,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 200100340,
+            "Message": {
+              "j_ko": "네ㄴ?!",
+              "j_ja": "まｔ",
+              "g_en": "Huhhh?!",
+              "g_tw": "等ㄧ",
+              "g_tw_cn": "等ㄧ",
+              "g_ja": "まｔ",
+              "g_ko": "네ㄴ?!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 200100330,
+        "Id": 200100460,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100340,
+        "Message": {
+          "j_ko": "ㄴ",
+          "j_ja": "ｍ",
+          "g_en": "H—",
+          "g_tw": "等",
+          "g_tw_cn": "等",
+          "g_ja": "ｍ",
+          "g_ko": "ㄴ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100330,
+        "Id": 200100470,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200100340,
+        "Message": {
+          "j_ko": "네ㄴ?!",
+          "j_ja": "まｔ",
+          "g_en": "Huhhh?!",
+          "g_tw": "等ㄧ",
+          "g_tw_cn": "等ㄧ",
+          "g_ja": "まｔ",
+          "g_ko": "네ㄴ?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200100340,
+        "Id": 200100480,
+        "CharacterId": 20010,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200106,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "선생님이랑 같이 탕에 들어간다고요?",
+          "j_ja": "待ってください、先生と一緒に温泉ですか！？！？",
+          "g_en": "You're entering the hot bath with me, Sensei?",
+          "g_tw": "等一下，是和老師一起泡溫泉嗎？",
+          "g_tw_cn": "等一下，是和老师一起泡温泉吗？",
+          "g_ja": "待ってください、先生と一緒に温泉ですか！？！？",
+          "g_ko": "선생님이랑 같이 탕에 들어간다고요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

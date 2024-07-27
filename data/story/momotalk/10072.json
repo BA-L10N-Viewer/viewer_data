@@ -1,0 +1,1069 @@
+[
+  {
+    "BondScenarioId": 1007202,
+    "Data": [
+      {
+        "GroupId": 100720010,
+        "Id": 100720010,
+        "CharacterId": 10072,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720020,
+        "Message": {
+          "j_ko": "선생님, 지금 뭐 하고 있어?",
+          "j_ja": "先生、今何してる？",
+          "g_en": "Sensei, what are you doing right now?",
+          "g_tw": "老師，你現在在做什麼？",
+          "g_tw_cn": "老师，你现在在做什么？",
+          "g_ja": "先生、今何してる？",
+          "g_ko": "선생님, 지금 뭐 하고 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720020,
+        "Id": 100720020,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720030,
+        "Message": {
+          "j_ko": "숨 쉬어",
+          "j_ja": "休憩中だよ",
+          "g_en": "Breathing...",
+          "g_tw": "在休息哦",
+          "g_tw_cn": "在休息哦",
+          "g_ja": "休憩中だよ",
+          "g_ko": "숨 쉬어"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720020,
+        "Id": 100720030,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720040,
+        "Message": {
+          "j_ko": "그냥 쉬고 있어",
+          "j_ja": "呼吸、かな……",
+          "g_en": "Taking it easy.",
+          "g_tw": "呼吸，吧……",
+          "g_tw_cn": "呼吸，吧……",
+          "g_ja": "呼吸、かな……",
+          "g_ko": "그냥 쉬고 있어"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720030,
+        "Id": 100720040,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720040,
+        "Message": {
+          "j_ko": "?",
+          "j_ja": "？",
+          "g_en": "...?",
+          "g_tw": "？",
+          "g_tw_cn": "？",
+          "g_ja": "？",
+          "g_ko": "?"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720030,
+        "Id": 100720050,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720040,
+        "Message": {
+          "j_ko": "그게 뭐야.",
+          "j_ja": "なんだそれ",
+          "g_en": "What kind of answer is that.",
+          "g_tw": "什麼嘛",
+          "g_tw_cn": "什么嘛",
+          "g_ja": "なんだそれ",
+          "g_ko": "그게 뭐야."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720030,
+        "Id": 100720060,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720040,
+        "Message": {
+          "j_ko": "아무것도 안 하고 있다는 뜻이잖아. 장난치지 마.",
+          "j_ja": "何もしてないってことか？",
+          "g_en": "It sounds like you're not doing anything.",
+          "g_tw": "意思是你什麼事都沒在做嗎？",
+          "g_tw_cn": "意思是你什么事都没在做吗？",
+          "g_ja": "何もしてないってことか？",
+          "g_ko": "아무것도 안 하고 있다는 뜻이잖아. 장난치지 마."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720040,
+        "Id": 100720070,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720050,
+        "Message": {
+          "j_ko": "모처럼 바다에 왔는데 시간이 아깝지도 않은 거야?",
+          "j_ja": "せっかく海まで来たんだから",
+          "g_en": "We're visiting the sea. Do you plan to waste the whole trip?",
+          "g_tw": "難得都到海邊來了",
+          "g_tw_cn": "难得都到海边来了",
+          "g_ja": "せっかく海まで来たんだから",
+          "g_ko": "모처럼 바다에 왔는데 시간이 아깝지도 않은 거야?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720050,
+        "Id": 100720080,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720060,
+        "Message": {
+          "j_ko": "바다에 왔으니 여기서만 할 수 있는 일을 해야지.",
+          "j_ja": "海でしか出来ないことをしないと、もったいないぞ",
+          "g_en": "Since we're at the beach, we should be doing beach activities.",
+          "g_tw": "不做些只有在海邊才能做的事就太浪費了",
+          "g_tw_cn": "不做些只有在海边才能做的事就太浪费了",
+          "g_ja": "海でしか出来ないことをしないと、もったいないぞ",
+          "g_ko": "바다에 왔으니 여기서만 할 수 있는 일을 해야지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720060,
+        "Id": 100720090,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720070,
+        "Message": {
+          "j_ko": "바다에서만 할 수 있는 일이라고 해도……",
+          "j_ja": "海でしか出来ないこと……",
+          "g_en": "Beach activities, huh...",
+          "g_tw": "只有在海邊才能做的事……",
+          "g_tw_cn": "只有在海边才能做的事……",
+          "g_ja": "海でしか出来ないこと……",
+          "g_ko": "바다에서만 할 수 있는 일이라고 해도……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720070,
+        "Id": 100720100,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720080,
+        "Message": {
+          "j_ko": "해수욕이라도 하자고?",
+          "j_ja": "泳ぐとか？",
+          "g_en": "Like swimming?",
+          "g_tw": "游泳之類的？",
+          "g_tw_cn": "游泳之类的？",
+          "g_ja": "泳ぐとか？",
+          "g_ko": "해수욕이라도 하자고?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720080,
+        "Id": 100720110,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720090,
+        "Message": {
+          "j_ko": "아니, 바다에서만 할 수 있는 일이라면 따로 있잖아?",
+          "j_ja": "泳ぐだけなら、プールでも良いだろう？",
+          "g_en": "No, I don't mean playing or goofing off.",
+          "g_tw": "只是要游泳的話，去泳池就行了吧？",
+          "g_tw_cn": "只是要游泳的话，去泳池就行了吧？",
+          "g_ja": "泳ぐだけなら、プールでも良いだろう？",
+          "g_ko": "아니, 바다에서만 할 수 있는 일이라면 따로 있잖아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720090,
+        "Id": 100720120,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720100,
+        "Message": {
+          "j_ko": "바로……",
+          "j_ja": "つまりだな……",
+          "g_en": "I mean...",
+          "g_tw": "所以說……",
+          "g_tw_cn": "所以说……",
+          "g_ja": "つまりだな……",
+          "g_ko": "바로……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720090,
+        "Id": 100720130,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100722,
+        "NextGroupId": 100720100,
+        "Message": {
+          "j_ko": "해산물 채취지!",
+          "j_ja": "海産物を獲りに行くんだ！",
+          "g_en": "Catching seafood!",
+          "g_tw": "要去抓海產！",
+          "g_tw_cn": "要去抓海产！",
+          "g_ja": "海産物を獲りに行くんだ！",
+          "g_ko": "해산물 채취지!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007203,
+    "Data": [
+      {
+        "GroupId": 100720100,
+        "Id": 100720140,
+        "CharacterId": 10072,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720110,
+        "Message": {
+          "j_ko": "선생님, 지금 시간 괜찮아?",
+          "j_ja": "先生、ちょっといいか？",
+          "g_en": "Sensei, are you busy right now?",
+          "g_tw": "老師，現在有空嗎？",
+          "g_tw_cn": "老师，现在有空吗？",
+          "g_ja": "先生、ちょっといいか？",
+          "g_ko": "선생님, 지금 시간 괜찮아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720110,
+        "Id": 100720150,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720120,
+        "Message": {
+          "j_ko": "내가 방금 끝내주는 물건을 찾은 참이거든.",
+          "j_ja": "さっき、面白い物を見つけたんだ",
+          "g_en": "I just happened on something amazing!",
+          "g_tw": "我剛才找到了一個有趣的東西",
+          "g_tw_cn": "我刚才找到了一个有趣的东西",
+          "g_ja": "さっき、面白い物を見つけたんだ",
+          "g_ko": "내가 방금 끝내주는 물건을 찾은 참이거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720110,
+        "Id": 100720160,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720120,
+        "Message": {
+          "j_ko": "이것만 있으면 어떤 큰 물고기라도 한 방에 해치울 수 있어!",
+          "j_ja": "これがあれば、今度こそ先生に魚を獲ってこれる！",
+          "g_en": "With this, I'll be able to catch even the biggest fish!",
+          "g_tw": "只要有這個，這次一定能抓魚給老師！",
+          "g_tw_cn": "只要有这个，这次一定能抓鱼给老师！",
+          "g_ja": "これがあれば、今度こそ先生に魚を獲ってこれる！",
+          "g_ko": "이것만 있으면 어떤 큰 물고기라도 한 방에 해치울 수 있어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720120,
+        "Id": 100720170,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720130,
+        "Message": {
+          "j_ko": "뭔가 좋은 그물이라도 찾은 거야?",
+          "j_ja": "倉庫に網でもあったの？",
+          "g_en": "Did you find a fishing net?",
+          "g_tw": "是在倉庫裡找到漁網了嗎？",
+          "g_tw_cn": "是在仓库里找到渔网了吗？",
+          "g_ja": "倉庫に網でもあったの？",
+          "g_ko": "뭔가 좋은 그물이라도 찾은 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720130,
+        "Id": 100720180,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720140,
+        "Message": {
+          "j_ko": "그물?",
+          "j_ja": "ふふん",
+          "g_en": "A net?",
+          "g_tw": "哼哼",
+          "g_tw_cn": "哼哼",
+          "g_ja": "ふふん",
+          "g_ko": "그물?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720140,
+        "Id": 100720190,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720150,
+        "Message": {
+          "j_ko": "이 물건의 가치는 그런 평범한 어구에 비할 바가 아니라고.",
+          "j_ja": "ただの網だと思ったら間違いだ",
+          "g_en": "It's nothing so mundane as a net.",
+          "g_tw": "以為只是單純的漁網就大錯特錯了",
+          "g_tw_cn": "以为只是单纯的渔网就大错特错了",
+          "g_ja": "ただの網だと思ったら間違いだ",
+          "g_ko": "이 물건의 가치는 그런 평범한 어구에 비할 바가 아니라고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100720150,
+            "Id": 100720200,
+            "CharacterId": 10072,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100720160,
+            "Message": {
+              "j_ko": "역시 모모톡으로 설명하는 것보다는 직접 보여주는 게 낫겠지",
+              "j_ja": "これは直接見せた方がいいな",
+              "g_en": "I can't describe it here. You need to see it for yourself.",
+              "g_tw": "這個還是直接給你看看比較好",
+              "g_tw_cn": "这个还是直接给你看看比较好",
+              "g_ja": "これは直接見せた方がいいな",
+              "g_ko": "역시 모모톡으로 설명하는 것보다는 직접 보여주는 게 낫겠지"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100720150,
+            "Id": 100720210,
+            "CharacterId": 10072,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100720160,
+            "Message": {
+              "j_ko": "지금 바로 전의 부둣가로 와줄래?",
+              "j_ja": "この前の波止場に来てくれ",
+              "g_en": "Can you come to the dock right now?",
+              "g_tw": "來之前那個碼頭一趟吧",
+              "g_tw_cn": "来之前那个码头一趟吧",
+              "g_ja": "この前の波止場に来てくれ",
+              "g_ko": "지금 바로 전의 부둣가로 와줄래?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100720150,
+        "Id": 100720200,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720160,
+        "Message": {
+          "j_ko": "역시 모모톡으로 설명하는 것보다는 직접 보여주는 게 낫겠지",
+          "j_ja": "これは直接見せた方がいいな",
+          "g_en": "I can't describe it here. You need to see it for yourself.",
+          "g_tw": "這個還是直接給你看看比較好",
+          "g_tw_cn": "这个还是直接给你看看比较好",
+          "g_ja": "これは直接見せた方がいいな",
+          "g_ko": "역시 모모톡으로 설명하는 것보다는 직접 보여주는 게 낫겠지"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720150,
+        "Id": 100720210,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720160,
+        "Message": {
+          "j_ko": "지금 바로 전의 부둣가로 와줄래?",
+          "j_ja": "この前の波止場に来てくれ",
+          "g_en": "Can you come to the dock right now?",
+          "g_tw": "來之前那個碼頭一趟吧",
+          "g_tw_cn": "来之前那个码头一趟吧",
+          "g_ja": "この前の波止場に来てくれ",
+          "g_ko": "지금 바로 전의 부둣가로 와줄래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720160,
+        "Id": 100720220,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100723,
+        "NextGroupId": 100720170,
+        "Message": {
+          "j_ko": "이번에야말로 선생님에게 최고급 생선회를 대접할 테니까!",
+          "j_ja": "今度こそ、先生に最高級の刺身を食べさせてやる！",
+          "g_en": "I'm going to treat you to the best sashimi after this!",
+          "g_tw": "這次絕對要讓老師吃到最高級的生魚片！",
+          "g_tw_cn": "这次绝对要让老师吃到最高级的生鱼片！",
+          "g_ja": "今度こそ、先生に最高級の刺身を食べさせてやる！",
+          "g_ko": "이번에야말로 선생님에게 최고급 생선회를 대접할 테니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720170,
+        "Id": 100720230,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720180,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720180,
+        "Id": 100720240,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720190,
+        "Message": {
+          "j_ko": "나중에 다시 그 부둣가에 갔다가 발견했는데",
+          "j_ja": "あの後、波止場の様子を見に行ったら",
+          "g_en": "I went back to the dock later and found",
+          "g_tw": "後來，我又去看了看碼頭的情況",
+          "g_tw_cn": "后来，我又去看了看码头的情况",
+          "g_ja": "あの後、波止場の様子を見に行ったら",
+          "g_ko": "나중에 다시 그 부둣가에 갔다가 발견했는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720190,
+        "Id": 100720250,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720200,
+        "Message": {
+          "j_ko": "수면 위에 작은 물고기 여러 마리가 떠 있더라고",
+          "j_ja": "水面に小魚が何匹か浮かんでいたぞ",
+          "g_en": "little fish floating on the surface.",
+          "g_tw": "發現水面上漂著幾隻小魚",
+          "g_tw_cn": "发现水面上漂着几只小鱼",
+          "g_ja": "水面に小魚が何匹か浮かんでいたぞ",
+          "g_ko": "수면 위에 작은 물고기 여러 마리가 떠 있더라고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720190,
+        "Id": 100720260,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720200,
+        "Message": {
+          "j_ko": "아마 아까 터트린 폭뢰의 강한 충격으로 인해 기절한 모양이야",
+          "j_ja": "おそらく、爆破の衝撃で気を失ったんだろう",
+          "g_en": "They must have been knocked unconscious by the explosion I set off earlier.",
+          "g_tw": "恐怕是被爆炸的衝擊震暈了吧",
+          "g_tw_cn": "恐怕是被爆炸的冲击震晕了吧",
+          "g_ja": "おそらく、爆破の衝撃で気を失ったんだろう",
+          "g_ko": "아마 아까 터트린 폭뢰의 강한 충격으로 인해 기절한 모양이야"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720200,
+        "Id": 100720270,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720210,
+        "Message": {
+          "j_ko": "작은 물고기들은 외부 충격에 약하다고 하니까",
+          "j_ja": "小さな魚は、意外と衝撃に弱いって聞くよね",
+          "g_en": "Small fish must be vulnerable to external shocks.",
+          "g_tw": "我聽說體型小的魚意外的怕衝擊",
+          "g_tw_cn": "我听说体型小的鱼意外的怕冲击",
+          "g_ja": "小さな魚は、意外と衝撃に弱いって聞くよね",
+          "g_ko": "작은 물고기들은 외부 충격에 약하다고 하니까"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720210,
+        "Id": 100720280,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720220,
+        "Message": {
+          "j_ko": "……그렇다면",
+          "j_ja": "と、いうことは……",
+          "g_en": "So that means...",
+          "g_tw": "也就是說……",
+          "g_tw_cn": "也就是说……",
+          "g_ja": "と、いうことは……",
+          "g_ko": "……그렇다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720210,
+        "Id": 100720290,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720220,
+        "Message": {
+          "j_ko": "자동차 배터리 같은 것으로 물에 전류를 흘려 물고기를 기절시킨다면",
+          "j_ja": "高圧電流を流せば、まとめて気絶……",
+          "g_en": "I could rig a car battery to run currents through the water and stun the fish!",
+          "g_tw": "只要接入高壓電流，就能一口氣……",
+          "g_tw_cn": "只要接入高压电流，就能一口气……",
+          "g_ja": "高圧電流を流せば、まとめて気絶……",
+          "g_ko": "자동차 배터리 같은 것으로 물에 전류를 흘려 물고기를 기절시킨다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720220,
+        "Id": 100720300,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720230,
+        "Message": {
+          "j_ko": "그건 절대로 안 돼!",
+          "j_ja": "それは絶対にダメ！",
+          "g_en": "You can't do that!",
+          "g_tw": "那個絕對不行！",
+          "g_tw_cn": "那个绝对不行！",
+          "g_ja": "それは絶対にダメ！",
+          "g_ko": "그건 절대로 안 돼!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007205,
+    "Data": [
+      {
+        "GroupId": 100720230,
+        "Id": 100720310,
+        "CharacterId": 10072,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720240,
+        "Message": {
+          "j_ko": "선생님, 마을 서쪽에 갯벌이 있는 거 알고 있어?",
+          "j_ja": "先生、村の西側に干潟があるらしいぞ",
+          "g_en": "Sensei, did you know that there is a mudflat west of town?",
+          "g_tw": "老師，村子西邊好像有一片泥灘哦",
+          "g_tw_cn": "老师，村子西边好像有一片泥滩哦",
+          "g_ja": "先生、村の西側に干潟があるらしいぞ",
+          "g_ko": "선생님, 마을 서쪽에 갯벌이 있는 거 알고 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720240,
+        "Id": 100720320,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720250,
+        "Message": {
+          "j_ko": "마을 주민들에게 들었는데, 마을의 서쪽 해안은 하루에 두 번씩 물이 빠져서",
+          "j_ja": "住民に聞いたら、1日に2回潮が引いて",
+          "g_en": "According to the locals, the water recedes twice a day at the western shore",
+          "g_tw": "聽居民說，一天會退潮兩次",
+          "g_tw_cn": "听居民说，一天会退潮两次",
+          "g_ja": "住民に聞いたら、1日に2回潮が引いて",
+          "g_ko": "마을 주민들에게 들었는데, 마을의 서쪽 해안은 하루에 두 번씩 물이 빠져서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720240,
+        "Id": 100720330,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720250,
+        "Message": {
+          "j_ko": "갯벌 바닥이 드러난다고 하더라고.",
+          "j_ja": "干潟が現れるんだとか",
+          "g_en": "and exposes a mudflat!",
+          "g_tw": "然後那片泥灘就會出現",
+          "g_tw_cn": "然后那片泥滩就会出现",
+          "g_ja": "干潟が現れるんだとか",
+          "g_ko": "갯벌 바닥이 드러난다고 하더라고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720250,
+        "Id": 100720340,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720260,
+        "Message": {
+          "j_ko": "그거 신기하네",
+          "j_ja": "不思議な現象だね",
+          "g_en": "That's amazing.",
+          "g_tw": "真是不可思議的現象呢",
+          "g_tw_cn": "真是不可思议的现象呢",
+          "g_ja": "不思議な現象だね",
+          "g_ko": "그거 신기하네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720260,
+        "Id": 100720350,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720270,
+        "Message": {
+          "j_ko": "응. 그래서 갯벌이 드러났을 때는 조개나 물웅덩이에 남아 있는 물고기를 편하게 주울 수 있대.",
+          "j_ja": "潮が引くと、貝や魚が簡単に拾えるんだ",
+          "g_en": "All these fish get trapped in the pools that form when the tide is out, and they're easy picking.",
+          "g_tw": "聽說退潮的時候，可以很輕鬆地撿到貝類或魚",
+          "g_tw_cn": "听说退潮的时候，可以很轻松地捡到贝类或鱼",
+          "g_ja": "潮が引くと、貝や魚が簡単に拾えるんだ",
+          "g_ko": "응. 그래서 갯벌이 드러났을 때는 조개나 물웅덩이에 남아 있는 물고기를 편하게 주울 수 있대."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720270,
+        "Id": 100720360,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720280,
+        "Message": {
+          "j_ko": "……사실 지난번에 마을 주민들에게 채취 허가를 받으면서",
+          "j_ja": "……実は、海産物を獲る許可をもらった時に",
+          "g_en": "Last time, when I asked if I could fish off their shore,",
+          "g_tw": "……其實，在取得採集海產的許可時",
+          "g_tw_cn": "……其实，在取得采集海产的许可时",
+          "g_ja": "……実は、海産物を獲る許可をもらった時に",
+          "g_ko": "……사실 지난번에 마을 주민들에게 채취 허가를 받으면서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720270,
+        "Id": 100720370,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720280,
+        "Message": {
+          "j_ko": "갯벌에 들어가도 좋다는 허락도 받았거든.",
+          "j_ja": "干潟にも入っていいと言われてるんだ",
+          "g_en": "they also said I could use the mudflat.",
+          "g_tw": "他們也告訴我可以到泥灘去",
+          "g_tw_cn": "他们也告诉我可以到泥滩去",
+          "g_ja": "干潟にも入っていいと言われてるんだ",
+          "g_ko": "갯벌에 들어가도 좋다는 허락도 받았거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100720280,
+            "Id": 100720380,
+            "CharacterId": 10072,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100720290,
+            "Message": {
+              "j_ko": "그래서 말인데, 시간 있으면 마을 서편의 갯바위 앞으로 나와 줄래?",
+              "j_ja": "それで、時間があるなら一緒に行かないか？",
+              "g_en": "If you have time, can you meet me at the shore on the west of town?",
+              "g_tw": "所以，有空的話要不要一起去？",
+              "g_tw_cn": "所以，有空的话要不要一起去？",
+              "g_ja": "それで、時間があるなら一緒に行かないか？",
+              "g_ko": "그래서 말인데, 시간 있으면 마을 서편의 갯바위 앞으로 나와 줄래?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100720280,
+            "Id": 100720390,
+            "CharacterId": 10072,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100720290,
+            "Message": {
+              "j_ko": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난번 같은 실수를 저지르지는 않겠지……",
+              "j_ja": "水中では失態を見せたが、干潟で落ちてる魚を拾うだけだ。同じ過ちは繰り返さない……",
+              "g_en": "I won't have to actually get into the water this time, so I'm sure I won't repeat any of my old mistakes...",
+              "g_tw": "雖然讓你看到了在水中的失態，不過這次只是在泥灘上撿撿魚而已。不會再犯跟上次同樣的錯誤……",
+              "g_tw_cn": "虽然让你看到了在水中的失态，不过这次只是在泥滩上捡捡鱼而已。不会再犯跟上次同样的错误……",
+              "g_ja": "水中では失態を見せたが、干潟で落ちてる魚を拾うだけだ。同じ過ちは繰り返さない……",
+              "g_ko": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난번 같은 실수를 저지르지는 않겠지……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100720280,
+        "Id": 100720380,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720290,
+        "Message": {
+          "j_ko": "그래서 말인데, 시간 있으면 마을 서편의 갯바위 앞으로 나와 줄래?",
+          "j_ja": "それで、時間があるなら一緒に行かないか？",
+          "g_en": "If you have time, can you meet me at the shore on the west of town?",
+          "g_tw": "所以，有空的話要不要一起去？",
+          "g_tw_cn": "所以，有空的话要不要一起去？",
+          "g_ja": "それで、時間があるなら一緒に行かないか？",
+          "g_ko": "그래서 말인데, 시간 있으면 마을 서편의 갯바위 앞으로 나와 줄래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720280,
+        "Id": 100720390,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720290,
+        "Message": {
+          "j_ko": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난번 같은 실수를 저지르지는 않겠지……",
+          "j_ja": "水中では失態を見せたが、干潟で落ちてる魚を拾うだけだ。同じ過ちは繰り返さない……",
+          "g_en": "I won't have to actually get into the water this time, so I'm sure I won't repeat any of my old mistakes...",
+          "g_tw": "雖然讓你看到了在水中的失態，不過這次只是在泥灘上撿撿魚而已。不會再犯跟上次同樣的錯誤……",
+          "g_tw_cn": "虽然让你看到了在水中的失态，不过这次只是在泥滩上捡捡鱼而已。不会再犯跟上次同样的错误……",
+          "g_ja": "水中では失態を見せたが、干潟で落ちてる魚を拾うだけだ。同じ過ちは繰り返さない……",
+          "g_ko": "물 속이라면 몰라도 땅 위에서 물고기를 줍는데, 지난번 같은 실수를 저지르지는 않겠지……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720290,
+        "Id": 100720400,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100725,
+        "NextGroupId": 100720300,
+        "Message": {
+          "j_ko": "이번에야말로 선생님에게 최고급 해산물을 대접할 테니까!",
+          "j_ja": "今度こそ、先生に最高級の海産物を食べてもらう！",
+          "g_en": "This time, I'm really going to catch something special for you!",
+          "g_tw": "這次絕對要讓老師吃到最高級的海產！",
+          "g_tw_cn": "这次绝对要让老师吃到最高级的海产！",
+          "g_ja": "今度こそ、先生に最高級の海産物を食べてもらう！",
+          "g_ko": "이번에야말로 선생님에게 최고급 해산물을 대접할 테니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1007206,
+    "Data": [
+      {
+        "GroupId": 100720300,
+        "Id": 100720410,
+        "CharacterId": 10072,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720310,
+        "Message": {
+          "j_ko": "결국 선생님에게 진귀한 해산물 요리를 대접하는 건 실패했네.",
+          "j_ja": "結局、先生に美味しい海産物を食べてもらう作戦は失敗したな",
+          "g_en": "In the end, I didn't catch you anything good...",
+          "g_tw": "到頭來，讓老師吃到好吃海產的作戰還是失敗了啊",
+          "g_tw_cn": "到头来，让老师吃到好吃海产的作战还是失败了啊",
+          "g_ja": "結局、先生に美味しい海産物を食べてもらう作戦は失敗したな",
+          "g_ko": "결국 선생님에게 진귀한 해산물 요리를 대접하는 건 실패했네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720310,
+        "Id": 100720420,
+        "CharacterId": 10072,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720320,
+        "Message": {
+          "j_ko": "모처럼 어촌 마을에 왔으니 비싼 물고기를 잡아 평소의 답례를 할 수 있을 거라고 생각했는데……",
+          "j_ja": "高級魚を獲って日頃のお礼ができると思ったんだが……",
+          "g_en": "I thought I'd definitely be able to treat you to a high-class seafood meal...",
+          "g_tw": "本來還打算抓隻高級的魚作為平時的謝禮的說……",
+          "g_tw_cn": "本来还打算抓只高级的鱼作为平时的谢礼的说……",
+          "g_ja": "高級魚を獲って日頃のお礼ができると思ったんだが……",
+          "g_ko": "모처럼 어촌 마을에 왔으니 비싼 물고기를 잡아 평소의 답례를 할 수 있을 거라고 생각했는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720320,
+        "Id": 100720430,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720330,
+        "Message": {
+          "j_ko": "진귀한 해산물 요리라면 충분히 먹었는걸?",
+          "j_ja": "いろいろ食べさせてもらったよ？",
+          "g_en": "I've had plenty of delicious seafood thanks to you!",
+          "g_tw": "我已經吃很多了唷？",
+          "g_tw_cn": "我已经吃很多了唷？",
+          "g_ja": "いろいろ食べさせてもらったよ？",
+          "g_ko": "진귀한 해산물 요리라면 충분히 먹었는걸?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720330,
+        "Id": 100720440,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720340,
+        "Message": {
+          "j_ko": "개불회라든가……?",
+          "j_ja": "海藻スープとか……",
+          "g_en": "I got to try fat innkeeper worm...",
+          "g_tw": "例如海藻湯……",
+          "g_tw_cn": "例如海藻汤……",
+          "g_ja": "海藻スープとか……",
+          "g_ko": "개불회라든가……?"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720330,
+        "Id": 100720450,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720350,
+        "Message": {
+          "j_ko": "해초국이라든가……",
+          "j_ja": "ユムシとか……?",
+          "g_en": "And seaweed soup...",
+          "g_tw": "或是海腸之類的……",
+          "g_tw_cn": "或是海肠之类的……",
+          "g_ja": "ユムシとか……?",
+          "g_ko": "해초국이라든가……"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720340,
+        "Id": 100720460,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720350,
+        "Message": {
+          "j_ko": "확실히 맛은 있긴 했지만……",
+          "j_ja": "たしかに美味しかったけど……",
+          "g_en": "They were good, but...",
+          "g_tw": "雖然是很好吃沒錯……",
+          "g_tw_cn": "虽然是很好吃没错……",
+          "g_ja": "たしかに美味しかったけど……",
+          "g_ko": "확실히 맛은 있긴 했지만……"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720350,
+        "Id": 100720470,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720360,
+        "Message": {
+          "j_ko": "하지만 대부분이 시장에서 구할 수 있는 평범한 해산물이었잖아?",
+          "j_ja": "どれも市場で買える食材だし……",
+          "g_en": "They weren't anything you couldn't get at the market.",
+          "g_tw": "不過那些都是市場就能買到的食材……",
+          "g_tw_cn": "不过那些都是市场就能买到的食材……",
+          "g_ja": "どれも市場で買える食材だし……",
+          "g_ko": "하지만 대부분이 시장에서 구할 수 있는 평범한 해산물이었잖아?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720350,
+        "Id": 100720480,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720360,
+        "Message": {
+          "j_ko": "오히려 선생님이 어울려 준 시간을 생각하면 대단찮은 것뿐이었는데……",
+          "j_ja": "先生には、あれだけ付き合ってもらったのに……",
+          "g_en": "After all the time you wasted with me, you should have gotten something better...",
+          "g_tw": "明明讓老師陪了我這麼久……",
+          "g_tw_cn": "明明让老师陪了我这么久……",
+          "g_ja": "先生には、あれだけ付き合ってもらったのに……",
+          "g_ko": "오히려 선생님이 어울려 준 시간을 생각하면 대단찮은 것뿐이었는데……"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720360,
+        "Id": 100720490,
+        "CharacterId": 10072,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100720370,
+        "Message": {
+          "j_ko": "사키가 노력하는 모습을 지켜보며 먹는 밥이 내게는 최고의 미식이니까",
+          "j_ja": "サキと一緒に食べるご飯が、一番美味しいよ",
+          "g_en": "Saki, knowing how hard you worked made everything taste even better.",
+          "g_tw": "和咲希一起吃的飯是最美味的唷",
+          "g_tw_cn": "和咲希一起吃的饭是最美味的唷",
+          "g_ja": "サキと一緒に食べるご飯が、一番美味しいよ",
+          "g_ko": "사키가 노력하는 모습을 지켜보며 먹는 밥이 내게는 최고의 미식이니까"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720370,
+        "Id": 100720500,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "가끔씩 선생님이 하는 말은",
+          "j_ja": "っ……！",
+          "g_en": "Sometimes you say these things, Sensei...",
+          "g_tw": "……！",
+          "g_tw_cn": "……！",
+          "g_ja": "っ……！",
+          "g_ko": "가끔씩 선생님이 하는 말은"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100720370,
+        "Id": 100720510,
+        "CharacterId": 10072,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100726,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "좋은 말인지 놀리는 건지 분간하기가 어렵단 말이야……",
+          "j_ja": "からかってるのか本心なのか分かりづらいからやめてくれ……",
+          "g_en": "And I can't tell if you're being nice or if you're teasing me...",
+          "g_tw": "搞不清楚你是在捉弄我還是認真的，拜託饒了我吧……",
+          "g_tw_cn": "搞不清楚你是在捉弄我还是认真的，拜托饶了我吧……",
+          "g_ja": "からかってるのか本心なのか分かりづらいからやめてくれ……",
+          "g_ko": "좋은 말인지 놀리는 건지 분간하기가 어렵단 말이야……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

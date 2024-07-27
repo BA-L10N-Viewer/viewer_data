@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（埃は被っていたけど、立派なピアノがあった）",
+      "j_ko": "(그러고 보니 낡긴 했지만… 제법 그럴 듯한 피아노가 있었던가.)",
+      "g_ja": "（埃は被っていたけど、立派なピアノがあった）",
+      "g_ko": "(그러고 보니 낡긴 했지만… 제법 그럴 듯한 피아노가 있었던가.)",
+      "g_en": "(Now that I think of it, there was a piano there...even if it looked quite old.)",
+      "g_th": "(จะว่าไป ถึงอาคารนั้นจะเก่าแก่แล้ว... แต่ก็มีเปียโนสภาพใช้ได้อยู่ด้วย)",
+      "g_tw": "（雖然很老舊……卻有台還挺像樣的鋼琴）",
+      "g_tw_cn": "（虽然很老旧……却有台还挺像样的钢琴）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(그러고 보니 낡긴 했지만… 제법 그럴 듯한 피아노가 있었던가.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ピアノ、ね……私には似合わないかもしれないけど……）",
+      "j_ko": "(피아노라…… 내게는…… 어울리지 않는 물건, 일지도.)",
+      "g_ja": "（ピアノ、ね……私には似合わないかもしれないけど……）",
+      "g_ko": "(피아노라…… 내게는…… 어울리지 않는 물건, 일지도.)",
+      "g_en": "(I don't know if...pianos suit me.)",
+      "g_th": "(เปียโน... อาจจะไม่ใช่สิ่งที่... เหมาะกับฉันก็ได้)",
+      "g_tw": "（鋼琴嗎……或許並不適合我）",
+      "g_tw_cn": "（钢琴吗……或许并不适合我）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(피아노라…… 내게는…… 어울리지 않는 물건, 일지도.)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

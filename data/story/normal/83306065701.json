@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん、それにしても……",
+      "j_ko": "으음…… 그건 그렇고……",
+      "g_ja": "うん、それにしても……",
+      "g_ko": "으음…… 그건 그렇고……",
+      "g_en": "Yeah... And, well...",
+      "g_th": "อืม... ก็จริงอยู่...",
+      "g_tw": "嗯……不過……",
+      "g_tw_cn": "嗯……不过……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;05;으음…… 그건 그렇고……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やっぱり猫……可愛いな……",
+      "j_ko": "역시 고양이…… 귀엽네……",
+      "g_ja": "やっぱり猫……可愛いな……",
+      "g_ko": "역시 고양이…… 귀엽네……",
+      "g_en": "...Cats are cute.",
+      "g_th": "น้องแมว... น่ารักจังเลยนะ...",
+      "g_tw": "貓果然……很可愛……",
+      "g_tw_cn": "猫果然……很可爱……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;00;역시 고양이…… 귀엽네……\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……い、いや！別に何も言ってないから！",
+      "j_ko": "아, 아니, 바, 방금은 헤실헤실 하지 않았으니까!",
+      "g_ja": "……い、いや！別に何も言ってないから！",
+      "g_ko": "아, 아니, 바, 방금은 헤실헤실 하지 않았으니까!",
+      "g_en": "N-Not that I-I'll adopt it or anything!",
+      "g_th": "ปะ... เปล่านะ... เมื่อกี้ฉันไม่ได้ว่าอะไรเลย!",
+      "g_tw": "啊，沒，沒有！我剛剛沒有笑！",
+      "g_tw_cn": "啊，没，没有！我刚刚没有笑！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;08;아, 아니, 바, 방금은 헤실헤실 하지 않았으니까!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

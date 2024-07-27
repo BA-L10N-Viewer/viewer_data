@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "プリンが消えてしまった事実をイブキに知られたら……私はまた嫌われてしまう。",
+      "j_ko": "푸딩이 사라져버린 걸, 이부키가 알게 되면…… 나는 또 이부키에게 미움을.",
+      "g_ja": "プリンが消えてしまった事実をイブキに知られたら……私はまた嫌われてしまう。",
+      "g_ko": "푸딩이 사라져버린 걸, 이부키가 알게 되면…… 나는 또 이부키에게 미움을.",
+      "g_en": "If Ibuki discovers that the puddings are gone... She'll hate me again...",
+      "g_th": "ถ้าอิบูกิรู้ว่าพุดดิ้งหายไปละก็... เราต้องถูกอิบูกิเกลียดอีกแน่ๆ...",
+      "g_tw": "如果伊吹知道布丁不見……我又要被伊吹討厭了。",
+      "g_tw_cn": "如果伊吹知道布丁不见……我又要被伊吹讨厌了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;06;푸딩이 사라져버린 걸, 이부키가 알게 되면…… 나는 또 이부키에게 미움을.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いや……！そのような悲劇は未然に防がなくては！早く事件を解決してこい！空崎ヒナ！",
+      "j_ko": "아니……! 그런 비극만큼은 반드시 막아야만 해! 얼른 사건을 해결하는 거다! 소라사키 히나!",
+      "g_ja": "いや……！そのような悲劇は未然に防がなくては！早く事件を解決してこい！空崎ヒナ！",
+      "g_ko": "아니……! 그런 비극만큼은 반드시 막아야만 해! 얼른 사건을 해결하는 거다! 소라사키 히나!",
+      "g_en": "No...! I refuse to submit to such disaster! Sorasaki Hina—I order you to solve this case with the utmost haste!",
+      "g_th": "ไม่ได้นะ...! จะยอมให้เกิดโศกนาฏกรรมแบบนั้นไม่ได้! เธอต้องไปคลี่คลายสถานการณ์เดี๋ยวนี้เลย! โซระซากิ ฮินะ!",
+      "g_tw": "不行……！必須阻止那樣的悲劇發生！快點去解決事件！空崎陽奈！",
+      "g_tw_cn": "不行……！必须阻止那样的悲剧发生！快点去解决事件！空崎阳奈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3925286920,
+    "DataType": "speaker",
+    "Script": "3;마코토;05;아니……! 그런 비극만큼은 반드시 막아야만 해! 얼른 사건을 해결하는 거다! 소라사키 히나!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

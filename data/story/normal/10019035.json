@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "サンクトゥムの守護者「シロ&クロ」、撃破完了です……！！",
+      "j_ko": "성소의 수호자 <시로&쿠로> 공략 완료했습니다……!!",
+      "g_ja": "サンクトゥムの守護者「シロ&クロ」、撃破完了です……！！",
+      "g_ko": "성소의 수호자 <시로&쿠로> 공략 완료했습니다……!!",
+      "g_en": "The sanctum guardians, Shiro & Kuro, have been defeated!",
+      "g_th": "โจมตีผู้พิทักษ์หอคอย <ชิโระ&คุโระ> สำเร็จแล้วค่ะ......!!",
+      "g_tw": "聖所的守護者「白&黑」攻略完畢……！！",
+      "g_tw_cn": "圣所的守护者「白&黑」攻略完毕……！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1488370305,
+    "DataType": "speaker",
+    "Script": "3;아유무;10;성소의 수호자 <시로&쿠로> 공략 완료했습니다……!!\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "第3サンクトゥムの破壊を確認しました。",
+      "j_ko": "제3 성소의 파괴 확인했습니다.",
+      "g_ja": "第3サンクトゥムの破壊を確認しました。",
+      "g_ko": "제3 성소의 파괴 확인했습니다.",
+      "g_en": "Third Sanctum destroyed!",
+      "g_th": "ทำลายหอคอยแห่งที่ 3 สำเร็จแล้วค่ะ",
+      "g_tw": "已經確認破壞第3聖所了。",
+      "g_tw_cn": "已经确认破坏第3圣所了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1488370305,
+    "DataType": "speaker",
+    "Script": "3;아유무;03;제3 성소의 파괴 확인했습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、お疲れ様でした。先生。",
+      "j_ko": "고, 고생하셨어요. 선생님.",
+      "g_ja": "お、お疲れ様でした。先生。",
+      "g_ko": "고, 고생하셨어요. 선생님.",
+      "g_en": "G-Great work, Sensei.",
+      "g_th": "ขะ...ขอบคุณที่ทำงานอย่างหนักค่ะ คุณครู",
+      "g_tw": "辛，辛苦了。老師。",
+      "g_tw_cn": "辛，辛苦了。老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1488370305,
+    "DataType": "speaker",
+    "Script": "3;아유무;15;고, 고생하셨어요. 선생님.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

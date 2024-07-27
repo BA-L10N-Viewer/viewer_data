@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（セナのおかげで傷も残らず済みそうだし……）",
+      "j_ko": "(세나에게 받은 연고 덕에 상처도 무사히 아물었고……)",
+      "g_ja": "（セナのおかげで傷も残らず済みそうだし……）",
+      "g_ko": "(세나에게 받은 연고 덕에 상처도 무사히 아물었고……)",
+      "g_en": "(I should thank Sena for the ointment she gave me... The wound healed up without leaving a mark.)",
+      "g_th": "(พอทายาที่เซนะให้มา แผลก็หายดีเลย...)",
+      "g_tw": "（多虧瀬奈給的藥膏，傷口才能順利癒合……）",
+      "g_tw_cn": "（多亏瀬奈给的药膏，伤口才能顺利愈合……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(세나에게 받은 연고 덕에 상처도 무사히 아물었고……)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（今度、何かお返しを用意しないと）",
+      "j_ko": "(다음 번엔 보답으로 뭔가 준비하는 게 좋을지 모르겠어.)",
+      "g_ja": "（今度、何かお返しを用意しないと）",
+      "g_ko": "(다음 번엔 보답으로 뭔가 준비하는 게 좋을지 모르겠어.)",
+      "g_en": "(Perhaps there's something I can give her in return.)",
+      "g_th": "(ไว้ต้องหาอะไรไปเป็นของตอบแทนแล้วละ แต่จะให้อะไรดีนะ)",
+      "g_tw": "（下次得準備東西報答他才行）",
+      "g_tw_cn": "（下次得准备东西报答他才行）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;03;(다음 번엔 보답으로 뭔가 준비하는 게 좋을지 모르겠어.)\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

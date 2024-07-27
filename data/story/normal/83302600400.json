@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（美食のためなら何をしでかすか分からない美食研究会……）",
+      "j_ko": "(음식을 위해서라면 어떤 일이든 불사하지 않는 것이 미식연구회……)",
+      "g_ja": "（美食のためなら何をしでかすか分からない美食研究会……）",
+      "g_ko": "(음식을 위해서라면 어떤 일이든 불사하지 않는 것이 미식연구회……)",
+      "g_en": "(She can hardly help the lengths the Gourmet Research Society will go to for food...)",
+      "g_th": "(ถ้าเป็นการทำเพื่อของอร่อยแล้วละก็... ชมรมชิมอาหารทำทุกอย่างได้เสมอ)",
+      "g_tw": "（美食研究會為了美食，什麼事都做得出來……）",
+      "g_tw_cn": "（美食研究会为了美食，什么事都做得出来……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(음식을 위해서라면 어떤 일이든 불사하지 않는 것이 미식연구회……)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（でもまさか、またフウカを連れ去るなんて……）",
+      "j_ko": "(……설마 그 소동 속에서 보란듯이 후우카를 납치할 줄이야.)",
+      "g_ja": "（でもまさか、またフウカを連れ去るなんて……）",
+      "g_ko": "(……설마 그 소동 속에서 보란듯이 후우카를 납치할 줄이야.)",
+      "g_en": "(...That they would abduct Fuuka out in the open in the middle of all this commotion.)",
+      "g_th": "(ไม่คิดเลยว่าจะมาจับตัวฟูกะไปทั้งๆ ที่เดิมทีก็วุ่นวายกันมากอยู่แล้ว)",
+      "g_tw": "（……沒想到風華會在這場騷動中被綁架）",
+      "g_tw_cn": "（……没想到风华会在这场骚动中被绑架）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(……설마 그 소동 속에서 보란듯이 후우카를 납치할 줄이야.)\\n#3;closeup\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（もっと警戒しておかないと）",
+      "j_ko": "(역시 게헨나의 요주의 동아리 중 하나야. 계속 예의 주시해야겠어.)",
+      "g_ja": "（もっと警戒しておかないと）",
+      "g_ko": "(역시 게헨나의 요주의 동아리 중 하나야. 계속 예의 주시해야겠어.)",
+      "g_en": "(I shouldn't expect better of a club on Gehenna's watchlist. I'll make sure we keep tabs on them until this crisis has passed.)",
+      "g_th": "(สมแล้วที่เป็นหนึ่งในชมรมเฝ้าระวังเป็นพิเศษของเกเฮนน่า ต้องจับตาดูไปเรื่อยๆ แล้วละ)",
+      "g_tw": "（果然是格黑娜裡需要關注的社團之一，得一直注意他們才行）",
+      "g_tw_cn": "（果然是格黑娜里需要关注的社团之一，得一直注意他们才行）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(역시 게헨나의 요주의 동아리 중 하나야. 계속 예의 주시해야겠어.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

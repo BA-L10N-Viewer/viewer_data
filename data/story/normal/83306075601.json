@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ……虫は外に行ったが、さっきまで部屋中を走り回っていたと思うと……",
+      "j_ko": "으으…… 그건 그렇고 벌레가 돌아다닌 곳이라고 생각하니. 도저히……",
+      "g_ja": "うぅ……虫は外に行ったが、さっきまで部屋中を走り回っていたと思うと……",
+      "g_ko": "으으…… 그건 그렇고 벌레가 돌아다닌 곳이라고 생각하니. 도저히……",
+      "g_en": "Ugh... It's gone now...but honestly, knowing that there was a bug in this place...",
+      "g_th": "อึก... เรื่องนั้นมันก็ใช่ แต่พอคิดว่าที่นี่มีแมลงอยู่... ฉันก็...",
+      "g_tw": "呃……一想到那邊是蟲子會爬來爬去的地方就……",
+      "g_tw_cn": "呃……一想到那边是虫子会爬来爬去的地方就……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3982313728,
+    "DataType": "speaker",
+    "Script": "4;불량배 A;04;으으…… 그건 그렇고 벌레가 돌아다닌 곳이라고 생각하니. 도저히……\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "気持ち悪くて、この病室でサボろうとは思えないな……",
+      "j_ko": "찝찝해서……  땡땡이…… 못치겠어……",
+      "g_ja": "気持ち悪くて、この病室でサボろうとは思えないな……",
+      "g_ko": "찝찝해서……  땡땡이…… 못치겠어……",
+      "g_en": "I can't...bring myself to fake sick so I can slack off...",
+      "g_th": "รู้สึกไม่สบายตัวขึ้นมา... แบบนี้คง... ไม่กล้าอู้งานแล้ว...",
+      "g_tw": "覺得渾身不對勁……沒辦法在這裡偷懶……",
+      "g_tw_cn": "觉得浑身不对劲……没办法在这里偷懒……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2032102177,
+    "DataType": "speaker",
+    "Script": "2;불량배 B;99;찝찝해서……  땡땡이…… 못치겠어……\\n#2;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

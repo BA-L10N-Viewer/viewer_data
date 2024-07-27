@@ -1,0 +1,759 @@
+[
+  {
+    "BondScenarioId": 1005702,
+    "Data": [
+      {
+        "GroupId": 100570010,
+        "Id": 100570010,
+        "CharacterId": 10057,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570020,
+        "Message": {
+          "j_ko": "안녕하십니까, 선생님.",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Hello, Sensei.",
+          "g_tw": "您好，老師",
+          "g_tw_cn": "您好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "안녕하십니까, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570020,
+        "Id": 100570020,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570030,
+        "Message": {
+          "j_ko": "신년 맞이는 잘 되어 가시는지요.",
+          "j_ja": "新年を迎えるにあたって、いかがお過ごしでしょうか？",
+          "g_en": "Are you ready for the New Year?",
+          "g_tw": "新的一年即將到來，您過得如何呢？",
+          "g_tw_cn": "新的一年即将到来，您过得如何呢？",
+          "g_ja": "新年を迎えるにあたって、いかがお過ごしでしょうか？",
+          "g_ko": "신년 맞이는 잘 되어 가시는지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570030,
+        "Id": 100570030,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570040,
+        "Message": {
+          "j_ko": "하루나는 어때?",
+          "j_ja": "割といつも通りかな。ハルナの方は？",
+          "g_en": "I'm looking forward to it. How about you, Haruna?",
+          "g_tw": "跟平時差不多吧。羽留奈呢？",
+          "g_tw_cn": "跟平时差不多吧。羽留奈呢？",
+          "g_ja": "割といつも通りかな。ハルナの方は？",
+          "g_ko": "하루나는 어때?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570040,
+        "Id": 100570040,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570050,
+        "Message": {
+          "j_ko": "후후.",
+          "j_ja": "ふふっ",
+          "g_en": "Heehee.",
+          "g_tw": "呵呵",
+          "g_tw_cn": "呵呵",
+          "g_ja": "ふふっ",
+          "g_ko": "후후."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570040,
+        "Id": 100570050,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570050,
+        "Message": {
+          "j_ko": "신년에도 미식에 대한 탐구는 계속될 예정…… 이지만.",
+          "j_ja": "私の方も、年末も美食の探究をしていることに変わりはありませんが……",
+          "g_en": "I'm planning to continue my gastronomical quest in the New Year, and...",
+          "g_tw": "我在年末也依然進行著對美食的探究……",
+          "g_tw_cn": "我在年末也依然进行着对美食的探究……",
+          "g_ja": "私の方も、年末も美食の探究をしていることに変わりはありませんが……",
+          "g_ko": "신년에도 미식에 대한 탐구는 계속될 예정…… 이지만."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570040,
+        "Id": 100570060,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570050,
+        "Message": {
+          "j_ko": "시기와 분위기 역시, 미식의 중요한 요소 중 하나이겠지요.",
+          "j_ja": "美食において、季節や雰囲気も重要な要素の一つ",
+          "g_en": "Naturally, timing and atmosphere are also important elements of gastronomy.",
+          "g_tw": "但是對美食來說，季節和氣氛也是重要的要素之一",
+          "g_tw_cn": "但是对美食来说，季节和气氛也是重要的要素之一",
+          "g_ja": "美食において、季節や雰囲気も重要な要素の一つ",
+          "g_ko": "시기와 분위기 역시, 미식의 중요한 요소 중 하나이겠지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570050,
+        "Id": 100570070,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570060,
+        "Message": {
+          "j_ko": "연말연시인 지금",
+          "j_ja": "つまり年末年始という今の時期こそ",
+          "g_en": "This New Year...",
+          "g_tw": "也就是說，年始年末的這個時期",
+          "g_tw_cn": "也就是说，年始年末的这个时期",
+          "g_ja": "つまり年末年始という今の時期こそ",
+          "g_ko": "연말연시인 지금"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570050,
+        "Id": 100570080,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570060,
+        "Message": {
+          "j_ko": "평소에는 느낄 수 없는 미식에 도전할 때입니다.",
+          "j_ja": "普段とは一味違う美食に挑戦する良い機会ですわ",
+          "g_en": "It'll be the time to challenge ourselves with unique, revolutionary gourmet food.",
+          "g_tw": "正是挑戰別具特色美食的好機會",
+          "g_tw_cn": "正是挑战别具特色美食的好机会",
+          "g_ja": "普段とは一味違う美食に挑戦する良い機会ですわ",
+          "g_ko": "평소에는 느낄 수 없는 미식에 도전할 때입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570060,
+        "Id": 100570090,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570070,
+        "Message": {
+          "j_ko": "여전히 어려운 이야기네……",
+          "j_ja": "な、なるほど……",
+          "g_en": "This sounds complicated...",
+          "g_tw": "這，這樣啊……",
+          "g_tw_cn": "这，这样啊……",
+          "g_ja": "な、なるほど……",
+          "g_ko": "여전히 어려운 이야기네……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570070,
+        "Id": 100570100,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570080,
+        "Message": {
+          "j_ko": "그렇게까지 어려운 이야기는 아니랍니다.",
+          "j_ja": "さほど難しく考えることはありませんよ",
+          "g_en": "It only seems that way.",
+          "g_tw": "沒必要想得那麼困難唷",
+          "g_tw_cn": "没必要想得那么困难唷",
+          "g_ja": "さほど難しく考えることはありませんよ",
+          "g_ko": "그렇게까지 어려운 이야기는 아니랍니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570080,
+        "Id": 100570110,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570090,
+        "Message": {
+          "j_ko": "후후후.",
+          "j_ja": "そういうわけで、先生",
+          "g_en": "Heehee.",
+          "g_tw": "基於這個理由，老師",
+          "g_tw_cn": "基于这个理由，老师",
+          "g_ja": "そういうわけで、先生",
+          "g_ko": "후후후."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570080,
+        "Id": 100570120,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570090,
+        "Message": {
+          "j_ko": "그런 이유로, 저와 어울려 주셔야겠습니다.",
+          "j_ja": "少し付き合っていただけませんか？",
+          "g_en": "That's the reason you should hang out with me.",
+          "g_tw": "能請您陪我一下嗎？",
+          "g_tw_cn": "能请您陪我一下吗？",
+          "g_ja": "少し付き合っていただけませんか？",
+          "g_ko": "그런 이유로, 저와 어울려 주셔야겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570090,
+        "Id": 100570130,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100572,
+        "NextGroupId": 100570100,
+        "Message": {
+          "j_ko": "도대체 무슨 이유야?!",
+          "j_ja": "ど、どういうわけで……！？",
+          "g_en": "What's the reason?!",
+          "g_tw": "什，什麼理由……！？",
+          "g_tw_cn": "什，什么理由……！？",
+          "g_ja": "ど、どういうわけで……！？",
+          "g_ko": "도대체 무슨 이유야?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005703,
+    "Data": [
+      {
+        "GroupId": 100570100,
+        "Id": 100570140,
+        "CharacterId": 10057,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570110,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570110,
+        "Id": 100570150,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570120,
+        "Message": {
+          "j_ko": "일의 결과와 과정 중 어느 쪽이 중요하다고 생각하시나요?",
+          "j_ja": "仕事においては結果と過程、どちらが大事だと思いますか？",
+          "g_en": "What do you think is more important? The means or the ends?",
+          "g_tw": "您認為工作的結果與過程哪個比較重要呢？",
+          "g_tw_cn": "您认为工作的结果与过程哪个比较重要呢？",
+          "g_ja": "仕事においては結果と過程、どちらが大事だと思いますか？",
+          "g_ko": "일의 결과와 과정 중 어느 쪽이 중요하다고 생각하시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570120,
+        "Id": 100570160,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570130,
+        "Message": {
+          "j_ko": "어려운 질문이네……",
+          "j_ja": "難しい質問だね……",
+          "g_en": "That's a difficult question...",
+          "g_tw": "真是困難的問題呢……",
+          "g_tw_cn": "真是困难的问题呢……",
+          "g_ja": "難しい質問だね……",
+          "g_ko": "어려운 질문이네……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570120,
+        "Id": 100570170,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570130,
+        "Message": {
+          "j_ko": "하지만 둘 다 중요하지 않을까?",
+          "j_ja": "どっちも大事だと思うけど……",
+          "g_en": "I think both are important?",
+          "g_tw": "雖然我覺得兩個都很重要……",
+          "g_tw_cn": "虽然我觉得两个都很重要……",
+          "g_ja": "どっちも大事だと思うけど……",
+          "g_ko": "하지만 둘 다 중요하지 않을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570130,
+        "Id": 100570180,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570140,
+        "Message": {
+          "j_ko": "역시 그렇군요.",
+          "j_ja": "やはりそうでしたか",
+          "g_en": "I see.",
+          "g_tw": "果然是這樣呢",
+          "g_tw_cn": "果然是这样呢",
+          "g_ja": "やはりそうでしたか",
+          "g_ko": "역시 그렇군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570140,
+        "Id": 100570190,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570150,
+        "Message": {
+          "j_ko": "결과 중심적인 세상이지만, ",
+          "j_ja": "もちろん結果は大切ですわ",
+          "g_en": "The world focuses on results. ",
+          "g_tw": "結果固然重要",
+          "g_tw_cn": "结果固然重要",
+          "g_ja": "もちろん結果は大切ですわ",
+          "g_ko": "결과 중심적인 세상이지만, "
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570140,
+        "Id": 100570200,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570150,
+        "Message": {
+          "j_ko": "그렇다고 과정을 무시할 수는 없다는 고견……",
+          "j_ja": "だからといって、過程に意味がないとは言えない……",
+          "g_en": "But I believe the importance of process shouldn't be brushed aside.",
+          "g_tw": "但是，也不能說過程就沒有意義……",
+          "g_tw_cn": "但是，也不能说过程就没有意义……",
+          "g_ja": "だからといって、過程に意味がないとは言えない……",
+          "g_ko": "그렇다고 과정을 무시할 수는 없다는 고견……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570140,
+        "Id": 100570210,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570150,
+        "Message": {
+          "j_ko": "미식의 길 역시 마찬가지 아닐까 합니다.",
+          "j_ja": "それは美食の道でも同様なのではないかと",
+          "g_en": "I think the same applies along the path of the gourmet.",
+          "g_tw": "我想美食之路或許也是一樣的",
+          "g_tw_cn": "我想美食之路或许也是一样的",
+          "g_ja": "それは美食の道でも同様なのではないかと",
+          "g_ko": "미식의 길 역시 마찬가지 아닐까 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570150,
+        "Id": 100570220,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570160,
+        "Message": {
+          "j_ko": "그런…… 거야?",
+          "j_ja": "そう……かも？",
+          "g_en": "Is that so...?",
+          "g_tw": "是……嗎？",
+          "g_tw_cn": "是……吗？",
+          "g_ja": "そう……かも？",
+          "g_ko": "그런…… 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570160,
+        "Id": 100570230,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570170,
+        "Message": {
+          "j_ko": "후후후.",
+          "j_ja": "うふふっ",
+          "g_en": "Heehee.",
+          "g_tw": "唔呵呵",
+          "g_tw_cn": "唔呵呵",
+          "g_ja": "うふふっ",
+          "g_ko": "후후후."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570160,
+        "Id": 100570240,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570170,
+        "Message": {
+          "j_ko": "오늘 약속은 기대하셔도 좋아요.",
+          "j_ja": "今日はその過程を探究するとしましょう",
+          "g_en": "Today's meeting is gonna be exciting.",
+          "g_tw": "今天就來探究這個過程吧",
+          "g_tw_cn": "今天就来探究这个过程吧",
+          "g_ja": "今日はその過程を探究するとしましょう",
+          "g_ko": "오늘 약속은 기대하셔도 좋아요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570170,
+        "Id": 100570250,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100573,
+        "NextGroupId": 100570180,
+        "Message": {
+          "j_ko": "바로 그 과정을 탐구하는 약속이니까요",
+          "j_ja": "期待してくださって良いですよ",
+          "g_en": "We'll be exploring \"process.\"",
+          "g_tw": "敬請期待唷",
+          "g_tw_cn": "敬请期待唷",
+          "g_ja": "期待してくださって良いですよ",
+          "g_ko": "바로 그 과정을 탐구하는 약속이니까요"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570180,
+        "Id": 100570260,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570190,
+        "Message": {
+          "j_ko": "다음에는 ",
+          "j_ja": "先生、今日はありがとうございました",
+          "g_en": "Next time... ",
+          "g_tw": "老師，今天非常感謝您",
+          "g_tw_cn": "老师，今天非常感谢您",
+          "g_ja": "先生、今日はありがとうございました",
+          "g_ko": "다음에는 "
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570180,
+        "Id": 100570270,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570190,
+        "Message": {
+          "j_ko": "진정으로 최고의 미식을 함께 즐기도록 하죠. 선생님.",
+          "j_ja": "今度こそ、最高の美食を共に楽しむとしましょう",
+          "g_en": "We'll enjoy the best gourmet food together, Sensei.",
+          "g_tw": "下次請務必一同享受最棒的美食吧",
+          "g_tw_cn": "下次请务必一同享受最棒的美食吧",
+          "g_ja": "今度こそ、最高の美食を共に楽しむとしましょう",
+          "g_ko": "진정으로 최고의 미식을 함께 즐기도록 하죠. 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570190,
+        "Id": 100570280,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570200,
+        "Message": {
+          "j_ko": "후후후.",
+          "j_ja": "うふふっ",
+          "g_en": "Heehee.",
+          "g_tw": "唔呵呵",
+          "g_tw_cn": "唔呵呵",
+          "g_ja": "うふふっ",
+          "g_ko": "후후후."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1005705,
+    "Data": [
+      {
+        "GroupId": 100570200,
+        "Id": 100570290,
+        "CharacterId": 10057,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570210,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生",
+          "g_en": "Sensei...",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570200,
+        "Id": 100570300,
+        "CharacterId": 10057,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570210,
+        "Message": {
+          "j_ko": "예전의 약속을 기억하고 계시나요?",
+          "j_ja": "以前の約束、覚えていらっしゃいますか？",
+          "g_en": "Do you remember our promise?",
+          "g_tw": "之前的約定，您還記得嗎？",
+          "g_tw_cn": "之前的约定，您还记得吗？",
+          "g_ja": "以前の約束、覚えていらっしゃいますか？",
+          "g_ko": "예전의 약속을 기억하고 계시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570210,
+        "Id": 100570310,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570240,
+        "Message": {
+          "j_ko": "기억하고 있어. 최고의 미식을 즐기자는 약속이었지?",
+          "j_ja": "覚えてるよ。最高の美食を楽しむんだよね",
+          "g_en": "I do. It was to enjoy the best gourmet food possible, right?",
+          "g_tw": "記得唷。是要享受最棒的美食對吧",
+          "g_tw_cn": "记得唷。是要享受最棒的美食对吧",
+          "g_ja": "覚えてるよ。最高の美食を楽しむんだよね",
+          "g_ko": "기억하고 있어. 최고의 미식을 즐기자는 약속이었지?"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570210,
+        "Id": 100570320,
+        "CharacterId": 10057,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570220,
+        "Message": {
+          "j_ko": "기억하고 있어. 꽃게잡이를 가자는 약속이었지?",
+          "j_ja": "もちろん、ワタリガニ漁に行く約束だよね？",
+          "g_en": "I remember. We said we were gonna catch crabs, right?",
+          "g_tw": "當然，是要一起去捕梭子蟹對吧？",
+          "g_tw_cn": "当然，是要一起去捕梭子蟹对吧？",
+          "g_ja": "もちろん、ワタリガニ漁に行く約束だよね？",
+          "g_ko": "기억하고 있어. 꽃게잡이를 가자는 약속이었지?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570220,
+        "Id": 100570330,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570230,
+        "Message": {
+          "j_ko": "……?",
+          "j_ja": "……？",
+          "g_en": "...?",
+          "g_tw": "……？",
+          "g_tw_cn": "……？",
+          "g_ja": "……？",
+          "g_ko": "……?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570230,
+        "Id": 100570340,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570240,
+        "Message": {
+          "j_ko": "무슨 말씀인지 모르겠습니다만",
+          "j_ja": "どなたと勘違いされているのか分かりませんが……",
+          "g_en": "What are you saying?",
+          "g_tw": "雖然不知道您把我和誰搞錯了……",
+          "g_tw_cn": "虽然不知道您把我和谁搞错了……",
+          "g_ja": "どなたと勘違いされているのか分かりませんが……",
+          "g_ko": "무슨 말씀인지 모르겠습니다만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570230,
+        "Id": 100570350,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570240,
+        "Message": {
+          "j_ko": "최고의 미식을 함께 즐기자고 말씀드렸었죠.",
+          "j_ja": "最高の美食を、という件ですわ。まあ、カニも良いのですが……。",
+          "g_en": "I said we should enjoy the best gourmet food.",
+          "g_tw": "是要享受最棒美食的約定。不過捕螃蟹似乎也不錯……",
+          "g_tw_cn": "是要享受最棒美食的约定。不过捕螃蟹似乎也不错……",
+          "g_ja": "最高の美食を、という件ですわ。まあ、カニも良いのですが……。",
+          "g_ko": "최고의 미식을 함께 즐기자고 말씀드렸었죠."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100570240,
+            "Id": 100570360,
+            "CharacterId": 10057,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100570250,
+            "Message": {
+              "j_ko": "그러면, 오늘 잠시 시간을 내어 주실 수 있을까요?",
+              "j_ja": "当日の連絡になってしまいましたが、後ほどお時間頂けますか？",
+              "g_en": "Do you think you could come see me today?",
+              "g_tw": "雖然當天才連絡您，稍後能占用您一點時間嗎？",
+              "g_tw_cn": "虽然当天才连络您，稍后能占用您一点时间吗？",
+              "g_ja": "当日の連絡になってしまいましたが、後ほどお時間頂けますか？",
+              "g_ko": "그러면, 오늘 잠시 시간을 내어 주실 수 있을까요?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100570240,
+            "Id": 100570370,
+            "CharacterId": 10057,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 100575,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "기다리겠습니다.",
+              "j_ja": "そうですわね、時間と場所は……",
+              "g_en": "I'll be waiting for you.",
+              "g_tw": "那麼，時間和地點是……",
+              "g_tw_cn": "那么，时间和地点是……",
+              "g_ja": "そうですわね、時間と場所は……",
+              "g_ko": "기다리겠습니다."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100570240,
+        "Id": 100570360,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100570250,
+        "Message": {
+          "j_ko": "그러면, 오늘 잠시 시간을 내어 주실 수 있을까요?",
+          "j_ja": "当日の連絡になってしまいましたが、後ほどお時間頂けますか？",
+          "g_en": "Do you think you could come see me today?",
+          "g_tw": "雖然當天才連絡您，稍後能占用您一點時間嗎？",
+          "g_tw_cn": "虽然当天才连络您，稍后能占用您一点时间吗？",
+          "g_ja": "当日の連絡になってしまいましたが、後ほどお時間頂けますか？",
+          "g_ko": "그러면, 오늘 잠시 시간을 내어 주실 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100570240,
+        "Id": 100570370,
+        "CharacterId": 10057,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100575,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "기다리겠습니다.",
+          "j_ja": "そうですわね、時間と場所は……",
+          "g_en": "I'll be waiting for you.",
+          "g_tw": "那麼，時間和地點是……",
+          "g_tw_cn": "那么，时间和地点是……",
+          "g_ja": "そうですわね、時間と場所は……",
+          "g_ko": "기다리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

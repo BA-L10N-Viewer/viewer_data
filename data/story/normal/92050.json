@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第5話</span><br/><span class=\"scenario-cmd-title\">それぞれの物語（２）</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제5화</span><br/><span class=\"scenario-cmd-title\">각자의 이야기들 2</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第5話</span><br/><span class=\"scenario-cmd-title\">それぞれの物語（２）</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제5화</span><br/><span class=\"scenario-cmd-title\">각자의 이야기들 2</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 5</span><br/><span class=\"scenario-cmd-title\">Everyone Has a Story 2</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 5</span><br/><span class=\"scenario-cmd-title\">เรื่องเล่าของแต่ละคน 2</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第5話</span><br/><span class=\"scenario-cmd-title\">各自的故事（２）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第5话</span><br/><span class=\"scenario-cmd-title\">各自的故事（２）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제5화;각자의 이야기들 2",
+    "BGMId": 27,
+    "Sound": "",
+    "BGName": 719512360,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "カイザーコンストラクション……カイザーコーポレーションの系列ですか……！？",
+      "j_ko": "카이저 컨스트럭션……? 카이저 그룹이요……?!",
+      "g_ja": "カイザーコンストラクション……カイザーコーポレーションの系列ですか……！？",
+      "g_ko": "카이저 컨스트럭션……? 카이저 그룹이요……?!",
+      "g_en": "Kaiser Construction? You mean the Kaiser Corporation?!",
+      "g_th": "ไคเซอร์ คอนสตรัคชั่น...? อยู่ในไคเซอร์กรุ๊ปเหรอคะ...?!   !",
+      "g_tw": "凱薩建設……是凱薩公司旗下的企業嗎……！？",
+      "g_tw_cn": "凯萨建设……是凯萨公司旗下的企业吗……！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3545855058,
+    "DataType": "speaker",
+    "Script": "3;노노미;04;카이저 컨스트럭션……? 카이저 그룹이요……?!\\n#3;a\\n#3;shake\\n#3;em;[?!]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "アビドスの自治区を、カイザーコーポレーションが所有している……！？",
+      "j_ko": "아비도스 자치구가 카이저의 소유라고요?!",
+      "g_ja": "アビドスの自治区を、カイザーコーポレーションが所有している……！？",
+      "g_ko": "아비도스 자치구가 카이저의 소유라고요?!",
+      "g_en": "The Abydos district belongs to Kaiser?!",
+      "g_th": "เขตปกครองตนเองอะบิดอสเป็นของไคเซอร์งั้นเหรอคะ?!!",
+      "g_tw": "阿拜多斯自治區屬於凱薩公司……！？",
+      "g_tw_cn": "阿拜多斯自治区属于凯萨公司……！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3545855058,
+    "DataType": "speaker",
+    "Script": "3;노노미;18;아비도스 자치구가 카이저의 소유라고요?!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……柴関ラーメンも？",
+      "j_ko": "그럼 시바세키 라멘집도……?",
+      "g_ja": "……柴関ラーメンも？",
+      "g_ko": "그럼 시바세키 라멘집도……?",
+      "g_en": "Does that include the Shiba Seki ramen shop?",
+      "g_th": "งั้นร้านชิบะเซกิ ราเม็งก็...?",
+      "g_tw": "連柴關拉麵也是……？",
+      "g_tw_cn": "连柴关拉面也是……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 532452930,
+    "DataType": "speaker",
+    "Script": "1;시로코;06;그럼 시바세키 라멘집도……?\\n#1;a\\n#3;m5\\n#1;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">アビドス砂漠へ（１）</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">아비도스 사막으로 1</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">アビドス砂漠へ（１）</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">아비도스 사막으로 1</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\">Into the Abydos Desert Part 1</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">มุ่งสู่ทะเลทรายอะบิดอส 1</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\">前往阿拜多斯沙漠（１）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\">前往阿拜多斯沙漠（１）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;아비도스 사막으로 1",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3254559687,
+    "ShowTextColor": "black"
+  }
+]

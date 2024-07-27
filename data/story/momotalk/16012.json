@@ -1,0 +1,551 @@
+[
+  {
+    "BondScenarioId": 1601202,
+    "Data": [
+      {
+        "GroupId": 160120010,
+        "Id": 160120010,
+        "CharacterId": 16012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120020,
+        "Message": {
+          "j_ko": "선생님, 오늘 바빠?",
+          "j_ja": "先生、今日って忙しい？",
+          "g_en": "Hey Sensei! Are you busy today?",
+          "g_tw": "老師，你今天忙嗎？",
+          "g_tw_cn": "老师，你今天忙吗？",
+          "g_ja": "先生、今日って忙しい？",
+          "g_ko": "선생님, 오늘 바빠?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120020,
+        "Id": 160120020,
+        "CharacterId": 16012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120030,
+        "Message": {
+          "j_ko": "너무 바쁘지 않다면 내가 아르바이트하는 곳에 와 볼래?",
+          "j_ja": "もし時間があったら、私のバイト先に来てくれない？",
+          "g_en": "If not, come stop by my work!",
+          "g_tw": "有時間的話，要不要來我打工的地方一趟？",
+          "g_tw_cn": "有时间的话，要不要来我打工的地方一趟？",
+          "g_ja": "もし時間があったら、私のバイト先に来てくれない？",
+          "g_ko": "너무 바쁘지 않다면 내가 아르바이트하는 곳에 와 볼래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120030,
+        "Id": 160120030,
+        "CharacterId": 16012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120040,
+        "Message": {
+          "j_ko": "어디였더라…… <르와조 블뢰>였던가?",
+          "j_ja": "確か……「ルワゾー・ブッレ」、だったっけ？",
+          "g_en": "Oh, where was that again? L'Oiseau Bleu?",
+          "g_tw": "我記得……是「L'Oiseau Bleu」嗎？",
+          "g_tw_cn": "我记得……是「L'Oiseau Bleu」吗？",
+          "g_ja": "確か……「ルワゾー・ブッレ」、だったっけ？",
+          "g_ko": "어디였더라…… <르와조 블뢰>였던가?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120040,
+        "Id": 160120040,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120050,
+        "Message": {
+          "j_ko": "맞아. 잘 기억하고 있네.",
+          "j_ja": "そうそう。っていうか、よく覚えてたわね",
+          "g_en": "Yep, that's right!",
+          "g_tw": "沒錯沒錯。話說，虧你還記得呢",
+          "g_tw_cn": "没错没错。话说，亏你还记得呢",
+          "g_ja": "そうそう。っていうか、よく覚えてたわね",
+          "g_ko": "맞아. 잘 기억하고 있네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120040,
+        "Id": 160120050,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120050,
+        "Message": {
+          "j_ko": "조금, 보여 주고 싶은 게 생겼거든.",
+          "j_ja": "ちょっと先生に見せたいものがあるの",
+          "g_en": "I wanna show you something.",
+          "g_tw": "有個東西想讓老師看看",
+          "g_tw_cn": "有个东西想让老师看看",
+          "g_ja": "ちょっと先生に見せたいものがあるの",
+          "g_ko": "조금, 보여 주고 싶은 게 생겼거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120050,
+        "Id": 160120060,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 160122,
+        "NextGroupId": 160120060,
+        "Message": {
+          "j_ko": "기다리고 있을 테니까!",
+          "j_ja": "待ってるから、ちゃんと来てね！",
+          "g_en": "I'll be waiting!",
+          "g_tw": "我等你，一定要來哦！",
+          "g_tw_cn": "我等你，一定要来哦！",
+          "g_ja": "待ってるから、ちゃんと来てね！",
+          "g_ko": "기다리고 있을 테니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1601203,
+    "Data": [
+      {
+        "GroupId": 160120060,
+        "Id": 160120070,
+        "CharacterId": 16012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120070,
+        "Message": {
+          "j_ko": "선생님, 선생님!",
+          "j_ja": "先生、先生！",
+          "g_en": "Sensei, Sensei!",
+          "g_tw": "老師，老師！",
+          "g_tw_cn": "老师，老师！",
+          "g_ja": "先生、先生！",
+          "g_ko": "선생님, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120060,
+        "Id": 160120080,
+        "CharacterId": 16012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120070,
+        "Message": {
+          "j_ko": "아르바이트비를 받았어!",
+          "j_ja": "バイト代が入ったの！",
+          "g_en": "I got my paycheck!",
+          "g_tw": "我收到打工的薪水了！",
+          "g_tw_cn": "我收到打工的薪水了！",
+          "g_ja": "バイト代が入ったの！",
+          "g_ko": "아르바이트비를 받았어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120070,
+        "Id": 160120090,
+        "CharacterId": 16012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120080,
+        "Message": {
+          "j_ko": "축하해. 준코가 노력한 대가야.",
+          "j_ja": "ジュンコが頑張ったからだね",
+          "g_en": "Congrats! You deserve it.",
+          "g_tw": "因為淳子很努力呀",
+          "g_tw_cn": "因为淳子很努力呀",
+          "g_ja": "ジュンコが頑張ったからだね",
+          "g_ko": "축하해. 준코가 노력한 대가야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120080,
+        "Id": 160120100,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120090,
+        "Message": {
+          "j_ko": "그래서 말인데",
+          "j_ja": "まぁね！というわけで……",
+          "g_en": "So, now...",
+          "g_tw": "也對！所以說……",
+          "g_tw_cn": "也对！所以说……",
+          "g_ja": "まぁね！というわけで……",
+          "g_ko": "그래서 말인데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120080,
+        "Id": 160120110,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120090,
+        "Message": {
+          "j_ko": "되갚아 줄 거야!",
+          "j_ja": "お返しの時間よ！",
+          "g_en": "It's time to get even!",
+          "g_tw": "現在是回禮時間唷！",
+          "g_tw_cn": "现在是回礼时间唷！",
+          "g_ja": "お返しの時間よ！",
+          "g_ko": "되갚아 줄 거야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120090,
+        "Id": 160120120,
+        "CharacterId": 16012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120100,
+        "Message": {
+          "j_ko": "……그건 또 무슨 소리야?",
+          "j_ja": "……どういうこと？",
+          "g_en": "...What do you mean by that, exactly?",
+          "g_tw": "……什麼意思？",
+          "g_tw_cn": "……什么意思？",
+          "g_ja": "……どういうこと？",
+          "g_ko": "……그건 또 무슨 소리야?"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120090,
+        "Id": 160120130,
+        "CharacterId": 16012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120110,
+        "Message": {
+          "j_ko": "목숨만은 살려주세요!",
+          "j_ja": "ど、どうか命だけは……",
+          "g_en": "Please don't hurt me...",
+          "g_tw": "請，請留小的一命……",
+          "g_tw_cn": "请，请留小的一命……",
+          "g_ja": "ど、どうか命だけは……",
+          "g_ko": "목숨만은 살려주세요!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120100,
+        "Id": 160120140,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120120,
+        "Message": {
+          "j_ko": "후훗. 두고 보라고.",
+          "j_ja": "ふふっ、見てなさい",
+          "g_en": "Heehee, you'll see!",
+          "g_tw": "呵呵，等著看吧",
+          "g_tw_cn": "呵呵，等着看吧",
+          "g_ja": "ふふっ、見てなさい",
+          "g_ko": "후훗. 두고 보라고."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120110,
+        "Id": 160120150,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120120,
+        "Message": {
+          "j_ko": "이상한 짓 하려는 거 아니거든?!",
+          "j_ja": "物騒なこと言わないで！",
+          "g_en": "But it's not gonna be weird or anything.",
+          "g_tw": "別說那種奇怪的話！",
+          "g_tw_cn": "别说那种奇怪的话！",
+          "g_ja": "物騒なこと言わないで！",
+          "g_ko": "이상한 짓 하려는 거 아니거든?!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120120,
+        "Id": 160120160,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120130,
+        "Message": {
+          "j_ko": "내가 뭘 하려는지 궁금하다면",
+          "j_ja": "とにかく",
+          "g_en": "You're curious though, right?",
+          "g_tw": "總之",
+          "g_tw_cn": "总之",
+          "g_ja": "とにかく",
+          "g_ko": "내가 뭘 하려는지 궁금하다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 160120130,
+            "Id": 160120170,
+            "CharacterId": 16012,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 160120140,
+            "Message": {
+              "j_ko": "오늘 저녁 시간에 맞춰 축제 거리로 찾아와.",
+              "j_ja": "夕方になったら、お祭り通りに来て",
+              "g_en": "So come to the festival street this evening.",
+              "g_tw": "傍晚來慶典大街一趟吧",
+              "g_tw_cn": "傍晚来庆典大街一趟吧",
+              "g_ja": "夕方になったら、お祭り通りに来て",
+              "g_ko": "오늘 저녁 시간에 맞춰 축제 거리로 찾아와."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 160120130,
+        "Id": 160120170,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120140,
+        "Message": {
+          "j_ko": "오늘 저녁 시간에 맞춰 축제 거리로 찾아와.",
+          "j_ja": "夕方になったら、お祭り通りに来て",
+          "g_en": "So come to the festival street this evening.",
+          "g_tw": "傍晚來慶典大街一趟吧",
+          "g_tw_cn": "傍晚来庆典大街一趟吧",
+          "g_ja": "夕方になったら、お祭り通りに来て",
+          "g_ko": "오늘 저녁 시간에 맞춰 축제 거리로 찾아와."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120140,
+        "Id": 160120180,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 160123,
+        "NextGroupId": 160120150,
+        "Message": {
+          "j_ko": "꼭이야!",
+          "j_ja": "絶対よ！",
+          "g_en": "Promise me!",
+          "g_tw": "一定要唷！",
+          "g_tw_cn": "一定要唷！",
+          "g_ja": "絶対よ！",
+          "g_ko": "꼭이야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1601205,
+    "Data": [
+      {
+        "GroupId": 160120150,
+        "Id": 160120190,
+        "CharacterId": 16012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120160,
+        "Message": {
+          "j_ko": "연휴가",
+          "j_ja": "連休が",
+          "g_en": "The holiday...",
+          "g_tw": "連假",
+          "g_tw_cn": "连假",
+          "g_ja": "連休が",
+          "g_ko": "연휴가"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120160,
+        "Id": 160120200,
+        "CharacterId": 16012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120170,
+        "Message": {
+          "j_ko": "끝났어",
+          "j_ja": "終わった",
+          "g_en": "The holiday is over.",
+          "g_tw": "結束了",
+          "g_tw_cn": "结束了",
+          "g_ja": "終わった",
+          "g_ko": "끝났어"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120170,
+        "Id": 160120210,
+        "CharacterId": 16012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120180,
+        "Message": {
+          "j_ko": "끝나버렸어",
+          "j_ja": "終わっちゃった……",
+          "g_en": "It's all over.",
+          "g_tw": "都結束了……",
+          "g_tw_cn": "都结束了……",
+          "g_ja": "終わっちゃった……",
+          "g_ko": "끝나버렸어"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120180,
+        "Id": 160120220,
+        "CharacterId": 16012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120190,
+        "Message": {
+          "j_ko": "진정해 준코. 연휴는 일단 내일까지야.",
+          "j_ja": "お、落ち着いて、ジュンコ。連休は一応明日までだよ",
+          "g_en": "Junko, calm down. You've got one more day.",
+          "g_tw": "冷，冷靜點，淳子。連假明天才結束唷",
+          "g_tw_cn": "冷，冷静点，淳子。连假明天才结束唷",
+          "g_ja": "お、落ち着いて、ジュンコ。連休は一応明日までだよ",
+          "g_ko": "진정해 준코. 연휴는 일단 내일까지야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120190,
+        "Id": 160120230,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120200,
+        "Message": {
+          "j_ko": "그 정도는 알아!",
+          "j_ja": "知ってるわよ！",
+          "g_en": "I know!",
+          "g_tw": "我知道啦！",
+          "g_tw_cn": "我知道啦！",
+          "g_ja": "知ってるわよ！",
+          "g_ko": "그 정도는 알아!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120200,
+        "Id": 160120240,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120210,
+        "Message": {
+          "j_ko": "하지만 내 마음속에서 연휴는 이미 죽었어! 더는 없어!",
+          "j_ja": "でも私の心の中での連休は死んだ！もういない！",
+          "g_en": "But in my soul, it's gone... vanished...",
+          "g_tw": "但是我心中的連假已經死了！已經不在了！",
+          "g_tw_cn": "但是我心中的连假已经死了！已经不在了！",
+          "g_ja": "でも私の心の中での連休は死んだ！もういない！",
+          "g_ko": "하지만 내 마음속에서 연휴는 이미 죽었어! 더는 없어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 160120200,
+        "Id": 160120250,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 160120210,
+        "Message": {
+          "j_ko": "내 등에, 이 가슴에, 하나가 되어 함께 살아가지도 않아!",
+          "j_ja": "私の背中にもこの胸にも、一つになって生き続けてくれない！",
+          "g_en": "What's the point when I don't feel the holiday spirit anymore?",
+          "g_tw": "沒有在我的背上或胸膛和我一起活下去！",
+          "g_tw_cn": "没有在我的背上或胸膛和我一起活下去！",
+          "g_ja": "私の背中にもこの胸にも、一つになって生き続けてくれない！",
+          "g_ko": "내 등에, 이 가슴에, 하나가 되어 함께 살아가지도 않아!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 160120210,
+            "Id": 160120260,
+            "CharacterId": 16012,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 160125,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "남은 연휴를 이대로 보낼 순 없다고!",
+              "j_ja": "でもだからって、このまま終わらせるわけにはいかないの！",
+              "g_en": "My precious holiday can't disappear like this!",
+              "g_tw": "不過儘管如此，也不能就這麼結束！",
+              "g_tw_cn": "不过尽管如此，也不能就这么结束！",
+              "g_ja": "でもだからって、このまま終わらせるわけにはいかないの！",
+              "g_ko": "남은 연휴를 이대로 보낼 순 없다고!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 160120210,
+        "Id": 160120260,
+        "CharacterId": 16012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 160125,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "남은 연휴를 이대로 보낼 순 없다고!",
+          "j_ja": "でもだからって、このまま終わらせるわけにはいかないの！",
+          "g_en": "My precious holiday can't disappear like this!",
+          "g_tw": "不過儘管如此，也不能就這麼結束！",
+          "g_tw_cn": "不过尽管如此，也不能就这么结束！",
+          "g_ja": "でもだからって、このまま終わらせるわけにはいかないの！",
+          "g_ko": "남은 연휴를 이대로 보낼 순 없다고!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

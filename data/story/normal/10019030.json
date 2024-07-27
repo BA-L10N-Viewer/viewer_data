@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だ……第3サンクトゥムの攻略準備､完了……！",
+      "j_ko": "제…… 3 성소 공략 준비 완료……!",
+      "g_ja": "だ……第3サンクトゥムの攻略準備､完了……！",
+      "g_ko": "제…… 3 성소 공략 준비 완료……!",
+      "g_en": "Preparations to assault the third sanctum are complete!",
+      "g_th": "เตรียมพร้อมโจมตีหอคอยแห่งที่ 3... เรียบร้อย...!",
+      "g_tw": "第……第3聖所攻略準備完畢……！",
+      "g_tw_cn": "第……第3圣所攻略准备完毕……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3353674757,
+    "DataType": "speaker",
+    "Script": "3;유즈;99;제…… 3 성소 공략 준비 완료……!\\n#3;sig\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SE_Radio_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "守護者への攻撃……いつでも始められます……！",
+      "j_ko": "지금부터 수호자 공략…… 가능해요……!",
+      "g_ja": "守護者への攻撃……いつでも始められます……！",
+      "g_ko": "지금부터 수호자 공략…… 가능해요……!",
+      "g_en": "We can tackle the guardian now!",
+      "g_th": "ตั้งแต่นี้... เริ่มโจมตีผู้พิทักษ์ได้แล้วค่ะ...!",
+      "g_tw": "隨時可以……攻擊守護者……！",
+      "g_tw_cn": "随时可以……攻击守护者……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3353674757,
+    "DataType": "speaker",
+    "Script": "3;유즈;05;지금부터 수호자 공략…… 가능해요……!\\n#3;sig\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、今から「守護者」との戦闘を開始する。",
+      "j_ko": "그럼 지금부터 <수호자>와의 전투를 시작한다.",
+      "g_ja": "では、今から「守護者」との戦闘を開始する。",
+      "g_ko": "그럼 지금부터 <수호자>와의 전투를 시작한다.",
+      "g_en": "Initiating combat with the guardian.",
+      "g_th": "ถ้างั้นจะเริ่มต่อสู้กับ <ผู้พิทักษ์> แล้วนะ",
+      "g_tw": "那麼，現在開始進行和「守護者」的戰鬥。",
+      "g_tw_cn": "那么，现在开始进行和「守护者」的战斗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "#na;히나;그럼 지금부터 <수호자>와의 전투를 시작한다.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい！レイドバトルを始めます！",
+      "j_ko": "네! 레이드 시작입니다!",
+      "g_ja": "はい！レイドバトルを始めます！",
+      "g_ko": "네! 레이드 시작입니다!",
+      "g_en": "Yes! The raid is starting!",
+      "g_th": "ค่ะ! การตีบอสเริ่มแล้วค่ะ!",
+      "g_tw": "是！副本戰鬥開始！",
+      "g_tw_cn": "是！副本战斗开始！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3797093869,
+    "DataType": "speaker",
+    "Script": "#na;아리스;네! 레이드 시작입니다!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "#A-03",
+      "j_ko": "100",
+      "g_ja": "",
+      "g_ko": "100",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-948,432];smooth;100;#A-03\\n#all;hide",
+    "BGMId": 999,
+    "Sound": "SE_REC_02",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "そういえばあのお菓子、そろそろ無くなっちゃいそうだったような……。",
+      "j_ko": "(그러고 보면 항상 영업을 위해 민트초코 디저트들을 사 두는데, 금세 다 없어진단 말이야.)",
+      "g_ja": "",
+      "g_ko": "(그러고 보면 항상 영업을 위해 민트초코 디저트들을 사 두는데, 금세 다 없어진단 말이야.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;99;(그러고 보면 항상 영업을 위해 민트초코 디저트들을 사 두는데, 금세 다 없어진단 말이야.)",
+    "BGMId": 210,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "もしかして、ついにみんなもチョコミントが好きに！？<br/>このまま行けば、きっと……！！",
+      "j_ko": "(설마 내 영업이 효과가 있었던 걸까……!? 어쩌면 이대로 계속 밀고 나가면……!!)",
+      "g_ja": "",
+      "g_ko": "(설마 내 영업이 효과가 있었던 걸까……!? 어쩌면 이대로 계속 밀고 나가면……!!)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2616541480,
+    "DataType": "speaker",
+    "Script": "3;아이리 밴드;02;(설마 내 영업이 효과가 있었던 걸까……!? 어쩌면 이대로 계속 밀고 나가면……!!)\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "あんなに買ってきて、全部自分で食べきるとか……。<br/>ほんとアイリ、チョコミントが好きなのね……。",
+      "j_ko": "본인이 사 온 걸 본인이 다 먹다니…. 정말로 민트초코를 좋아하는구나….",
+      "g_ja": "",
+      "g_ko": "본인이 사 온 걸 본인이 다 먹다니…. 정말로 민트초코를 좋아하는구나….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3626388616,
+    "DataType": "speaker",
+    "Script": "3;요시미 밴드;03;본인이 사 온 걸 본인이 다 먹다니…. 정말로 민트초코를 좋아하는구나….\\n#3;a\\n#3;closeup\\n#3;em;[땀]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

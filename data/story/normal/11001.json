@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんだか、戦闘がいつもよりやりやすかった気がします……。",
+      "j_ko": "어쩐지 전투가 평소보다 훨씬 더 수월한 기분이 듭니다만…….",
+      "g_ja": "なんだか、戦闘がいつもよりやりやすかった気がします……。",
+      "g_ko": "어쩐지 전투가 평소보다 훨씬 더 수월한 기분이 듭니다만…….",
+      "g_en": "That battle was much easier than I expected it to be.",
+      "g_th": "รู้สึกว่าการต่อสู้ครั้งนี้ออกมาราบรื่นกว่าปกติแฮะ...",
+      "g_tw": "總覺得戰鬥起來比平時輕鬆……",
+      "g_tw_cn": "总觉得战斗起来比平时轻松……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "1;스즈미;02;어쩐지 전투가 평소보다 훨씬 더 수월한 기분이 듭니다만…….\\n#1;ar\\n#1;em;[음표]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……やっぱりそうよね？",
+      "j_ko": "……그러게?",
+      "g_ja": "……やっぱりそうよね？",
+      "g_ko": "……그러게?",
+      "g_en": "I know, right?",
+      "g_th": ".... อย่างนั้นเหรอ?",
+      "g_tw": "……果然是那樣吧？",
+      "g_tw_cn": "……果然是那样吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4283125014,
+    "DataType": "speaker",
+    "Script": "5;유우카;02;……그러게?\\n#5;al",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生の指揮のおかげで、普段よりずっと戦いやすかったです。",
+      "j_ko": "선생님의 지휘 덕분입니다. 평상시보다 훨씬 더 원활하게 싸울 수 있었습니다.",
+      "g_ja": "先生の指揮のおかげで、普段よりずっと戦いやすかったです。",
+      "g_ko": "선생님의 지휘 덕분입니다. 평상시보다 훨씬 더 원활하게 싸울 수 있었습니다.",
+      "g_en": "We were able to fight much more efficiently thanks to Sensei's guidance.",
+      "g_th": "เพราะได้คุณครูคอยออกคำสั่งยังไงล่ะคะ เราก็เลยต่อสู้ได้อย่างคล่องแคล่วกว่าปกติมาก",
+      "g_tw": "多虧了老師的指揮，戰鬥起來比平時容易。",
+      "g_tw_cn": "多亏了老师的指挥，战斗起来比平时容易。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3571276574,
+    "DataType": "speaker",
+    "Script": "1;하스미;01;선생님의 지휘 덕분입니다. 평상시보다 훨씬 더 원활하게 싸울 수 있었습니다.\\n#1;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なるほど……これが先生の力……<br/>まあ、連邦生徒会長が選んだ方だから当たり前か……。",
+      "j_ko": "과연……. 이게 선생님의 역량…… <br/>하긴, 총학생회장이 선택한 분이니 당연한 건가…….",
+      "g_ja": "なるほど……これが先生の力……<br/>まあ、連邦生徒会長が選んだ方だから当たり前か……。",
+      "g_ko": "과연……. 이게 선생님의 역량…… <br/>하긴, 총학생회장이 선택한 분이니 당연한 건가…….",
+      "g_en": "This must be why the General Student Council holds Sensei in such high regard. The president must have had her reasons for choosing Sensei.",
+      "g_th": "นี่สินะความสามารถของคนที่จะมาเป็นคุณครู...<br/>แต่ถ้าเป็นคนที่ประธานองค์การนักเรียนเลือกมาแล้วก็คงไม่ใช่เรื่องน่าแปลก...",
+      "g_tw": "原來如此……這就是老師的力量……<br/>嘛，畢竟是聯邦學生會長選擇的人，這也是當然的……",
+      "g_tw_cn": "原来如此……这就是老师的力量……<br/>嘛，毕竟是联邦学生会长选择的人，这也是当然的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4283125014,
+    "DataType": "speaker",
+    "Script": "5;유우카;01;과연……. 이게 선생님의 역량…… #n하긴, 총학생회장이 선택한 분이니 당연한 건가…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それでは次の戦闘もよろしくお願いします、先生。",
+      "j_ko": "그럼 다음 전투도 부탁드립니다, 선생님.",
+      "g_ja": "それでは次の戦闘もよろしくお願いします、先生。",
+      "g_ko": "그럼 다음 전투도 부탁드립니다, 선생님.",
+      "g_en": "I wouldn't mind sharing the battlefield with you again sometime.",
+      "g_th": "ถ้าอย่างนั้นในการต่อสู้ครั้งต่อไปก็ขอรบกวนด้วยนะคะ คุณครู",
+      "g_tw": "那麼接下來的戰鬥也拜託你了，老師。",
+      "g_tw_cn": "那么接下来的战斗也拜托你了，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3571276574,
+    "DataType": "speaker",
+    "Script": "#5;hide\\n1;하스미;02;그럼 다음 전투도 부탁드립니다, 선생님.\\n#1;em;[반짝]\\n#1;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

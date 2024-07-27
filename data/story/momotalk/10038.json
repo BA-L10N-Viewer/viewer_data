@@ -1,0 +1,1191 @@
+[
+  {
+    "BondScenarioId": 1003802,
+    "Data": [
+      {
+        "GroupId": 100380010,
+        "Id": 100380010,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380020,
+        "Message": {
+          "j_ko": "<SYSTEM> 여기는 RABBIT 1. 착륙 허가를 요청합니다.",
+          "j_ja": "こちらRABBIT1、着陸の許可を要請します",
+          "g_en": "<SYSTEM> This is RABBIT 1. Requesting permission to land.",
+          "g_tw": "<SYSTEM>這裡是RABBIT1，請求著陸",
+          "g_tw_cn": "<SYSTEM>这里是RABBIT1，请求着陆",
+          "g_ja": "こちらRABBIT1、着陸の許可を要請します",
+          "g_ko": "<SYSTEM> 여기는 RABBIT 1. 착륙 허가를 요청합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380020,
+        "Id": 100380020,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380030,
+        "Message": {
+          "j_ko": "……미야코? 메일을 잘못 보낸 거 아냐?",
+          "j_ja": "……ミヤコ？メール送り間違えてない？",
+          "g_en": "Miyako? I think you sent that to the wrong person.",
+          "g_tw": "……都子？是不是發錯人了？",
+          "g_tw_cn": "……都子？是不是发错人了？",
+          "g_ja": "……ミヤコ？メール送り間違えてない？",
+          "g_ko": "……미야코? 메일을 잘못 보낸 거 아냐?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380030,
+        "Id": 100380030,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380040,
+        "Message": {
+          "j_ko": "<SYSTEM> 고도 2000 피트까지 하강. 강하 준비 완료했습니다.",
+          "j_ja": "高度2000フィートまで下降、準備完了です",
+          "g_en": "<SYSTEM> Descending to an altitude of 2,000 feet. Ready to descend.",
+          "g_tw": "<SYSTEM>高度下降至2000ft，準備完成",
+          "g_tw_cn": "<SYSTEM>高度下降至2000ft，准备完成",
+          "g_ja": "高度2000フィートまで下降、準備完了です",
+          "g_ko": "<SYSTEM> 고도 2000 피트까지 하강. 강하 준비 완료했습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380040,
+        "Id": 100380040,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380050,
+        "Message": {
+          "j_ko": "……???",
+          "j_ja": "……？？？",
+          "g_en": "...???",
+          "g_tw": "……？？？",
+          "g_tw_cn": "……？？？",
+          "g_ja": "……？？？",
+          "g_ko": "……???"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380050,
+        "Id": 100380050,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380060,
+        "Message": {
+          "j_ko": "<SYSTEM> 목표까지 약 1.5 마일— 곧 돌입합니다.",
+          "j_ja": "目標まで約1.5マイル――まもなく突入します",
+          "g_en": "<SYSTEM> About 1.5 miles to target. Entering soon.",
+          "g_tw": "<SYSTEM>距離目標1.5mi──即將突入",
+          "g_tw_cn": "<SYSTEM>距离目标1.5mi──即将突入",
+          "g_ja": "目標まで約1.5マイル――まもなく突入します",
+          "g_ko": "<SYSTEM> 목표까지 약 1.5 마일— 곧 돌입합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380060,
+        "Id": 100380060,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100382,
+        "NextGroupId": 100380070,
+        "Message": {
+          "j_ko": "……미야코? 어디에 돌입하려는 거야?",
+          "j_ja": "……ミヤコ？どこに突入しようとしてるの？",
+          "g_en": "...Miyako? Are you infiltrating something right now?",
+          "g_tw": "……都子？你打算從哪裡突入？",
+          "g_tw_cn": "……都子？你打算从哪里突入？",
+          "g_ja": "……ミヤコ？どこに突入しようとしてるの？",
+          "g_ko": "……미야코? 어디에 돌입하려는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003803,
+    "Data": [
+      {
+        "GroupId": 100380070,
+        "Id": 100380070,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380080,
+        "Message": {
+          "j_ko": "선생님은 개 파이시나요, 고양이 파이시나요?",
+          "j_ja": "突然ですが、先生は犬派ですか？猫派ですか?",
+          "g_en": "Sensei, are you a dog person or a cat person?",
+          "g_tw": "雖然有點突然，不過老師是狗派還是貓派呢？",
+          "g_tw_cn": "虽然有点突然，不过老师是狗派还是猫派呢？",
+          "g_ja": "突然ですが、先生は犬派ですか？猫派ですか?",
+          "g_ko": "선생님은 개 파이시나요, 고양이 파이시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380080,
+        "Id": 100380080,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380090,
+        "Message": {
+          "j_ko": "나는 개 파야.",
+          "j_ja": "犬派だよ",
+          "g_en": "A dog person.",
+          "g_tw": "是狗派哦",
+          "g_tw_cn": "是狗派哦",
+          "g_ja": "犬派だよ",
+          "g_ko": "나는 개 파야."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380080,
+        "Id": 100380090,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380100,
+        "Message": {
+          "j_ko": "나는 고양이 파야.",
+          "j_ja": "猫派だよ",
+          "g_en": "A cat person.",
+          "g_tw": "是貓派哦",
+          "g_tw_cn": "是猫派哦",
+          "g_ja": "猫派だよ",
+          "g_ko": "나는 고양이 파야."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380090,
+        "Id": 100380100,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380110,
+        "Message": {
+          "j_ko": "그렇네요. 개는 충성스럽고 사람을 잘 따라서 좋아하는 사람이 많지요.",
+          "j_ja": "そうですか。確かに犬は忠誠心があり、人懐っこいということで好きな方が多いですね",
+          "g_en": "I see. Dogs are loyal and obedient, so a lot of people love them.",
+          "g_tw": "這樣啊。確實，狗既忠誠又容易與人親近，所以很多人都喜歡呢",
+          "g_tw_cn": "这样啊。确实，狗既忠诚又容易与人亲近，所以很多人都喜欢呢",
+          "g_ja": "そうですか。確かに犬は忠誠心があり、人懐っこいということで好きな方が多いですね",
+          "g_ko": "그렇네요. 개는 충성스럽고 사람을 잘 따라서 좋아하는 사람이 많지요."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380100,
+        "Id": 100380110,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380110,
+        "Message": {
+          "j_ko": "그렇네요. 고양이는 귀엽고 도도한 매력이 있어서 좋아하는 사람이 많지요.",
+          "j_ja": "そうですか。確かに猫は可愛くてつんとした魅力があって、好きな方が多いですね",
+          "g_en": "I see. Cats are adorable and sassy, so a lot of people love them.",
+          "g_tw": "這樣啊。確實，貓既可愛又有著高傲的魅力，所以很多人都喜歡呢",
+          "g_tw_cn": "这样啊。确实，猫既可爱又有着高傲的魅力，所以很多人都喜欢呢",
+          "g_ja": "そうですか。確かに猫は可愛くてつんとした魅力があって、好きな方が多いですね",
+          "g_ko": "그렇네요. 고양이는 귀엽고 도도한 매력이 있어서 좋아하는 사람이 많지요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380110,
+        "Id": 100380120,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380120,
+        "Message": {
+          "j_ko": "그럼 미야코는 개 파야, 고양이 파야?",
+          "j_ja": "ミヤコは犬派？猫派？",
+          "g_en": "Are you a dog or cat person, Miyako?",
+          "g_tw": "都子是狗派還是貓派呢？",
+          "g_tw_cn": "都子是狗派还是猫派呢？",
+          "g_ja": "ミヤコは犬派？猫派？",
+          "g_ko": "그럼 미야코는 개 파야, 고양이 파야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380120,
+        "Id": 100380130,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380130,
+        "Message": {
+          "j_ko": "글쎄요. 저는……",
+          "j_ja": "そうですね、 私は……",
+          "g_en": "Well, actually... I think...",
+          "g_tw": "這個嘛，我是……",
+          "g_tw_cn": "这个嘛，我是……",
+          "g_ja": "そうですね、 私は……",
+          "g_ko": "글쎄요. 저는……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380120,
+        "Id": 100380140,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100383,
+        "NextGroupId": 100380130,
+        "Message": {
+          "j_ko": "……토끼 파려나요.",
+          "j_ja": "……強いて言えば、ウサギ派でしょうか",
+          "g_en": "I'm a rabbit person.",
+          "g_tw": "……硬要說的話，是兔子派吧",
+          "g_tw_cn": "……硬要说的话，是兔子派吧",
+          "g_ja": "……強いて言えば、ウサギ派でしょうか",
+          "g_ko": "……토끼 파려나요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380130,
+        "Id": 100380150,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380140,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Miyako_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380140,
+        "Id": 100380160,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380150,
+        "Message": {
+          "j_ko": "선생님, 아까 분양 받은 토끼의 사진이에요.",
+          "j_ja": "先生、写真をどうぞ",
+          "g_en": "Sensei, here's a picture of the rabbit we adopted.",
+          "g_tw": "老師，請看照片",
+          "g_tw_cn": "老师，请看照片",
+          "g_ja": "先生、写真をどうぞ",
+          "g_ko": "선생님, 아까 분양 받은 토끼의 사진이에요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380140,
+        "Id": 100380170,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380150,
+        "Message": {
+          "j_ko": "막 먹이를 먹고 잠든 참이랍니다.",
+          "j_ja": "ちょうど餌を食べて寝たところです",
+          "g_en": "This is how she sleeps after eating.",
+          "g_tw": "牠剛吃完飼料正準備要睡覺",
+          "g_tw_cn": "牠刚吃完饲料正准备要睡觉",
+          "g_ja": "ちょうど餌を食べて寝たところです",
+          "g_ko": "막 먹이를 먹고 잠든 참이랍니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380150,
+        "Id": 100380180,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380160,
+        "Message": {
+          "j_ko": "토끼는 정말 귀엽네.",
+          "j_ja": "すごく可愛いね",
+          "g_en": "What a cute rabbit.",
+          "g_tw": "真可愛呢",
+          "g_tw_cn": "真可爱呢",
+          "g_ja": "すごく可愛いね",
+          "g_ko": "토끼는 정말 귀엽네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380160,
+        "Id": 100380190,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380170,
+        "Message": {
+          "j_ko": "그렇죠? 토끼에게는 개나 고양이와는 다른 매력이 있어요.",
+          "j_ja": "ですよね？ウサギには、犬や猫とはまた違った魅力があります",
+          "g_en": "Right? Rabbits have a different charm from dogs or cats.",
+          "g_tw": "對吧？兔子有著和貓狗不同的魅力",
+          "g_tw_cn": "对吧？兔子有着和猫狗不同的魅力",
+          "g_ja": "ですよね？ウサギには、犬や猫とはまた違った魅力があります",
+          "g_ko": "그렇죠? 토끼에게는 개나 고양이와는 다른 매력이 있어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380160,
+        "Id": 100380200,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380170,
+        "Message": {
+          "j_ko": "나중에 깨어나면 새로운 사진을 찍어서 보내 드릴게요.",
+          "j_ja": "後で目覚めたら、また写真を撮って送りますね",
+          "g_en": "I'll take another picture when she wakes up for you.",
+          "g_tw": "等牠醒來之後，再傳照片給老師哦",
+          "g_tw_cn": "等牠醒来之后，再传照片给老师哦",
+          "g_ja": "後で目覚めたら、また写真を撮って送りますね",
+          "g_ko": "나중에 깨어나면 새로운 사진을 찍어서 보내 드릴게요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003805,
+    "Data": [
+      {
+        "GroupId": 100380170,
+        "Id": 100380210,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380180,
+        "Message": {
+          "j_ko": "그러고보니 선생님께 선물 받은 그 토끼의 이름을 아직 정하지 못했네요.",
+          "j_ja": "そういえば先生からプレゼントしていただいた、あのウサギの名前がまだ決まってないんです",
+          "g_en": "By the way, I haven't decided on a name for her yet.",
+          "g_tw": "話說回來，還沒幫老師送給我的兔子取名字呢",
+          "g_tw_cn": "话说回来，还没帮老师送给我的兔子取名字呢",
+          "g_ja": "そういえば先生からプレゼントしていただいた、あのウサギの名前がまだ決まってないんです",
+          "g_ko": "그러고보니 선생님께 선물 받은 그 토끼의 이름을 아직 정하지 못했네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380180,
+        "Id": 100380220,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380190,
+        "Message": {
+          "j_ko": "어떤 이름으로 해야 귀엽고 사랑스럽고 용맹한 이 토끼의 성격을 잘 드러낼 수 있을까요?",
+          "j_ja": "可愛くて愛おしくて勇敢なこのウサギの性格をよく表すような名前、何かないでしょうか？",
+          "g_en": "What kind of name would describe this adorable and brave rabbit?",
+          "g_tw": "有沒有什麼名字可以表現出牠的可愛、惹人憐愛又勇敢的性格呢？",
+          "g_tw_cn": "有没有什么名字可以表现出牠的可爱、惹人怜爱又勇敢的性格呢？",
+          "g_ja": "可愛くて愛おしくて勇敢なこのウサギの性格をよく表すような名前、何かないでしょうか？",
+          "g_ko": "어떤 이름으로 해야 귀엽고 사랑스럽고 용맹한 이 토끼의 성격을 잘 드러낼 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380190,
+        "Id": 100380230,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380200,
+        "Message": {
+          "j_ko": "스탠퍼드 2세.",
+          "j_ja": "スタンフォード2世",
+          "g_en": "Watson the Second.",
+          "g_tw": "史丹佛二世",
+          "g_tw_cn": "史丹佛二世",
+          "g_ja": "スタンフォード2世",
+          "g_ko": "스탠퍼드 2세."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380190,
+        "Id": 100380240,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380210,
+        "Message": {
+          "j_ko": "장어 덮밥.",
+          "j_ja": "うなぎ丼",
+          "g_en": "Eel Rice Bowl.",
+          "g_tw": "鰻魚蓋飯",
+          "g_tw_cn": "鳗鱼盖饭",
+          "g_ja": "うなぎ丼",
+          "g_ko": "장어 덮밥."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380200,
+        "Id": 100380250,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380220,
+        "Message": {
+          "j_ko": "그건 토끼에게 붙이기엔 너무 화려한 이름같아요.",
+          "j_ja": "それはウサギに付けるには派手すぎだと思いますが……",
+          "g_en": "That seems too fancy for a rabbit.",
+          "g_tw": "這個名字對兔子來說好像有點太浮誇了……",
+          "g_tw_cn": "这个名字对兔子来说好像有点太浮夸了……",
+          "g_ja": "それはウサギに付けるには派手すぎだと思いますが……",
+          "g_ko": "그건 토끼에게 붙이기엔 너무 화려한 이름같아요."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380210,
+        "Id": 100380260,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380220,
+        "Message": {
+          "j_ko": "……그건 좀 토끼에게 미안한 이름이 아닐까요.",
+          "j_ja": "……それをウサギに付けるのはどうかと思います",
+          "g_en": "...I don't want someone to eat my rabbit.",
+          "g_tw": "……幫兔子取這個名字不太好吧",
+          "g_tw_cn": "……帮兔子取这个名字不太好吧",
+          "g_ja": "……それをウサギに付けるのはどうかと思います",
+          "g_ko": "……그건 좀 토끼에게 미안한 이름이 아닐까요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380220,
+        "Id": 100380270,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380230,
+        "Message": {
+          "j_ko": "그럼 깡총이는 어때?",
+          "j_ja": "じゃあ「ぴょんこ」はどう？",
+          "g_en": "Do you like Bun Bun?",
+          "g_tw": "那「蹦蹦」怎麼樣呢？",
+          "g_tw_cn": "那「蹦蹦」怎么样呢？",
+          "g_ja": "じゃあ「ぴょんこ」はどう？",
+          "g_ko": "그럼 깡총이는 어때?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380230,
+        "Id": 100380280,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380240,
+        "Message": {
+          "j_ko": "깡총이…… 깡총이…….",
+          "j_ja": "ぴょんこ、ぴょんこ……",
+          "g_en": "Bun Bun...",
+          "g_tw": "蹦蹦，蹦蹦……",
+          "g_tw_cn": "蹦蹦，蹦蹦……",
+          "g_ja": "ぴょんこ、ぴょんこ……",
+          "g_ko": "깡총이…… 깡총이……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380240,
+        "Id": 100380290,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380250,
+        "Message": {
+          "j_ko": "네, 멋진 이름이라고 생각해요.",
+          "j_ja": "はい、素敵な名前だと思います",
+          "g_en": "Yes, I think that's a great name.",
+          "g_tw": "嗯，我覺得是個很棒的名字",
+          "g_tw_cn": "嗯，我觉得是个很棒的名字",
+          "g_ja": "はい、素敵な名前だと思います",
+          "g_ko": "네, 멋진 이름이라고 생각해요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380240,
+        "Id": 100380300,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100385,
+        "NextGroupId": 100380250,
+        "Message": {
+          "j_ko": "그럼 앞으로 이 토끼는 깡총이라고 부르도록 하겠습니다.",
+          "j_ja": "それではこれからこのウサギはぴょんこと呼びます",
+          "g_en": "Yeah, I think it's perfect.",
+          "g_tw": "那麼之後這隻兔子就叫做蹦蹦了",
+          "g_tw_cn": "那么之后这只兔子就叫做蹦蹦了",
+          "g_ja": "それではこれからこのウサギはぴょんこと呼びます",
+          "g_ko": "그럼 앞으로 이 토끼는 깡총이라고 부르도록 하겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003806,
+    "Data": [
+      {
+        "GroupId": 100380250,
+        "Id": 100380310,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380260,
+        "Message": {
+          "j_ko": "<SYSTEM> 여기는 RABBIT 1. 이륙 허가를 요청합니다……",
+          "j_ja": "こちらRABBIT1。離陸の許可を要請します……",
+          "g_en": "<SYSTEM> This is RABBIT 1. Requesting permission to land.",
+          "g_tw": "<SYSTEM>這裡是RABBIT1，請求起飛……",
+          "g_tw_cn": "<SYSTEM>这里是RABBIT1，请求起飞……",
+          "g_ja": "こちらRABBIT1。離陸の許可を要請します……",
+          "g_ko": "<SYSTEM> 여기는 RABBIT 1. 이륙 허가를 요청합니다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380260,
+        "Id": 100380320,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380270,
+        "Message": {
+          "j_ko": "잠깐, 미야코. 스톱! 스톱!",
+          "j_ja": "ミヤコ、ストップ！ストップ！",
+          "g_en": "Miyako! Stop! Stop!",
+          "g_tw": "都子，等等！STOP！",
+          "g_tw_cn": "都子，等等！STOP！",
+          "g_ja": "ミヤコ、ストップ！ストップ！",
+          "g_ko": "잠깐, 미야코. 스톱! 스톱!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380270,
+        "Id": 100380330,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380280,
+        "Message": {
+          "j_ko": "네? 선생님?",
+          "j_ja": "……あれ？先生？",
+          "g_en": "Huh? Sensei?",
+          "g_tw": "……咦？老師？",
+          "g_tw_cn": "……咦？老师？",
+          "g_ja": "……あれ？先生？",
+          "g_ko": "네? 선생님?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380270,
+        "Id": 100380340,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380280,
+        "Message": {
+          "j_ko": "어라, 또 선생님의 메일 주소를 헬리콥터 관제소 주소와 착각했군요. 죄송해요.",
+          "j_ja": "あ。また宛先を間違えていました、すみません",
+          "g_en": "Oh... I mistook your email address for the helicopter control station again. I'm sorry.",
+          "g_tw": "啊。我又搞錯了，不好意思",
+          "g_tw_cn": "啊。我又搞错了，不好意思",
+          "g_ja": "あ。また宛先を間違えていました、すみません",
+          "g_ko": "어라, 또 선생님의 메일 주소를 헬리콥터 관제소 주소와 착각했군요. 죄송해요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380280,
+        "Id": 100380350,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380290,
+        "Message": {
+          "j_ko": "오늘도 강하 작전이 있어?",
+          "j_ja": "今日も降下作戦があるの？",
+          "g_en": "Do you have an operation today?",
+          "g_tw": "今天也有降落作戰嗎？",
+          "g_tw_cn": "今天也有降落作战吗？",
+          "g_ja": "今日も降下作戦があるの？",
+          "g_ko": "오늘도 강하 작전이 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380290,
+        "Id": 100380360,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380300,
+        "Message": {
+          "j_ko": "네, 선생님. 오늘 2200시에 헬기를 사용한 강하 작전이 예정되어 있습니다.",
+          "j_ja": "はい。本日2200に、ヘリを使った降下作戦が予定されています",
+          "g_en": "Yes, Sensei. A helicopter descent operation is scheduled today at 2200 hours.",
+          "g_tw": "是的。今天2200預計將進行直升機的降落作戰",
+          "g_tw_cn": "是的。今天2200预计将进行直升机的降落作战",
+          "g_ja": "はい。本日2200に、ヘリを使った降下作戦が予定されています",
+          "g_ko": "네, 선생님. 오늘 2200시에 헬기를 사용한 강하 작전이 예정되어 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380300,
+        "Id": 100380370,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380310,
+        "Message": {
+          "j_ko": "키보토스에 불법으로 동물들을 들여오는 밀수업자들을 습격하는 임무입니다.",
+          "j_ja": "キヴォトスへ不法に動物たちを輸入している、密輸業者たちを襲撃する任務です",
+          "g_en": "The mission is to raid the smugglers who have been illegally bringing animals into Kivotos.",
+          "g_tw": "是襲擊非法引進動物到奇普托斯的走私業者們的任務",
+          "g_tw_cn": "是袭击非法引进动物到奇普托斯的走私业者们的任务",
+          "g_ja": "キヴォトスへ不法に動物たちを輸入している、密輸業者たちを襲撃する任務です",
+          "g_ko": "키보토스에 불법으로 동물들을 들여오는 밀수업자들을 습격하는 임무입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380310,
+        "Id": 100380380,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380320,
+        "Message": {
+          "j_ko": "이번 강하 작전에는 나도 따라갈게.",
+          "j_ja": "今回の降下作戦には私も付いて行くよ",
+          "g_en": "I'll come.",
+          "g_tw": "這次降落作戰我也會跟著一起去哦",
+          "g_tw_cn": "这次降落作战我也会跟着一起去哦",
+          "g_ja": "今回の降下作戦には私も付いて行くよ",
+          "g_ko": "이번 강하 작전에는 나도 따라갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380320,
+        "Id": 100380390,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380330,
+        "Message": {
+          "j_ko": "네? 선생님도 함께 헬리콥터를 타시겠다고요?",
+          "j_ja": "はい？先生も一緒にヘリに乗られるのですか？",
+          "g_en": "Huh? You wanna come on the helicopter?",
+          "g_tw": "咦？老師也要一起搭直升機嗎？",
+          "g_tw_cn": "咦？老师也要一起搭直升机吗？",
+          "g_ja": "はい？先生も一緒にヘリに乗られるのですか？",
+          "g_ko": "네? 선생님도 함께 헬리콥터를 타시겠다고요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380320,
+        "Id": 100380400,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100386,
+        "NextGroupId": 100380330,
+        "Message": {
+          "j_ko": "위험할텐데…… 괜찮으신가요?",
+          "j_ja": "危ないと思いますが……大丈夫ですか？",
+          "g_en": "It'll be dangerous though... Are you sure?",
+          "g_tw": "我想會有點危險……沒問題嗎？",
+          "g_tw_cn": "我想会有点危险……没问题吗？",
+          "g_ja": "危ないと思いますが……大丈夫ですか？",
+          "g_ko": "위험할텐데…… 괜찮으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003808,
+    "Data": [
+      {
+        "GroupId": 100380330,
+        "Id": 100380410,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380340,
+        "Message": {
+          "j_ko": "선생님, 계신가요……?",
+          "j_ja": "先生、ちょっとよろしいでしょうか……？",
+          "g_en": "Sensei, are you there?",
+          "g_tw": "老師，可以打擾一下嗎……？",
+          "g_tw_cn": "老师，可以打扰一下吗……？",
+          "g_ja": "先生、ちょっとよろしいでしょうか……？",
+          "g_ko": "선생님, 계신가요……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380340,
+        "Id": 100380420,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380350,
+        "Message": {
+          "j_ko": "특별한 일정이 있어서 연락 드린 것은 아니라……",
+          "j_ja": "いいえ、特別なご用事があって連絡したわけではないのですが……",
+          "g_en": "It's nothing special. I'm just checking in...",
+          "g_tw": "不，也不是有什麼特別的事所以才連絡你……",
+          "g_tw_cn": "不，也不是有什么特别的事所以才连络你……",
+          "g_ja": "いいえ、特別なご用事があって連絡したわけではないのですが……",
+          "g_ko": "특별한 일정이 있어서 연락 드린 것은 아니라……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380350,
+        "Id": 100380430,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380360,
+        "Message": {
+          "j_ko": "나중에 다시 연락드리겠습니다.",
+          "j_ja": "やっぱりまた後で、ご連絡します",
+          "g_en": "I'll message you later.",
+          "g_tw": "果然還是之後再連絡吧",
+          "g_tw_cn": "果然还是之后再连络吧",
+          "g_ja": "やっぱりまた後で、ご連絡します",
+          "g_ko": "나중에 다시 연락드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380360,
+        "Id": 100380440,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380370,
+        "Message": {
+          "j_ko": "미안, 미야코. 회의 중이라 확인이 늦었어.",
+          "j_ja": "ごめん、ミヤコ。会議中だったから確認が遅くなっちゃった",
+          "g_en": "Sorry, Miyako. I was in a meeting and just saw this.",
+          "g_tw": "抱歉，都子。剛才在開會所以這麼晚才看到",
+          "g_tw_cn": "抱歉，都子。刚才在开会所以这么晚才看到",
+          "g_ja": "ごめん、ミヤコ。会議中だったから確認が遅くなっちゃった",
+          "g_ko": "미안, 미야코. 회의 중이라 확인이 늦었어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380370,
+        "Id": 100380450,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100388,
+        "NextGroupId": 100380380,
+        "Message": {
+          "j_ko": "미야코……?",
+          "j_ja": "ミヤコ……？",
+          "g_en": "Miyako...?",
+          "g_tw": "都子……？",
+          "g_tw_cn": "都子……？",
+          "g_ja": "ミヤコ……？",
+          "g_ko": "미야코……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003820,
+    "Data": [
+      {
+        "GroupId": 100380380,
+        "Id": 100380460,
+        "CharacterId": 10038,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380390,
+        "Message": {
+          "j_ko": "SRT 특수학원의 건물 내에서 생활할 때는 미처 몰랐었는데",
+          "j_ja": "SRT特殊学園で生活していた時は知りませんでしたが",
+          "g_en": "This isn't something I had to think about while living at SRT,",
+          "g_tw": "還在SRT特殊學園的校舍生活時完全沒想到",
+          "g_tw_cn": "还在SRT特殊学园的校舍生活时完全没想到",
+          "g_ja": "SRT特殊学園で生活していた時は知りませんでしたが",
+          "g_ko": "SRT 특수학원의 건물 내에서 생활할 때는 미처 몰랐었는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380390,
+        "Id": 100380470,
+        "CharacterId": 10038,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380400,
+        "Message": {
+          "j_ko": "장기간 야영을 하는 건 겨울보다 여름이 더 힘든 것 같네요.",
+          "j_ja": "長期間キャンプをする場合、冬より夏の方が大変なのですね",
+          "g_en": "but extended camping is actually harder in the summer than the winter.",
+          "g_tw": "對長期露營來說，夏天居然比冬天還辛苦",
+          "g_tw_cn": "对长期露营来说，夏天居然比冬天还辛苦",
+          "g_ja": "長期間キャンプをする場合、冬より夏の方が大変なのですね",
+          "g_ko": "장기간 야영을 하는 건 겨울보다 여름이 더 힘든 것 같네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380400,
+        "Id": 100380480,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380410,
+        "Message": {
+          "j_ko": "무슨 어려움이라도 있어?",
+          "j_ja": "何かあったの？",
+          "g_en": "Why's that?",
+          "g_tw": "遇到什麼困難了嗎？",
+          "g_tw_cn": "遇到什么困难了吗？",
+          "g_ja": "何かあったの？",
+          "g_ko": "무슨 어려움이라도 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380410,
+        "Id": 100380490,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380420,
+        "Message": {
+          "j_ko": "얼마 전부터 여름 장마가 시작되었잖아요?",
+          "j_ja": "ええ。最近、梅雨に入ったので",
+          "g_en": "The rainy seasons during the summer are more intense.",
+          "g_tw": "不久前不是進入梅雨季了嗎？",
+          "g_tw_cn": "不久前不是进入梅雨季了吗？",
+          "g_ja": "ええ。最近、梅雨に入ったので",
+          "g_ko": "얼마 전부터 여름 장마가 시작되었잖아요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380410,
+        "Id": 100380500,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380420,
+        "Message": {
+          "j_ko": "그 때문에 장비에도 자주 녹이 슬고, 음식도 쉽게 상해서",
+          "j_ja": "装備が錆びたり、食べ物の日持ちも悪くなってしまって",
+          "g_en": "The constant downpour makes the equipment rust and food spoil so fast.",
+          "g_tw": "不只裝備經常生鏽，食物也很容易變質",
+          "g_tw_cn": "不只装备经常生锈，食物也很容易变质",
+          "g_ja": "装備が錆びたり、食べ物の日持ちも悪くなってしまって",
+          "g_ko": "그 때문에 장비에도 자주 녹이 슬고, 음식도 쉽게 상해서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380410,
+        "Id": 100380510,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380420,
+        "Message": {
+          "j_ko": "여러모로 애로사항이 많네요.",
+          "j_ja": "色々と困っているのです",
+          "g_en": "There's been a lot of different challenges...",
+          "g_tw": "各方面都困難重重",
+          "g_tw_cn": "各方面都困难重重",
+          "g_ja": "色々と困っているのです",
+          "g_ko": "여러모로 애로사항이 많네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380420,
+        "Id": 100380520,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380430,
+        "Message": {
+          "j_ko": "다른 것보다 빨래가 좀처럼 마르지 않아서……",
+          "j_ja": "何より、雨のせいで洗濯物がなかなか乾かず……",
+          "g_en": "Especially trying to figure out how to dry our clothes...",
+          "g_tw": "其中最棘手的，是洗好的衣服晾不乾……",
+          "g_tw_cn": "其中最棘手的，是洗好的衣服晾不干……",
+          "g_ja": "何より、雨のせいで洗濯物がなかなか乾かず……",
+          "g_ko": "다른 것보다 빨래가 좀처럼 마르지 않아서……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380420,
+        "Id": 100380530,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380430,
+        "Message": {
+          "j_ko": "밀린 빨랫감을 어디서 말려야 좋을지 소대원들과 고민하던 중이었어요.",
+          "j_ja": "どうすればいいかみんなで悩んでいたところでした",
+          "g_en": "Me and the other squad members are out of ideas. Our laundry's really piling up.",
+          "g_tw": "我和小隊員們正在苦惱要去哪裡曬堆積的衣物",
+          "g_tw_cn": "我和小队员们正在苦恼要去哪里晒堆积的衣物",
+          "g_ja": "どうすればいいかみんなで悩んでいたところでした",
+          "g_ko": "밀린 빨랫감을 어디서 말려야 좋을지 소대원들과 고민하던 중이었어요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380430,
+        "Id": 100380540,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380440,
+        "Message": {
+          "j_ko": "빨랫감을 샬레로 가져오는 건 어때?",
+          "j_ja": "なら、シャーレで洗濯する？",
+          "g_en": "Why don't you just bring it to Schale?",
+          "g_tw": "把要洗的衣服拿到夏萊如何？",
+          "g_tw_cn": "把要洗的衣服拿到夏莱如何？",
+          "g_ja": "なら、シャーレで洗濯する？",
+          "g_ko": "빨랫감을 샬레로 가져오는 건 어때?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380440,
+        "Id": 100380550,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380450,
+        "Message": {
+          "j_ko": "샬레요?",
+          "j_ja": "シャーレで、ですか？",
+          "g_en": "To Schale...?",
+          "g_tw": "夏萊？",
+          "g_tw_cn": "夏莱？",
+          "g_ja": "シャーレで、ですか？",
+          "g_ko": "샬레요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380450,
+        "Id": 100380560,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380460,
+        "Message": {
+          "j_ko": "샬레 휴게실에는 세탁기도 건조기도 있으니까.",
+          "j_ja": "シャーレの休憩室には乾燥機もあるから",
+          "g_en": "We have a washing machine and dryer in the Schale lounge.",
+          "g_tw": "夏萊的休息室裡有洗衣機和烘衣機",
+          "g_tw_cn": "夏莱的休息室里有洗衣机和烘衣机",
+          "g_ja": "シャーレの休憩室には乾燥機もあるから",
+          "g_ko": "샬레 휴게실에는 세탁기도 건조기도 있으니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380460,
+        "Id": 100380570,
+        "CharacterId": 10038,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380470,
+        "Message": {
+          "j_ko": "한나절이면 금방 마를 거야.",
+          "j_ja": "半日もあれば乾くと思うよ",
+          "g_en": "It'd only take around half a day.",
+          "g_tw": "我想只要半天就會乾了",
+          "g_tw_cn": "我想只要半天就会干了",
+          "g_ja": "半日もあれば乾くと思うよ",
+          "g_ko": "한나절이면 금방 마를 거야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380470,
+        "Id": 100380580,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380480,
+        "Message": {
+          "j_ko": "아뇨. 선생님의 호의라지만",
+          "j_ja": "いえ、いくら先生が仰ってくれたからといって",
+          "g_en": "Oh... I appreciate the offer, but...",
+          "g_tw": "不。雖然很感謝老師的一片好意",
+          "g_tw_cn": "不。虽然很感谢老师的一片好意",
+          "g_ja": "いえ、いくら先生が仰ってくれたからといって",
+          "g_ko": "아뇨. 선생님의 호의라지만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380470,
+        "Id": 100380590,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100380480,
+        "Message": {
+          "j_ko": "그럴 수는",
+          "j_ja": "それに甘えるわけには",
+          "g_en": "I mean...",
+          "g_tw": "但我不能這麼做",
+          "g_tw_cn": "但我不能这么做",
+          "g_ja": "それに甘えるわけには",
+          "g_ko": "그럴 수는"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380480,
+        "Id": 100380600,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "이번 한 번만……",
+          "j_ja": "今回だけ……",
+          "g_en": "Well, I guess...just this once...",
+          "g_tw": "不過僅限這次的話……",
+          "g_tw_cn": "不过仅限这次的话……",
+          "g_ja": "今回だけ……",
+          "g_ko": "이번 한 번만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100380480,
+        "Id": 100380610,
+        "CharacterId": 10038,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 1003820,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "부탁드리겠습니다……",
+          "j_ja": "お願いします……",
+          "g_en": "Okay. I'll be there soon.",
+          "g_tw": "就拜託老師了……",
+          "g_tw_cn": "就拜托老师了……",
+          "g_ja": "お願いします……",
+          "g_ko": "부탁드리겠습니다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

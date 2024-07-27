@@ -1,0 +1,979 @@
+[
+  {
+    "BondScenarioId": 1001202,
+    "Data": [
+      {
+        "GroupId": 100120010,
+        "Id": 872,
+        "CharacterId": 10012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120020,
+        "Message": {
+          "j_ko": "안녕하세요. 트레이너.",
+          "j_ja": "おはようございます、トレーナー",
+          "g_en": "Hello, Trainer.",
+          "g_tw": "早安，指導員",
+          "g_tw_cn": "早安，指导员",
+          "g_ja": "おはようございます、トレーナー",
+          "g_ko": "안녕하세요. 트레이너."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120020,
+        "Id": 873,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120030,
+        "Message": {
+          "j_ko": "혹시 오늘 시간 괜찮으실까요?",
+          "j_ja": "今日、お時間大丈夫でしょうか？",
+          "g_en": "Do you have some time today?",
+          "g_tw": "今天時間上方便嗎？",
+          "g_tw_cn": "今天时间上方便吗？",
+          "g_ja": "今日、お時間大丈夫でしょうか？",
+          "g_ko": "혹시 오늘 시간 괜찮으실까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120030,
+        "Id": 874,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120040,
+        "Message": {
+          "j_ko": "응, 무슨 일이야?",
+          "j_ja": "うん、どうしたの？",
+          "g_en": "Yeah, what's going on?",
+          "g_tw": "嗯，怎麼了？",
+          "g_tw_cn": "嗯，怎么了？",
+          "g_ja": "うん、どうしたの？",
+          "g_ko": "응, 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120030,
+        "Id": 875,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120040,
+        "Message": {
+          "j_ko": "딱히 바쁘지는 않아.",
+          "j_ja": "特に忙しくないから大丈夫だよ",
+          "g_en": "I'm not too busy.",
+          "g_tw": "不是特別忙，所以沒問題唷",
+          "g_tw_cn": "不是特别忙，所以没问题唷",
+          "g_ja": "特に忙しくないから大丈夫だよ",
+          "g_ko": "딱히 바쁘지는 않아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120040,
+        "Id": 876,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120050,
+        "Message": {
+          "j_ko": "네, 다름이 아니라.",
+          "j_ja": "はい、実は、",
+          "g_en": "Okay, I just wanted to let you know...",
+          "g_tw": "嗯，其實",
+          "g_tw_cn": "嗯，其实",
+          "g_ja": "はい、実は、",
+          "g_ko": "네, 다름이 아니라."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120040,
+        "Id": 877,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120050,
+        "Message": {
+          "j_ko": "이전에 약속드렸던 트레이닝용 시간표를 준비했습니다.",
+          "j_ja": "この前お話していた、トレーニングメニューができたんです",
+          "g_en": "I've prepared the training schedule that I mentioned earlier.",
+          "g_tw": "上次說的訓練菜單已經準備好了",
+          "g_tw_cn": "上次说的训练菜单已经准备好了",
+          "g_ja": "この前お話していた、トレーニングメニューができたんです",
+          "g_ko": "이전에 약속드렸던 트레이닝용 시간표를 준비했습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120050,
+        "Id": 878,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120060,
+        "Message": {
+          "j_ko": "가능하다면 오늘 확인받고 싶은데, 헬스장으로 와주실 수 있을까요?",
+          "j_ja": "よろしければ確認をしていただきたくて、ジムまで来ていただけませんか？",
+          "g_en": "If possible, I'd like you to check it out today. Can you come to the gym?",
+          "g_tw": "如果可以的話，能請你來健身房確認一下嗎？",
+          "g_tw_cn": "如果可以的话，能请你来健身房确认一下吗？",
+          "g_ja": "よろしければ確認をしていただきたくて、ジムまで来ていただけませんか？",
+          "g_ko": "가능하다면 오늘 확인받고 싶은데, 헬스장으로 와주실 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120050,
+        "Id": 879,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100122,
+        "NextGroupId": 100120060,
+        "Message": {
+          "j_ko": "기다리고 있겠습니다.",
+          "j_ja": "お待ちしています！",
+          "g_en": "I'll be waiting for you.",
+          "g_tw": "期待你的到來！",
+          "g_tw_cn": "期待你的到来！",
+          "g_ja": "お待ちしています！",
+          "g_ko": "기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001203,
+    "Data": [
+      {
+        "GroupId": 100120060,
+        "Id": 880,
+        "CharacterId": 10012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120070,
+        "Message": {
+          "j_ko": "트레이너, 혹시 이번 주말에 바쁘신가요?",
+          "j_ja": "トレーナー、今週末はお忙しいでしょうか？",
+          "g_en": "Trainer, are you busy this weekend?",
+          "g_tw": "指導員，這個週末忙嗎？",
+          "g_tw_cn": "指导员，这个周末忙吗？",
+          "g_ja": "トレーナー、今週末はお忙しいでしょうか？",
+          "g_ko": "트레이너, 혹시 이번 주말에 바쁘신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120070,
+        "Id": 881,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120080,
+        "Message": {
+          "j_ko": "괜찮으시면 저와 함께 쇼핑몰에 가지 않으시겠습니까?",
+          "j_ja": "よろしければ私と一緒に、ショッピングモールに行きませんか？",
+          "g_en": "Would you mind coming to the mall with me?",
+          "g_tw": "如果可以的話，要跟我一起去購物中心嗎？",
+          "g_tw_cn": "如果可以的话，要跟我一起去购物中心吗？",
+          "g_ja": "よろしければ私と一緒に、ショッピングモールに行きませんか？",
+          "g_ko": "괜찮으시면 저와 함께 쇼핑몰에 가지 않으시겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120080,
+        "Id": 882,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120090,
+        "Message": {
+          "j_ko": "그래, 좋아.",
+          "j_ja": "ぜひぜひ",
+          "g_en": "Not at all.",
+          "g_tw": "當然好呀",
+          "g_tw_cn": "当然好呀",
+          "g_ja": "ぜひぜひ",
+          "g_ko": "그래, 좋아."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120080,
+        "Id": 883,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120100,
+        "Message": {
+          "j_ko": "무엇을 사려고?",
+          "j_ja": "何を買うの？",
+          "g_en": "What are you gonna buy?",
+          "g_tw": "要買什麼？",
+          "g_tw_cn": "要买什么？",
+          "g_ja": "何を買うの？",
+          "g_ko": "무엇을 사려고?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120090,
+        "Id": 884,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120100,
+        "Message": {
+          "j_ko": "감사합니다, 트레이너.",
+          "j_ja": "ありがとうございます！",
+          "g_en": "Thank you, Trainer.",
+          "g_tw": "非常感謝！",
+          "g_tw_cn": "非常感谢！",
+          "g_ja": "ありがとうございます！",
+          "g_ko": "감사합니다, 트레이너."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120100,
+        "Id": 885,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120110,
+        "Message": {
+          "j_ko": "단백질 보충제를 사려고 하는 데 트레이너의 조언이 필요합니다.",
+          "j_ja": "プロテインを買いたいので、トレーナーからアドバイスを頂ければと",
+          "g_en": "I need protein supplements, and I wanted your input.",
+          "g_tw": "想買乳清蛋白，所以希望從指導員那裡得到一些建議",
+          "g_tw_cn": "想买乳清蛋白，所以希望从指导员那里得到一些建议",
+          "g_ja": "プロテインを買いたいので、トレーナーからアドバイスを頂ければと",
+          "g_ko": "단백질 보충제를 사려고 하는 데 트레이너의 조언이 필요합니다."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120100,
+        "Id": 886,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100123,
+        "NextGroupId": 100120110,
+        "Message": {
+          "j_ko": "그럼 쇼핑몰에서 기다리겠습니다.",
+          "j_ja": "それでは、ショッピングモールでお待ちしておりますね",
+          "g_en": "Well, then, I'll be waiting for you at the mall.",
+          "g_tw": "那麼，我在購物中心等著",
+          "g_tw_cn": "那么，我在购物中心等着",
+          "g_ja": "それでは、ショッピングモールでお待ちしておりますね",
+          "g_ko": "그럼 쇼핑몰에서 기다리겠습니다."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001205,
+    "Data": [
+      {
+        "GroupId": 100120110,
+        "Id": 887,
+        "CharacterId": 10012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120120,
+        "Message": {
+          "j_ko": "트레이너, 오늘은 제가 트레이너를 위해 특별히 준비한 것이 있습니다.",
+          "j_ja": "トレーナー。今日はトレーニングのために、特別なものを準備しました",
+          "g_en": "Trainer, I've prepared something special for you today.",
+          "g_tw": "指導員。為了今天的訓練，我準備了特別的東西",
+          "g_tw_cn": "指导员。为了今天的训练，我准备了特别的东西",
+          "g_ja": "トレーナー。今日はトレーニングのために、特別なものを準備しました",
+          "g_ko": "트레이너, 오늘은 제가 트레이너를 위해 특별히 준비한 것이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120120,
+        "Id": 888,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 100125,
+        "NextGroupId": 100120130,
+        "Message": {
+          "j_ko": "오늘 오후 헬스장에서 뵙겠습니다.",
+          "j_ja": "今日の午後、ジムでお会いしましょう",
+          "g_en": "I'll see you at the gym this afternoon.",
+          "g_tw": "今天下午，在健身房見吧",
+          "g_tw_cn": "今天下午，在健身房见吧",
+          "g_ja": "今日の午後、ジムでお会いしましょう",
+          "g_ko": "오늘 오후 헬스장에서 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120130,
+        "Id": 889,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120140,
+        "Message": {
+          "j_ko": "트레이너.",
+          "j_ja": "お疲れ様でした、トレーナー",
+          "g_en": "Trainer.",
+          "g_tw": "辛苦了，指導員",
+          "g_tw_cn": "辛苦了，指导员",
+          "g_ja": "お疲れ様でした、トレーナー",
+          "g_ko": "트레이너."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120130,
+        "Id": 890,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120140,
+        "Message": {
+          "j_ko": "몸은 좀 어떠신가요?",
+          "j_ja": "身体の調子はいかがですか？",
+          "g_en": "How are you feeling?",
+          "g_tw": "身體感覺怎麼樣？",
+          "g_tw_cn": "身体感觉怎么样？",
+          "g_ja": "身体の調子はいかがですか？",
+          "g_ko": "몸은 좀 어떠신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120140,
+        "Id": 891,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120150,
+        "Message": {
+          "j_ko": "응. 괜찮아.",
+          "j_ja": "うん、何とかね",
+          "g_en": "I'm okay.",
+          "g_tw": "嗯，沒什麼大礙",
+          "g_tw_cn": "嗯，没什么大碍",
+          "g_ja": "うん、何とかね",
+          "g_ko": "응. 괜찮아."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120140,
+        "Id": 892,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120160,
+        "Message": {
+          "j_ko": "으으윽, 근육이….",
+          "j_ja": "筋肉が、悲鳴を……",
+          "g_en": "Ugh, my muscles...",
+          "g_tw": "肌肉在哀號……",
+          "g_tw_cn": "肌肉在哀号……",
+          "g_ja": "筋肉が、悲鳴を……",
+          "g_ko": "으으윽, 근육이…."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120150,
+        "Id": 893,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120170,
+        "Message": {
+          "j_ko": "역시 트레이너, 건강하시군요.",
+          "j_ja": "さすがトレーナー、まだまだいけそうですね",
+          "g_en": "As expected, you're pretty strong, Trainer.",
+          "g_tw": "不愧是指導員，看來還行呀",
+          "g_tw_cn": "不愧是指导员，看来还行呀",
+          "g_ja": "さすがトレーナー、まだまだいけそうですね",
+          "g_ko": "역시 트레이너, 건강하시군요."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120160,
+        "Id": 894,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120170,
+        "Message": {
+          "j_ko": "운동이 조금 과했나 보군요.",
+          "j_ja": "ちょっと強度が高かったかもしれませんね……",
+          "g_en": "I guess the workout was a bit too much.",
+          "g_tw": "看來強度有點太高了……",
+          "g_tw_cn": "看来强度有点太高了……",
+          "g_ja": "ちょっと強度が高かったかもしれませんね……",
+          "g_ko": "운동이 조금 과했나 보군요."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120160,
+        "Id": 895,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120170,
+        "Message": {
+          "j_ko": "다음에 만나면 제가 스트레칭을 돕겠습니다.",
+          "j_ja": "次にお会いした時に、ストレッチのお手伝いをしますね",
+          "g_en": "Next time, I'll help you stretch.",
+          "g_tw": "下次見面時，會幫你做伸展運動",
+          "g_tw_cn": "下次见面时，会帮你做伸展运动",
+          "g_ja": "次にお会いした時に、ストレッチのお手伝いをしますね",
+          "g_ko": "다음에 만나면 제가 스트레칭을 돕겠습니다."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120170,
+        "Id": 896,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120180,
+        "Message": {
+          "j_ko": "참, 아마 지금쯤이면 트레이너의 사무실에",
+          "j_ja": "そうだ、おそらくそろそろトレーナーの事務所に、",
+          "g_en": "Oh yeah, by now, the protein supplements I sent you",
+          "g_tw": "對了，指導員的辦公室",
+          "g_tw_cn": "对了，指导员的办公室",
+          "g_ja": "そうだ、おそらくそろそろトレーナーの事務所に、",
+          "g_ko": "참, 아마 지금쯤이면 트레이너의 사무실에"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120170,
+        "Id": 897,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120180,
+        "Message": {
+          "j_ko": "제가 보낸 단백질 보충제가 도착했을 겁니다.",
+          "j_ja": "私がお送りしたプロテインが届いてると思います",
+          "g_en": "should have arrived at your office.",
+          "g_tw": "應該已經收到我送去的乳清蛋白了",
+          "g_tw_cn": "应该已经收到我送去的乳清蛋白了",
+          "g_ja": "私がお送りしたプロテインが届いてると思います",
+          "g_ko": "제가 보낸 단백질 보충제가 도착했을 겁니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100120180,
+            "Id": 898,
+            "CharacterId": 10012,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100120190,
+            "Message": {
+              "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+              "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100120180,
+        "Id": 898,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120190,
+        "Message": {
+          "j_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "j_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "g_en": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "g_tw": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "g_tw_cn": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "g_ja": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]",
+          "g_ko": "[img: UIs/03_Scenario/04_ScenarioImage/Mo_Sumire_01][\\n]"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120190,
+        "Id": 899,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120200,
+        "Message": {
+          "j_ko": "하루에 4번, 잊지 마시고 챙겨 드시길 바랍니다.",
+          "j_ja": "一日4回、忘れずに飲んでくださいね",
+          "g_en": "Please don't forget to take them four times a day.",
+          "g_tw": "一天4次，別忘了喝唷",
+          "g_tw_cn": "一天4次，别忘了喝唷",
+          "g_ja": "一日4回、忘れずに飲んでくださいね",
+          "g_ko": "하루에 4번, 잊지 마시고 챙겨 드시길 바랍니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001206,
+    "Data": [
+      {
+        "GroupId": 100120200,
+        "Id": 900,
+        "CharacterId": 10012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120210,
+        "Message": {
+          "j_ko": "트레이너.",
+          "j_ja": "トレーナー、こんにちは",
+          "g_en": "Trainer.",
+          "g_tw": "指導員，你好",
+          "g_tw_cn": "指导员，你好",
+          "g_ja": "トレーナー、こんにちは",
+          "g_ko": "트레이너."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120210,
+        "Id": 901,
+        "CharacterId": 10012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120220,
+        "Message": {
+          "j_ko": "괜찮다면, 이번 주말에 잠시 뵐 수 있을까요?",
+          "j_ja": "よかったら、今週末ちょっと会えませんか？",
+          "g_en": "If it's okay, can I see you a bit this weekend?",
+          "g_tw": "可以的話，這個週末能不能見個面？",
+          "g_tw_cn": "可以的话，这个周末能不能见个面？",
+          "g_ja": "よかったら、今週末ちょっと会えませんか？",
+          "g_ko": "괜찮다면, 이번 주말에 잠시 뵐 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120220,
+        "Id": 902,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120230,
+        "Message": {
+          "j_ko": "히익! 아직 근육이….",
+          "j_ja": "その、まだ筋肉痛が……！",
+          "g_en": "Eek! But my muscles are still...",
+          "g_tw": "那個，我的肌肉還在痛……！",
+          "g_tw_cn": "那个，我的肌肉还在痛……！",
+          "g_ja": "その、まだ筋肉痛が……！",
+          "g_ko": "히익! 아직 근육이…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120220,
+        "Id": 903,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120230,
+        "Message": {
+          "j_ko": "운동이라면 열심히 하고 있습니다!",
+          "j_ja": "運動してます！サボってません！",
+          "g_en": "I've been working out really hard!",
+          "g_tw": "我有在運動！沒有偷懶！",
+          "g_tw_cn": "我有在运动！没有偷懒！",
+          "g_ja": "運動してます！サボってません！",
+          "g_ko": "운동이라면 열심히 하고 있습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120230,
+        "Id": 904,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120240,
+        "Message": {
+          "j_ko": "아아…… 아뇨, 트레이너.",
+          "j_ja": "あ、いえ、その……",
+          "g_en": "Oh... That's not it, Trainer.",
+          "g_tw": "啊，不，那個……",
+          "g_tw_cn": "啊，不，那个……",
+          "g_ja": "あ、いえ、その……",
+          "g_ko": "아아…… 아뇨, 트레이너."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120230,
+        "Id": 905,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120240,
+        "Message": {
+          "j_ko": "운동 때문은 아닙니다.",
+          "j_ja": "運動関連のお話ではなく……",
+          "g_en": "This isn't about exercising.",
+          "g_tw": "是跟運動無關的事……",
+          "g_tw_cn": "是跟运动无关的事……",
+          "g_ja": "運動関連のお話ではなく……",
+          "g_ko": "운동 때문은 아닙니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120240,
+        "Id": 906,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120250,
+        "Message": {
+          "j_ko": "그렇다면 오케이!",
+          "j_ja": "なら何でもばっちこい！",
+          "g_en": "In that case, okay!",
+          "g_tw": "那你儘管說吧！",
+          "g_tw_cn": "那你尽管说吧！",
+          "g_ja": "なら何でもばっちこい！",
+          "g_ko": "그렇다면 오케이!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120250,
+        "Id": 907,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120260,
+        "Message": {
+          "j_ko": "알겠습니다.",
+          "j_ja": "ありがとうございます！",
+          "g_en": "Got it.",
+          "g_tw": "非常感謝！",
+          "g_tw_cn": "非常感谢！",
+          "g_ja": "ありがとうございます！",
+          "g_ko": "알겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120250,
+        "Id": 908,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100126,
+        "NextGroupId": 100120260,
+        "Message": {
+          "j_ko": "그럼 그때 뵙겠습니다.",
+          "j_ja": "それでは後ほど！",
+          "g_en": "I'll see you then.",
+          "g_tw": "那就到時候見！",
+          "g_tw_cn": "那就到时候见！",
+          "g_ja": "それでは後ほど！",
+          "g_ko": "그럼 그때 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1001220,
+    "Data": [
+      {
+        "GroupId": 100120260,
+        "Id": 10012010,
+        "CharacterId": 10012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120270,
+        "Message": {
+          "j_ko": "트레이너, 혹시 샬레 근처에 새로 생긴 공원에 가보신 적 있으신가요?",
+          "j_ja": "トレーナー、シャーレの近くに新しくできた公園にはもう行かれましたか？",
+          "g_en": "Have you visited the new park next to Schale, Trainer?",
+          "g_tw": "指導員，你有去過夏萊附近的新公園嗎？",
+          "g_tw_cn": "指导员，你有去过夏莱附近的新公园吗？",
+          "g_ja": "トレーナー、シャーレの近くに新しくできた公園にはもう行かれましたか？",
+          "g_ko": "트레이너, 혹시 샬레 근처에 새로 생긴 공원에 가보신 적 있으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120270,
+        "Id": 10012020,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120280,
+        "Message": {
+          "j_ko": "아직 안 가 봤어.",
+          "j_ja": "まだないよ",
+          "g_en": "No, not yet.",
+          "g_tw": "還沒去過",
+          "g_tw_cn": "还没去过",
+          "g_ja": "まだないよ",
+          "g_ko": "아직 안 가 봤어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120280,
+        "Id": 10012030,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120290,
+        "Message": {
+          "j_ko": "그러시군요.",
+          "j_ja": "そうでしたか",
+          "g_en": "Oh, I see.",
+          "g_tw": "這樣啊",
+          "g_tw_cn": "这样啊",
+          "g_ja": "そうでしたか",
+          "g_ko": "그러시군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120280,
+        "Id": 10012040,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120290,
+        "Message": {
+          "j_ko": "지난번 당번 활동이 끝나고 돌아가는 길에 잠깐 둘러봤는데",
+          "j_ja": "私はこの前、当番の帰りに寄ってみたのですが",
+          "g_en": "I had errands in the area, so I paid it a visit.",
+          "g_tw": "上次值日結束後，我在回去的路上稍微逛了一下",
+          "g_tw_cn": "上次值日结束后，我在回去的路上稍微逛了一下",
+          "g_ja": "私はこの前、当番の帰りに寄ってみたのですが",
+          "g_ko": "지난번 당번 활동이 끝나고 돌아가는 길에 잠깐 둘러봤는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120290,
+        "Id": 10012050,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120300,
+        "Message": {
+          "j_ko": "조깅용 트랙이 깨끗하게 정비되어 있어서 아침 조깅을 하기에 적합해 보이더군요.",
+          "j_ja": "トラックも整備されていて、朝のジョギングによさそうでした",
+          "g_en": "It'd be a good place for a morning jog. The track was very well-maintained.",
+          "g_tw": "步道維護得很乾淨，看起來很適合晨跑",
+          "g_tw_cn": "步道维护得很干净，看起来很适合晨跑",
+          "g_ja": "トラックも整備されていて、朝のジョギングによさそうでした",
+          "g_ko": "조깅용 트랙이 깨끗하게 정비되어 있어서 아침 조깅을 하기에 적합해 보이더군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100120300,
+            "Id": 10012060,
+            "CharacterId": 10012,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100120310,
+            "Message": {
+              "j_ko": "혹시 괜찮으시다면",
+              "j_ja": "ですので、もしよろしければ、ですが",
+              "g_en": "If you'd like",
+              "g_tw": "可以的話",
+              "g_tw_cn": "可以的话",
+              "g_ja": "ですので、もしよろしければ、ですが",
+              "g_ko": "혹시 괜찮으시다면"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100120300,
+            "Id": 10012070,
+            "CharacterId": 10012,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100120310,
+            "Message": {
+              "j_ko": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?",
+              "j_ja": "明日の朝、その公園で軽くジョギングをしませんか？",
+              "g_en": "we could go for a jog there tomorrow morning?",
+              "g_tw": "明天早上要不要去那個公園輕鬆慢跑一下？",
+              "g_tw_cn": "明天早上要不要去那个公园轻松慢跑一下？",
+              "g_ja": "明日の朝、その公園で軽くジョギングをしませんか？",
+              "g_ko": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100120300,
+        "Id": 10012060,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120310,
+        "Message": {
+          "j_ko": "혹시 괜찮으시다면",
+          "j_ja": "ですので、もしよろしければ、ですが",
+          "g_en": "If you'd like",
+          "g_tw": "可以的話",
+          "g_tw_cn": "可以的话",
+          "g_ja": "ですので、もしよろしければ、ですが",
+          "g_ko": "혹시 괜찮으시다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120300,
+        "Id": 10012070,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120310,
+        "Message": {
+          "j_ko": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?",
+          "j_ja": "明日の朝、その公園で軽くジョギングをしませんか？",
+          "g_en": "we could go for a jog there tomorrow morning?",
+          "g_tw": "明天早上要不要去那個公園輕鬆慢跑一下？",
+          "g_tw_cn": "明天早上要不要去那个公园轻松慢跑一下？",
+          "g_ja": "明日の朝、その公園で軽くジョギングをしませんか？",
+          "g_ko": "내일 아침에 그 공원에서 가볍게 조깅이라도 하지 않으시겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120310,
+        "Id": 10012080,
+        "CharacterId": 10012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120320,
+        "Message": {
+          "j_ko": "가벼운 조깅이라면 괜찮겠지……",
+          "j_ja": "軽いジョギングなら……",
+          "g_en": "As long as it's a LIGHT jog...",
+          "g_tw": "如果只是輕鬆慢跑的話……",
+          "g_tw_cn": "如果只是轻松慢跑的话……",
+          "g_ja": "軽いジョギングなら……",
+          "g_ko": "가벼운 조깅이라면 괜찮겠지……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120320,
+        "Id": 10012090,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100120330,
+        "Message": {
+          "j_ko": "감사합니다, 트레이너.",
+          "j_ja": "ありがとうございます",
+          "g_en": "I promise, Trainer.",
+          "g_tw": "謝謝你，指導員",
+          "g_tw_cn": "谢谢你，指导员",
+          "g_ja": "ありがとうございます",
+          "g_ko": "감사합니다, 트레이너."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100120330,
+        "Id": 10012100,
+        "CharacterId": 10012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 1001220,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "그럼, 내일 아침에 뵙겠습니다!",
+          "j_ja": "では、明日の朝お会いしましょう！",
+          "g_en": "In that case, I will see you tomorrow.",
+          "g_tw": "那麼，明早見！",
+          "g_tw_cn": "那么，明早见！",
+          "g_ja": "では、明日の朝お会いしましょう！",
+          "g_ko": "그럼, 내일 아침에 뵙겠습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

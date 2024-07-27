@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうか……どうか、フウカ先輩を助けてください！",
+      "j_ko": "부디……! 후우카 선배를 구해주세요! 히나 씨!",
+      "g_ja": "どうか……どうか、フウカ先輩を助けてください！",
+      "g_ko": "부디……! 후우카 선배를 구해주세요! 히나 씨!",
+      "g_en": "Please save Fuuka!",
+      "g_th": "ได้โปรด...! ช่วยรุ่นพี่ฟูกะด้วยนะคะ! คุณฮินะ!",
+      "g_tw": "請……請救救風華前輩！陽奈同學！",
+      "g_tw_cn": "请……请救救风华前辈！阳奈同学！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;03;부디……! 후우카 선배를 구해주세요! 히나 씨!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それまで私がパンちゃんの面倒を見ておきますから！",
+      "j_ko": "그때까지 팬쨩들은……! 제가 잘 보살피고 있을 테니까요!",
+      "g_ja": "それまで私がパンちゃんの面倒を見ておきますから！",
+      "g_ko": "그때까지 팬쨩들은……! 제가 잘 보살피고 있을 테니까요!",
+      "g_en": "Until then...I'll be taking care of Pan-Pan!",
+      "g_th": "จนกว่าจะถึงตอนนั้น...! ฉันจะดูแลพวกแพนจังให้ดีเองค่ะ!",
+      "g_tw": "在那之前……鬆餅醬就由我來好好照顧！",
+      "g_tw_cn": "在那之前……松饼酱就由我来好好照顾！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;05;그때까지 팬쨩들은……! 제가 잘 보살피고 있을 테니까요!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "う、うん……",
+      "j_ko": "으응……",
+      "g_ja": "う、うん……",
+      "g_ko": "으응……",
+      "g_en": "Very well...",
+      "g_th": "อื้อ...",
+      "g_tw": "唔嗯……",
+      "g_tw_cn": "唔嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;04;으응……\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……パン、ちゃん？）",
+      "j_ko": "(팬…… 쨩?)",
+      "g_ja": "（……パン、ちゃん？）",
+      "g_ko": "(팬…… 쨩?)",
+      "g_en": "(Pan...Pan?)",
+      "g_th": "(แพน... จัง?)",
+      "g_tw": "（鬆餅……醬？）",
+      "g_tw_cn": "（松饼……酱？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;(팬…… 쨩?)\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

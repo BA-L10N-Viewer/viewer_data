@@ -1,0 +1,896 @@
+[
+  {
+    "BondScenarioId": 1008402,
+    "Data": [
+      {
+        "GroupId": 100840010,
+        "Id": 100840010,
+        "CharacterId": 10084,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840020,
+        "Message": {
+          "j_ko": "얼마 전 가십지에서 읽은 정보입니다만……",
+          "j_ja": "この間、雑誌で……",
+          "g_en": "I was reading this gossip article,",
+          "g_tw": "根據我不久前在八卦雜誌上看到的情報……",
+          "g_tw_cn": "根据我不久前在八卦杂志上看到的情报……",
+          "g_ja": "この間、雑誌で……",
+          "g_ko": "얼마 전 가십지에서 읽은 정보입니다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840020,
+        "Id": 100840020,
+        "CharacterId": 10084,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840030,
+        "Message": {
+          "j_ko": "연인들이 함께하기에 가장 좋은 운동으로",
+          "j_ja": "「運動不足気味なカップルにオススメ！ライトな運動10選」という特集で",
+          "g_en": "and it said the number one form of couples exercise",
+          "g_tw": "據說爬山被選為",
+          "g_tw_cn": "据说爬山被选为",
+          "g_ja": "「運動不足気味なカップルにオススメ！ライトな運動10選」という特集で",
+          "g_ko": "연인들이 함께하기에 가장 좋은 운동으로"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840020,
+        "Id": 100840030,
+        "CharacterId": 10084,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840030,
+        "Message": {
+          "j_ko": "등산이 꼽혔다고 하는군요.",
+          "j_ja": "登山が1位になっていました",
+          "g_en": "is hiking.",
+          "g_tw": "最適合情侶一起做的運動",
+          "g_tw_cn": "最适合情侣一起做的运动",
+          "g_ja": "登山が1位になっていました",
+          "g_ko": "등산이 꼽혔다고 하는군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840030,
+        "Id": 100840040,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840040,
+        "Message": {
+          "j_ko": "등산? 어째서……?",
+          "j_ja": "……登山？",
+          "g_en": "Why hiking?",
+          "g_tw": "爬山？為什麼……？",
+          "g_tw_cn": "爬山？为什么……？",
+          "g_ja": "……登山？",
+          "g_ko": "등산? 어째서……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840040,
+        "Id": 100840050,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840050,
+        "Message": {
+          "j_ko": "등산은 장비나 준비물이 많이 필요하지 않기 때문에 입문하기가 쉽고",
+          "j_ja": "登山は他のスポーツと比べて",
+          "g_en": "It's an activity with an overall low barrier to entry.",
+          "g_tw": "因為登山不需要很多裝備或備品，入門相對容易",
+          "g_tw_cn": "因为登山不需要很多装备或备品，入门相对容易",
+          "g_ja": "登山は他のスポーツと比べて",
+          "g_ko": "등산은 장비나 준비물이 많이 필요하지 않기 때문에 입문하기가 쉽고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840040,
+        "Id": 100840060,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840050,
+        "Message": {
+          "j_ko": "사람이 드문 산의 특성상",
+          "j_ja": "練習や特別な準備の必要がないため始めやすく",
+          "g_en": "Also, since mountains are inherently less populated,",
+          "g_tw": "再加上人少的特性",
+          "g_tw_cn": "再加上人少的特性",
+          "g_ja": "練習や特別な準備の必要がないため始めやすく",
+          "g_ko": "사람이 드문 산의 특성상"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840040,
+        "Id": 100840070,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840050,
+        "Message": {
+          "j_ko": "단둘이 이야기를 나눌 기회가 많기 때문인 것 같습니다.",
+          "j_ja": "2人きりで会話する時間が多く取れるからだそうです",
+          "g_en": "couples have more opportunity to have deep conversations.",
+          "g_tw": "似乎很適合兩人單獨交談",
+          "g_tw_cn": "似乎很适合两人单独交谈",
+          "g_ja": "2人きりで会話する時間が多く取れるからだそうです",
+          "g_ko": "단둘이 이야기를 나눌 기회가 많기 때문인 것 같습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840050,
+        "Id": 100840080,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840060,
+        "Message": {
+          "j_ko": "과연……",
+          "j_ja": "なるほど……",
+          "g_en": "I see...",
+          "g_tw": "原來如此……",
+          "g_tw_cn": "原来如此……",
+          "g_ja": "なるほど……",
+          "g_ko": "과연……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840050,
+        "Id": 100840090,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840060,
+        "Message": {
+          "j_ko": "확실히 그건 장점이겠네.",
+          "j_ja": "言われてみればそうかも",
+          "g_en": "I can see the advantages.",
+          "g_tw": "那確實是優點",
+          "g_tw_cn": "那确实是优点",
+          "g_ja": "言われてみればそうかも",
+          "g_ko": "확실히 그건 장점이겠네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840060,
+        "Id": 100840100,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840070,
+        "Message": {
+          "j_ko": "그래서",
+          "j_ja": "はい、ですので……",
+          "g_en": "Which is why",
+          "g_tw": "所以",
+          "g_tw_cn": "所以",
+          "g_ja": "はい、ですので……",
+          "g_ko": "그래서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840060,
+        "Id": 100840110,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840070,
+        "Message": {
+          "j_ko": "이번 주말이 더욱 기대가 됩니다.",
+          "j_ja": "次の週末が楽しみです",
+          "g_en": "I'm looking forward to this weekend a lot.",
+          "g_tw": "這週末就更令人期待了",
+          "g_tw_cn": "这周末就更令人期待了",
+          "g_ja": "次の週末が楽しみです",
+          "g_ko": "이번 주말이 더욱 기대가 됩니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840070,
+        "Id": 100840120,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840080,
+        "Message": {
+          "j_ko": "어째서……?",
+          "j_ja": "次の週末……？",
+          "g_en": "Why...?",
+          "g_tw": "為什麼……？",
+          "g_tw_cn": "为什么……？",
+          "g_ja": "次の週末……？",
+          "g_ko": "어째서……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840080,
+        "Id": 100840130,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100842,
+        "NextGroupId": 100840090,
+        "Message": {
+          "j_ko": "……저기, 코타마 씨……?",
+          "j_ja": "……えっと、コタマさん？",
+          "g_en": "Hello? Kotama?",
+          "g_tw": "……那個，小玉同學？",
+          "g_tw_cn": "……那个，小玉同学？",
+          "g_ja": "……えっと、コタマさん？",
+          "g_ko": "……저기, 코타마 씨……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1008403,
+    "Data": [
+      {
+        "GroupId": 100840090,
+        "Id": 100840140,
+        "CharacterId": 10084,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840100,
+        "Message": {
+          "j_ko": "확실히 부부장의 말처럼",
+          "j_ja": "たしかに副部長の言う通り……",
+          "g_en": "Maybe the vice president was right.",
+          "g_tw": "確實如副部長所說",
+          "g_tw_cn": "确实如副部长所说",
+          "g_ja": "たしかに副部長の言う通り……",
+          "g_ko": "확실히 부부장의 말처럼"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840100,
+        "Id": 100840150,
+        "CharacterId": 10084,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840110,
+        "Message": {
+          "j_ko": "올해는 좀 더 체력을 키워 두는 편이 좋을지도 모르겠습니다.",
+          "j_ja": "もう少し体力があった方が良いかもしれません",
+          "g_en": "Maybe being a little more active this year would be a good thing.",
+          "g_tw": "或許今年應該增強一下體力比較好",
+          "g_tw_cn": "或许今年应该增强一下体力比较好",
+          "g_ja": "もう少し体力があった方が良いかもしれません",
+          "g_ko": "올해는 좀 더 체력을 키워 두는 편이 좋을지도 모르겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840110,
+        "Id": 100840160,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840120,
+        "Message": {
+          "j_ko": "좋은 생각이긴 한데……",
+          "j_ja": "それは良い考えだけど……",
+          "g_en": "I agree, but I'm surprised!",
+          "g_tw": "這確實是個不錯的想法……",
+          "g_tw_cn": "这确实是个不错的想法……",
+          "g_ja": "それは良い考えだけど……",
+          "g_ko": "좋은 생각이긴 한데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840120,
+        "Id": 100840170,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840130,
+        "Message": {
+          "j_ko": "……어째서 갑자기 그런 생각을?",
+          "j_ja": "……急にどうしたの？",
+          "g_en": "What makes you say that?",
+          "g_tw": "……為什麼突然這麼想？",
+          "g_tw_cn": "……为什么突然这么想？",
+          "g_ja": "……急にどうしたの？",
+          "g_ko": "……어째서 갑자기 그런 생각을?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840130,
+        "Id": 100840180,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840140,
+        "Message": {
+          "j_ko": "해커로서 활동하기 위해서는 어느 정도의 체력도 필요하니까요.",
+          "j_ja": "ハッカーとして活動するためには、ある程度の体力も必要ですからね",
+          "g_en": "I realized hackers need to be physically fit too.",
+          "g_tw": "因為駭客活動也需要一定的體力",
+          "g_tw_cn": "因为黑客活动也需要一定的体力",
+          "g_ja": "ハッカーとして活動するためには、ある程度の体力も必要ですからね",
+          "g_ko": "해커로서 활동하기 위해서는 어느 정도의 체력도 필요하니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840130,
+        "Id": 100840190,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840140,
+        "Message": {
+          "j_ko": "지난번의 산행을 통해 뼈저리게 느꼈습니다……",
+          "j_ja": "前回の登山で思い知らされたんです……",
+          "g_en": "That hike was a harsh reality check...",
+          "g_tw": "藉由上次的登山，我深切地感受到……",
+          "g_tw_cn": "借由上次的登山，我深切地感受到……",
+          "g_ja": "前回の登山で思い知らされたんです……",
+          "g_ko": "지난번의 산행을 통해 뼈저리게 느꼈습니다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840140,
+        "Id": 100840200,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840150,
+        "Message": {
+          "j_ko": "치히로 부부장처럼 험지도 쉽게 오를 수 있는 체력을 갖추게 된다면",
+          "j_ja": "チヒロ副部長のように、急な崖も軽々と登れるような体力を身に付けられたら……",
+          "g_en": "And if I could climb up hills like Vice President Chihiro does",
+          "g_tw": "如果能像千尋副部長一樣，具備能輕鬆攀爬險地的體力……",
+          "g_tw_cn": "如果能像千寻副部长一样，具备能轻松攀爬险地的体力……",
+          "g_ja": "チヒロ副部長のように、急な崖も軽々と登れるような体力を身に付けられたら……",
+          "g_ko": "치히로 부부장처럼 험지도 쉽게 오를 수 있는 체력을 갖추게 된다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840140,
+        "Id": 100840210,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840150,
+        "Message": {
+          "j_ko": "접근하기 어려운 지점에서의 도청도 쉽게 할 수 있을 겁니다.",
+          "j_ja": "盗聴の待機場所にも幅が出るはずです",
+          "g_en": "I could eavesdrop from wherever I wanted.",
+          "g_tw": "就能在難以靠近的地方進行竊聽了",
+          "g_tw_cn": "就能在难以靠近的地方进行窃听了",
+          "g_ja": "盗聴の待機場所にも幅が出るはずです",
+          "g_ko": "접근하기 어려운 지점에서의 도청도 쉽게 할 수 있을 겁니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840150,
+        "Id": 100840220,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100843,
+        "NextGroupId": 100840160,
+        "Message": {
+          "j_ko": "이유가 불손해……",
+          "j_ja": "……なんて返したらいいんだろうね",
+          "g_en": "I don't know how I feel about that reasoning.",
+          "g_tw": "這到底是什麼理由……",
+          "g_tw_cn": "这到底是什么理由……",
+          "g_ja": "……なんて返したらいいんだろうね",
+          "g_ko": "이유가 불손해……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1008405,
+    "Data": [
+      {
+        "GroupId": 100840160,
+        "Id": 100840230,
+        "CharacterId": 10084,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840170,
+        "Message": {
+          "j_ko": "선생님, 혹시 이번 주말에 시간 괜찮으신가요.",
+          "j_ja": "先生、今週末は空いてますか？",
+          "g_en": "Are you free this weekend, Sensei?",
+          "g_tw": "老師，這週末你有時間嗎？",
+          "g_tw_cn": "老师，这周末你有时间吗？",
+          "g_ja": "先生、今週末は空いてますか？",
+          "g_ko": "선생님, 혹시 이번 주말에 시간 괜찮으신가요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840170,
+        "Id": 100840240,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840180,
+        "Message": {
+          "j_ko": "특별한 일정은 없는데……",
+          "j_ja": "特に予定は無いけど……",
+          "g_en": "I don't have any particular plans...",
+          "g_tw": "目前沒有行程……",
+          "g_tw_cn": "目前没有行程……",
+          "g_ja": "特に予定は無いけど……",
+          "g_ko": "특별한 일정은 없는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840180,
+        "Id": 100840250,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840190,
+        "Message": {
+          "j_ko": "그럼 이번 주말에 같이 산에 가지 않으시겠습니까?",
+          "j_ja": "それなら、二人で山に行きませんか？",
+          "g_en": "Then come to the mountains with me.",
+          "g_tw": "那這週末要不要一起去爬山？",
+          "g_tw_cn": "那这周末要不要一起去爬山？",
+          "g_ja": "それなら、二人で山に行きませんか？",
+          "g_ko": "그럼 이번 주말에 같이 산에 가지 않으시겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840180,
+        "Id": 100840260,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840190,
+        "Message": {
+          "j_ko": "……지난번의 리벤지를 하고 싶습니다.",
+          "j_ja": "……前回のリベンジをしたいのです",
+          "g_en": "I need revenge.",
+          "g_tw": "……我想為上次雪恥",
+          "g_tw_cn": "……我想为上次雪耻",
+          "g_ja": "……前回のリベンジをしたいのです",
+          "g_ko": "……지난번의 리벤지를 하고 싶습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840190,
+        "Id": 100840270,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840200,
+        "Message": {
+          "j_ko": "나야 큰 상관은 없지만……",
+          "j_ja": "私は構わないけど……",
+          "g_en": "I can do that, but...",
+          "g_tw": "我是可以配合啦……",
+          "g_tw_cn": "我是可以配合啦……",
+          "g_ja": "私は構わないけど……",
+          "g_ko": "나야 큰 상관은 없지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840200,
+        "Id": 100840280,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840210,
+        "Message": {
+          "j_ko": "혹시 이번에도 성냥 챙겨갈까?",
+          "j_ja": "一応マッチ持っていこうか？",
+          "g_en": "Do you want me to bring some matches this time?",
+          "g_tw": "這次也要帶火柴去嗎？",
+          "g_tw_cn": "这次也要带火柴去吗？",
+          "g_ja": "一応マッチ持っていこうか？",
+          "g_ko": "혹시 이번에도 성냥 챙겨갈까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840210,
+        "Id": 100840290,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840220,
+        "Message": {
+          "j_ko": "아뇨, 괜찮습니다.",
+          "j_ja": "いえ、大丈夫です",
+          "g_en": "No. Not this time.",
+          "g_tw": "不，這次不用帶沒關係",
+          "g_tw_cn": "不，这次不用带没关系",
+          "g_ja": "いえ、大丈夫です",
+          "g_ko": "아뇨, 괜찮습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840210,
+        "Id": 100840300,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840220,
+        "Message": {
+          "j_ko": "이번에는 인위적인 요소를 모두 배제한",
+          "j_ja": "今度こそ人為的な要素を全て排除した……",
+          "g_en": "No artificial-ness this time.",
+          "g_tw": "因為我打算排除所有人為因素……",
+          "g_tw_cn": "因为我打算排除所有人为因素……",
+          "g_ja": "今度こそ人為的な要素を全て排除した……",
+          "g_ko": "이번에는 인위적인 요소를 모두 배제한"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840210,
+        "Id": 100840310,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100845,
+        "NextGroupId": 100840220,
+        "Message": {
+          "j_ko": "진짜 자연의 소리를 녹음할 예정이니까요.",
+          "j_ja": "自然そのものを録音する予定ですから",
+          "g_en": "I want to record the essence of nature.",
+          "g_tw": "錄下真正屬於自然的聲音",
+          "g_tw_cn": "录下真正属于自然的声音",
+          "g_ja": "自然そのものを録音する予定ですから",
+          "g_ko": "진짜 자연의 소리를 녹음할 예정이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1008406,
+    "Data": [
+      {
+        "GroupId": 100840220,
+        "Id": 100840320,
+        "CharacterId": 10084,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840230,
+        "Message": {
+          "j_ko": "저번 산행 때 녹음한 사운드를 정리하던 중인데",
+          "j_ja": "前回の山で録音した音源を確認していたのですが……",
+          "g_en": "I was editing my sound bytes from our last hike",
+          "g_tw": "我在整理上次爬山錄下的聲音時……",
+          "g_tw_cn": "我在整理上次爬山录下的声音时……",
+          "g_ja": "前回の山で録音した音源を確認していたのですが……",
+          "g_ko": "저번 산행 때 녹음한 사운드를 정리하던 중인데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840230,
+        "Id": 100840330,
+        "CharacterId": 10084,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840240,
+        "Message": {
+          "j_ko": "아무래도 일부 사운드에 잡음이 섞여 들어간 것 같아서",
+          "j_ja": "どうやら一部ノイズが入っていたようで……",
+          "g_en": "and some weird sounds got mixed into my recordings.",
+          "g_tw": "發現有一部分混入了雜音……",
+          "g_tw_cn": "发现有一部分混入了杂音……",
+          "g_ja": "どうやら一部ノイズが入っていたようで……",
+          "g_ko": "아무래도 일부 사운드에 잡음이 섞여 들어간 것 같아서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840230,
+        "Id": 100840340,
+        "CharacterId": 10084,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840240,
+        "Message": {
+          "j_ko": "시간이 생길 때 다시 한번 산에 다녀와야 할 것 같습니다……",
+          "j_ja": "もう一度、行く必要があります",
+          "g_en": "I think I need to go back to the mountains to try again.",
+          "g_tw": "所以之後必須再找時間上山一趟……",
+          "g_tw_cn": "所以之后必须再找时间上山一趟……",
+          "g_ja": "もう一度、行く必要があります",
+          "g_ko": "시간이 생길 때 다시 한번 산에 다녀와야 할 것 같습니다……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840240,
+        "Id": 100840350,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840250,
+        "Message": {
+          "j_ko": "혹시 내 목소리가 섞여 들어간 거야……?",
+          "j_ja": "私の声が入っちゃってたとか……？",
+          "g_en": "Did my voice end up getting picked up?",
+          "g_tw": "難道是錄到我的聲音了嗎……？",
+          "g_tw_cn": "难道是录到我的声音了吗……？",
+          "g_ja": "私の声が入っちゃってたとか……？",
+          "g_ko": "혹시 내 목소리가 섞여 들어간 거야……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840250,
+        "Id": 100840360,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840260,
+        "Message": {
+          "j_ko": "아뇨, 그쪽의 문제는 아닙니다.",
+          "j_ja": "いえ、そうではなく……",
+          "g_en": "No, no.",
+          "g_tw": "不，不是這樣的",
+          "g_tw_cn": "不，不是这样的",
+          "g_ja": "いえ、そうではなく……",
+          "g_ko": "아뇨, 그쪽의 문제는 아닙니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840250,
+        "Id": 100840370,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840260,
+        "Message": {
+          "j_ko": "오히려 선생님의 목소리가 섞였다면 더 좋은 용도가",
+          "j_ja": "むしろ先生の声が入っていたら、色々と使い道が……",
+          "g_en": "I would've kept the recordings forever if Sensei's voice was in them...",
+          "g_tw": "如果錄到了老師的聲音，反而會有其他更好的用途",
+          "g_tw_cn": "如果录到了老师的声音，反而会有其他更好的用途",
+          "g_ja": "むしろ先生の声が入っていたら、色々と使い道が……",
+          "g_ko": "오히려 선생님의 목소리가 섞였다면 더 좋은 용도가"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840260,
+        "Id": 100840380,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840270,
+        "Message": {
+          "j_ko": "아",
+          "j_ja": "あ",
+          "g_en": "Ah.",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "아"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840270,
+        "Id": 100840390,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840280,
+        "Message": {
+          "j_ko": "코타마는 여전하구나……",
+          "j_ja": "コタマは相変わらずだね……",
+          "g_en": "You never change, Kotama.",
+          "g_tw": "小玉還是那個小玉呢……",
+          "g_tw_cn": "小玉还是那个小玉呢……",
+          "g_ja": "コタマは相変わらずだね……",
+          "g_ko": "코타마는 여전하구나……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840280,
+        "Id": 100840400,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840290,
+        "Message": {
+          "j_ko": "그나저나 다시 산에 간다면 나도 같이 데려가 주지 않을래?",
+          "j_ja": "また用があるなら一緒に行こうか",
+          "g_en": "Take me with you the next time you go to the mountains!",
+          "g_tw": "對了，如果要上山的話可以帶我一起去嗎？",
+          "g_tw_cn": "对了，如果要上山的话可以带我一起去吗？",
+          "g_ja": "また用があるなら一緒に行こうか",
+          "g_ko": "그나저나 다시 산에 간다면 나도 같이 데려가 주지 않을래?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840290,
+        "Id": 100840410,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840300,
+        "Message": {
+          "j_ko": "네?",
+          "j_ja": "はい？",
+          "g_en": "Huh?",
+          "g_tw": "咦？",
+          "g_tw_cn": "咦？",
+          "g_ja": "はい？",
+          "g_ko": "네?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840290,
+        "Id": 100840420,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840300,
+        "Message": {
+          "j_ko": "선생님께서도 산에 뭔가 볼일이 있으신가요?",
+          "j_ja": "先生も何か山に用事があるのですか？",
+          "g_en": "Do you have work to do for Schale out in the wilderness?",
+          "g_tw": "老師到山上有什麼事嗎？",
+          "g_tw_cn": "老师到山上有什么事吗？",
+          "g_ja": "先生も何か山に用事があるのですか？",
+          "g_ko": "선생님께서도 산에 뭔가 볼일이 있으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840300,
+        "Id": 100840430,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840310,
+        "Message": {
+          "j_ko": "그동안 매번 산 중턱에서 돌아왔었으니까……",
+          "j_ja": "いつも中腹で戻ってたから……",
+          "g_en": "Well, we always end up giving up halfway through the hike.",
+          "g_tw": "因為我們都只爬到半山腰就回來了……",
+          "g_tw_cn": "因为我们都只爬到半山腰就回来了……",
+          "g_ja": "いつも中腹で戻ってたから……",
+          "g_ko": "그동안 매번 산 중턱에서 돌아왔었으니까……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840310,
+        "Id": 100840440,
+        "CharacterId": 10084,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840320,
+        "Message": {
+          "j_ko": "이번에는 같이 산 정상까지 올라가 보자.",
+          "j_ja": "今度は一緒に山頂まで登ってみようかなって",
+          "g_en": "Let's reach the top of the mountain together!",
+          "g_tw": "這次就一起爬到山頂吧",
+          "g_tw_cn": "这次就一起爬到山顶吧",
+          "g_ja": "今度は一緒に山頂まで登ってみようかなって",
+          "g_ko": "이번에는 같이 산 정상까지 올라가 보자."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840320,
+        "Id": 100840450,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100840330,
+        "Message": {
+          "j_ko": "네",
+          "j_ja": "はい",
+          "g_en": "Okay.",
+          "g_tw": "嗯",
+          "g_tw_cn": "嗯",
+          "g_ja": "はい",
+          "g_ko": "네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100840330,
+        "Id": 100840460,
+        "CharacterId": 10084,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100846,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "……네?",
+          "j_ja": "……はい？",
+          "g_en": "...Okay?",
+          "g_tw": "……嗯？",
+          "g_tw_cn": "……嗯？",
+          "g_ja": "……はい？",
+          "g_ko": "……네?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

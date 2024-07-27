@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "待って、誰……！",
+      "j_ko": "잠깐, 거기 누구……!",
+      "g_ja": "待って、誰……！",
+      "g_ko": "잠깐, 거기 누구……!",
+      "g_en": "Wait, who's th—!",
+      "g_th": "หยุดนะ ใครอยู่ตรงนั้นน่ะ...!",
+      "g_tw": "等等，是誰在那邊……！",
+      "g_tw_cn": "等等，是谁在那边……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;06;잠깐, 거기 누구……!\\n#3;em;[!]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "で、電気が……！？",
+      "j_ko": "복도의 전등이 한번에……?!",
+      "g_ja": "で、電気が……！？",
+      "g_ko": "복도의 전등이 한번에……?!",
+      "g_en": "The hallway lights?!",
+      "g_th": "ไฟทางเดินดับพร้อมกันหมดเลย...?!",
+      "g_tw": "走廊的燈怎麼……！？",
+      "g_tw_cn": "走廊的灯怎么……！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "#na;히나;복도의 전등이 한번에……?!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "誰かのいたずら……？",
+      "j_ko": "누군가의, 장난……? 아니면……",
+      "g_ja": "誰かのいたずら……？",
+      "g_ko": "누군가의, 장난……? 아니면……",
+      "g_en": "Is someone playing a prank...? Or...",
+      "g_th": "ใครมือดีมาแกล้งเล่นรึเปล่า...? หรือว่า...",
+      "g_tw": "是誰的惡作劇嗎……？還是……",
+      "g_tw_cn": "是谁的恶作剧吗……？还是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "#na;히나;누군가의, 장난……? 아니면……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぅ、良かっ……",
+      "j_ko": "아, 불이 들어왔네. 다행……",
+      "g_ja": "ふぅ、良かっ……",
+      "g_ko": "아, 불이 들어왔네. 다행……",
+      "g_en": "Ah, power's returned. Thank goodness...",
+      "g_th": "เฮ้อ ไฟติดแล้ว โล่งอกไปที...",
+      "g_tw": "啊，燈亮了呢。太好了……",
+      "g_tw_cn": "啊，灯亮了呢。太好了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;아, 불이 들어왔네. 다행……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

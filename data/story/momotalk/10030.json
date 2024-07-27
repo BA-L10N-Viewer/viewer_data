@@ -1,0 +1,993 @@
+[
+  {
+    "BondScenarioId": 1003002,
+    "Data": [
+      {
+        "GroupId": 100300010,
+        "Id": 100300010,
+        "CharacterId": 10030,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300020,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님.",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Hello, Sensei.",
+          "g_tw": "您好，老師",
+          "g_tw_cn": "您好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "안녕하세요, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300020,
+        "Id": 100300020,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300030,
+        "Message": {
+          "j_ko": "어제 당번 활동을 마치고 돌아가는 길에 보니 밤늦게까지 샬레 사무실의 불이 켜져 있더군요.",
+          "j_ja": "昨日、当番を終えて帰る時にもまだシャーレの電気が点いていましたが……",
+          "g_en": "Yesterday, on my way home after duty, I noticed that the Schale office lights were on until late.",
+          "g_tw": "昨天值班結束回家的時候，我發現夏萊的燈還亮著……",
+          "g_tw_cn": "昨天值班结束回家的时候，我发现夏莱的灯还亮着……",
+          "g_ja": "昨日、当番を終えて帰る時にもまだシャーレの電気が点いていましたが……",
+          "g_ko": "어제 당번 활동을 마치고 돌아가는 길에 보니 밤늦게까지 샬레 사무실의 불이 켜져 있더군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300030,
+        "Id": 100300030,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300040,
+        "Message": {
+          "j_ko": "지난주 주말에도 샬레의 일 때문에 과로를 하셨다고 들었는데……",
+          "j_ja": "先週末も夜遅くまで残業していたとお聞きしましたし……",
+          "g_en": "I heard that you overworked yourself last weekend as well.",
+          "g_tw": "聽說您上週末也加班到很晚……",
+          "g_tw_cn": "听说您上周末也加班到很晚……",
+          "g_ja": "先週末も夜遅くまで残業していたとお聞きしましたし……",
+          "g_ko": "지난주 주말에도 샬레의 일 때문에 과로를 하셨다고 들었는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300030,
+        "Id": 100300040,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300040,
+        "Message": {
+          "j_ko": "휴식은 제대로 취하고 계시나요?",
+          "j_ja": "お休みは、きちんと取られていますか？",
+          "g_en": "Are you getting enough rest?",
+          "g_tw": "最近有好好休息嗎？",
+          "g_tw_cn": "最近有好好休息吗？",
+          "g_ja": "お休みは、きちんと取られていますか？",
+          "g_ko": "휴식은 제대로 취하고 계시나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300040,
+        "Id": 100300050,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300050,
+        "Message": {
+          "j_ko": "일이 너무 많아서 어쩔 수가 없어.",
+          "j_ja": "最近はなかなか……",
+          "g_en": "I have too much work, so there's nothing I can do.",
+          "g_tw": "工作實在太多了……",
+          "g_tw_cn": "工作实在太多了……",
+          "g_ja": "最近はなかなか……",
+          "g_ko": "일이 너무 많아서 어쩔 수가 없어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300050,
+        "Id": 100300060,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300060,
+        "Message": {
+          "j_ko": "안 됩니다. 휴식도 엄연한 업무의 일부니까요.",
+          "j_ja": "良くありませんよ、休息もれっきとした任務の一部です",
+          "g_en": "That won't do. Resting is also a part of work.",
+          "g_tw": "這可不行唷，休息也是正式任務的一部份",
+          "g_tw_cn": "这可不行唷，休息也是正式任务的一部份",
+          "g_ja": "良くありませんよ、休息もれっきとした任務の一部です",
+          "g_ko": "안 됩니다. 휴식도 엄연한 업무의 일부니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300050,
+        "Id": 100300070,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300060,
+        "Message": {
+          "j_ko": "게헨나 선도부의 보건 담당으로서 선생님의 건강이 악화되는 건 묵과할 수 없습니다.",
+          "j_ja": "ゲヘナ風紀委員会の救護担当として、これは見過ごせません",
+          "g_en": "As the head of the Medical Committee of the Gehenna Prefect Team, I cannot stand by and watch as your health deteriorates.",
+          "g_tw": "身為格黑娜風紀委員會的救護負責人，可不能坐視不管",
+          "g_tw_cn": "身为格黑娜风纪委员会的救护负责人，可不能坐视不管",
+          "g_ja": "ゲヘナ風紀委員会の救護担当として、これは見過ごせません",
+          "g_ko": "게헨나 선도부의 보건 담당으로서 선생님의 건강이 악화되는 건 묵과할 수 없습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300050,
+        "Id": 100300080,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300060,
+        "Message": {
+          "j_ko": "최근 특별히 몸에 불편하신 점은 없으신가요?",
+          "j_ja": "最近、お体で気になるところはございませんか？",
+          "g_en": "Have you felt any particular discomfort recently?",
+          "g_tw": "最近身體有什麼不舒服的地方嗎？",
+          "g_tw_cn": "最近身体有什么不舒服的地方吗？",
+          "g_ja": "最近、お体で気になるところはございませんか？",
+          "g_ko": "최근 특별히 몸에 불편하신 점은 없으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300060,
+        "Id": 100300090,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300070,
+        "Message": {
+          "j_ko": "눈이 자주 피로한 것 같아.",
+          "j_ja": "最近は目が疲れてるような……",
+          "g_en": "My eyes are often tired.",
+          "g_tw": "最近眼睛似乎很疲勞……",
+          "g_tw_cn": "最近眼睛似乎很疲劳……",
+          "g_ja": "最近は目が疲れてるような……",
+          "g_ko": "눈이 자주 피로한 것 같아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300060,
+        "Id": 100300100,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300070,
+        "Message": {
+          "j_ko": "어깨가 자주 결리는 것 같아.",
+          "j_ja": "最近は肩が凝ってるような……",
+          "g_en": "My shoulders are often tense.",
+          "g_tw": "最近肩膀好像很僵硬……",
+          "g_tw_cn": "最近肩膀好像很僵硬……",
+          "g_ja": "最近は肩が凝ってるような……",
+          "g_ko": "어깨가 자주 결리는 것 같아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300070,
+        "Id": 100300110,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300080,
+        "Message": {
+          "j_ko": "눈의 피로와 어깨 결림이라. 전형적인 만성 피로의 증상이군요.",
+          "j_ja": "なるほど……典型的な慢性疲労の症状ですね",
+          "g_en": "You're exhibiting classic symptoms of chronic fatigue.",
+          "g_tw": "原來如此……這是典型的慢性疲勞症狀",
+          "g_tw_cn": "原来如此……这是典型的慢性疲劳症状",
+          "g_ja": "なるほど……典型的な慢性疲労の症状ですね",
+          "g_ko": "눈의 피로와 어깨 결림이라. 전형적인 만성 피로의 증상이군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300070,
+        "Id": 100300120,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300080,
+        "Message": {
+          "j_ko": "그러고보니 게헨나 학원에는 피로 해소에 도움이 되는 탕이 많이 있습니다.",
+          "j_ja": "そういえば、ゲヘナ学園には疲労回復の効果がある温泉がたくさんあるんです",
+          "g_en": "Come to think of it, Gehenna Academy has many hot springs that can help relieve fatigue.",
+          "g_tw": "這麼說來，格黑娜學園有很多能緩解疲勞的溫泉",
+          "g_tw_cn": "这么说来，格黑娜学园有很多能缓解疲劳的温泉",
+          "g_ja": "そういえば、ゲヘナ学園には疲労回復の効果がある温泉がたくさんあるんです",
+          "g_ko": "그러고보니 게헨나 학원에는 피로 해소에 도움이 되는 탕이 많이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300080,
+        "Id": 100300130,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300090,
+        "Message": {
+          "j_ko": "시간이 되실 때 게헨나 학원을 방문하셔서 온천을 즐겨보시는 건 어떠신가요?",
+          "j_ja": "お時間がある時にでも、ゲヘナの温泉をご利用されてはいかがでしょうか？",
+          "g_en": "How about visiting Gehenna Academy and enjoying the hot springs when you have time?",
+          "g_tw": "有空的時候，不妨來泡一下格黑娜的溫泉哦？",
+          "g_tw_cn": "有空的时候，不妨来泡一下格黑娜的温泉哦？",
+          "g_ja": "お時間がある時にでも、ゲヘナの温泉をご利用されてはいかがでしょうか？",
+          "g_ko": "시간이 되실 때 게헨나 학원을 방문하셔서 온천을 즐겨보시는 건 어떠신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300090,
+        "Id": 100300140,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300100,
+        "Message": {
+          "j_ko": "좋은 생각이네.",
+          "j_ja": "そうなんだ、それは良さそう",
+          "g_en": "That's a good idea.",
+          "g_tw": "這樣啊，聽起來不錯",
+          "g_tw_cn": "这样啊，听起来不错",
+          "g_ja": "そうなんだ、それは良さそう",
+          "g_ko": "좋은 생각이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300090,
+        "Id": 100300150,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300100,
+        "Message": {
+          "j_ko": "시간 날 때 한번 들를게.",
+          "j_ja": "時間ある時に一度寄ってみるね",
+          "g_en": "I'll stop by when I have time.",
+          "g_tw": "有空的時候會順道去看看",
+          "g_tw_cn": "有空的时候会顺道去看看",
+          "g_ja": "時間ある時に一度寄ってみるね",
+          "g_ko": "시간 날 때 한번 들를게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300100,
+        "Id": 100300160,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300110,
+        "Message": {
+          "j_ko": "네.",
+          "j_ja": "はい、是非",
+          "g_en": "Yes.",
+          "g_tw": "好的，請務必前來",
+          "g_tw_cn": "好的，请务必前来",
+          "g_ja": "はい、是非",
+          "g_ko": "네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300100,
+        "Id": 100300170,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300110,
+        "Message": {
+          "j_ko": "그럼 언젠가 저희 학원을 방문하실 날을 기다리고 있겠습니다.",
+          "j_ja": "少しでも先生の疲れが取れますように",
+          "g_en": "Well then, I look forward to the day you visit our academy.",
+          "g_tw": "希望能稍微消除老師的疲勞",
+          "g_tw_cn": "希望能稍微消除老师的疲劳",
+          "g_ja": "少しでも先生の疲れが取れますように",
+          "g_ko": "그럼 언젠가 저희 학원을 방문하실 날을 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300110,
+        "Id": 100300180,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100302,
+        "NextGroupId": 100300120,
+        "Message": {
+          "j_ko": "- 치나츠",
+          "j_ja": "～チナツ～",
+          "g_en": "- Chinatsu",
+          "g_tw": "～千夏～",
+          "g_tw_cn": "～千夏～",
+          "g_ja": "～チナツ～",
+          "g_ko": "- 치나츠"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003003,
+    "Data": [
+      {
+        "GroupId": 100300120,
+        "Id": 100300190,
+        "CharacterId": 10030,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300130,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님. 치나츠입니다.",
+          "j_ja": "先生、お疲れ様です",
+          "g_en": "Hello, Sensei. This is Chinatsu.",
+          "g_tw": "老師，您辛苦了",
+          "g_tw_cn": "老师，您辛苦了",
+          "g_ja": "先生、お疲れ様です",
+          "g_ko": "안녕하세요, 선생님. 치나츠입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300130,
+        "Id": 100300200,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300140,
+        "Message": {
+          "j_ko": "온천 휴양 중에 무언가 특별히 불편한 점은 없으신지요.",
+          "j_ja": "温泉に入られて、何かご不便などはありませんでしたか？",
+          "g_en": "Is there anything uncomfortable with your stay at the hot springs?",
+          "g_tw": "在享受溫泉時有遇到什麼不方便嗎？",
+          "g_tw_cn": "在享受温泉时有遇到什么不方便吗？",
+          "g_ja": "温泉に入られて、何かご不便などはありませんでしたか？",
+          "g_ko": "온천 휴양 중에 무언가 특별히 불편한 점은 없으신지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300140,
+        "Id": 100300210,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300150,
+        "Message": {
+          "j_ko": "응, 문제없어.",
+          "j_ja": "うん、大丈夫",
+          "g_en": "No, not at all.",
+          "g_tw": "沒問題",
+          "g_tw_cn": "没问题",
+          "g_ja": "うん、大丈夫",
+          "g_ko": "응, 문제없어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300140,
+        "Id": 100300220,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300150,
+        "Message": {
+          "j_ko": "치나츠가 배려해 준 덕분이야.",
+          "j_ja": "チナツが色々配慮してくれたおかげでバッチリ",
+          "g_en": "All thanks to you, Chinatsu.",
+          "g_tw": "多虧有千夏關照，非常完美",
+          "g_tw_cn": "多亏有千夏关照，非常完美",
+          "g_ja": "チナツが色々配慮してくれたおかげでバッチリ",
+          "g_ko": "치나츠가 배려해 준 덕분이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300150,
+        "Id": 100300230,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300160,
+        "Message": {
+          "j_ko": "그렇다니 다행입니다.",
+          "j_ja": "それは良かったです",
+          "g_en": "I'm glad to hear that.",
+          "g_tw": "那太好了",
+          "g_tw_cn": "那太好了",
+          "g_ja": "それは良かったです",
+          "g_ko": "그렇다니 다행입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300160,
+        "Id": 100300240,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300170,
+        "Message": {
+          "j_ko": "혹시 괜찮으시다면 지금 선생님의 방에 찾아가도 괜찮겠습니까?",
+          "j_ja": "それで、本題なのですが……今から先生のところに、お伺いしてもよろしいでしょうか？",
+          "g_en": "If it's okay with you, can I stop by your room right now?",
+          "g_tw": "然後，進入正題……現在方便去老師那邊打擾一下嗎？",
+          "g_tw_cn": "然后，进入正题……现在方便去老师那边打扰一下吗？",
+          "g_ja": "それで、本題なのですが……今から先生のところに、お伺いしてもよろしいでしょうか？",
+          "g_ko": "혹시 괜찮으시다면 지금 선생님의 방에 찾아가도 괜찮겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300160,
+        "Id": 100300250,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300170,
+        "Message": {
+          "j_ko": "그, 물론 이상한 의미로 말씀드린 게 아니라……!",
+          "j_ja": "その、もちろん変な意味ではなく……！",
+          "g_en": "Not for any weird reason of course!",
+          "g_tw": "那個，當然不是奇怪的意思……！",
+          "g_tw_cn": "那个，当然不是奇怪的意思……！",
+          "g_ja": "その、もちろん変な意味ではなく……！",
+          "g_ko": "그, 물론 이상한 의미로 말씀드린 게 아니라……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100300170,
+            "Id": 100300260,
+            "CharacterId": 10030,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100300180,
+            "Message": {
+              "j_ko": "다름이 아니라 피로 해소에 좋은 차를 몇 가지 구해서……",
+              "j_ja": "疲労に効くお茶を手に入れたので、よろしければ一緒にお茶でもと思いまして",
+              "g_en": "It's just that I bought some teas that are good for relieving fatigue...",
+              "g_tw": "是因為得到了恢復疲勞很有效的茶，如果可以的話，想一起喝茶",
+              "g_tw_cn": "是因为得到了恢复疲劳很有效的茶，如果可以的话，想一起喝茶",
+              "g_ja": "疲労に効くお茶を手に入れたので、よろしければ一緒にお茶でもと思いまして",
+              "g_ko": "다름이 아니라 피로 해소에 좋은 차를 몇 가지 구해서……"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100300170,
+            "Id": 100300270,
+            "CharacterId": 10030,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100300180,
+            "Message": {
+              "j_ko": "괜찮으시다면 함께 차라도 한 잔 어떠신가 해서요.",
+              "j_ja": "その……いかがでしょうか？",
+              "g_en": "So I was wondering if you would like to have a cup of tea together.",
+              "g_tw": "那個……您覺得如何？",
+              "g_tw_cn": "那个……您觉得如何？",
+              "g_ja": "その……いかがでしょうか？",
+              "g_ko": "괜찮으시다면 함께 차라도 한 잔 어떠신가 해서요."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100300170,
+        "Id": 100300260,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300180,
+        "Message": {
+          "j_ko": "다름이 아니라 피로 해소에 좋은 차를 몇 가지 구해서……",
+          "j_ja": "疲労に効くお茶を手に入れたので、よろしければ一緒にお茶でもと思いまして",
+          "g_en": "It's just that I bought some teas that are good for relieving fatigue...",
+          "g_tw": "是因為得到了恢復疲勞很有效的茶，如果可以的話，想一起喝茶",
+          "g_tw_cn": "是因为得到了恢复疲劳很有效的茶，如果可以的话，想一起喝茶",
+          "g_ja": "疲労に効くお茶を手に入れたので、よろしければ一緒にお茶でもと思いまして",
+          "g_ko": "다름이 아니라 피로 해소에 좋은 차를 몇 가지 구해서……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300170,
+        "Id": 100300270,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300180,
+        "Message": {
+          "j_ko": "괜찮으시다면 함께 차라도 한 잔 어떠신가 해서요.",
+          "j_ja": "その……いかがでしょうか？",
+          "g_en": "So I was wondering if you would like to have a cup of tea together.",
+          "g_tw": "那個……您覺得如何？",
+          "g_tw_cn": "那个……您觉得如何？",
+          "g_ja": "その……いかがでしょうか？",
+          "g_ko": "괜찮으시다면 함께 차라도 한 잔 어떠신가 해서요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300180,
+        "Id": 100300280,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300190,
+        "Message": {
+          "j_ko": "좋아.",
+          "j_ja": "もちろん。ありがとう、待ってるね",
+          "g_en": "Sure.",
+          "g_tw": "謝謝，我等你唷",
+          "g_tw_cn": "谢谢，我等你唷",
+          "g_ja": "もちろん。ありがとう、待ってるね",
+          "g_ko": "좋아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300190,
+        "Id": 100300290,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300200,
+        "Message": {
+          "j_ko": "네.",
+          "j_ja": "いえそんな、こちらこそありがとうございます",
+          "g_en": "Yes.",
+          "g_tw": "不會，我才要感謝老師",
+          "g_tw_cn": "不会，我才要感谢老师",
+          "g_ja": "いえそんな、こちらこそありがとうございます",
+          "g_ko": "네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300190,
+        "Id": 100300300,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300200,
+        "Message": {
+          "j_ko": "그럼 곧 찾아뵙도록 하겠습니다.",
+          "j_ja": "では、すぐにお伺いしますね",
+          "g_en": "Then I will see you soon.",
+          "g_tw": "那麼，我馬上就過去拜訪您",
+          "g_tw_cn": "那么，我马上就过去拜访您",
+          "g_ja": "では、すぐにお伺いしますね",
+          "g_ko": "그럼 곧 찾아뵙도록 하겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300200,
+        "Id": 100300310,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100303,
+        "NextGroupId": 100300210,
+        "Message": {
+          "j_ko": "- 치나츠",
+          "j_ja": "～チナツ～",
+          "g_en": "- Chinatsu",
+          "g_tw": "～千夏～",
+          "g_tw_cn": "～千夏～",
+          "g_ja": "～チナツ～",
+          "g_ko": "- 치나츠"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003005,
+    "Data": [
+      {
+        "GroupId": 100300210,
+        "Id": 100300320,
+        "CharacterId": 10030,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300220,
+        "Message": {
+          "j_ko": "안녕하세요, 선생님.",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Hello, Sensei.",
+          "g_tw": "您好，老師",
+          "g_tw_cn": "您好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "안녕하세요, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300220,
+        "Id": 100300330,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300230,
+        "Message": {
+          "j_ko": "혹시 괜찮으시다면 오늘 점심 식사 이후에 잠깐 시간을 내주지 않으시겠습니까?",
+          "j_ja": "その、もしよろしければ今日の午後、少しお時間をいただけないでしょうか？",
+          "g_en": "If it's okay with you, could you make some time for me after lunch today?",
+          "g_tw": "那個，如果可以的話，今天下午能占用您一點時間嗎？",
+          "g_tw_cn": "那个，如果可以的话，今天下午能占用您一点时间吗？",
+          "g_ja": "その、もしよろしければ今日の午後、少しお時間をいただけないでしょうか？",
+          "g_ko": "혹시 괜찮으시다면 오늘 점심 식사 이후에 잠깐 시간을 내주지 않으시겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300220,
+        "Id": 100300340,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300230,
+        "Message": {
+          "j_ko": "선생님께 도움을 요청하고 싶은 일이 있습니다.",
+          "j_ja": "実は先生に手伝っていただきたいことがありまして……",
+          "g_en": "There is something that I need your help with, Sensei.",
+          "g_tw": "其實是有事情想請老師幫忙……",
+          "g_tw_cn": "其实是有事情想请老师帮忙……",
+          "g_ja": "実は先生に手伝っていただきたいことがありまして……",
+          "g_ko": "선생님께 도움을 요청하고 싶은 일이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300230,
+        "Id": 100300350,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300240,
+        "Message": {
+          "j_ko": "응, 괜찮아.",
+          "j_ja": "うん、任せて",
+          "g_en": "Yeah, sure.",
+          "g_tw": "嗯，交給我吧",
+          "g_tw_cn": "嗯，交给我吧",
+          "g_ja": "うん、任せて",
+          "g_ko": "응, 괜찮아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300230,
+        "Id": 100300360,
+        "CharacterId": 10030,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300240,
+        "Message": {
+          "j_ko": "치나츠의 부탁이라면 뭐든지!",
+          "j_ja": "チナツの頼みならいくらでも！",
+          "g_en": "Anything for you, Chinatsu!",
+          "g_tw": "如果是千夏的請求就儘管來吧！",
+          "g_tw_cn": "如果是千夏的请求就尽管来吧！",
+          "g_ja": "チナツの頼みならいくらでも！",
+          "g_ko": "치나츠의 부탁이라면 뭐든지!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300240,
+        "Id": 100300370,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300250,
+        "Message": {
+          "j_ko": "감사합니다.",
+          "j_ja": "あ、ありがとうございます",
+          "g_en": "Thank you.",
+          "g_tw": "非，非常感謝",
+          "g_tw_cn": "非，非常感谢",
+          "g_ja": "あ、ありがとうございます",
+          "g_ko": "감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300250,
+        "Id": 100300380,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300260,
+        "Message": {
+          "j_ko": "그럼 온천장 입구의 기념품 가게에서 기다리고 있겠습니다.",
+          "j_ja": "それでは、お土産屋さんの前でお待ちしておりますね",
+          "g_en": "Then I will be waiting for you at the souvenir shop at the entrance of the hot springs resort.",
+          "g_tw": "那麼，我在伴手禮店的前面等您",
+          "g_tw_cn": "那么，我在伴手礼店的前面等您",
+          "g_ja": "それでは、お土産屋さんの前でお待ちしておりますね",
+          "g_ko": "그럼 온천장 입구의 기념품 가게에서 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300250,
+        "Id": 100300390,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300260,
+        "Message": {
+          "j_ko": "식사 후에 뵙겠습니다.",
+          "j_ja": "よろしくお願いいたします",
+          "g_en": "I will see you after lunch.",
+          "g_tw": "萬事拜託了",
+          "g_tw_cn": "万事拜托了",
+          "g_ja": "よろしくお願いいたします",
+          "g_ko": "식사 후에 뵙겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100300260,
+            "Id": 100300400,
+            "CharacterId": 10030,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 100305,
+            "NextGroupId": 100300270,
+            "Message": {
+              "j_ko": "- 치나츠",
+              "j_ja": "～チナツ～",
+              "g_en": "- Chinatsu",
+              "g_tw": "～千夏～",
+              "g_tw_cn": "～千夏～",
+              "g_ja": "～チナツ～",
+              "g_ko": "- 치나츠"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100300260,
+        "Id": 100300400,
+        "CharacterId": 10030,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100305,
+        "NextGroupId": 100300270,
+        "Message": {
+          "j_ko": "- 치나츠",
+          "j_ja": "～チナツ～",
+          "g_en": "- Chinatsu",
+          "g_tw": "～千夏～",
+          "g_tw_cn": "～千夏～",
+          "g_ja": "～チナツ～",
+          "g_ko": "- 치나츠"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003006,
+    "Data": [
+      {
+        "GroupId": 100300270,
+        "Id": 100300410,
+        "CharacterId": 10030,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300280,
+        "Message": {
+          "j_ko": "선생님, 안녕하세요. 치나츠입니다.",
+          "j_ja": "先生、こんにちは",
+          "g_en": "Hello, Sensei. This is Chinatsu.",
+          "g_tw": "老師，您好",
+          "g_tw_cn": "老师，您好",
+          "g_ja": "先生、こんにちは",
+          "g_ko": "선생님, 안녕하세요. 치나츠입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300280,
+        "Id": 100300420,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300290,
+        "Message": {
+          "j_ko": "지난번에는 부원들에게 선물할 답례품을 고르며 선생님께 신세를 졌습니다.",
+          "j_ja": "この前のお土産選びの件はありがとうございました",
+          "g_en": "You helped me pick out thank you gifts for my members last time.",
+          "g_tw": "之前挑選禮物的那件事，非常感謝您",
+          "g_tw_cn": "之前挑选礼物的那件事，非常感谢您",
+          "g_ja": "この前のお土産選びの件はありがとうございました",
+          "g_ko": "지난번에는 부원들에게 선물할 답례품을 고르며 선생님께 신세를 졌습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300280,
+        "Id": 100300430,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300290,
+        "Message": {
+          "j_ko": "그 외에도 이것저것 잔뜩 선물을 받기도 했었고……",
+          "j_ja": "それに、プレゼントまで頂いてしまって……",
+          "g_en": "And you gave me a lot of gifts as well.",
+          "g_tw": "而且還收到了禮物……",
+          "g_tw_cn": "而且还收到了礼物……",
+          "g_ja": "それに、プレゼントまで頂いてしまって……",
+          "g_ko": "그 외에도 이것저것 잔뜩 선물을 받기도 했었고……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300290,
+        "Id": 100300440,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300300,
+        "Message": {
+          "j_ko": "베풀어 주신 은혜에 보답하지 않고 넘어가는 것은 올바른 자세가 아니라고 생각되어,",
+          "j_ja": "その、お返しのお返しというのも変なお話かもしれませんが……",
+          "g_en": "I don't think it's right for me to keep on receiving without reciprocating the kindness you've shown me.",
+          "g_tw": "那個，雖然回禮您的回禮聽起來可能很奇怪……",
+          "g_tw_cn": "那个，虽然回礼您的回礼听起来可能很奇怪……",
+          "g_ja": "その、お返しのお返しというのも変なお話かもしれませんが……",
+          "g_ko": "베풀어 주신 은혜에 보답하지 않고 넘어가는 것은 올바른 자세가 아니라고 생각되어,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300290,
+        "Id": 100300450,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300300,
+        "Message": {
+          "j_ko": "근처에 있는 고급 료칸의 숙박권을 예약해 두었습니다.",
+          "j_ja": "何か私も恩返しがしたいと思い、ある旅館の予約をしておきました",
+          "g_en": "I made a reservation at a nearby luxury ryokan.",
+          "g_tw": "但我也想要報答恩情，所以預約了某間旅館",
+          "g_tw_cn": "但我也想要报答恩情，所以预约了某间旅馆",
+          "g_ja": "何か私も恩返しがしたいと思い、ある旅館の予約をしておきました",
+          "g_ko": "근처에 있는 고급 료칸의 숙박권을 예약해 두었습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300300,
+        "Id": 100300460,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300310,
+        "Message": {
+          "j_ko": "식사나 시설이 훌륭하기로 소문난 료칸이니, 선생님께서도 분명 만족하시리라 생각합니다.",
+          "j_ja": "結構良いところでして、食事や施設も素晴らしいと評判のところですので、きっとご満足いただけるかと",
+          "g_en": "It's a ryokan known for its excellent food and facilities, so I'm certain you will enjoy it, Sensei.",
+          "g_tw": "是個不錯的地方，餐點和設施都有不錯的評價，我想您一定會滿意的",
+          "g_tw_cn": "是个不错的地方，餐点和设施都有不错的评价，我想您一定会满意的",
+          "g_ja": "結構良いところでして、食事や施設も素晴らしいと評判のところですので、きっとご満足いただけるかと",
+          "g_ko": "식사나 시설이 훌륭하기로 소문난 료칸이니, 선생님께서도 분명 만족하시리라 생각합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300300,
+        "Id": 100300470,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100300310,
+        "Message": {
+          "j_ko": "그럼 기다리고 있겠습니다.",
+          "j_ja": "それでは、お待ちしておりますね",
+          "g_en": "I'll be waiting for you, then.",
+          "g_tw": "那麼，我等您唷",
+          "g_tw_cn": "那么，我等您唷",
+          "g_ja": "それでは、お待ちしておりますね",
+          "g_ko": "그럼 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100300310,
+        "Id": 100300480,
+        "CharacterId": 10030,
+        "MessageCondition": "None",
+        "FavorScheduleId": 100306,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "- 치나츠",
+          "j_ja": "～チナツ～",
+          "g_en": "- Chinatsu",
+          "g_tw": "～千夏～",
+          "g_tw_cn": "～千夏～",
+          "g_ja": "～チナツ～",
+          "g_ko": "- 치나츠"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

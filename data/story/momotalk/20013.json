@@ -1,0 +1,858 @@
+[
+  {
+    "BondScenarioId": 2001302,
+    "Data": [
+      {
+        "GroupId": 200130010,
+        "Id": 200130010,
+        "CharacterId": 20013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130020,
+        "Message": {
+          "j_ko": "선생님. 바쁜 중에 불러내서 미안해.",
+          "j_ja": "先生、忙しいところにごめん",
+          "g_en": "Sensei, I'm sorry, I know you're busy.",
+          "g_tw": "老師，百忙之中打擾你，真不好意思",
+          "g_tw_cn": "老师，百忙之中打扰你，真不好意思",
+          "g_ja": "先生、忙しいところにごめん",
+          "g_ko": "선생님. 바쁜 중에 불러내서 미안해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130020,
+        "Id": 200130020,
+        "CharacterId": 20013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130030,
+        "Message": {
+          "j_ko": "최근에 터진 보안 문제 때문에 샬레의 서버를 잠깐 살펴보고 싶어서.",
+          "j_ja": "ちょっとセキュリティ関連の問題で、シャーレのサーバーを調べたくって",
+          "g_en": "There was a security breach at Schale, so I'd like to take a look at the servers.",
+          "g_tw": "有一些和系統安全相關的問題，所以想要調查一下夏萊的伺服器",
+          "g_tw_cn": "有一些和系统安全相关的问题，所以想要调查一下夏莱的服务器",
+          "g_ja": "ちょっとセキュリティ関連の問題で、シャーレのサーバーを調べたくって",
+          "g_ko": "최근에 터진 보안 문제 때문에 샬레의 서버를 잠깐 살펴보고 싶어서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130020,
+        "Id": 200130030,
+        "CharacterId": 20013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130030,
+        "Message": {
+          "j_ko": "PC의 접속 비밀번호가 필요해서 그러는데, 잠깐 샬레의 집무실로 와 줄 수 없을까?",
+          "j_ja": "その場にあるPCを開かないといけないから、後でシャーレのオフィスで会える？",
+          "g_en": "I need the password for the PC. Can you come to the Schale office?",
+          "g_tw": "因為必須要使用到夏萊的電腦，稍後可以在夏萊辦公室見個面嗎？",
+          "g_tw_cn": "因为必须要使用到夏莱的电脑，稍后可以在夏莱办公室见个面吗？",
+          "g_ja": "その場にあるPCを開かないといけないから、後でシャーレのオフィスで会える？",
+          "g_ko": "PC의 접속 비밀번호가 필요해서 그러는데, 잠깐 샬레의 집무실로 와 줄 수 없을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130030,
+        "Id": 200130040,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130040,
+        "Message": {
+          "j_ko": "응, 잠시만 기다려줘.",
+          "j_ja": "あ、そしたらちょっと待ってて",
+          "g_en": "Okay, be right there.",
+          "g_tw": "啊，那稍等我一下",
+          "g_tw_cn": "啊，那稍等我一下",
+          "g_ja": "あ、そしたらちょっと待ってて",
+          "g_ko": "응, 잠시만 기다려줘."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130040,
+        "Id": 200130050,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130050,
+        "Message": {
+          "j_ko": "접속 비밀번호가 뭐였냐면…….",
+          "j_ja": "パスワードを書くから",
+          "g_en": "The password is...",
+          "g_tw": "我把密碼打出來",
+          "g_tw_cn": "我把密码打出来",
+          "g_ja": "パスワードを書くから",
+          "g_ko": "접속 비밀번호가 뭐였냐면……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130050,
+        "Id": 200130060,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130060,
+        "Message": {
+          "j_ko": "잠깐.",
+          "j_ja": "待った",
+          "g_en": "Wait.",
+          "g_tw": "等等",
+          "g_tw_cn": "等等",
+          "g_ja": "待った",
+          "g_ko": "잠깐."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130050,
+        "Id": 200130070,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130060,
+        "Message": {
+          "j_ko": "일반 회선에 비밀번호를 적는 건 절대로 안 돼.",
+          "j_ja": "普通の回線でパスワードを書くなんて絶対にダメ",
+          "g_en": "Never write passwords on an unprotected line.",
+          "g_tw": "絕對不可以在一般的線路上把密碼打出來",
+          "g_tw_cn": "绝对不可以在一般的线路上把密码打出来",
+          "g_ja": "普通の回線でパスワードを書くなんて絶対にダメ",
+          "g_ko": "일반 회선에 비밀번호를 적는 건 절대로 안 돼."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130060,
+        "Id": 200130080,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130070,
+        "Message": {
+          "j_ko": "모니터 아래에 비밀번호를 적은 메모지를 붙여 놨으니까 그걸 써도 돼.",
+          "j_ja": "モニターの下にパスワードを書いたメモがあるから、それを見ても大丈夫だよ",
+          "g_en": "I put a sticky note with the password on it at the bottom of the monitor. Use that.",
+          "g_tw": "螢幕底下有張寫著密碼的便條紙，只要看那個就可以了",
+          "g_tw_cn": "屏幕底下有张写着密码的便条纸，只要看那个就可以了",
+          "g_ja": "モニターの下にパスワードを書いたメモがあるから、それを見ても大丈夫だよ",
+          "g_ko": "모니터 아래에 비밀번호를 적은 메모지를 붙여 놨으니까 그걸 써도 돼."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130070,
+        "Id": 200130090,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130080,
+        "Message": {
+          "j_ko": "뭐?",
+          "j_ja": "え",
+          "g_en": "Huh?!",
+          "g_tw": "咦",
+          "g_tw_cn": "咦",
+          "g_ja": "え",
+          "g_ko": "뭐?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130070,
+        "Id": 200130100,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200132,
+        "NextGroupId": 200130080,
+        "Message": {
+          "j_ko": "……농담이지?",
+          "j_ja": "……冗談、だよね？",
+          "g_en": "Are you kidding?",
+          "g_tw": "……你是開玩笑的，對吧？",
+          "g_tw_cn": "……你是开玩笑的，对吧？",
+          "g_ja": "……冗談、だよね？",
+          "g_ko": "……농담이지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001303,
+    "Data": [
+      {
+        "GroupId": 200130080,
+        "Id": 200130110,
+        "CharacterId": 20013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130090,
+        "Message": {
+          "j_ko": "선생님, 부탁 하나만 해도 될까?",
+          "j_ja": "先生、ちょっとお願いしたいことがあって",
+          "g_en": "Sensei, could you do me a favor?",
+          "g_tw": "老師，有件事想拜託你",
+          "g_tw_cn": "老师，有件事想拜托你",
+          "g_ja": "先生、ちょっとお願いしたいことがあって",
+          "g_ko": "선생님, 부탁 하나만 해도 될까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130090,
+        "Id": 200130120,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130100,
+        "Message": {
+          "j_ko": "괜찮아. 무슨 일인데?",
+          "j_ja": "うん、どうしたの？",
+          "g_en": "How can I help?",
+          "g_tw": "嗯，怎麼了嗎",
+          "g_tw_cn": "嗯，怎么了吗",
+          "g_ja": "うん、どうしたの？",
+          "g_ko": "괜찮아. 무슨 일인데?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130100,
+        "Id": 200130130,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130110,
+        "Message": {
+          "j_ko": "오늘 오후에 밀레니엄에 장비를 납품하는 기업에 계약을 제안하러 갈 예정이었거든.",
+          "j_ja": "今日の午後、とある企業のところに行くんだけど",
+          "g_en": "I'm going to present a proposal to the company delivering equipment to Millennium this afternoon.",
+          "g_tw": "今天下午，我準備去拜訪某個企業",
+          "g_tw_cn": "今天下午，我准备去拜访某个企业",
+          "g_ja": "今日の午後、とある企業のところに行くんだけど",
+          "g_ko": "오늘 오후에 밀레니엄에 장비를 납품하는 기업에 계약을 제안하러 갈 예정이었거든."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130100,
+        "Id": 200130140,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130110,
+        "Message": {
+          "j_ko": "그런데 사장이 워낙 완고한 사람이라, 이야기를 꺼내기 전에 미리 준비를 해 두고 싶어.",
+          "j_ja": "社長が結構頑固でね、あらためて準備しておこうと思って",
+          "g_en": "But the president is very stubborn, so I want to be prepared before I bring it up.",
+          "g_tw": "那裡的社長相當頑固，所以我想多做些準備",
+          "g_tw_cn": "那里的社长相当顽固，所以我想多做些准备",
+          "g_ja": "社長が結構頑固でね、あらためて準備しておこうと思って",
+          "g_ko": "그런데 사장이 워낙 완고한 사람이라, 이야기를 꺼내기 전에 미리 준비를 해 두고 싶어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130100,
+        "Id": 200130150,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130110,
+        "Message": {
+          "j_ko": "……베리타스의 방식으로 말이지.",
+          "j_ja": "ヴェリタス流の準備を",
+          "g_en": "I want to do this Veritas' way.",
+          "g_tw": "當然，是貝里塔斯流的準備",
+          "g_tw_cn": "当然，是贝里塔斯流的准备",
+          "g_ja": "ヴェリタス流の準備を",
+          "g_ko": "……베리타스의 방식으로 말이지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130110,
+        "Id": 200130160,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130120,
+        "Message": {
+          "j_ko": "베리타스의 방식이라면……?",
+          "j_ja": "ヴェリタス流の……？",
+          "g_en": "What do you mean by \"Veritas' way\"?",
+          "g_tw": "貝里塔斯流的……？",
+          "g_tw_cn": "贝里塔斯流的……？",
+          "g_ja": "ヴェリタス流の……？",
+          "g_ko": "베리타스의 방식이라면……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130110,
+        "Id": 200130170,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130120,
+        "Message": {
+          "j_ko": "그 말은 해킹을 하겠다는 거야?",
+          "j_ja": "ハッキング、とか？",
+          "g_en": "You mean through hacking?",
+          "g_tw": "駭進去，之類的？",
+          "g_tw_cn": "骇进去，之类的？",
+          "g_ja": "ハッキング、とか？",
+          "g_ko": "그 말은 해킹을 하겠다는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130120,
+        "Id": 200130180,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130130,
+        "Message": {
+          "j_ko": "응. 작업 전에 미리 노드에 백도어를 설치하고 싶은데, 선생님이 옆에서 도와줬으면 좋겠어.",
+          "j_ja": "うん。ちょっとバックドアを設置しておこうと思うんだけど、手伝ってほしくて",
+          "g_en": "Yeah. I want to install a back door on the node before I work. I'd like you to help.",
+          "g_tw": "嗯。我想要設置一個後門，所以希望你能幫忙",
+          "g_tw_cn": "嗯。我想要设置一个后门，所以希望你能帮忙",
+          "g_ja": "うん。ちょっとバックドアを設置しておこうと思うんだけど、手伝ってほしくて",
+          "g_ko": "응. 작업 전에 미리 노드에 백도어를 설치하고 싶은데, 선생님이 옆에서 도와줬으면 좋겠어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130130,
+        "Id": 200130190,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130140,
+        "Message": {
+          "j_ko": "노드……? 백도어……?",
+          "j_ja": "バックドア……？",
+          "g_en": "Node? Back door?",
+          "g_tw": "後門……？",
+          "g_tw_cn": "后门……？",
+          "g_ja": "バックドア……？",
+          "g_ko": "노드……? 백도어……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130130,
+        "Id": 200130200,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130140,
+        "Message": {
+          "j_ko": "나는 해킹에 대해서는 아무것도 모르는데 괜찮을까?",
+          "j_ja": "私ハッキングについては素人だけど、大丈夫？",
+          "g_en": "How can I help? I don't know how hacking works.",
+          "g_tw": "我對駭入之類的事一竅不通，沒關係嗎？",
+          "g_tw_cn": "我对骇入之类的事一窍不通，没关系吗？",
+          "g_ja": "私ハッキングについては素人だけど、大丈夫？",
+          "g_ko": "나는 해킹에 대해서는 아무것도 모르는데 괜찮을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130140,
+        "Id": 200130210,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130150,
+        "Message": {
+          "j_ko": "괜찮아. 말은 그렇게 했지만, 선생님은 그냥 옆에 서 있기만 해도 괜찮으니까.",
+          "j_ja": "まあ手伝ってと言っても、先生はただそこにいてくれるだけで良いから",
+          "g_en": "It's okay. I know it sounds difficult, but you just have to be there.",
+          "g_tw": "嘛，雖然說是幫忙，不過老師只要待在我旁邊就可以了",
+          "g_tw_cn": "嘛，虽然说是帮忙，不过老师只要待在我旁边就可以了",
+          "g_ja": "まあ手伝ってと言っても、先生はただそこにいてくれるだけで良いから",
+          "g_ko": "괜찮아. 말은 그렇게 했지만, 선생님은 그냥 옆에 서 있기만 해도 괜찮으니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130140,
+        "Id": 200130220,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200133,
+        "NextGroupId": 200130150,
+        "Message": {
+          "j_ko": "그럼 이따가 보자.",
+          "j_ja": "じゃあまた後で",
+          "g_en": "I'll see you then.",
+          "g_tw": "那麼待會見",
+          "g_tw_cn": "那么待会见",
+          "g_ja": "じゃあまた後で",
+          "g_ko": "그럼 이따가 보자."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001305,
+    "Data": [
+      {
+        "GroupId": 200130150,
+        "Id": 200130230,
+        "CharacterId": 20013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130160,
+        "Message": {
+          "j_ko": "……선생님. 전화했었어?",
+          "j_ja": "先生、もしかしてさっき電話くれた？",
+          "g_en": "Sensei, did you call?",
+          "g_tw": "老師，剛才是你打電話給我嗎？",
+          "g_tw_cn": "老师，刚才是你打电话给我吗？",
+          "g_ja": "先生、もしかしてさっき電話くれた？",
+          "g_ko": "……선생님. 전화했었어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130160,
+        "Id": 200130240,
+        "CharacterId": 20013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130170,
+        "Message": {
+          "j_ko": "미안. 자느라 연락을 받지 못했어.",
+          "j_ja": "ごめん、ちょっと寝てた",
+          "g_en": "I was asleep. Sorry.",
+          "g_tw": "抱歉，我剛剛睡了一會兒",
+          "g_tw_cn": "抱歉，我刚刚睡了一会儿",
+          "g_ja": "ごめん、ちょっと寝てた",
+          "g_ko": "미안. 자느라 연락을 받지 못했어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130170,
+        "Id": 200130250,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130180,
+        "Message": {
+          "j_ko": "깨워버렸으면 미안해.",
+          "j_ja": "あ、うん。起こしちゃったらごめん",
+          "g_en": "Sorry if I woke you up.",
+          "g_tw": "啊，嗯。抱歉吵醒你了",
+          "g_tw_cn": "啊，嗯。抱歉吵醒你了",
+          "g_ja": "あ、うん。起こしちゃったらごめん",
+          "g_ko": "깨워버렸으면 미안해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130170,
+        "Id": 200130260,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130180,
+        "Message": {
+          "j_ko": "이미 낮인데, 밤이라도 샜던 거야?",
+          "j_ja": "もうお昼だけど、昨日は夜更かしとか？",
+          "g_en": "Were you up all night?",
+          "g_tw": "已經快中午了，昨天熬夜了嗎？",
+          "g_tw_cn": "已经快中午了，昨天熬夜了吗？",
+          "g_ja": "もうお昼だけど、昨日は夜更かしとか？",
+          "g_ko": "이미 낮인데, 밤이라도 샜던 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130180,
+        "Id": 200130270,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130190,
+        "Message": {
+          "j_ko": "그게 오늘 자정에 컨설팅을 담당하고 있는 회사의 서버 정기 점검이 예정되어 있어서.",
+          "j_ja": "ううん。今日の深夜に、コンサルティングを担当してる会社のサーバーメンテナンスがあって",
+          "g_en": "Server maintenance for the consulting company is scheduled at midnight.",
+          "g_tw": "不。是因為今天深夜，我擔任顧問的公司需要進行伺服器的維護",
+          "g_tw_cn": "不。是因为今天深夜，我担任顾问的公司需要进行服务器的维护",
+          "g_ja": "ううん。今日の深夜に、コンサルティングを担当してる会社のサーバーメンテナンスがあって",
+          "g_ko": "그게 오늘 자정에 컨설팅을 담당하고 있는 회사의 서버 정기 점검이 예정되어 있어서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130180,
+        "Id": 200130280,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130190,
+        "Message": {
+          "j_ko": "철야를 하려면 조금 일찍 잠을 자두는 게 좋을 것 같아서 말이야.",
+          "j_ja": "徹夜になるだろうから、先に少し寝ておこうかなって",
+          "g_en": "I thought I should get some sleep before pull an all-nighter.",
+          "g_tw": "我想可能需要通宵工作，所以就先睡了一下",
+          "g_tw_cn": "我想可能需要通宵工作，所以就先睡了一下",
+          "g_ja": "徹夜になるだろうから、先に少し寝ておこうかなって",
+          "g_ko": "철야를 하려면 조금 일찍 잠을 자두는 게 좋을 것 같아서 말이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130190,
+        "Id": 200130290,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130200,
+        "Message": {
+          "j_ko": "심야의 점검이라니, 고생이네.",
+          "j_ja": "そうなんだ、大変だね",
+          "g_en": "Overtime maintenance... Sounds like hard work.",
+          "g_tw": "這樣啊，真辛苦呢",
+          "g_tw_cn": "这样啊，真辛苦呢",
+          "g_ja": "そうなんだ、大変だね",
+          "g_ko": "심야의 점검이라니, 고생이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130200,
+        "Id": 200130300,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130210,
+        "Message": {
+          "j_ko": "혹시 괜찮다면, 견학하러 가도 괜찮아?",
+          "j_ja": "良かったらそれ、見学に行ってもいい？",
+          "g_en": "Is it okay if I come with you?",
+          "g_tw": "可以的話，能讓我一起去觀摩嗎",
+          "g_tw_cn": "可以的话，能让我一起去观摩吗",
+          "g_ja": "良かったらそれ、見学に行ってもいい？",
+          "g_ko": "혹시 괜찮다면, 견학하러 가도 괜찮아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130210,
+        "Id": 200130310,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130220,
+        "Message": {
+          "j_ko": "서버 점검을 하는 걸 옆에서 견학하겠다고?",
+          "j_ja": "見学？",
+          "g_en": "You wanna see how I do server maintenance?",
+          "g_tw": "觀摩？",
+          "g_tw_cn": "观摩？",
+          "g_ja": "見学？",
+          "g_ko": "서버 점검을 하는 걸 옆에서 견학하겠다고?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130210,
+        "Id": 200130320,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130220,
+        "Message": {
+          "j_ko": "상관은 없겠지만…… 꽤나 지루한 일일 텐데, 괜찮겠어?",
+          "j_ja": "別に良いけど……結構地味だし、面白くないと思うよ？",
+          "g_en": "That's fine, but it'll be boring. Are you sure?",
+          "g_tw": "是沒關係啦……不過挺枯燥的，我覺得不怎麼有趣哦？",
+          "g_tw_cn": "是没关系啦……不过挺枯燥的，我觉得不怎么有趣哦？",
+          "g_ja": "別に良いけど……結構地味だし、面白くないと思うよ？",
+          "g_ko": "상관은 없겠지만…… 꽤나 지루한 일일 텐데, 괜찮겠어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130220,
+        "Id": 200130330,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130230,
+        "Message": {
+          "j_ko": "괜찮아.",
+          "j_ja": "うん、それでも",
+          "g_en": "I'm sure.",
+          "g_tw": "嗯，沒關係",
+          "g_tw_cn": "嗯，没关系",
+          "g_ja": "うん、それでも",
+          "g_ko": "괜찮아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130230,
+        "Id": 200130340,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130240,
+        "Message": {
+          "j_ko": "알겠어. 그럼 오늘 자정에 내가 알려주는 주소로 찾아와.",
+          "j_ja": "分かった。じゃあ今日の0時に集合で。場所は後で送る",
+          "g_en": "All right. I'll send you the location. Be there by midnight.",
+          "g_tw": "我知道了。那今晚0點集合吧，地點之後再通知你",
+          "g_tw_cn": "我知道了。那今晚0点集合吧，地点之后再通知你",
+          "g_ja": "分かった。じゃあ今日の0時に集合で。場所は後で送る",
+          "g_ko": "알겠어. 그럼 오늘 자정에 내가 알려주는 주소로 찾아와."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130230,
+        "Id": 200130350,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130240,
+        "Message": {
+          "j_ko": "다만 서버 점검이 언제 끝날지 모르니까……",
+          "j_ja": "ただ、今回は内容的にいつ終わるか分からないから",
+          "g_en": "But I don't know how long the job will take.",
+          "g_tw": "不過，這次不知道會做到幾點",
+          "g_tw_cn": "不过，这次不知道会做到几点",
+          "g_ja": "ただ、今回は内容的にいつ終わるか分からないから",
+          "g_ko": "다만 서버 점검이 언제 끝날지 모르니까……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130230,
+        "Id": 200130360,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200135,
+        "NextGroupId": 200130240,
+        "Message": {
+          "j_ko": "선생도 같이 밤을 새우려면 오후에라도 잠깐 눈을 붙여 두는 게 좋을 거야.",
+          "j_ja": "徹夜覚悟だし、今のうちに少しでも寝ておいた方が良いよ",
+          "g_en": "Make sure to get rest beforehand, since we'll be up all night.",
+          "g_tw": "我已經做好通宵的覺悟了，老師最好也趁現在睡一下比較好哦",
+          "g_tw_cn": "我已经做好通宵的觉悟了，老师最好也趁现在睡一下比较好哦",
+          "g_ja": "徹夜覚悟だし、今のうちに少しでも寝ておいた方が良いよ",
+          "g_ko": "선생도 같이 밤을 새우려면 오후에라도 잠깐 눈을 붙여 두는 게 좋을 거야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2001306,
+    "Data": [
+      {
+        "GroupId": 200130240,
+        "Id": 200130370,
+        "CharacterId": 20013,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130250,
+        "Message": {
+          "j_ko": "베리타스의 부원들이 자꾸 멋대로 흥미 위주의 해킹을 시도해서 고민이야.",
+          "j_ja": "知ってるかもしれないけどうちのヴェリタスの子たち、すぐ興味本位でハッキングとかしがちで……",
+          "g_en": "I'm concerned that the younger Veritas members will keep hacking just for fun.",
+          "g_tw": "雖然你應該也知道，我們貝里塔斯的孩子們常常出於興趣進行駭入……",
+          "g_tw_cn": "虽然你应该也知道，我们贝里塔斯的孩子们常常出于兴趣进行骇入……",
+          "g_ja": "知ってるかもしれないけどうちのヴェリタスの子たち、すぐ興味本位でハッキングとかしがちで……",
+          "g_ko": "베리타스의 부원들이 자꾸 멋대로 흥미 위주의 해킹을 시도해서 고민이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130250,
+        "Id": 200130380,
+        "CharacterId": 20013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130260,
+        "Message": {
+          "j_ko": "다행히 큰 문제로 커지지는 않는 것 같지만 자꾸 이렇게 말썽을 부리다니…….",
+          "j_ja": "幸いまだそれほど大きな問題にはなってないけど、しょっちゅう揉め事ばっかり起きてるんだよね",
+          "g_en": "It hasn't gotten out of hand yet, but they do get into trouble sometimes.",
+          "g_tw": "幸好還沒有搞出什麼大問題，不過倒是引發了一些欺負同學的事件",
+          "g_tw_cn": "幸好还没有搞出什么大问题，不过倒是引发了一些欺负同学的事件",
+          "g_ja": "幸いまだそれほど大きな問題にはなってないけど、しょっちゅう揉め事ばっかり起きてるんだよね",
+          "g_ko": "다행히 큰 문제로 커지지는 않는 것 같지만 자꾸 이렇게 말썽을 부리다니……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130250,
+        "Id": 200130390,
+        "CharacterId": 20013,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130260,
+        "Message": {
+          "j_ko": "이러다간 해커 동아리로서의 이미지가 실추되겠어…….",
+          "j_ja": "このままだと、ハッカーとしてのイメージが……",
+          "g_en": "I'm afraid of what it could do to our club's reputation.",
+          "g_tw": "再這樣下去的話，駭客的形象就……",
+          "g_tw_cn": "再这样下去的话，黑客的形象就……",
+          "g_ja": "このままだと、ハッカーとしてのイメージが……",
+          "g_ko": "이러다간 해커 동아리로서의 이미지가 실추되겠어……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130260,
+        "Id": 200130400,
+        "CharacterId": 20013,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130270,
+        "Message": {
+          "j_ko": "해커는 그런 이미지가 있는데. ……역시 편견인가?",
+          "j_ja": "結構ハッカーってそういうイメージがあったけど、やっぱりそれって偏見？",
+          "g_en": "I thought that's what hackers were supposed to do... Or is that just a stereotype?",
+          "g_tw": "駭客好像大多都給人那種印象，果然是偏見嗎？",
+          "g_tw_cn": "黑客好像大多都给人那种印象，果然是偏见吗？",
+          "g_ja": "結構ハッカーってそういうイメージがあったけど、やっぱりそれって偏見？",
+          "g_ko": "해커는 그런 이미지가 있는데. ……역시 편견인가?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130270,
+        "Id": 200130410,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130280,
+        "Message": {
+          "j_ko": "물론 요즈음은 <해커>라 하면 다들 그런 블랙 해커를 떠올리지만…….",
+          "j_ja": "もちろん特に最近は、「ハッカー」っていうとみんな「ブラックハッカー」を思い浮かべるみたいだけど……",
+          "g_en": "These days, people only think of black hat hackers when they hear the word \"hacker\".",
+          "g_tw": "最近每次提到「駭客」，大家似乎都會想到「黑帽駭客」……",
+          "g_tw_cn": "最近每次提到「黑客」，大家似乎都会想到「黑帽黑客」……",
+          "g_ja": "もちろん特に最近は、「ハッカー」っていうとみんな「ブラックハッカー」を思い浮かべるみたいだけど……",
+          "g_ko": "물론 요즈음은 <해커>라 하면 다들 그런 블랙 해커를 떠올리지만……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130270,
+        "Id": 200130420,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 200130280,
+        "Message": {
+          "j_ko": "원래의 해커는 지금의 화이트 해커에 가까운, 보안 전문가를 의미하는 말이었다고.",
+          "j_ja": "本来の「ハッカー」はほとんど今の「ホワイトハッカー」に近い、「セキュリティの専門家」を意味する言葉だったの",
+          "g_en": "\"Hacker\" used to mean something like a security expert. AKA, a white hat hacker.",
+          "g_tw": "不過本來的「駭客」大多比較接近現在所說的「白帽駭客」，有著「保安專家」的意思",
+          "g_tw_cn": "不过本来的「黑客」大多比较接近现在所说的「白帽黑客」，有着「保安专家」的意思",
+          "g_ja": "本来の「ハッカー」はほとんど今の「ホワイトハッカー」に近い、「セキュリティの専門家」を意味する言葉だったの",
+          "g_ko": "원래의 해커는 지금의 화이트 해커에 가까운, 보안 전문가를 의미하는 말이었다고."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130280,
+        "Id": 200130430,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "으으, 시간이 날 때마다 부원들에게 올바른 해커 윤리에 대해 똑똑히 가르쳐주어야 했는데…….",
+          "j_ja": "はぁ、また時間を見つけてうちの子たちにハッカー倫理について教育しておかないと……そういう手段に頼りっぱなしじゃダメなのに……",
+          "g_en": "I should have taught the members about hacker ethics when I had time...",
+          "g_tw": "唉，得找時間教育社團的孩子們駭客倫理才行……總是依靠那種手段是不行的……",
+          "g_tw_cn": "唉，得找时间教育社团的孩子们黑客伦理才行……总是依靠那种手段是不行的……",
+          "g_ja": "はぁ、また時間を見つけてうちの子たちにハッカー倫理について教育しておかないと……そういう手段に頼りっぱなしじゃダメなのに……",
+          "g_ko": "으으, 시간이 날 때마다 부원들에게 올바른 해커 윤리에 대해 똑똑히 가르쳐주어야 했는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 200130280,
+        "Id": 200130440,
+        "CharacterId": 20013,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200136,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "바빠서 부실에 자주 들리지 못하는 게 이럴 땐 아쉽네.",
+          "j_ja": "最近は忙しくて、あまり部活に顔も出せてないし……",
+          "g_en": "I haven't visited the club room recently because I've been so busy.",
+          "g_tw": "最近實在有點忙，所以比較少去社團露臉……",
+          "g_tw_cn": "最近实在有点忙，所以比较少去社团露脸……",
+          "g_ja": "最近は忙しくて、あまり部活に顔も出せてないし……",
+          "g_ko": "바빠서 부실에 자주 들리지 못하는 게 이럴 땐 아쉽네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

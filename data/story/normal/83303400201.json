@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それにしても、あなたの強さにはいつも驚かされます。",
+      "j_ko": "그건 그렇고 언제나 당신의 실력에는 놀라게 되네요.",
+      "g_ja": "それにしても、あなたの強さにはいつも驚かされます。",
+      "g_ko": "그건 그렇고 언제나 당신의 실력에는 놀라게 되네요.",
+      "g_en": "You know, it's always a surprise to see you in action.",
+      "g_th": "จะว่าไป ฝีมือของคุณทำเอาฉันตกใจทุกครั้งเลยนะคะ",
+      "g_tw": "委員長的實力總是能讓我感到意外。",
+      "g_tw_cn": "委员长的实力总是能让我感到意外。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;02;그건 그렇고 언제나 당신의 실력에는 놀라게 되네요.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "迅速かつ完璧に問題児を制圧する姿……",
+      "j_ko": "신속하고도 완벽하게 문제아들을 제압하는 선도부장의 위엄.",
+      "g_ja": "迅速かつ完璧に問題児を制圧する姿……",
+      "g_ko": "신속하고도 완벽하게 문제아들을 제압하는 선도부장의 위엄.",
+      "g_en": "The head prefect who subdues troublemakers with the speed and grace of a parent putting a problem child to bed.",
+      "g_th": "ความสง่างามของประธานกรรมการที่ปราบพวกเด็กเจ้าปัญหาได้อย่างรวดเร็วและสมบูรณ์แบบ",
+      "g_tw": "那迅速而完美地壓制問題學生的身影……",
+      "g_tw_cn": "那迅速而完美地压制问题学生的身影……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;01;신속하고도 완벽하게 문제아들을 제압하는 선도부장의 위엄.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見ていると、私まで意欲が湧いてきます。",
+      "j_ko": "보고 있으면, 저까지 의욕이 생기는 것 같아요.",
+      "g_ja": "見ていると、私まで意欲が湧いてきます。",
+      "g_ko": "보고 있으면, 저까지 의욕이 생기는 것 같아요.",
+      "g_en": "I can't help but look at you and feel inspired.",
+      "g_th": "แค่ได้เห็นคุณ ฉันก็มีแรงบันดาลใจขึ้นมาเลยค่ะ",
+      "g_tw": "光是看著，連我都產生鬥志了。",
+      "g_tw_cn": "光是看着，连我都产生斗志了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3417615610,
+    "DataType": "speaker",
+    "Script": "3;세나;03;보고 있으면, 저까지 의욕이 생기는 것 같아요.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……褒め言葉だと思って受け取っておくわ。",
+      "j_ko": " ……그, 칭찬으로 받아들이도록 할게.",
+      "g_ja": "……褒め言葉だと思って受け取っておくわ。",
+      "g_ko": " ……그, 칭찬으로 받아들이도록 할게.",
+      "g_en": " ...Well...thank you for the compliment.",
+      "g_th": "อ่า... ฉันจะถือว่าเป็นคำชมแล้วกันนะ",
+      "g_tw": "……我就當成是在稱讚我吧。",
+      "g_tw_cn": "……我就当成是在称赞我吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;04; ……그, 칭찬으로 받아들이도록 할게.\\n#3;em;[땀]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

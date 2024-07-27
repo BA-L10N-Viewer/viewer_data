@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつの間にかパーティーは目前……",
+      "j_ko": "어느덧 파티는 코앞이구나……",
+      "g_ja": "いつの間にかパーティーは目前……",
+      "g_ko": "어느덧 파티는 코앞이구나……",
+      "g_en": "It's almost time for the party...",
+      "g_th": "ใกล้จะถึงเวลางานปาร์ตี้แล้วสินะ...",
+      "g_tw": "派對不知不覺已經近在眼前……",
+      "g_tw_cn": "派对不知不觉已经近在眼前……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;01;어느덧 파티는 코앞이구나……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "思っていたよりも訓練に時間を取られたのが痛かった。",
+      "j_ko": "훈련에 재훈련을 거듭하면서 시간을 소비한 게, 조금 클지도 모르겠어.",
+      "g_ja": "思っていたよりも訓練に時間を取られたのが痛かった。",
+      "g_ko": "훈련에 재훈련을 거듭하면서 시간을 소비한 게, 조금 클지도 모르겠어.",
+      "g_en": "Between team training and handling emergencies, I haven't spent much time practicing...",
+      "g_th": "ฉันเสียเวลาไปไม่น้อยเลยกับการฝึกฝน ไหนจะยังต้องไปฝึกอีกรอบอีก",
+      "g_tw": "因為重新訓練而花費的時間好像有點太多了。",
+      "g_tw_cn": "因为重新训练而花费的时间好像有点太多了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;02;훈련에 재훈련을 거듭하면서 시간을 소비한 게, 조금 클지도 모르겠어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このままじゃ時間が……",
+      "j_ko": "이대로 있다간, 제시간에……",
+      "g_ja": "このままじゃ時間が……",
+      "g_ko": "이대로 있다간, 제시간에……",
+      "g_en": "At this rate, I won't be able to...",
+      "g_th": "ถ้าเป็นแบบนี้ต่อไป ฉันคง...",
+      "g_tw": "這樣下去就無法如期……",
+      "g_tw_cn": "这样下去就无法如期……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;02;이대로 있다간, 제시간에……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、先生が楽しみにしてるのに……",
+      "j_ko": "하지만, 선생님이 기대하고 있어, 그러니……",
+      "g_ja": "でも、先生が楽しみにしてるのに……",
+      "g_ko": "하지만, 선생님이 기대하고 있어, 그러니……",
+      "g_en": "But Sensei is looking forward to my performance...",
+      "g_th": "แต่ว่าคุณครูก็ตั้งตารออยู่ เพราะงั้น...",
+      "g_tw": "可是老師那麼期待……",
+      "g_tw_cn": "可是老师那么期待……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "4;히나 잠옷 일반;05;하지만, 선생님이 기대하고 있어, 그러니……\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………うん、決めた。",
+      "j_ko": "……………좋아, 결심했어.",
+      "g_ja": "…………うん、決めた。",
+      "g_ko": "……………좋아, 결심했어.",
+      "g_en": "Okay...I've decided.",
+      "g_th": "ดีละ ฉันตัดสินใจแล้ว",
+      "g_tw": "…………好，決定了。",
+      "g_tw_cn": "…………好，决定了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "#na;히나 잠옷 일반;……………좋아, 결심했어.\\n#fontsize;50",
+    "BGMId": 999,
+    "Sound": "SE_Clothes_02",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "仕方ない。こうなった以上、何を言っても無駄だし……",
+      "j_ko": "으으음……! 어쩔 수 없겠지…… 하기 싫다고 해도 받아주지도 않을 테고.",
+      "g_ja": "仕方ない。こうなった以上、何を言っても無駄だし……",
+      "g_ko": "으으음……! 어쩔 수 없겠지…… 하기 싫다고 해도 받아주지도 않을 테고.",
+      "g_en": "At this point, I just cook for them and get them out of my kitchen as fast as I can... It's the only way to manage them.",
+      "g_th": "อะ... อืม...! แต่ก็ช่วยไม่ได้แหละนะ... ถึงจะบอกว่าไม่สะดวก แต่ทางนั้นก็คงไม่รับฟังหรอก",
+      "g_tw": "唔唔……！這也沒辦法……就算拒絕，他們應該也不會理會吧。",
+      "g_tw_cn": "唔唔……！这也没办法……就算拒绝，他们应该也不会理会吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;06;으으음……! 어쩔 수 없겠지…… 하기 싫다고 해도 받아주지도 않을 테고.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ジュリ、遅くなる前に準備を始めよう。",
+      "j_ko": "자, 주리. 일할 시간이야. 더 늦기 전에 준비를 시작하자.",
+      "g_ja": "ジュリ、遅くなる前に準備を始めよう。",
+      "g_ko": "자, 주리. 일할 시간이야. 더 늦기 전에 준비를 시작하자.",
+      "g_en": "Juri, let's get back to work! We have more to do before we can call it a night!",
+      "g_th": "เอาละ จูริ ได้เวลาทำงานแล้ว มารีบเตรียมของกันก่อนที่จะสายไปกว่านี้เถอะ",
+      "g_tw": "好，茱莉。工作時間到了。<br/>趁早開始準備吧。",
+      "g_tw_cn": "好，茱莉。工作时间到了。<br/>趁早开始准备吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;02;자, 주리. 일할 시간이야. 더 늦기 전에 준비를 시작하자.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい！フウカ先輩！では、調理器具を準備してきます！",
+      "j_ko": "네! 후우카 선배! 그럼 조리 도구 세팅부터 시작할게요!",
+      "g_ja": "はい！フウカ先輩！では、調理器具を準備してきます！",
+      "g_ko": "네! 후우카 선배! 그럼 조리 도구 세팅부터 시작할게요!",
+      "g_en": "Okay, Fuuka! I'll wash these utensils and prep the next cooking station!",
+      "g_th": "ค่ะ! รุ่นพี่ฟูกะ! ถ้างั้นฉันจะเริ่มจากการจัดอุปกรณ์ทำครัวให้นะคะ!",
+      "g_tw": "是！風華前輩！那麼就先開始準備料理工具吧！",
+      "g_tw_cn": "是！风华前辈！那么就先开始准备料理工具吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;10;네! 후우카 선배! 그럼 조리 도구 세팅부터 시작할게요!\\n#3;em;[음표]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こうなったら、文句一つ言えないくらい完璧なパーティー料理を用意してみせようじゃないの！",
+      "j_ko": "이렇게 된 거, 불평 하나 할 수 없을 만큼 완벽한 파티 요리를 준비해주겠어!",
+      "g_ja": "こうなったら、文句一つ言えないくらい完璧なパーティー料理を用意してみせようじゃないの！",
+      "g_ko": "이렇게 된 거, 불평 하나 할 수 없을 만큼 완벽한 파티 요리를 준비해주겠어!",
+      "g_en": "We'll show them! We'll prepare a food service that nobody can complain about!",
+      "g_th": "ถ้าเป็นอย่างนี้แล้ว ฉันก็จะทำอาหารสำหรับปาร์ตี้ที่สมบูรณ์แบบจนไม่มีใครกล้าติเลย!",
+      "g_tw": "既然如此，我們一定要準備完美的派對料理，讓他們無話可說！",
+      "g_tw_cn": "既然如此，我们一定要准备完美的派对料理，让他们无话可说！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 158848695,
+    "DataType": "speaker",
+    "Script": "3;후우카;05;이렇게 된 거, 불평 하나 할 수 없을 만큼 완벽한 파티 요리를 준비해주겠어!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_02",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

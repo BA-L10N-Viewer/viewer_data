@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第2話</span><br/><span class=\"scenario-cmd-title\">「データ収集（２）PMC発掘区域」</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제2화</span><br/><span class=\"scenario-cmd-title\">정보수집 2 – PMC발굴지구</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第2話</span><br/><span class=\"scenario-cmd-title\">「データ収集（２）PMC発掘区域」</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제2화</span><br/><span class=\"scenario-cmd-title\">정보수집 2 – PMC발굴지구</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 2</span><br/><span class=\"scenario-cmd-title\">Research Part 2: Excavation Area</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 2</span><br/><span class=\"scenario-cmd-title\"> รวบรวมข้อมูล 2 - เขตขุดค้น PMC</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第2話</span><br/><span class=\"scenario-cmd-title\">「蒐集情報（２）PMC挖掘區域」</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第2话</span><br/><span class=\"scenario-cmd-title\">「搜集情报（２）PMC挖掘区域」</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제2화;정보수집 2 – PMC발굴지구",
+    "BGMId": 96,
+    "Sound": "",
+    "BGName": 249582911,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "次の目的地は、カイザーPMCが何かを探して発掘を進めていた場所です。",
+      "j_ko": "다음 목적지는 카이저 PMC가 어떤 물건을 찾기위해 발굴지를 형성하고 있는 곳입니다.",
+      "g_ja": "次の目的地は、カイザーPMCが何かを探して発掘を進めていた場所です。",
+      "g_ko": "다음 목적지는 카이저 PMC가 어떤 물건을 찾기위해 발굴지를 형성하고 있는 곳입니다.",
+      "g_en": "Our next location is an excavation site Kaiser PMC has taken an interest in.",
+      "g_th": "สถานที่ต่อไปคือไซต์งานก่อสร้างที่ไคเซอร์ PMC สร้างขึ้นเพื่อขุดค้นหาบางอย่างอยู่ค่ะ",
+      "g_tw": "下一個目的地是，凱薩PMC為尋找某物而進行挖掘的場所。",
+      "g_tw_cn": "下一个目的地是，凯萨PMC为寻找某物而进行挖掘的场所。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;01;다음 목적지는 카이저 PMC가 어떤 물건을 찾기위해 발굴지를 형성하고 있는 곳입니다.\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "カイザーの邪魔が入るかもしれません、注意しつつ進めていきましょう。",
+      "j_ko": "카이저 PMC의 방해가 있을 지도 모르기에, 주의하며 진행을 해야겠네요.",
+      "g_ja": "カイザーの邪魔が入るかもしれません、注意しつつ進めていきましょう。",
+      "g_ko": "카이저 PMC의 방해가 있을 지도 모르기에, 주의하며 진행을 해야겠네요.",
+      "g_en": "Their forces will likely interfere with our investigation, so we should be prepared to engage.",
+      "g_th": "พวกไคเซอร์ PMC อาจเข้ามาขัดขวางได้ ตอนที่ไปก็ระมัดระวังด้วยนะคะคุณครู",
+      "g_tw": "可能會受到凱薩妨礙，請您謹慎前進。",
+      "g_tw_cn": "可能会受到凯萨妨碍，请您谨慎前进。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2277036199,
+    "DataType": "speaker",
+    "Script": "3;히마리;05;카이저 PMC의 방해가 있을 지도 모르기에, 주의하며 진행을 해야겠네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

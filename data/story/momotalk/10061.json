@@ -1,0 +1,2031 @@
+[
+  {
+    "BondScenarioId": 1006102,
+    "Data": [
+      {
+        "GroupId": 100610010,
+        "Id": 100610010,
+        "CharacterId": 10061,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610020,
+        "Message": {
+          "j_ko": "후후",
+          "j_ja": "ふふ",
+          "g_en": "Heehee.",
+          "g_tw": "呵呵",
+          "g_tw_cn": "呵呵",
+          "g_ja": "ふふ",
+          "g_ko": "후후"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610020,
+        "Id": 100610020,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610030,
+        "Message": {
+          "j_ko": "후후후후…….",
+          "j_ja": "うふふ",
+          "g_en": "Heeheeheehee...",
+          "g_tw": "唔呵呵",
+          "g_tw_cn": "唔呵呵",
+          "g_ja": "うふふ",
+          "g_ko": "후후후후……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610030,
+        "Id": 100610030,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610040,
+        "Message": {
+          "j_ko": "……? 사쿠라코?",
+          "j_ja": "……サクラコ？",
+          "g_en": "...? Sakurako?",
+          "g_tw": "……櫻子？",
+          "g_tw_cn": "……樱子？",
+          "g_ja": "……サクラコ？",
+          "g_ko": "……? 사쿠라코?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610030,
+        "Id": 100610040,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610040,
+        "Message": {
+          "j_ko": "무슨 일이야?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's going on?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610040,
+        "Id": 100610050,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610050,
+        "Message": {
+          "j_ko": "아무것도 아닙니다, 선생님.",
+          "j_ja": "……お気になさらず、先生",
+          "g_en": "It's nothing, Sensei.",
+          "g_tw": "……請別在意，老師",
+          "g_tw_cn": "……请别在意，老师",
+          "g_ja": "……お気になさらず、先生",
+          "g_ko": "아무것도 아닙니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610040,
+        "Id": 100610060,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610050,
+        "Message": {
+          "j_ko": "단지 인사차 보내 드리는 연락일 뿐.",
+          "j_ja": "そうですね……申し上げるとすれば、ご挨拶を……",
+          "g_en": "Just a friendly greeting.",
+          "g_tw": "唔嗯……硬要說的話，想向您問好……",
+          "g_tw_cn": "唔嗯……硬要说的话，想向您问好……",
+          "g_ja": "そうですね……申し上げるとすれば、ご挨拶を……",
+          "g_ko": "단지 인사차 보내 드리는 연락일 뿐."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610050,
+        "Id": 100610070,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610060,
+        "Message": {
+          "j_ko": "이전부터 선생님과는 쭉 대화를 나눌 기회가 있기를 바라 왔으니까요.",
+          "j_ja": "以前から、先生とお話できる機会を探しておりまして",
+          "g_en": "I've been looking for an opportunity to talk to you for a time now.",
+          "g_tw": "我從以前就一直在尋找和老師說話的機會",
+          "g_tw_cn": "我从以前就一直在寻找和老师说话的机会",
+          "g_ja": "以前から、先生とお話できる機会を探しておりまして",
+          "g_ko": "이전부터 선생님과는 쭉 대화를 나눌 기회가 있기를 바라 왔으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610050,
+        "Id": 100610080,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610060,
+        "Message": {
+          "j_ko": "어쩌면 조만간, 우리에게 그럴 시간이 올지도 모르겠지요.",
+          "j_ja": "もしかしたら……近いうちに、相見えることがあるかもしれません",
+          "g_en": "Hopefully that opportunity will arise soon.",
+          "g_tw": "或許……在不遠的將來就能與您相見了呢",
+          "g_tw_cn": "或许……在不远的将来就能与您相见了呢",
+          "g_ja": "もしかしたら……近いうちに、相見えることがあるかもしれません",
+          "g_ko": "어쩌면 조만간, 우리에게 그럴 시간이 올지도 모르겠지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610060,
+            "Id": 100610090,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610070,
+            "Message": {
+              "j_ko": "그럼, 그때까지,",
+              "j_ja": "では、またその時まで",
+              "g_en": "Until then...",
+              "g_tw": "那麼，在時機來臨之前",
+              "g_tw_cn": "那么，在时机来临之前",
+              "g_ja": "では、またその時まで",
+              "g_ko": "그럼, 그때까지,"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100610060,
+            "Id": 100610100,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610070,
+            "Message": {
+              "j_ko": "모쪼록, 평안하시기를.",
+              "j_ja": "日々が穏やかでありますよう",
+              "g_en": "Take care.",
+              "g_tw": "願您能有安穩的每一天",
+              "g_tw_cn": "愿您能有安稳的每一天",
+              "g_ja": "日々が穏やかでありますよう",
+              "g_ko": "모쪼록, 평안하시기를."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610060,
+        "Id": 100610090,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610070,
+        "Message": {
+          "j_ko": "그럼, 그때까지,",
+          "j_ja": "では、またその時まで",
+          "g_en": "Until then...",
+          "g_tw": "那麼，在時機來臨之前",
+          "g_tw_cn": "那么，在时机来临之前",
+          "g_ja": "では、またその時まで",
+          "g_ko": "그럼, 그때까지,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610060,
+        "Id": 100610100,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610070,
+        "Message": {
+          "j_ko": "모쪼록, 평안하시기를.",
+          "j_ja": "日々が穏やかでありますよう",
+          "g_en": "Take care.",
+          "g_tw": "願您能有安穩的每一天",
+          "g_tw_cn": "愿您能有安稳的每一天",
+          "g_ja": "日々が穏やかでありますよう",
+          "g_ko": "모쪼록, 평안하시기를."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610070,
+        "Id": 100610110,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610080,
+        "Message": {
+          "j_ko": "후후",
+          "j_ja": "ふふ",
+          "g_en": "Heehee.",
+          "g_tw": "呵呵",
+          "g_tw_cn": "呵呵",
+          "g_ja": "ふふ",
+          "g_ko": "후후"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610080,
+            "Id": 100610120,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610090,
+            "Message": {
+              "j_ko": "후후후…….",
+              "j_ja": "うふふ",
+              "g_en": "Heeheehee...",
+              "g_tw": "唔呵呵",
+              "g_tw_cn": "唔呵呵",
+              "g_ja": "うふふ",
+              "g_ko": "후후후……."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610080,
+        "Id": 100610120,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610090,
+        "Message": {
+          "j_ko": "후후후…….",
+          "j_ja": "うふふ",
+          "g_en": "Heeheehee...",
+          "g_tw": "唔呵呵",
+          "g_tw_cn": "唔呵呵",
+          "g_ja": "うふふ",
+          "g_ko": "후후후……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610090,
+        "Id": 100610130,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100612,
+        "NextGroupId": 100610100,
+        "Message": {
+          "j_ko": "……???",
+          "j_ja": "……？？？",
+          "g_en": "...?",
+          "g_tw": "……？？？",
+          "g_tw_cn": "……？？？",
+          "g_ja": "……？？？",
+          "g_ko": "……???"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006103,
+    "Data": [
+      {
+        "GroupId": 100610100,
+        "Id": 100610140,
+        "CharacterId": 10061,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610110,
+        "Message": {
+          "j_ko": "얏호-선생님☆",
+          "j_ja": "こんにちわ～先生☆",
+          "g_en": "Yay! Sensei! ☆",
+          "g_tw": "嗨嗨～老師☆",
+          "g_tw_cn": "嗨嗨～老师☆",
+          "g_ja": "こんにちわ～先生☆",
+          "g_ko": "얏호-선생님☆"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610110,
+        "Id": 100610150,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610120,
+        "Message": {
+          "j_ko": "오늘도 평안하신가요?",
+          "j_ja": "今日もいかがお過ごしですか？",
+          "g_en": "How are you doing today?",
+          "g_tw": "今天過得好嗎？",
+          "g_tw_cn": "今天过得好吗？",
+          "g_ja": "今日もいかがお過ごしですか？",
+          "g_ko": "오늘도 평안하신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610110,
+        "Id": 100610160,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610120,
+        "Message": {
+          "j_ko": "사쿠라코 쨩은 늘 선생님의 평안을 빌고 있답니다!",
+          "j_ja": "サクラコは、いつも先生の一日が平和であるよう、願っています！",
+          "g_en": "I'm always praying for your peace, Sensei!",
+          "g_tw": "櫻子一直都在祈求老師的平安哦！",
+          "g_tw_cn": "樱子一直都在祈求老师的平安哦！",
+          "g_ja": "サクラコは、いつも先生の一日が平和であるよう、願っています！",
+          "g_ko": "사쿠라코 쨩은 늘 선생님의 평안을 빌고 있답니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610120,
+        "Id": 100610170,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610130,
+        "Message": {
+          "j_ko": "그럼 오늘도 좋은 하루 되시기 바래용~!",
+          "j_ja": "今日も良い一日を～！！",
+          "g_en": "Have a great day!",
+          "g_tw": "希望今天也是美好的一天～！！",
+          "g_tw_cn": "希望今天也是美好的一天～！！",
+          "g_ja": "今日も良い一日を～！！",
+          "g_ko": "그럼 오늘도 좋은 하루 되시기 바래용~!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610130,
+        "Id": 100610180,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610140,
+        "Message": {
+          "j_ko": "그럼~ 뾰로롱~☆",
+          "j_ja": "それじゃ、またね☆",
+          "g_en": "Baiii! ☆",
+          "g_tw": "那，掰掰囉☆",
+          "g_tw_cn": "那，掰掰啰☆",
+          "g_ja": "それじゃ、またね☆",
+          "g_ko": "그럼~ 뾰로롱~☆"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610140,
+        "Id": 100610190,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610150,
+        "Message": {
+          "j_ko": "……사쿠라코????",
+          "j_ja": "……サクラコ？？？",
+          "g_en": "...Sakurako???",
+          "g_tw": "……櫻子？？？",
+          "g_tw_cn": "……樱子？？？",
+          "g_ja": "……サクラコ？？？",
+          "g_ko": "……사쿠라코????"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610140,
+        "Id": 100610200,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610150,
+        "Message": {
+          "j_ko": "본인 맞으십니까?",
+          "j_ja": "本人……だよね？",
+          "g_en": "Is that you?",
+          "g_tw": "是本人……嗎？",
+          "g_tw_cn": "是本人……吗？",
+          "g_ja": "本人……だよね？",
+          "g_ko": "본인 맞으십니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610150,
+        "Id": 100610210,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610160,
+        "Message": {
+          "j_ko": "…….",
+          "j_ja": "……",
+          "g_en": ".......",
+          "g_tw": "……",
+          "g_tw_cn": "……",
+          "g_ja": "……",
+          "g_ko": "……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610160,
+        "Id": 100610220,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610170,
+        "Message": {
+          "j_ko": "음.",
+          "j_ja": "ええと、",
+          "g_en": "Hmm.",
+          "g_tw": "那個……",
+          "g_tw_cn": "那个……",
+          "g_ja": "ええと、",
+          "g_ko": "음."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610170,
+            "Id": 100610230,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610180,
+            "Message": {
+              "j_ko": "죄송합니다, 선생님. 이게 아닌 모양이군요.",
+              "j_ja": "申し訳ありません先生。これはどうやら違うみたいですね",
+              "g_en": "I'm sorry. I guess I didn't get it right.",
+              "g_tw": "不好意思，老師。看來似乎有點搞錯了呢",
+              "g_tw_cn": "不好意思，老师。看来似乎有点搞错了呢",
+              "g_ja": "申し訳ありません先生。これはどうやら違うみたいですね",
+              "g_ko": "죄송합니다, 선생님. 이게 아닌 모양이군요."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          },
+          {
+            "GroupId": 100610170,
+            "Id": 100610240,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610180,
+            "Message": {
+              "j_ko": "친근하게 보이는 법이라고, 인터넷 검색으로 찾아본 것이었는데",
+              "j_ja": "「親しみやすい人」と、インターネットで調べてみたのですが",
+              "g_en": "I researched \"how to look friendly\" on the internet.",
+              "g_tw": "我在網路上搜尋了「讓人容易親近的人」",
+              "g_tw_cn": "我在网络上搜索了「让人容易亲近的人」",
+              "g_ja": "「親しみやすい人」と、インターネットで調べてみたのですが",
+              "g_ko": "친근하게 보이는 법이라고, 인터넷 검색으로 찾아본 것이었는데"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610170,
+        "Id": 100610230,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610180,
+        "Message": {
+          "j_ko": "죄송합니다, 선생님. 이게 아닌 모양이군요.",
+          "j_ja": "申し訳ありません先生。これはどうやら違うみたいですね",
+          "g_en": "I'm sorry. I guess I didn't get it right.",
+          "g_tw": "不好意思，老師。看來似乎有點搞錯了呢",
+          "g_tw_cn": "不好意思，老师。看来似乎有点搞错了呢",
+          "g_ja": "申し訳ありません先生。これはどうやら違うみたいですね",
+          "g_ko": "죄송합니다, 선생님. 이게 아닌 모양이군요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610170,
+        "Id": 100610240,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610180,
+        "Message": {
+          "j_ko": "친근하게 보이는 법이라고, 인터넷 검색으로 찾아본 것이었는데",
+          "j_ja": "「親しみやすい人」と、インターネットで調べてみたのですが",
+          "g_en": "I researched \"how to look friendly\" on the internet.",
+          "g_tw": "我在網路上搜尋了「讓人容易親近的人」",
+          "g_tw_cn": "我在网络上搜索了「让人容易亲近的人」",
+          "g_ja": "「親しみやすい人」と、インターネットで調べてみたのですが",
+          "g_ko": "친근하게 보이는 법이라고, 인터넷 검색으로 찾아본 것이었는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610180,
+        "Id": 100610250,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610190,
+        "Message": {
+          "j_ko": "혹여 제가 뭔가 잘못 말씀드린 거라면……",
+          "j_ja": "その……何か失礼がありましたら……",
+          "g_en": "If I conducted myself badly...",
+          "g_tw": "那個……如果有什麼失禮之處……",
+          "g_tw_cn": "那个……如果有什么失礼之处……",
+          "g_ja": "その……何か失礼がありましたら……",
+          "g_ko": "혹여 제가 뭔가 잘못 말씀드린 거라면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610180,
+        "Id": 100610260,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610190,
+        "Message": {
+          "j_ko": "죄송합니다.",
+          "j_ja": "申し訳ありません",
+          "g_en": "I'm sorry.",
+          "g_tw": "我非常抱歉",
+          "g_tw_cn": "我非常抱歉",
+          "g_ja": "申し訳ありません",
+          "g_ko": "죄송합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610190,
+            "Id": 100610270,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 100613,
+            "NextGroupId": 100610200,
+            "Message": {
+              "j_ko": "그럼 이만…….",
+              "j_ja": "では、また……",
+              "g_en": "Until next time...",
+              "g_tw": "那麼，再會……",
+              "g_tw_cn": "那么，再会……",
+              "g_ja": "では、また……",
+              "g_ko": "그럼 이만……."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610190,
+        "Id": 100610270,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100613,
+        "NextGroupId": 100610200,
+        "Message": {
+          "j_ko": "그럼 이만…….",
+          "j_ja": "では、また……",
+          "g_en": "Until next time...",
+          "g_tw": "那麼，再會……",
+          "g_tw_cn": "那么，再会……",
+          "g_ja": "では、また……",
+          "g_ko": "그럼 이만……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610200,
+        "Id": 100610280,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610210,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "先生、お疲れ様です",
+          "g_en": "Sensei.",
+          "g_tw": "老師，您辛苦了",
+          "g_tw_cn": "老师，您辛苦了",
+          "g_ja": "先生、お疲れ様です",
+          "g_ko": "선생님"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610210,
+        "Id": 100610290,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610220,
+        "Message": {
+          "j_ko": "일이 끝나고 연락을 드리는 건 처음이네요.",
+          "j_ja": "お別れの後に連絡を差し上げるのは初めてですね",
+          "g_en": "This is my first time contacting you after work.",
+          "g_tw": "這是我第一次在分別後聯絡您呢",
+          "g_tw_cn": "这是我第一次在分别后联系您呢",
+          "g_ja": "お別れの後に連絡を差し上げるのは初めてですね",
+          "g_ko": "일이 끝나고 연락을 드리는 건 처음이네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610210,
+        "Id": 100610300,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610220,
+        "Message": {
+          "j_ko": "오늘 일은 정말로 감사했습니다.",
+          "j_ja": "今日は、本当にありがとうございました",
+          "g_en": "Thank you so much for today, Sensei.",
+          "g_tw": "今天真的非常謝謝您",
+          "g_tw_cn": "今天真的非常谢谢您",
+          "g_ja": "今日は、本当にありがとうございました",
+          "g_ko": "오늘 일은 정말로 감사했습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610220,
+        "Id": 100610310,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610230,
+        "Message": {
+          "j_ko": "염치는 없겠지만……. 비슷한 일이 있으면, 또 부탁드리겠습니다.",
+          "j_ja": "その……厚かましいお願いですが……また何かあった際には、よろしくお願いします",
+          "g_en": "I know it's a lot to ask...but please help if something like this happens again.",
+          "g_tw": "那個……雖然是個厚顏無恥的請求……如果又發生什麼事的話，再麻煩老師幫忙了",
+          "g_tw_cn": "那个……虽然是个厚颜无耻的请求……如果又发生什么事的话，再麻烦老师帮忙了",
+          "g_ja": "その……厚かましいお願いですが……また何かあった際には、よろしくお願いします",
+          "g_ko": "염치는 없겠지만……. 비슷한 일이 있으면, 또 부탁드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610230,
+        "Id": 100610320,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610240,
+        "Message": {
+          "j_ko": "그럼",
+          "j_ja": "それでは、先生",
+          "g_en": "Well, then...",
+          "g_tw": "那麼，老師",
+          "g_tw_cn": "那么，老师",
+          "g_ja": "それでは、先生",
+          "g_ko": "그럼"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610230,
+        "Id": 100610330,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610240,
+        "Message": {
+          "j_ko": "늘 평안하시고, 행운이 가득하시길.",
+          "j_ja": "どうか明日も、平穏な一日でありますよう",
+          "g_en": "May you always be at peace and blessed with luck.",
+          "g_tw": "希望明天也是和平安穩的一天",
+          "g_tw_cn": "希望明天也是和平安稳的一天",
+          "g_ja": "どうか明日も、平穏な一日でありますよう",
+          "g_ko": "늘 평안하시고, 행운이 가득하시길."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610240,
+        "Id": 100610340,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610250,
+        "Message": {
+          "j_ko": "뾰로롱~!",
+          "j_ja": "それでは……わっぴ～！",
+          "g_en": "Baiii~!",
+          "g_tw": "那麼……啾咪～！",
+          "g_tw_cn": "那么……啾咪～！",
+          "g_ja": "それでは……わっぴ～！",
+          "g_ko": "뾰로롱~!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006105,
+    "Data": [
+      {
+        "GroupId": 100610250,
+        "Id": 100610350,
+        "CharacterId": 10061,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610260,
+        "Message": {
+          "j_ko": "늦은 밤 갑작스럽습니다만,",
+          "j_ja": "夜分申し訳ありません、先生……",
+          "g_en": "I know it's late...and on short notice, but...",
+          "g_tw": "這麼晚打擾您非常抱歉，老師……",
+          "g_tw_cn": "这么晚打扰您非常抱歉，老师……",
+          "g_ja": "夜分申し訳ありません、先生……",
+          "g_ko": "늦은 밤 갑작스럽습니다만,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610260,
+        "Id": 100610360,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610270,
+        "Message": {
+          "j_ko": "선생님, 잠시 동행을 부탁드려도 괜찮을까요?",
+          "j_ja": "少々お時間よろしいでしょうか？",
+          "g_en": "Sensei, would it be all right if I asked for your company for a while?",
+          "g_tw": "能占用您一些時間嗎？",
+          "g_tw_cn": "能占用您一些时间吗？",
+          "g_ja": "少々お時間よろしいでしょうか？",
+          "g_ko": "선생님, 잠시 동행을 부탁드려도 괜찮을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610270,
+        "Id": 100610370,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610280,
+        "Message": {
+          "j_ko": "괜찮지만 무슨 일이야?",
+          "j_ja": "大丈夫だけど、どうしたの？",
+          "g_en": "Any time. What's wrong?",
+          "g_tw": "可以是可以，怎麼了嗎？",
+          "g_tw_cn": "可以是可以，怎么了吗？",
+          "g_ja": "大丈夫だけど、どうしたの？",
+          "g_ko": "괜찮지만 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610270,
+        "Id": 100610380,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610280,
+        "Message": {
+          "j_ko": "무슨 일 있어?",
+          "j_ja": "何かあったの？",
+          "g_en": "What's wrong?",
+          "g_tw": "發生什麼事了？",
+          "g_tw_cn": "发生什么事了？",
+          "g_ja": "何かあったの？",
+          "g_ko": "무슨 일 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610280,
+        "Id": 100610390,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610290,
+        "Message": {
+          "j_ko": "별일은 아니랍니다.",
+          "j_ja": "大したことではないのですが、",
+          "g_en": "Oh, it's nothing of concern...",
+          "g_tw": "雖然不是什麼嚴重的事",
+          "g_tw_cn": "虽然不是什么严重的事",
+          "g_ja": "大したことではないのですが、",
+          "g_ko": "별일은 아니랍니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610290,
+        "Id": 100610400,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610300,
+        "Message": {
+          "j_ko": "다만 이번에는……. 아니, 사실 늘 그랬지만…….",
+          "j_ja": "ただ今回は……いえ、これまでもそうなのですが",
+          "g_en": "But, well, I was just wondering... Not that this is out of the ordinary...",
+          "g_tw": "但這次……不，一直以來都是這樣",
+          "g_tw_cn": "但这次……不，一直以来都是这样",
+          "g_ja": "ただ今回は……いえ、これまでもそうなのですが",
+          "g_ko": "다만 이번에는……. 아니, 사실 늘 그랬지만……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610300,
+            "Id": 100610410,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610310,
+            "Message": {
+              "j_ko": "괜찮으시다면, 혼자 와 주실 수 있으실까요?",
+              "j_ja": "よろしければ、先生お一人で来ていただけませんか？",
+              "g_en": "Do you mind coming alone?",
+              "g_tw": "方便的話，能請您單獨過來嗎？",
+              "g_tw_cn": "方便的话，能请您单独过来吗？",
+              "g_ja": "よろしければ、先生お一人で来ていただけませんか？",
+              "g_ko": "괜찮으시다면, 혼자 와 주실 수 있으실까요?"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610300,
+        "Id": 100610410,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610310,
+        "Message": {
+          "j_ko": "괜찮으시다면, 혼자 와 주실 수 있으실까요?",
+          "j_ja": "よろしければ、先生お一人で来ていただけませんか？",
+          "g_en": "Do you mind coming alone?",
+          "g_tw": "方便的話，能請您單獨過來嗎？",
+          "g_tw_cn": "方便的话，能请您单独过来吗？",
+          "g_ja": "よろしければ、先生お一人で来ていただけませんか？",
+          "g_ko": "괜찮으시다면, 혼자 와 주실 수 있으실까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610310,
+        "Id": 100610420,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610320,
+        "Message": {
+          "j_ko": "조금…….",
+          "j_ja": "その、何と申し上げれば良いのでしょう……",
+          "g_en": "It's...",
+          "g_tw": "那個，該怎麼說才好呢……",
+          "g_tw_cn": "那个，该怎么说才好呢……",
+          "g_ja": "その、何と申し上げれば良いのでしょう……",
+          "g_ko": "조금……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610310,
+        "Id": 100610430,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100615,
+        "NextGroupId": 100610320,
+        "Message": {
+          "j_ko": "비밀스러운 이야기가 될 것 같습니다.",
+          "j_ja": "二人だけで、お話したいことがございまして……",
+          "g_en": "I have a secret to tell you. A private one.",
+          "g_tw": "有些話，我想與您單獨討論……",
+          "g_tw_cn": "有些话，我想与您单独讨论……",
+          "g_ja": "二人だけで、お話したいことがございまして……",
+          "g_ko": "비밀스러운 이야기가 될 것 같습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610320,
+        "Id": 100610440,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610330,
+        "Message": {
+          "j_ko": "음",
+          "j_ja": "ええと……やはり",
+          "g_en": "Yes.",
+          "g_tw": "那，那個……果然",
+          "g_tw_cn": "那，那个……果然",
+          "g_ja": "ええと……やはり",
+          "g_ko": "음"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610330,
+        "Id": 100610450,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610340,
+        "Message": {
+          "j_ko": "아무래도 너무 늦은 시간에 불러드린 게 아닌지 걱정입니다.",
+          "j_ja": "夜遅くにお呼び立てしてしまったのでは、と心配になってしまいました",
+          "g_en": "I'm sorry... I contacted you too late.",
+          "g_tw": "我還是很擔心，會不會太晚找您出來",
+          "g_tw_cn": "我还是很担心，会不会太晚找您出来",
+          "g_ja": "夜遅くにお呼び立てしてしまったのでは、と心配になってしまいました",
+          "g_ko": "아무래도 너무 늦은 시간에 불러드린 게 아닌지 걱정입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610330,
+        "Id": 100610460,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610340,
+        "Message": {
+          "j_ko": "선생님만 괜찮으시다면, 주무실 곳을 마련해 드리는 것이 예의였을지도.",
+          "j_ja": "先生にご相談のうえ、お休みする場所を用意すれば良かったですね",
+          "g_en": "I didn't have time to prepare a bed for you or anything.",
+          "g_tw": "既然是我有事找老師商量，應該提供休息的地方給老師才對",
+          "g_tw_cn": "既然是我有事找老师商量，应该提供休息的地方给老师才对",
+          "g_ja": "先生にご相談のうえ、お休みする場所を用意すれば良かったですね",
+          "g_ko": "선생님만 괜찮으시다면, 주무실 곳을 마련해 드리는 것이 예의였을지도."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610340,
+        "Id": 100610470,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610350,
+        "Message": {
+          "j_ko": "네",
+          "j_ja": "申し訳ありません……",
+          "g_en": "Okay.",
+          "g_tw": "非常抱歉……",
+          "g_tw_cn": "非常抱歉……",
+          "g_ja": "申し訳ありません……",
+          "g_ko": "네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610350,
+        "Id": 100610480,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610360,
+        "Message": {
+          "j_ko": "다음부터는, 그렇게 하도록 하겠습니다.",
+          "j_ja": "次からはそうしようと思います",
+          "g_en": "Next time, I'll be properly prepared.",
+          "g_tw": "下次開始我會這麼做的",
+          "g_tw_cn": "下次开始我会这么做的",
+          "g_ja": "次からはそうしようと思います",
+          "g_ko": "다음부터는, 그렇게 하도록 하겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610350,
+        "Id": 100610490,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610360,
+        "Message": {
+          "j_ko": "그럼 평안하시고, 늘 행운이 가득하시길.",
+          "j_ja": "では……いつも平穏無事でありますよう",
+          "g_en": "May you always be at peace and full of luck.",
+          "g_tw": "那麼……希望您能永遠平安",
+          "g_tw_cn": "那么……希望您能永远平安",
+          "g_ja": "では……いつも平穏無事でありますよう",
+          "g_ko": "그럼 평안하시고, 늘 행운이 가득하시길."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006106,
+    "Data": [
+      {
+        "GroupId": 100610360,
+        "Id": 100610500,
+        "CharacterId": 10061,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610370,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生、こんにちは",
+          "g_en": "Sensei.",
+          "g_tw": "老師，您好",
+          "g_tw_cn": "老师，您好",
+          "g_ja": "先生、こんにちは",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610370,
+        "Id": 100610510,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610380,
+        "Message": {
+          "j_ko": "외람되지만, 실례가 되지 않는다면",
+          "j_ja": "差し支えなければですが",
+          "g_en": "I'm sorry this is so sudden. I hope it's okay with you.",
+          "g_tw": "如果您不介意的話",
+          "g_tw_cn": "如果您不介意的话",
+          "g_ja": "差し支えなければですが",
+          "g_ko": "외람되지만, 실례가 되지 않는다면"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610370,
+        "Id": 100610520,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610380,
+        "Message": {
+          "j_ko": "선생님께서는 쉬시는 날 어떤 일을 하시는지, 여쭤봐도 괜찮을까요?",
+          "j_ja": "お休みの日は何をされるのか、お聞きしてもいいでしょうか？",
+          "g_en": "If you don't mind me asking... What do you do on your days off?",
+          "g_tw": "能請問老師放假時都在做些什麼嗎？",
+          "g_tw_cn": "能请问老师放假时都在做些什么吗？",
+          "g_ja": "お休みの日は何をされるのか、お聞きしてもいいでしょうか？",
+          "g_ko": "선생님께서는 쉬시는 날 어떤 일을 하시는지, 여쭤봐도 괜찮을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610380,
+        "Id": 100610530,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610390,
+        "Message": {
+          "j_ko": "괜찮지만, 무슨 일이야?",
+          "j_ja": "大丈夫だけど、どうしたの？",
+          "g_en": "Oh? Why were you wondering?",
+          "g_tw": "這倒是沒問題，怎麼了嗎？",
+          "g_tw_cn": "这倒是没问题，怎么了吗？",
+          "g_ja": "大丈夫だけど、どうしたの？",
+          "g_ko": "괜찮지만, 무슨 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610380,
+        "Id": 100610540,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610390,
+        "Message": {
+          "j_ko": "이것저것 하긴 하는데…….",
+          "j_ja": "色々やるけど……",
+          "g_en": "I do this and that...",
+          "g_tw": "做各種事吧……",
+          "g_tw_cn": "做各种事吧……",
+          "g_ja": "色々やるけど……",
+          "g_ko": "이것저것 하긴 하는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610390,
+        "Id": 100610550,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610400,
+        "Message": {
+          "j_ko": "다름이 아니라, 최근 저도 그런 질문을 받았었는데",
+          "j_ja": "その……実は、最近同じ内容の質問をされたのですが、",
+          "g_en": "Well, someone asked me that recently.",
+          "g_tw": "那個……其實，最近我也被問了相同的問題",
+          "g_tw_cn": "那个……其实，最近我也被问了相同的问题",
+          "g_ja": "その……実は、最近同じ内容の質問をされたのですが、",
+          "g_ko": "다름이 아니라, 최근 저도 그런 질문을 받았었는데"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610400,
+        "Id": 100610560,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610410,
+        "Message": {
+          "j_ko": "그",
+          "j_ja": "ええっと……",
+          "g_en": "Um...",
+          "g_tw": "只是……",
+          "g_tw_cn": "只是……",
+          "g_ja": "ええっと……",
+          "g_ko": "그"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610410,
+            "Id": 100610570,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610420,
+            "Message": {
+              "j_ko": "뭐라고 답해야 할지 몰라서,",
+              "j_ja": "なんと返したらいいのか分からず、",
+              "g_en": "I didn't know what to say.",
+              "g_tw": "我不知道該如何回答",
+              "g_tw_cn": "我不知道该如何回答",
+              "g_ja": "なんと返したらいいのか分からず、",
+              "g_ko": "뭐라고 답해야 할지 몰라서,"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610410,
+        "Id": 100610570,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610420,
+        "Message": {
+          "j_ko": "뭐라고 답해야 할지 몰라서,",
+          "j_ja": "なんと返したらいいのか分からず、",
+          "g_en": "I didn't know what to say.",
+          "g_tw": "我不知道該如何回答",
+          "g_tw_cn": "我不知道该如何回答",
+          "g_ja": "なんと返したらいいのか分からず、",
+          "g_ko": "뭐라고 답해야 할지 몰라서,"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610420,
+        "Id": 100610580,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100616,
+        "NextGroupId": 100610430,
+        "Message": {
+          "j_ko": "그냥 넘겨버렸습니다.",
+          "j_ja": "うやむやに流してしまいました",
+          "g_en": "So I just didn't respond.",
+          "g_tw": "只好糊弄過去",
+          "g_tw_cn": "只好糊弄过去",
+          "g_ja": "うやむやに流してしまいました",
+          "g_ko": "그냥 넘겨버렸습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610430,
+        "Id": 100610590,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610440,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生……あの",
+          "g_en": "Sensei.",
+          "g_tw": "老師……那個",
+          "g_tw_cn": "老师……那个",
+          "g_ja": "先生……あの",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610440,
+        "Id": 100610600,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610450,
+        "Message": {
+          "j_ko": "오늘 일은, 정말로 죄송합니다.",
+          "j_ja": "今日は本当に申し訳ございません",
+          "g_en": "I'm so sorry about today.",
+          "g_tw": "今天真的非常抱歉",
+          "g_tw_cn": "今天真的非常抱歉",
+          "g_ja": "今日は本当に申し訳ございません",
+          "g_ko": "오늘 일은, 정말로 죄송합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610450,
+        "Id": 100610610,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610460,
+        "Message": {
+          "j_ko": "하지만 선생님 덕분에 고민은 해결되었습니다.",
+          "j_ja": "でも、先生のおかげで悩みは無事解決できました",
+          "g_en": "But thank you for helping me resolve my troubles...",
+          "g_tw": "但是，多虧老師才讓我能順利解開煩惱",
+          "g_tw_cn": "但是，多亏老师才让我能顺利解开烦恼",
+          "g_ja": "でも、先生のおかげで悩みは無事解決できました",
+          "g_ko": "하지만 선생님 덕분에 고민은 해결되었습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610450,
+        "Id": 100610620,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610460,
+        "Message": {
+          "j_ko": "그 부분은 또한 감사드립니다.",
+          "j_ja": "お礼をお伝えしたかったです",
+          "g_en": "I appreciate it.",
+          "g_tw": "我想向您致上謝意",
+          "g_tw_cn": "我想向您致上谢意",
+          "g_ja": "お礼をお伝えしたかったです",
+          "g_ko": "그 부분은 또한 감사드립니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610460,
+        "Id": 100610630,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610470,
+        "Message": {
+          "j_ko": "잘은 모르겠지만 다행이야.",
+          "j_ja": "それならよかった",
+          "g_en": "I don't know exactly what I did, but I'm glad.",
+          "g_tw": "那真是太好了",
+          "g_tw_cn": "那真是太好了",
+          "g_ja": "それならよかった",
+          "g_ko": "잘은 모르겠지만 다행이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610460,
+        "Id": 100610640,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610470,
+        "Message": {
+          "j_ko": "사쿠라코가 괜찮다면 괜찮은 거지.",
+          "j_ja": "サクラコがいいと言うならそれで十分だよ",
+          "g_en": "As long as you're happy, that's all that matters.",
+          "g_tw": "櫻子覺得沒問題那就夠了",
+          "g_tw_cn": "樱子觉得没问题那就够了",
+          "g_ja": "サクラコがいいと言うならそれで十分だよ",
+          "g_ko": "사쿠라코가 괜찮다면 괜찮은 거지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610470,
+        "Id": 100610650,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610480,
+        "Message": {
+          "j_ko": "네",
+          "j_ja": "ありがとうございます",
+          "g_en": "Okay.",
+          "g_tw": "謝謝您",
+          "g_tw_cn": "谢谢您",
+          "g_ja": "ありがとうございます",
+          "g_ko": "네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610470,
+        "Id": 100610660,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610480,
+        "Message": {
+          "j_ko": "그럼 이만, 오늘 하루도 평안하시길 기도드리겠습니다.",
+          "j_ja": "明日も、祝福があらんことを",
+          "g_en": "Well... Then, I wish you a day filled with peace.",
+          "g_tw": "願祝福明日也與您同在",
+          "g_tw_cn": "愿祝福明日也与您同在",
+          "g_ja": "明日も、祝福があらんことを",
+          "g_ko": "그럼 이만, 오늘 하루도 평안하시길 기도드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610480,
+        "Id": 100610670,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610490,
+        "Message": {
+          "j_ko": "혹시",
+          "j_ja": "その……",
+          "g_en": "By any chance...",
+          "g_tw": "那個……",
+          "g_tw_cn": "那个……",
+          "g_ja": "その……",
+          "g_ko": "혹시"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610480,
+        "Id": 100610680,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610490,
+        "Message": {
+          "j_ko": "나중에 언젠가",
+          "j_ja": "いつか、ですが……",
+          "g_en": "I don't know",
+          "g_tw": "也許，有朝一日……",
+          "g_tw_cn": "也许，有朝一日……",
+          "g_ja": "いつか、ですが……",
+          "g_ko": "나중에 언젠가"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610480,
+        "Id": 100610690,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610490,
+        "Message": {
+          "j_ko": "언제가 될지는 모르겠지만",
+          "j_ja": "またそのうちに",
+          "g_en": "when exactly, but...",
+          "g_tw": "或是近期",
+          "g_tw_cn": "或是近期",
+          "g_ja": "またそのうちに",
+          "g_ko": "언제가 될지는 모르겠지만"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610490,
+            "Id": 100610700,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610500,
+            "Message": {
+              "j_ko": "다른 상담을, 또 부탁드릴 날이 올지도 모르겠습니다.",
+              "j_ja": "別の相談をお願いするかもしれません",
+              "g_en": "I think I'll need to consult with you again...",
+              "g_tw": "可能還會因為其他的事向老師諮詢",
+              "g_tw_cn": "可能还会因为其他的事向老师咨询",
+              "g_ja": "別の相談をお願いするかもしれません",
+              "g_ko": "다른 상담을, 또 부탁드릴 날이 올지도 모르겠습니다."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610490,
+        "Id": 100610700,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610500,
+        "Message": {
+          "j_ko": "다른 상담을, 또 부탁드릴 날이 올지도 모르겠습니다.",
+          "j_ja": "別の相談をお願いするかもしれません",
+          "g_en": "I think I'll need to consult with you again...",
+          "g_tw": "可能還會因為其他的事向老師諮詢",
+          "g_tw_cn": "可能还会因为其他的事向老师咨询",
+          "g_ja": "別の相談をお願いするかもしれません",
+          "g_ko": "다른 상담을, 또 부탁드릴 날이 올지도 모르겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610500,
+        "Id": 100610710,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610510,
+        "Message": {
+          "j_ko": "그때를, 지금부터 미리",
+          "j_ja": "その際には、また……",
+          "g_en": "I wanted to let you know in advance.",
+          "g_tw": "到時候……",
+          "g_tw_cn": "到时候……",
+          "g_ja": "その際には、また……",
+          "g_ko": "그때를, 지금부터 미리"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610500,
+        "Id": 100610720,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610510,
+        "Message": {
+          "j_ko": "잘, 부탁드리겠습니다.",
+          "j_ja": "お時間を頂けますと嬉しいです?",
+          "g_en": "I'll be here when you need me.",
+          "g_tw": "老師願意撥空的話我會很開心的？",
+          "g_tw_cn": "老师愿意拨空的话我会很开心的？",
+          "g_ja": "お時間を頂けますと嬉しいです?",
+          "g_ko": "잘, 부탁드리겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1006108,
+    "Data": [
+      {
+        "GroupId": 100610510,
+        "Id": 100610730,
+        "CharacterId": 10061,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610520,
+        "Message": {
+          "j_ko": "선생님",
+          "j_ja": "こんにちは、先生",
+          "g_en": "Sensei.",
+          "g_tw": "您好，老師",
+          "g_tw_cn": "您好，老师",
+          "g_ja": "こんにちは、先生",
+          "g_ko": "선생님"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610520,
+        "Id": 100610740,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610530,
+        "Message": {
+          "j_ko": "문제가 생겼습니다.",
+          "j_ja": "その……問題が起きてしまいました",
+          "g_en": "I have a problem.",
+          "g_tw": "那個……發生了一些問題",
+          "g_tw_cn": "那个……发生了一些问题",
+          "g_ja": "その……問題が起きてしまいました",
+          "g_ko": "문제가 생겼습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610530,
+        "Id": 100610750,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610540,
+        "Message": {
+          "j_ko": "문제?",
+          "j_ja": "問題？",
+          "g_en": "A problem?",
+          "g_tw": "問題？",
+          "g_tw_cn": "问题？",
+          "g_ja": "問題？",
+          "g_ko": "문제?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610530,
+        "Id": 100610760,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610540,
+        "Message": {
+          "j_ko": "무슨 일 있어?",
+          "j_ja": "どうしたの？",
+          "g_en": "What's wrong?",
+          "g_tw": "怎麼了？",
+          "g_tw_cn": "怎么了？",
+          "g_ja": "どうしたの？",
+          "g_ko": "무슨 일 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610540,
+        "Id": 100610770,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610550,
+        "Message": {
+          "j_ko": "의도한 건 아니지만, 그렇게 되었습니다.",
+          "j_ja": "意図したわけではなかったのですが……",
+          "g_en": "It was entirely unintentional, but...",
+          "g_tw": "雖然並非如我所願……",
+          "g_tw_cn": "虽然并非如我所愿……",
+          "g_ja": "意図したわけではなかったのですが……",
+          "g_ko": "의도한 건 아니지만, 그렇게 되었습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610550,
+        "Id": 100610780,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610560,
+        "Message": {
+          "j_ko": "아무래도…….",
+          "j_ja": "……なんとか、先生の力を",
+          "g_en": "It's become something of a habit.",
+          "g_tw": "……不過我還是希望",
+          "g_tw_cn": "……不过我还是希望",
+          "g_ja": "……なんとか、先生の力を",
+          "g_ko": "아무래도……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610550,
+        "Id": 100610790,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100618,
+        "NextGroupId": 100610560,
+        "Message": {
+          "j_ko": "도움을 조금, 받고자 합니다.",
+          "j_ja": "お借りできないかと思いまして",
+          "g_en": "I need your help with it.",
+          "g_tw": "能夠借用老師的力量",
+          "g_tw_cn": "能够借用老师的力量",
+          "g_ja": "お借りできないかと思いまして",
+          "g_ko": "도움을 조금, 받고자 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610560,
+        "Id": 100610800,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610570,
+        "Message": {
+          "j_ko": "죄송합니다. 선생님께서 그렇게 힘내 주셨는데…….",
+          "j_ja": "申し訳ありません……せっかくお時間を頂いたのに",
+          "g_en": "I'm sorry. I know you worked very hard...",
+          "g_tw": "非常抱歉……明明占用了老師的時間",
+          "g_tw_cn": "非常抱歉……明明占用了老师的时间",
+          "g_ja": "申し訳ありません……せっかくお時間を頂いたのに",
+          "g_ko": "죄송합니다. 선생님께서 그렇게 힘내 주셨는데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610570,
+        "Id": 100610810,
+        "CharacterId": 10061,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610580,
+        "Message": {
+          "j_ko": "무엇이 문제였을까요. 이건 너무 어려운 일인 것 같습니다.",
+          "j_ja": "何が問題だったのでしょうか……思っていたよりも、難しいですね",
+          "g_en": "I don't know what was wrong. Maybe I was asking too much.",
+          "g_tw": "問題究竟出在哪裡呢……比想像中還困難呢",
+          "g_tw_cn": "问题究竟出在哪里呢……比想像中还困难呢",
+          "g_ja": "何が問題だったのでしょうか……思っていたよりも、難しいですね",
+          "g_ko": "무엇이 문제였을까요. 이건 너무 어려운 일인 것 같습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610580,
+        "Id": 100610820,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610590,
+        "Message": {
+          "j_ko": "어, 음……. 그렇네요.",
+          "j_ja": "えっと、ごめんね",
+          "g_en": "Oh, um... I see.",
+          "g_tw": "那個，抱歉",
+          "g_tw_cn": "那个，抱歉",
+          "g_ja": "えっと、ごめんね",
+          "g_ko": "어, 음……. 그렇네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610580,
+        "Id": 100610830,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610590,
+        "Message": {
+          "j_ko": "도움이 되지 못해 미안해.",
+          "j_ja": "お役に立てなくて",
+          "g_en": "I'm sorry I couldn't help.",
+          "g_tw": "沒能幫上你的忙",
+          "g_tw_cn": "没能帮上你的忙",
+          "g_ja": "お役に立てなくて",
+          "g_ko": "도움이 되지 못해 미안해."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610590,
+        "Id": 100610840,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610600,
+        "Message": {
+          "j_ko": "아닙니다. 그래도 크게 도움이 되었습니다.",
+          "j_ja": "そんなことありません、大変助かりました",
+          "g_en": "Not at all. You were still very helpful in a different way.",
+          "g_tw": "別這麼說，您已經幫了我很大的忙了",
+          "g_tw_cn": "别这么说，您已经帮了我很大的忙了",
+          "g_ja": "そんなことありません、大変助かりました",
+          "g_ko": "아닙니다. 그래도 크게 도움이 되었습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610590,
+        "Id": 100610850,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610600,
+        "Message": {
+          "j_ko": "최소한 자매님들께서",
+          "j_ja": "少なくとも以前よりは確実に",
+          "g_en": "At least, it seems like maybe...",
+          "g_tw": "至少和之前相比",
+          "g_tw_cn": "至少和之前相比",
+          "g_ja": "少なくとも以前よりは確実に",
+          "g_ko": "최소한 자매님들께서"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610590,
+        "Id": 100610860,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610600,
+        "Message": {
+          "j_ko": "전처럼 어려워하신다는 느낌은 확실히 줄어들었으니까요.",
+          "j_ja": "気難しい人だという印象は減ったようですし",
+          "g_en": "They're a little more comfortable than before.",
+          "g_tw": "覺得我是個難相處的人的印象確實減少了",
+          "g_tw_cn": "觉得我是个难相处的人的印象确实减少了",
+          "g_ja": "気難しい人だという印象は減ったようですし",
+          "g_ko": "전처럼 어려워하신다는 느낌은 확실히 줄어들었으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610600,
+        "Id": 100610870,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610610,
+        "Message": {
+          "j_ko": "대신 조금 종잡을 수 없고",
+          "j_ja": "その分、つかみどころのない、",
+          "g_en": "But I feel like",
+          "g_tw": "雖然，是個難以捉摸的、",
+          "g_tw_cn": "虽然，是个难以捉摸的、",
+          "g_ja": "その分、つかみどころのない、",
+          "g_ko": "대신 조금 종잡을 수 없고"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610610,
+            "Id": 100610880,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100610620,
+            "Message": {
+              "j_ko": "이상한 사람",
+              "j_ja": "変わった人という印象が……",
+              "g_en": "I've become someone",
+              "g_tw": "奇怪的人的印象似乎……",
+              "g_tw_cn": "奇怪的人的印象似乎……",
+              "g_ja": "変わった人という印象が……",
+              "g_ko": "이상한 사람"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610610,
+        "Id": 100610880,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610620,
+        "Message": {
+          "j_ko": "이상한 사람",
+          "j_ja": "変わった人という印象が……",
+          "g_en": "I've become someone",
+          "g_tw": "奇怪的人的印象似乎……",
+          "g_tw_cn": "奇怪的人的印象似乎……",
+          "g_ja": "変わった人という印象が……",
+          "g_ko": "이상한 사람"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610620,
+        "Id": 100610890,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610630,
+        "Message": {
+          "j_ko": "이 된 것 같긴 하지만요.",
+          "j_ja": "できてしまったようですが",
+          "g_en": "unpredictable and weird to them.",
+          "g_tw": "已經形成了",
+          "g_tw_cn": "已经形成了",
+          "g_ja": "できてしまったようですが",
+          "g_ko": "이 된 것 같긴 하지만요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610630,
+        "Id": 100610900,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610640,
+        "Message": {
+          "j_ko": "뭐, 일단은 일 보 전진일까",
+          "j_ja": "ひとまず一歩前進かな？",
+          "g_en": "Well, it's a first step.",
+          "g_tw": "也算是向前邁進了一步吧？",
+          "g_tw_cn": "也算是向前迈进了一步吧？",
+          "g_ja": "ひとまず一歩前進かな？",
+          "g_ko": "뭐, 일단은 일 보 전진일까"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610630,
+        "Id": 100610910,
+        "CharacterId": 10061,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610640,
+        "Message": {
+          "j_ko": "하나씩 해결해 나가보자",
+          "j_ja": "一つずつ解決していこう",
+          "g_en": "Let's take it step-by-step.",
+          "g_tw": "一步步解決吧",
+          "g_tw_cn": "一步步解决吧",
+          "g_ja": "一つずつ解決していこう",
+          "g_ko": "하나씩 해결해 나가보자"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610640,
+        "Id": 100610920,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610650,
+        "Message": {
+          "j_ko": "네",
+          "j_ja": "はい……",
+          "g_en": "Okay.",
+          "g_tw": "好的……",
+          "g_tw_cn": "好的……",
+          "g_ja": "はい……",
+          "g_ko": "네"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100610650,
+        "Id": 100610930,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100610660,
+        "Message": {
+          "j_ko": "다시 한번 정말 감사드립니다.",
+          "j_ja": "本当に、ありがとうございました",
+          "g_en": "Again, thank you so much.",
+          "g_tw": "真的非常感謝您",
+          "g_tw_cn": "真的非常感谢您",
+          "g_ja": "本当に、ありがとうございました",
+          "g_ko": "다시 한번 정말 감사드립니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100610660,
+            "Id": 100610940,
+            "CharacterId": 10061,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 0,
+            "Message": {
+              "j_ko": "그리고 앞으로도, 모쪼록 잘 부탁드립니다.",
+              "j_ja": "これからも……どうぞよろしくお願いします",
+              "g_en": "I'll look to you again if I need help.",
+              "g_tw": "今後……也請多多指教",
+              "g_tw_cn": "今后……也请多多指教",
+              "g_ja": "これからも……どうぞよろしくお願いします",
+              "g_ko": "그리고 앞으로도, 모쪼록 잘 부탁드립니다."
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100610660,
+        "Id": 100610940,
+        "CharacterId": 10061,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "그리고 앞으로도, 모쪼록 잘 부탁드립니다.",
+          "j_ja": "これからも……どうぞよろしくお願いします",
+          "g_en": "I'll look to you again if I need help.",
+          "g_tw": "今後……也請多多指教",
+          "g_tw_cn": "今后……也请多多指教",
+          "g_ja": "これからも……どうぞよろしくお願いします",
+          "g_ko": "그리고 앞으로도, 모쪼록 잘 부탁드립니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

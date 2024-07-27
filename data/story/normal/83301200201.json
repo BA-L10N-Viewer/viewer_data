@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温泉の革命って何なんだろ？",
+      "j_ko": "온천의 혁명이라니~ 대체 뭘까?",
+      "g_ja": "温泉の革命って何なんだろ？",
+      "g_ko": "온천의 혁명이라니~ 대체 뭘까?",
+      "g_en": "A hot spring revolution, huh? I wonder what that'll be like?",
+      "g_th": "การปฏิวัติออนเซ็น~ มันจะเป็นยังไงกันนะ?",
+      "g_tw": "溫泉的革命～會是什麼呢？",
+      "g_tw_cn": "温泉的革命～会是什么呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;온천의 혁명이라니~ 대체 뭘까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よく分かんないけど、なんかワクワクする言葉だね～",
+      "j_ko": "뭔지는 몰라도 단어에서 두근거림이 느껴지지?",
+      "g_ja": "よく分かんないけど、なんかワクワクする言葉だね～",
+      "g_ko": "뭔지는 몰라도 단어에서 두근거림이 느껴지지?",
+      "g_en": "I don't know, but the name feels so provocative, right?",
+      "g_th": "ถึงจะไม่รู้แน่ชัดว่าคืออะไร แต่ดูจากการเลือกใช้คำก็น่าตื่นเต้นแล้วว่ามั้ย?",
+      "g_tw": "我也不知道，但這兩個字聽起來就很讓人興奮吧？",
+      "g_tw_cn": "我也不知道，但这两个字听起来就很让人兴奋吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;뭔지는 몰라도 단어에서 두근거림이 느껴지지?\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

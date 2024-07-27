@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（訓練から戻ったタイミングで問題児が騒ぎを起こすだなんて、狙いがあるような気がする）",
+      "j_ko": "(훈련을 복귀한 타이밍에 갑작스레 문제아들이 습격해왔다. 여기엔 뭔가 의도가 느껴져.)",
+      "g_ja": "（訓練から戻ったタイミングで問題児が騒ぎを起こすだなんて、狙いがあるような気がする）",
+      "g_ko": "(훈련을 복귀한 타이밍에 갑작스레 문제아들이 습격해왔다. 여기엔 뭔가 의도가 느껴져.)",
+      "g_en": "(Could it be related to the troublemakers who ambushed us when we returned from training?)",
+      "g_th": "(และยังมีพวกเด็กเจ้าปัญหามาก่อเรื่องในจังหวะที่กลับมาจากฝึกฝนพอดี ในส่วนนี้ต้องมีเจตนาอะไร<br/>บางอย่างแน่ๆ)",
+      "g_tw": "（剛訓練完回來就突然有問題學生發動襲擊，背後似乎有某種意圖）",
+      "g_tw_cn": "（刚训练完回来就突然有问题学生发动袭击，背后似乎有某种意图）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(훈련을 복귀한 타이밍에 갑작스레 문제아들이 습격해왔다. 여기엔 뭔가 의도가 느껴져.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（おそらく、誰か指示を出した人がいる）",
+      "j_ko": "(문제아들의 행동에 일관성이 보인다는 건, 그걸 지시한 다른 누군가. 고용주가 있을지도 몰라.)",
+      "g_ja": "（おそらく、誰か指示を出した人がいる）",
+      "g_ko": "(문제아들의 행동에 일관성이 보인다는 건, 그걸 지시한 다른 누군가. 고용주가 있을지도 몰라.)",
+      "g_en": "(There's a clear direction behind these disturbances. They're too organized and frequent to be naturally-occurring outbursts. Someone must have funded our attackers.)",
+      "g_th": "(ดูจากพฤติกรรมที่มีแพทเทิร์นของเด็กเจ้าปัญหาแล้ว อาจจะมีคนอื่นสั่งหรือจ้างวานมาก็ได้)",
+      "g_tw": "（問題學生的行動之間有一貫性，這就表示背後可能有雇主在唆使他們）",
+      "g_tw_cn": "（问题学生的行动之间有一贯性，这就表示背后可能有雇主在唆使他们）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(문제아들의 행동에 일관성이 보인다는 건, 그걸 지시한 다른 누군가. 고용주가 있을지도 몰라.)\\n#3;closeup\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

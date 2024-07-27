@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふむ……",
+      "j_ko": "흐음……",
+      "g_ja": "ふむ……",
+      "g_ko": "흐음……",
+      "g_en": "Hmm...",
+      "g_th": "ฮืม...",
+      "g_tw": "嗯……",
+      "g_tw_cn": "嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;99;흐음……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……見つけたわ。",
+      "j_ko": "……기척이.",
+      "g_ja": "……見つけたわ。",
+      "g_ko": "……기척이.",
+      "g_en": "...I feel a presence.",
+      "g_th": "ฟังจากเสียงแล้ว...",
+      "g_tw": "……找到了。",
+      "g_tw_cn": "……找到了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;05;……기척이.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そっちの方に……",
+      "j_ko": "아, 입구쪽으로……",
+      "g_ja": "あ、そっちの方に……",
+      "g_ko": "아, 입구쪽으로……",
+      "g_en": "Something is approaching the entrance...",
+      "g_th": "กะ... กำลังมาที่ทางเข้า...",
+      "g_tw": "啊，往入口那邊跑了……",
+      "g_tw_cn": "啊，往入口那边跑了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;14;아, 입구쪽으로……\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "う、うわあああっ！？こ、こっち来るな！",
+      "j_ko": "우, 우와아악?! 이, 이쪽으로 오잖아?!",
+      "g_ja": "う、うわあああっ！？こ、こっち来るな！",
+      "g_ko": "우, 우와아악?! 이, 이쪽으로 오잖아?!",
+      "g_en": "W-Waah?! Th-The bug's coming this way?!",
+      "g_th": "วะ... ว้ากกก?!! กะ... กำลังมาทางนี้แล้ว!!",
+      "g_tw": "哇，哇啊啊啊！？往，往這邊過來了！？",
+      "g_tw_cn": "哇，哇啊啊啊！？往，往这边过来了！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3982313728,
+    "DataType": "speaker",
+    "Script": "3;불량배 A;06;우, 우와아악?! 이, 이쪽으로 오잖아?!\\n#3;em;[?!]\\n#3;shake\\n#3;a\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "に、逃げろ……！",
+      "j_ko": "도, 도망쳐……!",
+      "g_ja": "に、逃げろ……！",
+      "g_ko": "도, 도망쳐……!",
+      "g_en": "R-Run for your lives!",
+      "g_th": "ผะ... เผ่นเร็ว...!",
+      "g_tw": "快，快逃啊……！",
+      "g_tw_cn": "快，快逃啊……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2032102177,
+    "DataType": "speaker",
+    "Script": "2;불량배 B;06;도, 도망쳐……!\\n#2;ar\\n#2;hophop\\n#3;m4\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "SE_Cartoon_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

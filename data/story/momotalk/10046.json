@@ -1,0 +1,1030 @@
+[
+  {
+    "BondScenarioId": 1004602,
+    "Data": [
+      {
+        "GroupId": 100460010,
+        "Id": 100460010,
+        "CharacterId": 10046,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460020,
+        "Message": {
+          "j_ko": "주군!!!",
+          "j_ja": "主殿！！！！",
+          "g_en": "My lord!",
+          "g_tw": "主公！！！",
+          "g_tw_cn": "主公！！！",
+          "g_ja": "主殿！！！！",
+          "g_ko": "주군!!!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460020,
+        "Id": 100460020,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460030,
+        "Message": {
+          "j_ko": "여름이에요. 여름!",
+          "j_ja": "夏ですよ、夏！",
+          "g_en": "It's summer. Summertime!",
+          "g_tw": "夏天到了，夏天！",
+          "g_tw_cn": "夏天到了，夏天！",
+          "g_ja": "夏ですよ、夏！",
+          "g_ko": "여름이에요. 여름!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460030,
+        "Id": 100460030,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460040,
+        "Message": {
+          "j_ko": "그러게 여름이네.",
+          "j_ja": "そうだね、夏だね",
+          "g_en": "Yeah, it's already here.",
+          "g_tw": "是啊，夏天到了",
+          "g_tw_cn": "是啊，夏天到了",
+          "g_ja": "そうだね、夏だね",
+          "g_ko": "그러게 여름이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460040,
+        "Id": 100460040,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460050,
+        "Message": {
+          "j_ko": "오늘 이곳저곳이 아지랑이로 가득한 거 있죠?",
+          "j_ja": "夏なので、陽炎があちこちに見られます！",
+          "g_en": "The haze was everywhere today!",
+          "g_tw": "因為是夏天，到處都熱氣沖天！",
+          "g_tw_cn": "因为是夏天，到处都热气冲天！",
+          "g_ja": "夏なので、陽炎があちこちに見られます！",
+          "g_ko": "오늘 이곳저곳이 아지랑이로 가득한 거 있죠?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460040,
+        "Id": 100460050,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460050,
+        "Message": {
+          "j_ko": "그게 꼭 시바견왕왕 감독의 26번째 작품! <아지랑이 혈투> 같아서…",
+          "j_ja": "まるであの、柴犬ワン蔵監督の26作目！『かげろうの血闘』のように！",
+          "g_en": "It looked like a scene from Bloody Battle of the Haze, the twenty-sixth film directed by Shiba Dog Wang Wang...",
+          "g_tw": "簡直就像柴犬汪藏導演的第26部作品！《陽炎之血鬥》一樣！",
+          "g_tw_cn": "简直就像柴犬汪藏导演的第26部作品！《阳炎之血斗》一样！",
+          "g_ja": "まるであの、柴犬ワン蔵監督の26作目！『かげろうの血闘』のように！",
+          "g_ko": "그게 꼭 시바견왕왕 감독의 26번째 작품! <아지랑이 혈투> 같아서…"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460050,
+        "Id": 100460060,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460060,
+        "Message": {
+          "j_ko": "엄청 굉장했어요!",
+          "j_ja": "本当にすごかったです！",
+          "g_en": "It was amazing!",
+          "g_tw": "真的是太驚人了！",
+          "g_tw_cn": "真的是太惊人了！",
+          "g_ja": "本当にすごかったです！",
+          "g_ko": "엄청 굉장했어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460060,
+        "Id": 100460070,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460070,
+        "Message": {
+          "j_ko": "잘은 모르겠지만, 이즈나가 즐거워 보여서 다행이네.",
+          "j_ja": "よく分からないけど、イズナが楽しそうでよかった",
+          "g_en": "I'm not sure what that means, but I'm glad you enjoyed it. ",
+          "g_tw": "雖然不是很懂，但伊樹菜看起來很開心，真是太好了",
+          "g_tw_cn": "虽然不是很懂，但伊树菜看起来很开心，真是太好了",
+          "g_ja": "よく分からないけど、イズナが楽しそうでよかった",
+          "g_ko": "잘은 모르겠지만, 이즈나가 즐거워 보여서 다행이네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460060,
+        "Id": 100460080,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460070,
+        "Message": {
+          "j_ko": "어째 이즈나, 평소보다 더 기운 차 보이는걸.",
+          "j_ja": "なんだかイズナ、いつも以上に元気だね",
+          "g_en": "You seem more energetic than usual.",
+          "g_tw": "總覺得伊樹菜比平常更有精神呢",
+          "g_tw_cn": "总觉得伊树菜比平常更有精神呢",
+          "g_ja": "なんだかイズナ、いつも以上に元気だね",
+          "g_ko": "어째 이즈나, 평소보다 더 기운 차 보이는걸."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460070,
+        "Id": 100460090,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460080,
+        "Message": {
+          "j_ko": "이것도 다 여름의 태양 에너지 덕분일까요?",
+          "j_ja": "もしかしたら、夏のお日様エネルギーのおかげかもしれません！",
+          "g_en": "Do you think it's because of the energy of the summer sun?",
+          "g_tw": "也許，是多虧了夏天的陽光能量！",
+          "g_tw_cn": "也许，是多亏了夏天的阳光能量！",
+          "g_ja": "もしかしたら、夏のお日様エネルギーのおかげかもしれません！",
+          "g_ko": "이것도 다 여름의 태양 에너지 덕분일까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460080,
+        "Id": 100460100,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460090,
+        "Message": {
+          "j_ko": "아, 이러고 있을 게 아니라. 주군! 같이 바다에 나가요!",
+          "j_ja": "あ、こうしている場合ではありませんね。主殿、一緒に海に行きましょう！",
+          "g_en": "Oh, no time to dilly-dally! My lord, let's go to the beach together!",
+          "g_tw": "啊，現在不是說這個的時候。主公！一起去海邊吧！",
+          "g_tw_cn": "啊，现在不是说这个的时候。主公！一起去海边吧！",
+          "g_ja": "あ、こうしている場合ではありませんね。主殿、一緒に海に行きましょう！",
+          "g_ko": "아, 이러고 있을 게 아니라. 주군! 같이 바다에 나가요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460080,
+        "Id": 100460110,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460090,
+        "Message": {
+          "j_ko": "여름에, 그리고 바다에 적응한 닌자가 되기 위해, 수련 개시예요!",
+          "j_ja": "夏、そして海に適応した忍びになるため、修行開始です！",
+          "g_en": "I need to train to be a ninja who's well adjusted to summer and the beach.",
+          "g_tw": "這個夏天，為了成為能適應大海的忍者，要開始修行了！",
+          "g_tw_cn": "这个夏天，为了成为能适应大海的忍者，要开始修行了！",
+          "g_ja": "夏、そして海に適応した忍びになるため、修行開始です！",
+          "g_ko": "여름에, 그리고 바다에 적응한 닌자가 되기 위해, 수련 개시예요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460090,
+        "Id": 100460120,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460100,
+        "Message": {
+          "j_ko": "뭐, 그럼 그럴까?",
+          "j_ja": "うん、行こっか",
+          "g_en": "If you say so!",
+          "g_tw": "嗯，走吧",
+          "g_tw_cn": "嗯，走吧",
+          "g_ja": "うん、行こっか",
+          "g_ko": "뭐, 그럼 그럴까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460100,
+        "Id": 100460130,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100462,
+        "NextGroupId": 100460110,
+        "Message": {
+          "j_ko": "에헤헷! 기다리고 있을게요!",
+          "j_ja": "はいっ、お待ちしてますね！",
+          "g_en": "Heehee! I'll be waiting!",
+          "g_tw": "好的，伊樹菜會等著主公！",
+          "g_tw_cn": "好的，伊树菜会等着主公！",
+          "g_ja": "はいっ、お待ちしてますね！",
+          "g_ko": "에헤헷! 기다리고 있을게요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004603,
+    "Data": [
+      {
+        "GroupId": 100460110,
+        "Id": 100460140,
+        "CharacterId": 10046,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460120,
+        "Message": {
+          "j_ko": "주군!",
+          "j_ja": "主殿！",
+          "g_en": "My lord! ",
+          "g_tw": "主公！",
+          "g_tw_cn": "主公！",
+          "g_ja": "主殿！",
+          "g_ko": "주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460120,
+        "Id": 100460150,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460130,
+        "Message": {
+          "j_ko": "혹시 오늘 시간이 괜찮으시다면…….",
+          "j_ja": "もし今日、お時間がありましたら",
+          "g_en": "If you have time today...",
+          "g_tw": "今天如果有時間的話……",
+          "g_tw_cn": "今天如果有时间的话……",
+          "g_ja": "もし今日、お時間がありましたら",
+          "g_ko": "혹시 오늘 시간이 괜찮으시다면……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460130,
+        "Id": 100460160,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460140,
+        "Message": {
+          "j_ko": "물론이지! 이즈나가 부른다면 어디든 갈게!",
+          "j_ja": "イズナのためならどこへでも！",
+          "g_en": "Sure! I'll go anywhere with you, Izuna!",
+          "g_tw": "只要是為了伊樹菜，去哪裡都行！",
+          "g_tw_cn": "只要是为了伊树菜，去哪里都行！",
+          "g_ja": "イズナのためならどこへでも！",
+          "g_ko": "물론이지! 이즈나가 부른다면 어디든 갈게!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460140,
+        "Id": 100460170,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460150,
+        "Message": {
+          "j_ko": "아……",
+          "j_ja": "あ",
+          "g_en": "Oh...!",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "아……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460150,
+        "Id": 100460180,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460160,
+        "Message": {
+          "j_ko": "네!",
+          "j_ja": "はい！",
+          "g_en": "Okay!",
+          "g_tw": "是！",
+          "g_tw_cn": "是！",
+          "g_ja": "はい！",
+          "g_ko": "네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460150,
+        "Id": 100460190,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460160,
+        "Message": {
+          "j_ko": "에헤헷!",
+          "j_ja": "えへへっ！",
+          "g_en": "Heeheehee!",
+          "g_tw": "耶嘿嘿！",
+          "g_tw_cn": "耶嘿嘿！",
+          "g_ja": "えへへっ！",
+          "g_ko": "에헤헷!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100460160,
+            "Id": 100460200,
+            "CharacterId": 10046,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 100463,
+            "NextGroupId": 100460170,
+            "Message": {
+              "j_ko": "네! 그럼 바닷가에서 봐요! 주군!",
+              "j_ja": "ありがとうございます！それでは海辺でお待ちしてますね、主殿！",
+              "g_en": "Okay, see you at the beach, my lord!",
+              "g_tw": "非常感謝！那麼伊樹菜會在海邊等著主公！",
+              "g_tw_cn": "非常感谢！那么伊树菜会在海边等着主公！",
+              "g_ja": "ありがとうございます！それでは海辺でお待ちしてますね、主殿！",
+              "g_ko": "네! 그럼 바닷가에서 봐요! 주군!"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100460160,
+        "Id": 100460200,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100463,
+        "NextGroupId": 100460170,
+        "Message": {
+          "j_ko": "네! 그럼 바닷가에서 봐요! 주군!",
+          "j_ja": "ありがとうございます！それでは海辺でお待ちしてますね、主殿！",
+          "g_en": "Okay, see you at the beach, my lord!",
+          "g_tw": "非常感謝！那麼伊樹菜會在海邊等著主公！",
+          "g_tw_cn": "非常感谢！那么伊树菜会在海边等着主公！",
+          "g_ja": "ありがとうございます！それでは海辺でお待ちしてますね、主殿！",
+          "g_ko": "네! 그럼 바닷가에서 봐요! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004605,
+    "Data": [
+      {
+        "GroupId": 100460170,
+        "Id": 100460210,
+        "CharacterId": 10046,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460180,
+        "Message": {
+          "j_ko": "주군~! 오늘도 아침부터 무지막지하게 더운 거 있죠~!",
+          "j_ja": "今日も朝から暑いですね、主殿！",
+          "g_en": "My lord! It's been so hot since this morning!",
+          "g_tw": "今天從早上開始就非常熱呢，主公！",
+          "g_tw_cn": "今天从早上开始就非常热呢，主公！",
+          "g_ja": "今日も朝から暑いですね、主殿！",
+          "g_ko": "주군~! 오늘도 아침부터 무지막지하게 더운 거 있죠~!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460180,
+        "Id": 100460220,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460190,
+        "Message": {
+          "j_ko": "이즈나, 어찌나 더웠는지…….",
+          "j_ja": "あまりの暑さにイズナ、朝起きた時から汗だくでした……",
+          "g_en": "It was so hot that...",
+          "g_tw": "實在太熱了，伊樹菜從早上起床後就汗流浹背……",
+          "g_tw_cn": "实在太热了，伊树菜从早上起床后就汗流浃背……",
+          "g_ja": "あまりの暑さにイズナ、朝起きた時から汗だくでした……",
+          "g_ko": "이즈나, 어찌나 더웠는지……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460180,
+        "Id": 100460230,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460190,
+        "Message": {
+          "j_ko": "아침에 일어났을 땐 꼬리가 땀으로 축축해져서~",
+          "j_ja": "特に尻尾が……",
+          "g_en": "when I woke up, my tail was soaking wet!",
+          "g_tw": "特別是尾巴的部份……",
+          "g_tw_cn": "特别是尾巴的部份……",
+          "g_ja": "特に尻尾が……",
+          "g_ko": "아침에 일어났을 땐 꼬리가 땀으로 축축해져서~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460190,
+        "Id": 100460240,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460200,
+        "Message": {
+          "j_ko": "우왓, 그건 엄청 큰일이었겠네.",
+          "j_ja": "この季節は大変そうだね……",
+          "g_en": "Whoa, that's not pleasant.",
+          "g_tw": "這個季節真是辛苦你了……",
+          "g_tw_cn": "这个季节真是辛苦你了……",
+          "g_ja": "この季節は大変そうだね……",
+          "g_ko": "우왓, 그건 엄청 큰일이었겠네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460200,
+        "Id": 100460250,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460210,
+        "Message": {
+          "j_ko": "하지만! 이런 더위가 방해할지라도!",
+          "j_ja": "しかし、たとえどんなに暑かろうとも！",
+          "g_en": "But even in this heat...",
+          "g_tw": "但是，不管有多熱！",
+          "g_tw_cn": "但是，不管有多热！",
+          "g_ja": "しかし、たとえどんなに暑かろうとも！",
+          "g_ko": "하지만! 이런 더위가 방해할지라도!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460200,
+        "Id": 100460260,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460210,
+        "Message": {
+          "j_ko": "이즈나! 오늘도 주군과 함께! 힘차게 수련하고 싶어요!",
+          "j_ja": "イズナは今日も主殿と一緒に、修行に臨みたい所存です！",
+          "g_en": "I want to train hard with you, my lord!",
+          "g_tw": "伊樹菜今天也想和主公一起修行！",
+          "g_tw_cn": "伊树菜今天也想和主公一起修行！",
+          "g_ja": "イズナは今日も主殿と一緒に、修行に臨みたい所存です！",
+          "g_ko": "이즈나! 오늘도 주군과 함께! 힘차게 수련하고 싶어요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460210,
+        "Id": 100460270,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460220,
+        "Message": {
+          "j_ko": "그래서 말이지만, 주군-!",
+          "j_ja": "というわけで主殿！",
+          "g_en": "So on that note...!",
+          "g_tw": "所以說，主公！",
+          "g_tw_cn": "所以说，主公！",
+          "g_ja": "というわけで主殿！",
+          "g_ko": "그래서 말이지만, 주군-!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460220,
+        "Id": 100460280,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460230,
+        "Message": {
+          "j_ko": "응. 이즈나. 그러면 거기서 만날까.",
+          "j_ja": "うん、じゃあ準備するね",
+          "g_en": "Yeah, Izuna. See you there, then?",
+          "g_tw": "嗯，我準備好了",
+          "g_tw_cn": "嗯，我准备好了",
+          "g_ja": "うん、じゃあ準備するね",
+          "g_ko": "응. 이즈나. 그러면 거기서 만날까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460230,
+        "Id": 100460290,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460240,
+        "Message": {
+          "j_ko": "에헤헷! 네!",
+          "j_ja": "えへへっ！はい！",
+          "g_en": "Heeheehee. Yes!",
+          "g_tw": "耶嘿嘿！好！",
+          "g_tw_cn": "耶嘿嘿！好！",
+          "g_ja": "えへへっ！はい！",
+          "g_ko": "에헤헷! 네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460230,
+        "Id": 100460300,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100465,
+        "NextGroupId": 100460240,
+        "Message": {
+          "j_ko": "이즈나! 바로 준비하고 나갈게요!",
+          "j_ja": "イズナも、すぐに準備していきます！",
+          "g_en": "I'll get ready and leave right away!",
+          "g_tw": "伊樹菜也馬上準備！",
+          "g_tw_cn": "伊树菜也马上准备！",
+          "g_ja": "イズナも、すぐに準備していきます！",
+          "g_ko": "이즈나! 바로 준비하고 나갈게요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460240,
+        "Id": 100460310,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460250,
+        "Message": {
+          "j_ko": "아, 저기, 그게…….",
+          "j_ja": "その",
+          "g_en": "Oh, um... So...",
+          "g_tw": "那個",
+          "g_tw_cn": "那个",
+          "g_ja": "その",
+          "g_ko": "아, 저기, 그게……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460250,
+        "Id": 100460320,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460260,
+        "Message": {
+          "j_ko": "죄송해요! 주군!",
+          "j_ja": "すみませんでした、主殿！",
+          "g_en": "I'm sorry, my lord!",
+          "g_tw": "對不起，主公！",
+          "g_tw_cn": "对不起，主公！",
+          "g_ja": "すみませんでした、主殿！",
+          "g_ko": "죄송해요! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460250,
+        "Id": 100460330,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460260,
+        "Message": {
+          "j_ko": "이즈나가 먼저 수련을 하자고 했는데……. 도중에 잠들어 버리다니!",
+          "j_ja": "イズナから修行したいと言っておいて、途中で寝てしまうなんて……！",
+          "g_en": "I was the one who suggested training...but I fell asleep...",
+          "g_tw": "明明是伊樹菜說要修行的，居然在中途就睡著了……！",
+          "g_tw_cn": "明明是伊树菜说要修行的，居然在中途就睡着了……！",
+          "g_ja": "イズナから修行したいと言っておいて、途中で寝てしまうなんて……！",
+          "g_ko": "이즈나가 먼저 수련을 하자고 했는데……. 도중에 잠들어 버리다니!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460260,
+        "Id": 100460340,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460270,
+        "Message": {
+          "j_ko": "신경 쓰지 마. 모래찜질하다 보면 종종 있지. 그런 일.",
+          "j_ja": "気にしないで。砂の中、気持ち良いよね",
+          "g_en": "Don't worry. It can happen when you're buried in the sand.",
+          "g_tw": "不用放在心上。在沙子裡很舒服對吧",
+          "g_tw_cn": "不用放在心上。在沙子里很舒服对吧",
+          "g_ja": "気にしないで。砂の中、気持ち良いよね",
+          "g_ko": "신경 쓰지 마. 모래찜질하다 보면 종종 있지. 그런 일."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460270,
+        "Id": 100460350,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460280,
+        "Message": {
+          "j_ko": "주군……!",
+          "j_ja": "主殿……！",
+          "g_en": "My lord...! ",
+          "g_tw": "主公……！",
+          "g_tw_cn": "主公……！",
+          "g_ja": "主殿……！",
+          "g_ko": "주군……!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460280,
+        "Id": 100460360,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460290,
+        "Message": {
+          "j_ko": "아직 시간은 얼마든지 있으니까. 나중에 또 하자. 수련.",
+          "j_ja": "まだまだ時間はあるから、大丈夫",
+          "g_en": "We have time. We can train sometime later.",
+          "g_tw": "還有時間，不要緊的",
+          "g_tw_cn": "还有时间，不要紧的",
+          "g_ja": "まだまだ時間はあるから、大丈夫",
+          "g_ko": "아직 시간은 얼마든지 있으니까. 나중에 또 하자. 수련."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460290,
+        "Id": 100460370,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460300,
+        "Message": {
+          "j_ko": "앗, 네!",
+          "j_ja": "はい！",
+          "g_en": "Oh, thank you!",
+          "g_tw": "是！",
+          "g_tw_cn": "是！",
+          "g_ja": "はい！",
+          "g_ko": "앗, 네!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460300,
+        "Id": 100460380,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460310,
+        "Message": {
+          "j_ko": "에헤헷! 그럼 나중에 또!",
+          "j_ja": "それではまた！",
+          "g_en": "Heehee! Next time! ",
+          "g_tw": "那下次見！",
+          "g_tw_cn": "那下次见！",
+          "g_ja": "それではまた！",
+          "g_ko": "에헤헷! 그럼 나중에 또!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460300,
+        "Id": 100460390,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460310,
+        "Message": {
+          "j_ko": "그때 뵈어요! 주군!",
+          "j_ja": "引き続き一緒に遊びましょうね、主殿！",
+          "g_en": "I'll see you then, my lord!",
+          "g_tw": "下次再繼續一起玩吧，主公！",
+          "g_tw_cn": "下次再继续一起玩吧，主公！",
+          "g_ja": "引き続き一緒に遊びましょうね、主殿！",
+          "g_ko": "그때 뵈어요! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004606,
+    "Data": [
+      {
+        "GroupId": 100460310,
+        "Id": 100460400,
+        "CharacterId": 10046,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460320,
+        "Message": {
+          "j_ko": "주군! 오늘은 무얼 해볼까요?",
+          "j_ja": "主殿！今日は何をしましょうか？",
+          "g_en": "My lord! What should we do today?",
+          "g_tw": "主公！今天要做什麼好呢？",
+          "g_tw_cn": "主公！今天要做什么好呢？",
+          "g_ja": "主殿！今日は何をしましょうか？",
+          "g_ko": "주군! 오늘은 무얼 해볼까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460320,
+        "Id": 100460410,
+        "CharacterId": 10046,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460330,
+        "Message": {
+          "j_ko": "이즈나! 주군과 하고 싶은 게 산더미예요!",
+          "j_ja": "イズナは主殿とやりたいことが、まだまだ山ほどあります！",
+          "g_en": "I have so many things I wanna try with you!",
+          "g_tw": "伊樹菜還有很多想跟主公一起做的事！",
+          "g_tw_cn": "伊树菜还有很多想跟主公一起做的事！",
+          "g_ja": "イズナは主殿とやりたいことが、まだまだ山ほどあります！",
+          "g_ko": "이즈나! 주군과 하고 싶은 게 산더미예요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460330,
+        "Id": 100460420,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460340,
+        "Message": {
+          "j_ko": "오늘도 덥네…. 오늘은 뭘 할까?",
+          "j_ja": "今日も暑いね……何しよっか？",
+          "g_en": "Today is so hot... What should we do today?",
+          "g_tw": "今天也很熱呢……做什麼好呢？",
+          "g_tw_cn": "今天也很热呢……做什么好呢？",
+          "g_ja": "今日も暑いね……何しよっか？",
+          "g_ko": "오늘도 덥네…. 오늘은 뭘 할까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460340,
+        "Id": 100460430,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460350,
+        "Message": {
+          "j_ko": "그러네요! 으음!",
+          "j_ja": "そうですね……！",
+          "g_en": "Yeah! Hmm!",
+          "g_tw": "就是說啊……！",
+          "g_tw_cn": "就是说啊……！",
+          "g_ja": "そうですね……！",
+          "g_ko": "그러네요! 으음!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460350,
+        "Id": 100460440,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460360,
+        "Message": {
+          "j_ko": "수영…은 하기 싫어?",
+          "j_ja": "水泳……はやめておきたい？",
+          "g_en": "How about...swimming?",
+          "g_tw": "果然還是……不想游泳嗎？",
+          "g_tw_cn": "果然还是……不想游泳吗？",
+          "g_ja": "水泳……はやめておきたい？",
+          "g_ko": "수영…은 하기 싫어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460360,
+        "Id": 100460450,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460370,
+        "Message": {
+          "j_ko": "네? 아, 저기.",
+          "j_ja": "あ",
+          "g_en": "Huh? Oh, um.",
+          "g_tw": "啊",
+          "g_tw_cn": "啊",
+          "g_ja": "あ",
+          "g_ko": "네? 아, 저기."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460370,
+        "Id": 100460460,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460380,
+        "Message": {
+          "j_ko": "그게…. 그러니까….",
+          "j_ja": "えっと、その",
+          "g_en": "So, um...",
+          "g_tw": "呃，那個",
+          "g_tw_cn": "呃，那个",
+          "g_ja": "えっと、その",
+          "g_ko": "그게…. 그러니까…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460380,
+        "Id": 100460470,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460390,
+        "Message": {
+          "j_ko": "이즈나는 수영하는 거, 싫어해?",
+          "j_ja": "イズナは泳ぐの、嫌いだったりする？",
+          "g_en": "Do you not like swimming?",
+          "g_tw": "伊樹菜討厭游泳嗎？",
+          "g_tw_cn": "伊树菜讨厌游泳吗？",
+          "g_ja": "イズナは泳ぐの、嫌いだったりする？",
+          "g_ko": "이즈나는 수영하는 거, 싫어해?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460390,
+        "Id": 100460480,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460400,
+        "Message": {
+          "j_ko": "아, 아, 아니, 그게. 시, 싫다고 할까….",
+          "j_ja": "あ、その、嫌いと言いますか……",
+          "g_en": "Oh, um, I mean...it's not that I don't like it...but...",
+          "g_tw": "啊，那個，該說是討厭嗎……",
+          "g_tw_cn": "啊，那个，该说是讨厌吗……",
+          "g_ja": "あ、その、嫌いと言いますか……",
+          "g_ko": "아, 아, 아니, 그게. 시, 싫다고 할까…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460390,
+        "Id": 100460490,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460400,
+        "Message": {
+          "j_ko": "그러니까.",
+          "j_ja": "えっと",
+          "g_en": "So...",
+          "g_tw": "那個",
+          "g_tw_cn": "那个",
+          "g_ja": "えっと",
+          "g_ko": "그러니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460390,
+        "Id": 100460500,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460400,
+        "Message": {
+          "j_ko": "이즈나는, 그게….",
+          "j_ja": "イズナは",
+          "g_en": "I-I just...",
+          "g_tw": "伊樹菜……",
+          "g_tw_cn": "伊树菜……",
+          "g_ja": "イズナは",
+          "g_ko": "이즈나는, 그게…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460400,
+        "Id": 100460510,
+        "CharacterId": 10046,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100460410,
+        "Message": {
+          "j_ko": "이, 일단! 바, 바닷가에서 기다리고 있을게요! 주군!",
+          "j_ja": "と、とりあえず海でお待ちしてますね、主殿！",
+          "g_en": "I-I'll be waiting at the beach, my lord!",
+          "g_tw": "總，總之，伊樹菜先去海邊等您，主公！",
+          "g_tw_cn": "总，总之，伊树菜先去海边等您，主公！",
+          "g_ja": "と、とりあえず海でお待ちしてますね、主殿！",
+          "g_ko": "이, 일단! 바, 바닷가에서 기다리고 있을게요! 주군!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100460410,
+        "Id": 100460520,
+        "CharacterId": 10046,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100466,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "아, 응.",
+          "j_ja": "りょ、了解",
+          "g_en": "Oh, uh, okay.",
+          "g_tw": "了，了解",
+          "g_tw_cn": "了，了解",
+          "g_ja": "りょ、了解",
+          "g_ko": "아, 응."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

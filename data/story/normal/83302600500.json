@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（まさか、あんな大きさのパンケーキと戦う日が来るとは）",
+      "j_ko": "(설마 그 정도 크기의 팬케이크와 싸우게 되는 날이 올 줄이야.)",
+      "g_ja": "（まさか、あんな大きさのパンケーキと戦う日が来るとは）",
+      "g_ko": "(설마 그 정도 크기의 팬케이크와 싸우게 되는 날이 올 줄이야.)",
+      "g_en": "(I never expected their actions would cause me to fight a giant pancake...)",
+      "g_th": "(ไม่นึกไม่ฝันเลยว่าจะมีวันที่ได้ต่อกรกับแพนเค้กขนาดใหญ่แบบนั้น)",
+      "g_tw": "（沒想到會和那種巨大的鬆餅戰鬥）",
+      "g_tw_cn": "（没想到会和那种巨大的松饼战斗）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(설마 그 정도 크기의 팬케이크와 싸우게 되는 날이 올 줄이야.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（風紀委員になってからというもの、本当に色々な経験をしてきたわ）",
+      "j_ko": "(게헨나의 선도부 일을 하다보면, 정말 다양한 경험을 하게 된다니까.)",
+      "g_ja": "（風紀委員になってからというもの、本当に色々な経験をしてきたわ）",
+      "g_ko": "(게헨나의 선도부 일을 하다보면, 정말 다양한 경험을 하게 된다니까.)",
+      "g_en": "(If nothing else, serving on Gehenna's Prefect Team gives you plenty of new experiences.)",
+      "g_th": "(การทำงานที่คณะกรรมการวินัยของเกเฮนน่าให้ประสบการณ์ฉันเยอะมากจริงๆ)",
+      "g_tw": "（執行風紀委員會工作的時候，總是能體驗各種不同的經歷）",
+      "g_tw_cn": "（运行风纪委员会工作的时候，总是能体验各种不同的经历）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(게헨나의 선도부 일을 하다보면, 정말 다양한 경험을 하게 된다니까.)\\n#3;closeup\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

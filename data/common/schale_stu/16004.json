@@ -1,0 +1,380 @@
+{
+  "Id": 16004,
+  "LocalizeEtcId": 2029738504,
+  "School": "Hyakkiyako",
+  "Club": "MatsuriOffice",
+  "StatusMessage": {
+    "j_ko": "HAJIMEMASITE!",
+    "j_ja": "ハジメマシテ！",
+    "g_ko": "HAJIMEMASITE!",
+    "g_ja": "ハジメマシテ！",
+    "g_tw": "HAJIMEMASITE！",
+    "g_en": "HAJIMEMASHITE!",
+    "g_th": "ฮายย! ยินดีที่ได้รู้จัก!"
+  },
+  "Hobby": {
+    "j_ko": "협객 영화 감상",
+    "j_ja": "任侠映画鑑賞",
+    "g_ko": "협객 영화 감상",
+    "g_ja": "任侠映画鑑賞",
+    "g_tw": "看任俠電影",
+    "g_en": "Watching vigilante movies",
+    "g_th": "ดูหนังต่อสู้"
+  },
+  "WeaponName": {
+    "j_ko": "인의 없는 사격",
+    "j_ja": "仁義なき撃ち合い",
+    "g_ko": "인의 없는 사격",
+    "g_ja": "仁義なき撃ち合い",
+    "g_tw": "無仁義交互射擊",
+    "g_en": "Indiscriminate Shooter",
+    "g_th": "Indiscriminate Shooter"
+  },
+  "WeaponDesc": {
+    "j_ko": "피나의 거치식 기관총.[\\n]쉴 새 없이 쏟아내는 열기는 피나 본인의 마음만큼이나 뜨겁다.",
+    "j_ja": "フィーナが所有しているマシンガン。[\\n]その銃をまるで舞うように扱うフィーナの熱量は凄まじく、彼女自身も心が滾ると口にしている。",
+    "g_ko": "피나의 거치식 기관총.[\\n]쉴 새 없이 쏟아내는 열기는 피나 본인의 마음만큼이나 뜨겁다.",
+    "g_ja": "フィーナが所有しているマシンガン。[\\n]その銃をまるで舞うように扱うフィーナの熱量は凄まじく、彼女自身も心が滾ると口にしている。",
+    "g_tw": "菲娜的持有的機關槍。[\\n]彷彿在跳舞一般使用這把槍的菲娜所放出的熱量十分驚人，他本人也表示內心十分翻騰。",
+    "g_en": "Pina's stationary machine gun.[\\n]The non-stop heat it emits is as fiery as Pina's own heart.",
+    "g_th": "ปืนกลที่เป็นอาวุธของพีน่า[\\n] พีน่าระดมยิงไม่ยั้งจนเหมือนกับสาดกระสุนใส่ศัตรู นั่นคือสิ่งที่ทำให้หัวใจของเธอรู้สึกเร่าร้อน และตื่นเต้นขึ้น"
+  },
+  "Profile": {
+    "j_ko": "백귀야행 학원에 입학한 협객을 동경하는 소녀.[\\n]항상 쾌활하고 명랑하며, 다른 사람을 돕는 것에 즐거움을 느낀다. 협객에 대해서 아는 것이라고는 영화에서 본 게 다이기 때문에 실제 협객과 거리가 있지만. 자신이 꿈꾸는 협객의 길을 걷는데, 망설임이 없는 소녀.",
+    "j_ja": "百鬼夜行連合学院所属、任侠に憧れる少女。[\\n]いつも明朗快活で、人を助けることに喜びを覚えるタイプの女の子。任侠については全部映画から得た知識のため、色々とおかしいところがあるものの……。自分が夢見る任侠の道に真っすぐな少女。",
+    "g_ko": "백귀야행 학원에 입학한 협객을 동경하는 소녀.[\\n]항상 쾌활하고 명랑하며, 다른 사람을 돕는 것에 즐거움을 느낀다. 협객에 대해서 아는 것이라고는 영화에서 본 게 다이기 때문에 실제 협객과 거리가 있지만. 자신이 꿈꾸는 협객의 길을 걷는데, 망설임이 없는 소녀.",
+    "g_ja": "百鬼夜行連合学院所属、任侠に憧れる少女。[\\n]いつも明朗快活で、人を助けることに喜びを覚えるタイプの女の子。任侠については全部映画から得た知識のため、色々とおかしいところがあるものの……。自分が夢見る任侠の道に真っすぐな少女。",
+    "g_tw": "百鬼夜行聯合學園，對任俠充滿著憧憬的少女。[\\n]總是一副開朗爽快的樣子，是能從幫助他人獲得快樂的類型的女孩子。[\\n]對於任俠的知識全都是由電影中獲得，因此各種地方都有些奇怪……[\\n]是個筆直地朝著心中的任俠之路前進的少女。",
+    "g_en": "A devout vigilante admirer attending Hyakkiyako Academy.[\\n]Pina has a bubbly, energetic personality and takes pleasure in helping others. Everything she knows about vigilantes comes from movies, so the accuracy of said knowledge can be somewhat dubious. Nonetheless, she persists in her ambition of becoming a vigilante herself.",
+    "g_th": "สาวน้อยจากสหพันธ์เฮียกคิยาโค ผู้ใฝ่ฝันในการเป็นนักสู้ที่กล้าหาญ[\\n]เป็นคนสดใส ร่าเริง ความสนุกของเธอคือการได้ช่วยเหลือคนอื่น เธอรู้จักการต่อสู้ที่กล้าหาญผ่านการดูหนังเท่านั้น ชีวิตจริงจึงยังห่างไกลจากคำว่านักสู้ แต่เธอก็ยังเดินตามความฝัน ในการเป็นนักสู้ที่กล้าหาญอย่างจริงจัง"
+  },
+  "CharacterSSRNew": {
+    "j_ko": "",
+    "j_ja": "",
+    "g_ko": "",
+    "g_ja": "",
+    "g_tw": "",
+    "g_en": "",
+    "g_th": ""
+  },
+  "Voicelines": {
+    "Event": [],
+    "Lobby": [
+      {
+        "Group": "UILobbyEnter1",
+        "Transcription": {
+          "g_en": "How do you do, Sensei?[\\n]Oops. There I go again greeting like I used to at my old academy...",
+          "g_th": "รู้สึกปลอดภัยดีไหมคะคุณครู?[\\n]อุ๊บส์ เผลอใช้คำพูดตอนอยู่ โรงเรียนเก่าไปซะแล้ว...",
+          "c_cn": "贵安。[\\n]啊，在上一个学院说习惯了……",
+          "c_cn_tw": "貴安。[\\n]啊，在上一個學院說習慣了……",
+          "j_ja": "ごきげんよう。[\\n]アッ、思わず前の学園での口癖が…。",
+          "g_ja": "ごきげんよう。[\\n]アッ、思わず前の学園での口癖が…。",
+          "j_ko": "선생님. 평안하셨나요?[\\n]앗, 무심코 예전 학원의 말투가…",
+          "g_ko": "선생님. 평안하셨나요?[\\n]앗, 무심코 예전 학원의 말투가…",
+          "g_tw": "您好。[\\n]啊，不小心就說了以前學園的口頭禪…",
+          "g_tw_cn": "您好。[\\n]啊，不小心就说了以前学园的口头禅…"
+        }
+      },
+      {
+        "Group": "UILobbyEnter2",
+        "Transcription": {
+          "g_en": "Welcome, Sensei! Let's get on with our missions!",
+          "g_th": "เชิญค่ะคุณครู~ วันนี้ก็มาเริ่มภารกิจ SO HOT กันเถอะค่ะ!",
+          "c_cn": "你来了，老师〜今天也要一鼓作气开始执行任务捏！",
+          "c_cn_tw": "你來了，老師〜今天也要一鼓作氣開始執行任務捏！",
+          "j_ja": "ようこそセンセイ〜今日も思い切って、任務を始めマショウ！",
+          "g_ja": "ようこそセンセイ〜今日も思い切って、任務を始めマショウ！",
+          "j_ko": "어서 오세요 선생님~ 오늘도 화끈하게 임무를 시작하죠!",
+          "g_ko": "어서 오세요 선생님~ 오늘도 화끈하게 임무를 시작하죠!",
+          "g_tw": "歡迎老師～今天也全力以赴，執行任務吧！",
+          "g_tw_cn": "欢迎老师～今天也全力以赴，运行任务吧！"
+        }
+      },
+      {
+        "Group": "UILobbyIdle1",
+        "Transcription": {
+          "g_en": "Summer in Hyakkiyako is always exciting. That's when the festivals begin!",
+          "g_th": "ฤดูร้อนที่เฮียกคิยาโค มันน่าตื่นเต้นมากๆ เพราะเรามีงานเทศกาลยังไงล่ะคะ!",
+          "c_cn": "百鬼夜行的夏天，好期待捏！因为庆典，快开始了捏！",
+          "c_cn_tw": "百鬼夜行的夏天，好期待捏！因為慶典，快開始了捏！",
+          "j_ja": "百鬼夜行の夏はドキドキしマス。お祭りが始まりマスから！",
+          "g_ja": "百鬼夜行の夏はドキドキしマス。お祭りが始まりマスから！",
+          "j_ko": "백귀야행의 여름은 두근두근 합니다. 축제가 시작되니까요!",
+          "g_ko": "백귀야행의 여름은 두근두근 합니다. 축제가 시작되니까요!",
+          "g_tw": "百鬼夜行的夏天會讓人心跳加快。因為慶典開始了！",
+          "g_tw_cn": "百鬼夜行的夏天会让人心跳加快。因为庆典开始了！"
+        }
+      },
+      {
+        "Group": "UILobbyIdle2",
+        "Transcription": {
+          "g_en": "Everyone knows kimonos are the best. The best of the best!",
+          "g_th": "ฉันว่าชุดกิโมโนเนี่ย Elegant สุดๆ ไปเลย! ยกให้เป็น Best of the Best เลยล่ะ!",
+          "c_cn": "Kimono，最棒的衣服捏！最棒of the最棒！",
+          "c_cn_tw": "Kimono，最棒的衣服捏！最棒of the最棒！",
+          "j_ja": "本当にKimonoは最高デスよ！最高 of the 最高！",
+          "g_ja": "本当にKimonoは最高デスよ！最高 of the 最高！",
+          "j_ko": "정말이지 Kimono는 최고라고요! 최고 of 최고!",
+          "g_ko": "정말이지 Kimono는 최고라고요! 최고 of 최고!",
+          "g_tw": "Kimono真的最棒了！最棒 of the 最棒！",
+          "g_tw_cn": "Kimono真的最棒了！最棒 of the 最棒！"
+        }
+      },
+      {
+        "Group": "UILobbyIdle3",
+        "Transcription": {
+          "g_en": "Don't worry. I only hit you with the back of my sword.[\\n]Wait... Actually, it was the gun stock!",
+          "g_th": "ไม่ต้องกังวลไปหรอกค่ะ ฉันแค่ตีด้วยสันมีดน่ะ[\\n]อ๊ะ มาดูอีกที มันคือด้ามปืนนี่นา ^^",
+          "c_cn": "放心叭，我是用刀背敲滴……[\\n]啊……！仔细一看……不是刀，是枪捏！",
+          "c_cn_tw": "放心叭，我是用刀背敲滴……[\\n]啊……！仔細一看……不是刀，是槍捏！",
+          "j_ja": "安心してクダサイ。峰打ちデス…。[\\n]アッ…。よく見たら刀ではなく銃デシタ！",
+          "g_ja": "安心してクダサイ。峰打ちデス…。[\\n]アッ…。よく見たら刀ではなく銃デシタ！",
+          "j_ko": "안심하세요. 칼등으로 쳤으니까…[\\n]앗… 다시 보니 개머리판입니다!",
+          "g_ko": "안심하세요. 칼등으로 쳤으니까…[\\n]앗… 다시 보니 개머리판입니다!",
+          "g_tw": "請放心。我用的是刀背…[\\n]啊…仔細一看不是刀而是槍啊！",
+          "g_tw_cn": "请放心。我用的是刀背…[\\n]啊…仔细一看不是刀而是枪啊！"
+        }
+      },
+      {
+        "Group": "UILobbyIdle4",
+        "Transcription": {
+          "g_en": "Here she comes! The blonde beauty that fights injustice!",
+          "g_th": "ความอยุติธรรมจงมลายหายไป! สาวผมบลอนด์ผู้ผดุงความยุติธรรม! มาปรากฎตัว ณ ที่แห่งนี้แล้ว!",
+          "c_cn": "路见不平，拔刀相助！正义的金发美女，闪亮登场，是也！",
+          "c_cn_tw": "路見不平，拔刀相助！正義的金髮美女，閃亮登場，是也！",
+          "j_ja": "不義を許さない！正義の金髪美女！ここに参上、デス！",
+          "g_ja": "不義を許さない！正義の金髪美女！ここに参上、デス！",
+          "j_ko": "불의를 용서치 않는! 정의로운 금발 미녀! 여기에 등장!",
+          "g_ko": "불의를 용서치 않는! 정의로운 금발 미녀! 여기에 등장!",
+          "g_tw": "絕不原諒不義之事！正義的金髮美女！在此登場，的說！",
+          "g_tw_cn": "绝不原谅不义之事！正义的金发美女！在此登场，的说！"
+        }
+      },
+      {
+        "Group": "UILobbyIdle5",
+        "Transcription": {
+          "g_en": "Was I supposed to do a handstand while saying hello? Hyakkiyako's culture is so different!",
+          "g_th": "ตอนแนะนำตัวให้ทำท่าหกสูงเหรอคะ? วัฒนธรรมของเฮียกคิยาโคนี่ ลึกลับสมชื่อจริงๆ!",
+          "c_cn": "打招呼的时候还要倒立咩？百鬼夜行的文化果然不可思议捏！",
+          "c_cn_tw": "打招呼的時候還要倒立咩？百鬼夜行的文化果然不可思議捏！",
+          "j_ja": "挨拶するときは、逆立ちをするんデスか？百鬼夜行の文化は、やはり不思議デス！",
+          "g_ja": "挨拶するときは、逆立ちをするんデスか？百鬼夜行の文化は、やはり不思議デス！",
+          "j_ko": "인사할 때는 물구나무를 서라고요? 백귀야행의 문화는 역시 신비합니다!",
+          "g_ko": "인사할 때는 물구나무를 서라고요? 백귀야행의 문화는 역시 신비합니다!",
+          "g_tw": "打招呼的時候要倒立嗎？百鬼夜行的文化果然很神奇！",
+          "g_tw_cn": "打招呼的时候要倒立吗？百鬼夜行的文化果然很神奇！"
+        }
+      },
+      {
+        "Group": "UILobbyUserBDay",
+        "Transcription": {
+          "g_en": "Today! Is! A very special day that only happens once a year![\\n]I heard it's your birthday. Happy birthday, Sensei!",
+          "g_th": "Today~ is~ วันสำคัญ วันพิเศษที่มีวันเดียวในหนึ่งปี![\\n]Happy Birthday To You! สุขสันต์วันเกิดค่ะคุณครู!",
+          "c_cn": "Today～is～一年只有一天的特别的日子捏！[\\n]Happy Birthday To You！老师！祝你生日快落！",
+          "c_cn_tw": "Today～is～一年只有一天的特別的日子捏！[\\n]Happy Birthday To You！老師！祝你生日快落！",
+          "j_ja": "Today～is～、一年にただ一度だけの、特別な日デス！[\\n]Happy Birthday To You！センセイ！お誕生日おめでとうございマス！",
+          "g_ja": "Today～is～、一年にただ一度だけの、特別な日デス！[\\n]Happy Birthday To You！センセイ！お誕生日おめでとうございマス！",
+          "j_ko": "Today~ is~일년에 단 한번 뿐인, 특별한 날입니다![\\n]Happy Birthday To You! 선생님! 생일을 축하합니다!",
+          "g_ko": "Today~ is~일년에 단 한번 뿐인, 특별한 날입니다![\\n]Happy Birthday To You! 선생님! 생일을 축하합니다!",
+          "g_tw": "Today～is～一年只有一次的，特別的日子！[\\n]Happy Birthday To You!老師！祝您生日快樂！",
+          "g_tw_cn": "Today～is～一年只有一次的，特别的日子！[\\n]Happy Birthday To You!老师！祝您生日快乐！"
+        }
+      },
+      {
+        "Group": "UILobbyStudentBDay",
+        "Transcription": {
+          "g_en": "Today is my birthday![\\n]Sensei! Let's go out for some red bean rice!",
+          "g_th": "วันนี้เป็นวันเกิดของฉันค่ะ![\\n]วันนี้เราต้องไปกินข้าวธัญพืชกันนะคะ!",
+          "c_cn": "今天是我的生日捏！[\\n]老师！一定要吃红豆饭哦！",
+          "c_cn_tw": "今天是我的生日捏！[\\n]老師！一定要吃紅豆飯哦！",
+          "j_ja": "今日はワタシの誕生日デス！[\\n]センセイ!おこわを食べなければなりまセン！",
+          "g_ja": "今日はワタシの誕生日デス！[\\n]センセイ!おこわを食べなければなりまセン！",
+          "j_ko": "오늘은 저의 생일입니다![\\n]선생님! 팥밥을 먹으러 가야합니다!",
+          "g_ko": "오늘은 저의 생일입니다![\\n]선생님! 팥밥을 먹으러 가야합니다!",
+          "g_tw": "今天是我的生日！[\\n]老師！必須吃紅豆糯米飯！",
+          "g_tw_cn": "今天是我的生日！[\\n]老师！必须吃红豆糯米饭！"
+        }
+      },
+      {
+        "Group": "UILobbyNewYear",
+        "Transcription": {
+          "g_en": "Sensei! We have to go to a shrine for the new year![\\n]And we can't forget to get our omikuji!",
+          "g_th": "วันปีใหม่เราต้องไปไหว้ศาลเจ้านะคะ![\\n]รีบไปจับใบเสี่ยงทายกันเถอะค่ะ!",
+          "c_cn": "老师！新年到了就要去庙会捏！[\\n]现在就去，抽个签叭！",
+          "c_cn_tw": "老師！新年到了就要去廟會捏！[\\n]現在就去，抽個籤叭！",
+          "j_ja": "センセイ！新年には神社に行くべきデス！[\\n]おみくじを引きに、今すぐ行くのデス！",
+          "g_ja": "センセイ！新年には神社に行くべきデス！[\\n]おみくじを引きに、今すぐ行くのデス！",
+          "j_ko": "선생님! 새해에는 새해맞이 행사장에 가야 합니다![\\n]오미쿠지를 뽑으러 당장 가는 겁니다!",
+          "g_ko": "선생님! 새해에는 새해맞이 행사장에 가야 합니다![\\n]오미쿠지를 뽑으러 당장 가는 겁니다!",
+          "g_tw": "老師！新年就該去神社！[\\n]來去抽御神籤，現在馬上出發吧！",
+          "g_tw_cn": "老师！新年就该去神社！[\\n]来去抽御神签，现在马上出发吧！"
+        }
+      },
+      {
+        "Group": "UILobbyXmas",
+        "Transcription": {
+          "g_en": "Merry Christmas! Santa Claus is the best.[\\n]Do you like Santa too, Sensei?",
+          "g_th": "เมอร์รีคริสต์มาส! ฉันชอบลุงซานต้าจังเลยค่ะ![\\n]คุณครูก็ชอบลุงซานต้าด้วยไหมคะ?!",
+          "c_cn": "Merry Christmas！圣诞老人最好了捏！[\\n]老师，你也喜欢圣诞老人咩？！",
+          "c_cn_tw": "Merry Christmas！聖誕老人最好了捏！[\\n]老師，你也喜歡聖誕老人咩？！",
+          "j_ja": "Merry Christmas！サンタは素晴らしいデス！[\\n]センセイもサンタは好きデスか？！",
+          "g_ja": "Merry Christmas！サンタは素晴らしいデス！[\\n]センセイもサンタは好きデスか？！",
+          "j_ko": "MerryChristmas! 산타는 좋습니다![\\n]선생님도 산타를 좋아하시나요?!",
+          "g_ko": "MerryChristmas! 산타는 좋습니다![\\n]선생님도 산타를 좋아하시나요?!",
+          "g_tw": "Merry Christmas！聖誕老人太棒了！[\\n]老師也喜歡聖誕老人嗎！？",
+          "g_tw_cn": "Merry Christmas！圣诞老人太棒了！[\\n]老师也喜欢圣诞老人吗！？"
+        }
+      },
+      {
+        "Group": "UILobbyHalloween",
+        "Transcription": {
+          "g_en": "Ghosts be gone! Blessings come in![\\n]Wait, it's Halloween? I thought it was Setsubun!",
+          "g_th": "ภูตผีอยู่ข้างนอก~ ความโชคดีอยู่ข้างใน~[\\n]วัน Halloween เหรอคะ?! คิดว่าเป็นวันแบ่งฤดูกาลซะอีก",
+          "c_cn": "鬼怪散开~福气进来~[\\n]呃？不是节分咩？是Halloween咩？！",
+          "c_cn_tw": "鬼怪散開~福氣進來~[\\n]呃？不是節分咩？是Halloween咩？！",
+          "j_ja": "鬼は外～、福は内～[\\n]エッ？節分ではなかったのデスか？Halloweenデスか？！",
+          "g_ja": "鬼は外～、福は内～[\\n]エッ？節分ではなかったのデスか？Halloweenデスか？！",
+          "j_ko": "귀신은 밖으로~ 복은 안으로~[\\n]엣? 절분 아니었습니까 Halloween입니까?!",
+          "g_ko": "귀신은 밖으로~ 복은 안으로~[\\n]엣? 절분 아니었습니까 Halloween입니까?!",
+          "g_tw": "鬼往外～福往內～[\\n]咦？不是節分嗎？是Halloween嗎！？",
+          "g_tw_cn": "鬼往外～福往内～[\\n]咦？不是节分吗？是Halloween吗！？"
+        }
+      }
+    ],
+    "Normal": [
+      {
+        "Group": "UITitleIdle1",
+        "Transcription": {
+          "g_en": "[default] Blue Archive",
+          "g_th": "[default] Blue Archive",
+          "c_cn": "[default] Blue Archive",
+          "c_cn_tw": "[default] Blue Archive",
+          "j_ja": "[default] Blue Archive",
+          "g_ja": "[default] Blue Archive",
+          "j_ko": "[default] Blue Archive",
+          "g_ko": "[default] Blue Archive",
+          "g_tw": "[default] Blue Archive",
+          "g_tw_cn": "[default] Blue Archive"
+        }
+      },
+      {
+        "Group": "CharacterGetIdle1",
+        "Transcription": {
+          "g_en": "How do you do? Oh, where are my manners? It's a pleasure to meet you.",
+          "g_th": "สบายดีรึเปล่าคะ? อ๊ะ ลืมกล่าวคำทักทายเลย ยินดีที่ได้รู้จักค่ะ",
+          "c_cn": "贵安。啊，用这边的话来说可能更自然一些捏。粗次见面！",
+          "c_cn_tw": "貴安。啊，用這邊的話來說可能更自然一些捏。粗次見面！",
+          "j_ja": "ごきげんよう。アッ、こっちの言葉の方がより自然かもデス。ハジメマシテ！",
+          "g_ja": "ごきげんよう。アッ、こっちの言葉の方がより自然かもデス。ハジメマシテ！",
+          "j_ko": "평안하신지요? 아, 이 말이 더 어울리겠군요. 처음 뵙겠습니다!",
+          "g_ko": "평안하신지요? 아, 이 말이 더 어울리겠군요. 처음 뵙겠습니다!",
+          "g_tw": "您好。啊，用這句話好像會更自然。初次見面！",
+          "g_tw_cn": "您好。啊，用这句话好像会更自然。初次见面！"
+        }
+      },
+      {
+        "Group": "CafeIdle1",
+        "Transcription": {
+          "g_en": "There's something about this place. I like how nostalgic it is!",
+          "g_th": "ที่นี่ดีจังเลยน้า จู่ๆ ก็รู้สึกคิดถึง ขึ้นมาเลยค่ะ!",
+          "c_cn": "这里是个好地方捏。有种，怀念的感觉！",
+          "c_cn_tw": "這裡是個好地方捏。有種，懷念的感覺！",
+          "j_ja": "良いところデスね。なんだか懐かしい感じがしマス！",
+          "g_ja": "良いところデスね。なんだか懐かしい感じがしマス！",
+          "j_ko": "좋은 곳이네요. 어쩐지 그리운 느낌이 듭니다!",
+          "g_ko": "좋은 곳이네요. 어쩐지 그리운 느낌이 듭니다!",
+          "g_tw": "是個好地方呢。好像有股懷念的感覺！",
+          "g_tw_cn": "是个好地方呢。好像有股怀念的感觉！"
+        }
+      },
+      {
+        "Group": "CafeIdle2",
+        "Transcription": {
+          "g_en": "I hope you're a bigger fan of okonomiyaki than you are pizza or pancakes, Sensei.",
+          "g_th": "ถ้าเกิดว่าคุณครูชอบ โอโคโนมิยากิมากกว่า พิซซ่าหรือแพนเค้กละก็...",
+          "c_cn": "老师也，比起披萨和松饼更喜欢什锦烧就好了捏……",
+          "c_cn_tw": "老師也，比起披薩和鬆餅更喜歡什錦燒就好了捏……",
+          "j_ja": "センセイにも、ピザやホットケーキよりお好み焼きを好きになってもらいたいデス…。",
+          "g_ja": "センセイにも、ピザやホットケーキよりお好み焼きを好きになってもらいたいデス…。",
+          "j_ko": "선생님도 피자나 핫케이크보다 오코노미야끼를 좋아해주셨으면…",
+          "g_ko": "선생님도 피자나 핫케이크보다 오코노미야끼를 좋아해주셨으면…",
+          "g_tw": "要是老師也一樣，和披薩或蛋糕相比更喜歡什錦燒就好了…",
+          "g_tw_cn": "要是老师也一样，和披萨或蛋糕相比更喜欢什锦烧就好了…"
+        }
+      },
+      {
+        "Group": "CafeIdle3",
+        "Transcription": {
+          "g_en": "Wow! What a great atmosphere!",
+          "g_th": "ว้าว~ บรรยากาศดีจังเลย!",
+          "c_cn": "哇哦〜这里的氛围好棒捏！",
+          "c_cn_tw": "哇哦〜這裡的氛圍好棒捏！",
+          "j_ja": "Wow〜、良い雰囲気デスネ！",
+          "g_ja": "Wow〜、良い雰囲気デスネ！",
+          "j_ko": "와우~ 분위기 좋아요!",
+          "g_ko": "와우~ 분위기 좋아요!",
+          "g_tw": "Wow〜氣氛真不錯呢！",
+          "g_tw_cn": "Wow〜气氛真不错呢！"
+        }
+      },
+      {
+        "Group": "CafeIdle4",
+        "Transcription": {
+          "g_en": "I prefer cool oolong tea! Not coffee or soda.",
+          "g_th": "ชาอู่หลงเย็นชื่นใจ น่าจะ so fresh นะคะ! ฉันไม่ชอบดื่มโคล่า หรือกาแฟหรอกค่ะ",
+          "c_cn": "我喜欢酷〜的乌龙茶捏！不喜欢咖啡和可乐捏。",
+          "c_cn_tw": "我喜歡酷〜的烏龍茶捏！不喜歡咖啡和可樂捏。",
+          "j_ja": "Cool～な烏龍茶がいいデス！コーヒーやコーラは好きじゃないデス。",
+          "g_ja": "Cool～な烏龍茶がいいデス！コーヒーやコーラは好きじゃないデス。",
+          "j_ko": "Cool~ 한 우롱차가 좋습니다! 커피나 콜라는 싫습니다.",
+          "g_ko": "Cool~ 한 우롱차가 좋습니다! 커피나 콜라는 싫습니다.",
+          "g_tw": "我喜歡Cool～的烏龍茶！不喜歡咖啡或是可樂。",
+          "g_tw_cn": "我喜欢Cool～的乌龙茶！不喜欢咖啡或是可乐。"
+        }
+      },
+      {
+        "Group": "WeaponGetIdle1",
+        "Transcription": {
+          "g_en": "It's not the weapon that becomes stronger, but the soul!",
+          "g_th": "สิ่งที่แข็งแกร่งขึ้น ไม่ใช่อาวุธ แต่เป็นจิตวิญญาณค่ะ!",
+          "c_cn": "变强的不是武器，而是灵魂！",
+          "c_cn_tw": "變強的不是武器，而是靈魂！",
+          "j_ja": "強くなるのは武器ではなく、魂デス！",
+          "g_ja": "強くなるのは武器ではなく、魂デス！",
+          "j_ko": "강해지는 것은 무기가 아니라, 영혼입니다!",
+          "g_ko": "강해지는 것은 무기가 아니라, 영혼입니다!",
+          "g_tw": "變強的不是武器，而是靈魂！",
+          "g_tw_cn": "变强的不是武器，而是灵魂！"
+        }
+      }
+    ]
+  },
+  "FamilyName": {
+    "g_en": "Asahina",
+    "g_th": "อาซาฮินะ",
+    "c_cn": "朝比奈",
+    "c_cn_tw": "朝比奈",
+    "j_ja": "朝比奈",
+    "g_ja": "朝比奈",
+    "j_ko": "아사히나",
+    "g_ko": "아사히나",
+    "g_tw": "朝比奈",
+    "g_tw_cn": "朝比奈",
+    "c_zh": "朝比奈",
+    "c_zh_tw": "朝比奈"
+  },
+  "Name": {
+    "g_en": "Pina",
+    "g_th": "พีน่า",
+    "c_cn": "菲娜",
+    "c_cn_tw": "菲娜",
+    "j_ja": "フィーナ",
+    "g_ja": "フィーナ",
+    "j_ko": "피나",
+    "g_ko": "피나",
+    "g_tw": "菲娜",
+    "g_tw_cn": "菲娜",
+    "c_zh": "菲娜",
+    "c_zh_tw": "菲娜"
+  }
+}

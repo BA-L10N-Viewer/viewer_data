@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "相変わらず大変そうだね。まあ、私たちは応援くらいしかできないけど頑張って。",
+      "j_ko": "뭐, 늘 고생이네. 해줄 건 응원밖에 없지만. ",
+      "g_ja": "相変わらず大変そうだね。まあ、私たちは応援くらいしかできないけど頑張って。",
+      "g_ko": "뭐, 늘 고생이네. 해줄 건 응원밖에 없지만. ",
+      "g_en": "You're still working yourself to the bone, huh? Then I guess I'll wish you good luck. ",
+      "g_th": "มีแต่เรื่องตลอดเลย ฉันคงทำได้แต่ให้กำลังใจละนะ ",
+      "g_tw": "你一直都很辛苦呢。<br/>雖然我能做的也只有聲援你而已。",
+      "g_tw_cn": "你一直都很辛苦呢。<br/>虽然我能做的也只有声援你而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1441373779,
+    "DataType": "speaker",
+    "Script": "4;에리카;12;뭐, 늘 고생이네. 해줄 건 응원밖에 없지만. ",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ファイト～！終わったらプリでも撮り行こ！",
+      "j_ko": "힘내라! 힘! 히나찌라면 할 수 있어~! 끝나면 나중에 스티커 사진 찍으러 가자!",
+      "g_ja": "ファイト～！終わったらプリでも撮り行こ！",
+      "g_ko": "힘내라! 힘! 히나찌라면 할 수 있어~! 끝나면 나중에 스티커 사진 찍으러 가자!",
+      "g_en": "Cheer up, Mizz Hina! You can do it! Take them out and then come take sticker photos with me once you're done!",
+      "g_th": "ฮึบๆ นะ! ถ้าเป็นฮินัตจิน่ะทำได้อยู่แล้ว~! ไว้เสร็จงานแล้วเราไปถ่ายรูปสติกเกอร์กันนะ!",
+      "g_tw": "加油加油！陽奈親一定沒問題的！結束之後一起去拍大頭貼吧！",
+      "g_tw_cn": "加油加油！阳奈亲一定没问题的！结束之后一起去拍大头贴吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;03;힘내라! 힘! 히나찌라면 할 수 있어~! 끝나면 나중에 스티커 사진 찍으러 가자!\\n#2;em;[!]\\n#2;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

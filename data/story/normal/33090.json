@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">第9話</span><br/><span class=\"scenario-cmd-title\">憎悪の確認</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제9화</span><br/><span class=\"scenario-cmd-title\">증오의 확인</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">第9話</span><br/><span class=\"scenario-cmd-title\">憎悪の確認</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\"><span class=\"scenario-cmd-title\">제9화</span><br/><span class=\"scenario-cmd-title\">증오의 확인</span></span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Episode 9</span><br/><span class=\"scenario-cmd-title\">Bearing Witness to Hatred</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอนที่ 9</span><br/><span class=\"scenario-cmd-title\">ความเกลียดชังที่ได้เห็น</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">第9話</span><br/><span class=\"scenario-cmd-title\">憎惡的見證</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">第9话</span><br/><span class=\"scenario-cmd-title\">憎恶的见证</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;제9화;증오의 확인",
+    "BGMId": 65,
+    "Sound": "",
+    "BGName": 1117619696,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁっ、はぁっ……。",
+      "j_ko": "하아…… 하아…….",
+      "g_ja": "はぁっ、はぁっ……。",
+      "g_ko": "하아…… 하아…….",
+      "g_en": "*pant* *pant*...",
+      "g_th": "แฮ่ก แฮ่ก...",
+      "g_tw": "哈啊，哈啊……",
+      "g_tw_cn": "哈啊，哈啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2215177498,
+    "DataType": "speaker",
+    "Script": "3;히나 부상;05;하아…… 하아…….\\n#3;stiff\\n#3;a\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、もう少し耐えて。ここを抜ければ……",
+      "j_ko": "조금만 참아, 선생. 여기만 벗어나면 픽업 차량이 기다리고 있을 거야…….",
+      "g_ja": "先生、もう少し耐えて。ここを抜ければ……",
+      "g_ko": "조금만 참아, 선생. 여기만 벗어나면 픽업 차량이 기다리고 있을 거야…….",
+      "g_en": "Hang on just a little longer, Sensei. There should be a car we can use just past here.",
+      "g_th": "ทนอีกหน่อยนะครู หากออกจากตรงนี้ไปได้ เราก็จะนั่งรถหนีไปได้แล้วล่ะ...",
+      "g_tw": "老師，再撐一下。通過這裡的話……",
+      "g_tw_cn": "老师，再撑一下。通过这里的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2215177498,
+    "DataType": "speaker",
+    "Script": "3;히나 부상;00;조금만 참아, 선생. 여기만 벗어나면 픽업 차량이 기다리고 있을 거야…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひ、ヒナさん、また会いましたね……！",
+      "j_ko": "이, 이쪽이에요. 선도부장 히나입니다!",
+      "g_ja": "ひ、ヒナさん、また会いましたね……！",
+      "g_ko": "이, 이쪽이에요. 선도부장 히나입니다!",
+      "g_en": "Th-There she is! It's Hina!",
+      "g_th": "ทะ...ทางนี้ค่ะ ประธานกรรมการฮินะค่ะ!",
+      "g_tw": "陽，陽奈同學，又見面了呢……！",
+      "g_tw_cn": "阳，阳奈同学，又见面了呢……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475637469,
+    "DataType": "speaker",
+    "Script": "3;히요리;10;이, 이쪽이에요. 선도부장 히나입니다!\\n#3;em;[반응]\\n#3;a\\n#3;hophop\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "っ、性懲りもなく……！",
+      "j_ko": "지겹지도 않게 몰려오는군…….",
+      "g_ja": "っ、性懲りもなく……！",
+      "g_ko": "지겹지도 않게 몰려오는군…….",
+      "g_en": "Don't you know when to give up...?",
+      "g_th": "ไม่เบื่อกันบ้างเลยหรือไงนะ...",
+      "g_tw": "不長記性……！",
+      "g_tw_cn": "不长记性……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2215177498,
+    "DataType": "speaker",
+    "Script": "3;히나 부상;01;지겹지도 않게 몰려오는군…….\\n#3;closeup\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

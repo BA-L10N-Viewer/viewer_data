@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "な、鍋からパンちゃんがまた飛び出してきました！",
+      "j_ko": "내, 냄비에서 또 다시 팬쨩이 튀어나왔어요!",
+      "g_ja": "な、鍋からパンちゃんがまた飛び出してきました！",
+      "g_ko": "내, 냄비에서 또 다시 팬쨩이 튀어나왔어요!",
+      "g_en": "Pan-Pan's risen from the p-pot again!",
+      "g_th": "พะ... แพนจังโผล่ออกมาจากหม้ออีกแล้วค่ะ!",
+      "g_tw": "鬆，鬆餅醬又從鍋子裡跳出來了！",
+      "g_tw_cn": "松，松饼酱又从锅子里跳出来了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;07;내, 냄비에서 또 다시 팬쨩이 튀어나왔어요!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひ、ヒナさん！どうしましょう！？",
+      "j_ko": "히, 히나 씨! 이를 어쩌죠?!",
+      "g_ja": "ひ、ヒナさん！どうしましょう！？",
+      "g_ko": "히, 히나 씨! 이를 어쩌죠?!",
+      "g_en": "H-Hina! What should we do?!",
+      "g_th": "คะ... คุณฮินะ! ทำยังไงกันดีคะ?!",
+      "g_tw": "陽，陽奈同學！這下該怎麼辦！？",
+      "g_tw_cn": "阳，阳奈同学！这下该怎么办！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3176393215,
+    "DataType": "speaker",
+    "Script": "3;주리;11;히, 히나 씨! 이를 어쩌죠?!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫、ここは私に任せて。",
+      "j_ko": "괜찮아, 여긴 내게 맡겨줘.",
+      "g_ja": "大丈夫、ここは私に任せて。",
+      "g_ko": "괜찮아, 여긴 내게 맡겨줘.",
+      "g_en": "...Don't worry. Leave this to me.",
+      "g_th": "ไม่เป็นไรหรอก ให้ฉันจัดการเอง",
+      "g_tw": "別擔心，這裡交給我。",
+      "g_tw_cn": "别担心，这里交给我。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;05;괜찮아, 여긴 내게 맡겨줘.\\n#3;em;[반응]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

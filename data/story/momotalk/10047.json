@@ -1,0 +1,953 @@
+[
+  {
+    "BondScenarioId": 1004702,
+    "Data": [
+      {
+        "GroupId": 100470010,
+        "Id": 100470010,
+        "CharacterId": 10047,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470020,
+        "Message": {
+          "j_ko": "선생님. 베케이-션이야.",
+          "j_ja": "先生、レッツバケーション",
+          "g_en": "Sensei, it's vacation.",
+          "g_tw": "老師，Let's Vacation",
+          "g_tw_cn": "老师，Let's Vacation",
+          "g_ja": "先生、レッツバケーション",
+          "g_ko": "선생님. 베케이-션이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470020,
+        "Id": 100470020,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470030,
+        "Message": {
+          "j_ko": "응? 베케이…? 저기, 치세. 무슨 이야기야?",
+          "j_ja": "バケーション……？",
+          "g_en": "Huh? Vacation...? What's up, Chise?",
+          "g_tw": "Vacation……？",
+          "g_tw_cn": "Vacation……？",
+          "g_ja": "バケーション……？",
+          "g_ko": "응? 베케이…? 저기, 치세. 무슨 이야기야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470030,
+        "Id": 100470030,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470040,
+        "Message": {
+          "j_ko": "응, 나, 휴가를 받았어. 여름휴가-",
+          "j_ja": "うん、貰ったの。夏休み",
+          "g_en": "Yeah, I have summer vacation time.",
+          "g_tw": "嗯，獲得了。暑假",
+          "g_tw_cn": "嗯，获得了。暑假",
+          "g_ja": "うん、貰ったの。夏休み",
+          "g_ko": "응, 나, 휴가를 받았어. 여름휴가-"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470030,
+        "Id": 100470040,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470040,
+        "Message": {
+          "j_ko": "평소에 음양부 활동 열심히 했으니까.",
+          "j_ja": "いつも陰陽部の活動、頑張ってるから",
+          "g_en": "I work hard for the Yin-Yang Club. ",
+          "g_tw": "平時在陰陽部的活動，努力了",
+          "g_tw_cn": "平时在阴阳部的活动，努力了",
+          "g_ja": "いつも陰陽部の活動、頑張ってるから",
+          "g_ko": "평소에 음양부 활동 열심히 했으니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470040,
+        "Id": 100470050,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470050,
+        "Message": {
+          "j_ko": "쉬고 오래.",
+          "j_ja": "ゆっくり休んできて、って",
+          "g_en": "So I was given some time off.",
+          "g_tw": "要我，好好去休息",
+          "g_tw_cn": "要我，好好去休息",
+          "g_ja": "ゆっくり休んできて、って",
+          "g_ko": "쉬고 오래."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470050,
+        "Id": 100470060,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470060,
+        "Message": {
+          "j_ko": "아, 그런 이야기였구나. 잘됐네.",
+          "j_ja": "なるほど。それは良かったね",
+          "g_en": "Oh, that's what you meant. That's great.",
+          "g_tw": "原來如此。那真是太好了呢",
+          "g_tw_cn": "原来如此。那真是太好了呢",
+          "g_ja": "なるほど。それは良かったね",
+          "g_ko": "아, 그런 이야기였구나. 잘됐네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470050,
+        "Id": 100470070,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470060,
+        "Message": {
+          "j_ko": "그럼 혹시, 뭔가 예정이라도 있는 거야?",
+          "j_ja": "何か夏休みの予定とかあるの？",
+          "g_en": "Do you have any plans?",
+          "g_tw": "有什麼暑假的計畫嗎？",
+          "g_tw_cn": "有什么暑假的计划吗？",
+          "g_ja": "何か夏休みの予定とかあるの？",
+          "g_ko": "그럼 혹시, 뭔가 예정이라도 있는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470060,
+        "Id": 100470080,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470070,
+        "Message": {
+          "j_ko": "응. 있어.",
+          "j_ja": "うん、それはもう",
+          "g_en": "Yeah. I have plans.",
+          "g_tw": "嗯，那當然",
+          "g_tw_cn": "嗯，那当然",
+          "g_ja": "うん、それはもう",
+          "g_ko": "응. 있어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470070,
+        "Id": 100470090,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470080,
+        "Message": {
+          "j_ko": "아, 혹시 어떤 예정….",
+          "j_ja": "どんな予定なのか、聞いても良い？",
+          "g_en": "Oh...what plans...?",
+          "g_tw": "是什麼樣的計畫，可以聽聽嗎？",
+          "g_tw_cn": "是什么样的计划，可以听听吗？",
+          "g_ja": "どんな予定なのか、聞いても良い？",
+          "g_ko": "아, 혹시 어떤 예정…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470080,
+        "Id": 100470100,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470090,
+        "Message": {
+          "j_ko": "찾으러 가자. 선생님.",
+          "j_ja": "探しに行こう、先生",
+          "g_en": "Sensei, let's go find some.",
+          "g_tw": "去尋找吧，老師",
+          "g_tw_cn": "去寻找吧，老师",
+          "g_ja": "探しに行こう、先生",
+          "g_ko": "찾으러 가자. 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470090,
+        "Id": 100470110,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470100,
+        "Message": {
+          "j_ko": "으, 응? 찾으러 가자니? 뭘?",
+          "j_ja": "探すって、何を？",
+          "g_en": "H-Huh? Find what?",
+          "g_tw": "咦？尋找是指？要找什麼？",
+          "g_tw_cn": "咦？寻找是指？要找什么？",
+          "g_ja": "探すって、何を？",
+          "g_ko": "으, 응? 찾으러 가자니? 뭘?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470100,
+        "Id": 100470120,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470110,
+        "Message": {
+          "j_ko": "그러니 집합 신-호-",
+          "j_ja": "じゃあ、集合",
+          "g_en": "Assembly signal.",
+          "g_tw": "那麼，集合",
+          "g_tw_cn": "那么，集合",
+          "g_ja": "じゃあ、集合",
+          "g_ko": "그러니 집합 신-호-"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470100,
+        "Id": 100470130,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470110,
+        "Message": {
+          "j_ko": "바다에서 기다릴게.",
+          "j_ja": "海で待ってるね",
+          "g_en": "I'll wait for you at the beach.",
+          "g_tw": "我在海邊等著唷",
+          "g_tw_cn": "我在海边等着唷",
+          "g_ja": "海で待ってるね",
+          "g_ko": "바다에서 기다릴게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470110,
+        "Id": 100470140,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470120,
+        "Message": {
+          "j_ko": "응? 집합 신호?",
+          "j_ja": "え、えっと、チセ……？",
+          "g_en": "Huh? Assembly signal?",
+          "g_tw": "那，那個，知世……？",
+          "g_tw_cn": "那，那个，知世……？",
+          "g_ja": "え、えっと、チセ……？",
+          "g_ko": "응? 집합 신호?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470120,
+        "Id": 100470150,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100472,
+        "NextGroupId": 100470130,
+        "Message": {
+          "j_ko": "일단, 바다로 가면 되려나…?",
+          "j_ja": "とりあえず、海に行けば良いのかな…?",
+          "g_en": "I'll meet you there, then...?",
+          "g_tw": "總之，去海邊就行了嗎……？",
+          "g_tw_cn": "总之，去海边就行了吗……？",
+          "g_ja": "とりあえず、海に行けば良いのかな…?",
+          "g_ko": "일단, 바다로 가면 되려나…?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004703,
+    "Data": [
+      {
+        "GroupId": 100470130,
+        "Id": 100470160,
+        "CharacterId": 10047,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470140,
+        "Message": {
+          "j_ko": "선생님, 나 반짝임을 찾다가-",
+          "j_ja": "先生。この間きらきらを探した時にね",
+          "g_en": "Sensei, I've been looking for sparkles, and...",
+          "g_tw": "老師。上次在尋找閃亮的時候",
+          "g_tw_cn": "老师。上次在寻找闪亮的时候",
+          "g_ja": "先生。この間きらきらを探した時にね",
+          "g_ko": "선생님, 나 반짝임을 찾다가-"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470140,
+        "Id": 100470170,
+        "CharacterId": 10047,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470150,
+        "Message": {
+          "j_ko": "바닷가에서 엄청난 걸 발견했어.",
+          "j_ja": "海辺で、すごいものを見つけたの",
+          "g_en": "I found something incredible at the beach.",
+          "g_tw": "在海邊，發現了很厲害的東西",
+          "g_tw_cn": "在海边，发现了很厉害的东西",
+          "g_ja": "海辺で、すごいものを見つけたの",
+          "g_ko": "바닷가에서 엄청난 걸 발견했어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470150,
+        "Id": 100470180,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470160,
+        "Message": {
+          "j_ko": "치세가 엄청나다고 말할 정도라니- 그거 엄청 신경 쓰이는걸.",
+          "j_ja": "気になる……！",
+          "g_en": "It must be really special if you think it's incredible.",
+          "g_tw": "好在意……！",
+          "g_tw_cn": "好在意……！",
+          "g_ja": "気になる……！",
+          "g_ko": "치세가 엄청나다고 말할 정도라니- 그거 엄청 신경 쓰이는걸."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470160,
+        "Id": 100470190,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470170,
+        "Message": {
+          "j_ko": "응, 나, 선생님에게도 보여주고 싶어서.",
+          "j_ja": "うん、私も先生に見せたいな",
+          "g_en": "Yeah, I want to show it to you.",
+          "g_tw": "嗯，我也想給老師看呢",
+          "g_tw_cn": "嗯，我也想给老师看呢",
+          "g_ja": "うん、私も先生に見せたいな",
+          "g_ko": "응, 나, 선생님에게도 보여주고 싶어서."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470170,
+        "Id": 100470200,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470180,
+        "Message": {
+          "j_ko": "아, 마침 잘됐다-",
+          "j_ja": "せっかくだし",
+          "g_en": "Oh, good timing.",
+          "g_tw": "機會難得",
+          "g_tw_cn": "机会难得",
+          "g_ja": "せっかくだし",
+          "g_ko": "아, 마침 잘됐다-"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470170,
+        "Id": 100470210,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470180,
+        "Message": {
+          "j_ko": "같이 보러 가자. 선생님.",
+          "j_ja": "一緒に見に行こう、先生",
+          "g_en": "Let's go see it, Sensei!",
+          "g_tw": "一起去看吧，老師",
+          "g_tw_cn": "一起去看吧，老师",
+          "g_ja": "一緒に見に行こう、先生",
+          "g_ko": "같이 보러 가자. 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470170,
+        "Id": 100470220,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100473,
+        "NextGroupId": 100470180,
+        "Message": {
+          "j_ko": "기다리고 있을게~",
+          "j_ja": "じゃあ、待ってるね～",
+          "g_en": "I'll be waiting!",
+          "g_tw": "那麼，我等著唷～",
+          "g_tw_cn": "那么，我等着唷～",
+          "g_ja": "じゃあ、待ってるね～",
+          "g_ko": "기다리고 있을게~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004705,
+    "Data": [
+      {
+        "GroupId": 100470180,
+        "Id": 100470230,
+        "CharacterId": 10047,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470190,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470190,
+        "Id": 100470240,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470200,
+        "Message": {
+          "j_ko": "아, 치세. 어쩐 일이야?",
+          "j_ja": "あ、チセ。どうしたの？",
+          "g_en": "Oh, Chise. What's up?",
+          "g_tw": "啊，知世。怎麼了嗎？",
+          "g_tw_cn": "啊，知世。怎么了吗？",
+          "g_ja": "あ、チセ。どうしたの？",
+          "g_ko": "아, 치세. 어쩐 일이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470200,
+        "Id": 100470250,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470210,
+        "Message": {
+          "j_ko": "평소에 이 잘 닦고 있어?",
+          "j_ja": "ちゃんと歯磨きしてる？",
+          "g_en": "Have you been brushing your teeth?",
+          "g_tw": "有好好刷牙嗎？",
+          "g_tw_cn": "有好好刷牙吗？",
+          "g_ja": "ちゃんと歯磨きしてる？",
+          "g_ko": "평소에 이 잘 닦고 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470210,
+        "Id": 100470260,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470220,
+        "Message": {
+          "j_ko": "이, 일단은……?",
+          "j_ja": "は、はい",
+          "g_en": "Y-Yeah...?",
+          "g_tw": "有，有哦……？",
+          "g_tw_cn": "有，有哦……？",
+          "g_ja": "は、はい",
+          "g_ko": "이, 일단은……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470210,
+        "Id": 100470270,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470220,
+        "Message": {
+          "j_ko": "갑자기 그건 왜……?",
+          "j_ja": "それはまた、どうして急に……？",
+          "g_en": "Why do you ask...?",
+          "g_tw": "為什麼突然這麼問……？",
+          "g_tw_cn": "为什么突然这么问……？",
+          "g_ja": "それはまた、どうして急に……？",
+          "g_ko": "갑자기 그건 왜……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470220,
+        "Id": 100470280,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470230,
+        "Message": {
+          "j_ko": "응, 그럼 다행이다-",
+          "j_ja": "それは良かった",
+          "g_en": "That's good. Yes.",
+          "g_tw": "嗯，那就好",
+          "g_tw_cn": "嗯，那就好",
+          "g_ja": "それは良かった",
+          "g_ko": "응, 그럼 다행이다-"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470230,
+        "Id": 100470290,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470240,
+        "Message": {
+          "j_ko": "선생님, 앞으로도.",
+          "j_ja": "じゃあ先生",
+          "g_en": "Sensei, from now on,",
+          "g_tw": "老師，那之後",
+          "g_tw_cn": "老师，那之后",
+          "g_ja": "じゃあ先生",
+          "g_ko": "선생님, 앞으로도."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470230,
+        "Id": 100470300,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470240,
+        "Message": {
+          "j_ko": "어떤 일이 있더라도 하루 세 번.",
+          "j_ja": "これからも、1日3回",
+          "g_en": "no matter what happens,",
+          "g_tw": "不管發生什麼事",
+          "g_tw_cn": "不管发生什么事",
+          "g_ja": "これからも、1日3回",
+          "g_ko": "어떤 일이 있더라도 하루 세 번."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470230,
+        "Id": 100470310,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470240,
+        "Message": {
+          "j_ko": "이 닦는 거 잊지 말아야 해?",
+          "j_ja": "歯磨き、忘れないようにね？",
+          "g_en": "brush your teeth three times a day, okay?",
+          "g_tw": "都不能忘記一天要刷三次牙哦？",
+          "g_tw_cn": "都不能忘记一天要刷三次牙哦？",
+          "g_ja": "歯磨き、忘れないようにね？",
+          "g_ko": "이 닦는 거 잊지 말아야 해?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470240,
+        "Id": 100470320,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470250,
+        "Message": {
+          "j_ko": "으, 응?",
+          "j_ja": "そ、そうだね。了解",
+          "g_en": "Y-Yes?",
+          "g_tw": "呃，嗯？",
+          "g_tw_cn": "呃，嗯？",
+          "g_ja": "そ、そうだね。了解",
+          "g_ko": "으, 응?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470250,
+        "Id": 100470330,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470260,
+        "Message": {
+          "j_ko": "그럼, 안녕.",
+          "j_ja": "それじゃあ……",
+          "g_en": "Okay, see ya.",
+          "g_tw": "那，再見囉",
+          "g_tw_cn": "那，再见啰",
+          "g_ja": "それじゃあ……",
+          "g_ko": "그럼, 안녕."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470250,
+        "Id": 100470340,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470260,
+        "Message": {
+          "j_ko": "선생님.",
+          "j_ja": "元気でね、先生",
+          "g_en": "Sensei.",
+          "g_tw": "老師",
+          "g_tw_cn": "老师",
+          "g_ja": "元気でね、先生",
+          "g_ko": "선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470260,
+        "Id": 100470350,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100475,
+        "NextGroupId": 100470270,
+        "Message": {
+          "j_ko": "치세…? 저기, 치세?",
+          "j_ja": "……チセ？",
+          "g_en": "Chise..? Um, Chise?",
+          "g_tw": "……知世？",
+          "g_tw_cn": "……知世？",
+          "g_ja": "……チセ？",
+          "g_ko": "치세…? 저기, 치세?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1004720,
+    "Data": [
+      {
+        "GroupId": 100470270,
+        "Id": 100470360,
+        "CharacterId": 10047,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470280,
+        "Message": {
+          "j_ko": "선생님. 바닷가에서 노는 건 즐겁네~",
+          "j_ja": "先生、海辺で遊ぶのは楽しいね～",
+          "g_en": "Sensei, it's so fun to play at the beach.",
+          "g_tw": "老師，在海邊玩真開心呢～",
+          "g_tw_cn": "老师，在海边玩真开心呢～",
+          "g_ja": "先生、海辺で遊ぶのは楽しいね～",
+          "g_ko": "선생님. 바닷가에서 노는 건 즐겁네~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470280,
+        "Id": 100470370,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470290,
+        "Message": {
+          "j_ko": "치세가 즐겁다니 다행이야.",
+          "j_ja": "チセが楽しそうで何よりだよ",
+          "g_en": "I'm glad you're enjoying yourself.",
+          "g_tw": "知世覺得開心真是太好了",
+          "g_tw_cn": "知世觉得开心真是太好了",
+          "g_ja": "チセが楽しそうで何よりだよ",
+          "g_ko": "치세가 즐겁다니 다행이야."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470290,
+        "Id": 100470380,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470300,
+        "Message": {
+          "j_ko": "응. 하지만….",
+          "j_ja": "うん、でも……",
+          "g_en": "Yeah, but",
+          "g_tw": "嗯，可是……",
+          "g_tw_cn": "嗯，可是……",
+          "g_ja": "うん、でも……",
+          "g_ko": "응. 하지만…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470290,
+        "Id": 100470390,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470300,
+        "Message": {
+          "j_ko": "역시 혼자만 즐거운 건 아까워~",
+          "j_ja": "やっぱり、一人で楽しむのはもったいない～",
+          "g_en": "it's lonely having fun just by myself",
+          "g_tw": "只有我自己開心的話有點可惜～",
+          "g_tw_cn": "只有我自己开心的话有点可惜～",
+          "g_ja": "やっぱり、一人で楽しむのはもったいない～",
+          "g_ko": "역시 혼자만 즐거운 건 아까워~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470300,
+        "Id": 100470400,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470310,
+        "Message": {
+          "j_ko": "아, 알 거 같아. 그 기분.",
+          "j_ja": "分かるかも、その気持ち",
+          "g_en": "I know the feeling.",
+          "g_tw": "啊，我好像明白那種心情",
+          "g_tw_cn": "啊，我好像明白那种心情",
+          "g_ja": "分かるかも、その気持ち",
+          "g_ko": "아, 알 거 같아. 그 기분."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470300,
+        "Id": 100470410,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470310,
+        "Message": {
+          "j_ko": "다른 사람과 함께 놀면 더 즐거워지는 법이니까.",
+          "j_ja": "誰かと一緒なら、もっと楽しいよね",
+          "g_en": "It's more fun when you have someone to play with.",
+          "g_tw": "獨樂樂不如眾樂樂嘛",
+          "g_tw_cn": "独乐乐不如众乐乐嘛",
+          "g_ja": "誰かと一緒なら、もっと楽しいよね",
+          "g_ko": "다른 사람과 함께 놀면 더 즐거워지는 법이니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470310,
+        "Id": 100470420,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470320,
+        "Message": {
+          "j_ko": "아, 좋은 생각이 났다.",
+          "j_ja": "あ、いいこと考えた",
+          "g_en": "Oh, I've got an idea.",
+          "g_tw": "啊，我有個好主意",
+          "g_tw_cn": "啊，我有个好主意",
+          "g_ja": "あ、いいこと考えた",
+          "g_ko": "아, 좋은 생각이 났다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470320,
+        "Id": 100470430,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470330,
+        "Message": {
+          "j_ko": "다들 바다에 올 수 없다면….",
+          "j_ja": "みんなで海に来られないなら……",
+          "g_en": "For everyone who can't make it to the beach...",
+          "g_tw": "既然大家沒辦法來海邊……",
+          "g_tw_cn": "既然大家没办法来海边……",
+          "g_ja": "みんなで海に来られないなら……",
+          "g_ko": "다들 바다에 올 수 없다면…."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470330,
+        "Id": 100470440,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470340,
+        "Message": {
+          "j_ko": "없다면…?",
+          "j_ja": "来られないなら……？",
+          "g_en": "Uh...yes?",
+          "g_tw": "沒辦法來海邊……？",
+          "g_tw_cn": "没办法来海边……？",
+          "g_ja": "来られないなら……？",
+          "g_ko": "없다면…?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470340,
+        "Id": 100470450,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470350,
+        "Message": {
+          "j_ko": "반대로 내가 바다를 가져가면 되겠네♪",
+          "j_ja": "逆に、私が海を持っていけば良いんだ～",
+          "g_en": "I'll take the beach to them ♪",
+          "g_tw": "那就反過來把大海帶走就可以了♪",
+          "g_tw_cn": "那就反过来把大海带走就可以了♪",
+          "g_ja": "逆に、私が海を持っていけば良いんだ～",
+          "g_ko": "반대로 내가 바다를 가져가면 되겠네♪"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470340,
+        "Id": 100470460,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470350,
+        "Message": {
+          "j_ko": "좋았어~ 가져가야지~",
+          "j_ja": "よ～し、そうと決まればさっそく～",
+          "g_en": "Yeah, I'll just take it to them",
+          "g_tw": "好～既然決定了就趕緊開始～",
+          "g_tw_cn": "好～既然决定了就赶紧开始～",
+          "g_ja": "よ～し、そうと決まればさっそく～",
+          "g_ko": "좋았어~ 가져가야지~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470350,
+        "Id": 100470470,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470360,
+        "Message": {
+          "j_ko": "…응? 치세? 바다를? 가져가? 으응?",
+          "j_ja": "……ん？チセ？海を持っていくって……？",
+          "g_en": "Um, Chise? How are you going to do that?",
+          "g_tw": "……嗯？知世？\n你說要把海帶走？嗯……？",
+          "g_tw_cn": "……嗯？知世？\n你说要把海带走？嗯……？",
+          "g_ja": "……ん？チセ？海を持っていくって……？",
+          "g_ko": "…응? 치세? 바다를? 가져가? 으응?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470360,
+        "Id": 100470480,
+        "CharacterId": 10047,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100470370,
+        "Message": {
+          "j_ko": "그럼 시작~",
+          "j_ja": "すた～と～",
+          "g_en": "Let's get started",
+          "g_tw": "開～始～囉～",
+          "g_tw_cn": "开～始～啰～",
+          "g_ja": "すた～と～",
+          "g_ko": "그럼 시작~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100470370,
+        "Id": 100470490,
+        "CharacterId": 10047,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 1004720,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "자, 잠깐! 치세! 바로 갈 테니까! 조금만 기다려 줘!",
+          "j_ja": "ちょ、ちょっと待って！すぐそっちに行くから！",
+          "g_en": "Hold on, Chise! I'll be there soon, so just wait a minute!",
+          "g_tw": "先，先等一下！知世！我馬上去找你！",
+          "g_tw_cn": "先，先等一下！知世！我马上去找你！",
+          "g_ja": "ちょ、ちょっと待って！すぐそっちに行くから！",
+          "g_ko": "자, 잠깐! 치세! 바로 갈 테니까! 조금만 기다려 줘!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

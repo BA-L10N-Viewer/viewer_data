@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\">紙一重の勝負</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">종이 한 장 차이</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">종이 한 장 차이</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\"></span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;종이 한 장 차이",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2939846018,
+    "ShowTextColor": "black"
+  }
+]

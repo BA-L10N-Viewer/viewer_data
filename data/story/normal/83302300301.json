@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ヒナ先輩もパンケーキ好き？",
+      "j_ko": "히나 선배도 팬케이크 좋아해?",
+      "g_ja": "ヒナ先輩もパンケーキ好き？",
+      "g_ko": "히나 선배도 팬케이크 좋아해?",
+      "g_en": "Hina, do you like pancakes too?",
+      "g_th": "รุ่นพี่ฮินะก็ชอบแพนเค้กด้วยมั้ย?",
+      "g_tw": "陽奈前輩也喜歡鬆餅嗎？",
+      "g_tw_cn": "阳奈前辈也喜欢松饼吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2331895039,
+    "DataType": "speaker",
+    "Script": "3;이부키;02;히나 선배도 팬케이크 좋아해?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イブキは大好き！",
+      "j_ko": "이부키는 엄청 좋아해!",
+      "g_ja": "イブキは大好き！",
+      "g_ko": "이부키는 엄청 좋아해!",
+      "g_en": "Cause I love them!",
+      "g_th": "อิบูกิน่ะชอบมากเลยละ!",
+      "g_tw": "伊吹超喜歡的！",
+      "g_tw_cn": "伊吹超喜欢的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2331895039,
+    "DataType": "speaker",
+    "Script": "3;이부키;03;이부키는 엄청 좋아해!\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大好きなパンケーキと散歩できたら、きっと楽しいよ！",
+      "j_ko": "좋아하는 팬케이크랑 산책하고 놀 수 있으면 엄청 재밌겠지~?",
+      "g_ja": "大好きなパンケーキと散歩できたら、きっと楽しいよ！",
+      "g_ko": "좋아하는 팬케이크랑 산책하고 놀 수 있으면 엄청 재밌겠지~?",
+      "g_en": "It would be so much fun to take your favorite pancake for a walk or play fetch, don't you think?",
+      "g_th": "ถ้าได้ออกไปเดินเล่นกับแพนเค้กที่ชอบ ก็น่าจะสนุกมากเลยเนอะ~?",
+      "g_tw": "能跟喜歡的鬆餅一起散步玩耍，應該會很有趣吧～？",
+      "g_tw_cn": "能跟喜欢的松饼一起散步玩耍，应该会很有趣吧～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2331895039,
+    "DataType": "speaker",
+    "Script": "3;이부키;00;좋아하는 팬케이크랑 산책하고 놀 수 있으면 엄청 재밌겠지~?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

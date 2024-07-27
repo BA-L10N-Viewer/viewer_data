@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい、もしもし……",
+      "j_ko": "네, 전화 받았습니다.",
+      "g_ja": "はい、もしもし……",
+      "g_ko": "네, 전화 받았습니다.",
+      "g_en": "Hello. This is the Prefect Team.",
+      "g_th": "สวัสดี คณะกรรมการวินัยกำลังรับสาย...",
+      "g_tw": "喂，你好。",
+      "g_tw_cn": "喂，你好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;16;네, 전화 받았습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わっ！",
+      "j_ko": "파로마!",
+      "g_ja": "わっ！",
+      "g_ko": "파로마!",
+      "g_en": "Paroma!",
+      "g_th": "ต๊ะเอ๋!",
+      "g_tw": "咕咕！",
+      "g_tw_cn": "咕咕！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 869998302,
+    "DataType": "speaker",
+    "Script": "#na;정체불명의 목소리;파로마!\\n#fontsize;100",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なるほどね。",
+      "j_ko": "……과연, 이런 느낌이란 말이지.",
+      "g_ja": "……なるほどね。",
+      "g_ko": "……과연, 이런 느낌이란 말이지.",
+      "g_en": "...I see. Nonsense, indeed.",
+      "g_th": "เป็นแบบนี้สินะ...",
+      "g_tw": "……原來如此。",
+      "g_tw_cn": "……原来如此。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;99;……과연, 이런 느낌이란 말이지.\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

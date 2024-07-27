@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ……美味しい料理を目の前にして、私だけ食べられないなんて……",
+      "j_ko": "으으…… 맛있는 음식을 눈앞에 두고 참아야 한다니, 고행이라니깐!",
+      "g_ja": "うぅ……美味しい料理を目の前にして、私だけ食べられないなんて……",
+      "g_ko": "으으…… 맛있는 음식을 눈앞에 두고 참아야 한다니, 고행이라니깐!",
+      "g_en": "Ugh... It's so painful to wait when delicious food sits before my eyes!",
+      "g_th": "อะ... อดทนโดยที่มีอาหารอร่อยๆ รออยู่ตรงหน้า! นี่สินะที่เรียกว่าข่มกิเลส!",
+      "g_tw": "嗚嗚……美食就在眼前居然還得忍耐，這根本就是苦行！",
+      "g_tw_cn": "呜呜……美食就在眼前居然还得忍耐，这根本就是苦行！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 411960130,
+    "DataType": "speaker",
+    "Script": "3;준코;14;으으…… 맛있는 음식을 눈앞에 두고 참아야 한다니, 고행이라니깐!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、みんな、そう言ってくれたのは……嬉しいけど。",
+      "j_ko": "그래도…… 뭐어, 다들 도와준다고 한 점은…… 고맙지만 말이야.",
+      "g_ja": "でも、みんな、そう言ってくれたのは……嬉しいけど。",
+      "g_ko": "그래도…… 뭐어, 다들 도와준다고 한 점은…… 고맙지만 말이야.",
+      "g_en": "But still... I'm thankful that you all...decided to help me.",
+      "g_th": "แต่ก็... ขอบใจที่ทุกคนมาช่วยกันนะ",
+      "g_tw": "不過……大家都說要幫忙……我覺得很感謝。",
+      "g_tw_cn": "不过……大家都说要帮忙……我觉得很感谢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 411960130,
+    "DataType": "speaker",
+    "Script": "3;준코;99;그래도…… 뭐어, 다들 도와준다고 한 점은…… 고맙지만 말이야.\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

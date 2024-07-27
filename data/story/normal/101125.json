@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\"><ruby>シャーレ<rp>(</rp><rt>S.C.H.</rt><rp>)</rp></ruby>奪還作戦（１）</span>",
+      "j_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">샬레 탈환 작전 1</span></span>",
+      "g_ja": "<span class=\"scenario-cmd-next-episode\">次回</span><br/><span class=\"scenario-cmd-next-episode\"><ruby>シャーレ<rp>(</rp><rt>S.C.H.</rt><rp>)</rp></ruby>奪還作戦（１）</span>",
+      "g_ko": "<span class=\"scenario-cmd-next-episode\"><span class=\"scenario-cmd-next-episode\">다음화</span><br/><span class=\"scenario-cmd-next-episode\">샬레 탈환 작전 1</span></span>",
+      "g_en": "<span class=\"scenario-cmd-next-episode\">Next Episode</span><br/><span class=\"scenario-cmd-next-episode\"> Operation Recapture Schale 1</span>",
+      "g_th": "<span class=\"scenario-cmd-next-episode\">ตอนต่อไป</span><br/><span class=\"scenario-cmd-next-episode\">ปฏิบัติการยึดคืนชาเล่ต์ 1</span>",
+      "g_tw": "<span class=\"scenario-cmd-next-episode\">下一話</span><br/><span class=\"scenario-cmd-next-episode\"><ruby>夏萊<rp>(</rp><rt>S.C.H.</rt><rp>)</rp></ruby>奪還作戰（１）</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-next-episode\">下一话</span><br/><span class=\"scenario-cmd-next-episode\"><ruby>夏莱<rp>(</rp><rt>S.C.H.</rt><rp>)</rp></ruby>夺还作战（１）</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "nextEpisode",
+    "Script": "#nextepisode;다음화;샬레 탈환 작전 1",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2460344605,
+    "ShowTextColor": "black"
+  }
+]

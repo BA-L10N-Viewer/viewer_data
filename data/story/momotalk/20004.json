@@ -1,0 +1,706 @@
+[
+  {
+    "BondScenarioId": 2000402,
+    "Data": [
+      {
+        "GroupId": 20004010,
+        "Id": 20004010,
+        "CharacterId": 20004,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004020,
+        "Message": {
+          "j_ko": "선생님, 오후에 시내에서 잠깐 어울려 주실 수 있나요?",
+          "j_ja": "先生。今日の午後、少し付き合っていただけないでしょうか？",
+          "g_en": "Sensei, could you come with me downtown this afternoon?",
+          "g_tw": "老師。今天下午能陪我一下嗎？",
+          "g_tw_cn": "老师。今天下午能陪我一下吗？",
+          "g_ja": "先生。今日の午後、少し付き合っていただけないでしょうか？",
+          "g_ko": "선생님, 오후에 시내에서 잠깐 어울려 주실 수 있나요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004020,
+        "Id": 20004020,
+        "CharacterId": 20004,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004030,
+        "Message": {
+          "j_ko": "다름이 아니라 이번 하계 훈련에 사용할 새 수영복을 사려고 해서요.",
+          "j_ja": "実は今度の訓練で使う、新しい水着を買おうと思っていまして。アドバイスを頂けないかなと",
+          "g_en": "I want to purchase a new swimsuit to use during summer training.",
+          "g_tw": "其實我想買這次訓練用的新泳裝。希望能給我一些建議",
+          "g_tw_cn": "其实我想买这次训练用的新泳装。希望能给我一些建议",
+          "g_ja": "実は今度の訓練で使う、新しい水着を買おうと思っていまして。アドバイスを頂けないかなと",
+          "g_ko": "다름이 아니라 이번 하계 훈련에 사용할 새 수영복을 사려고 해서요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004030,
+        "Id": 20004030,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004040,
+        "Message": {
+          "j_ko": "상관없지만……",
+          "j_ja": "えっと、付き合ってあげたい気持ちはやまやまなんだけど……",
+          "g_en": "I mean, it's fine, but...",
+          "g_tw": "那個，雖然很想陪你去……",
+          "g_tw_cn": "那个，虽然很想陪你去……",
+          "g_ja": "えっと、付き合ってあげたい気持ちはやまやまなんだけど……",
+          "g_ko": "상관없지만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004040,
+        "Id": 20004040,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004050,
+        "Message": {
+          "j_ko": "친구가 아니라 나랑 가도 괜찮아?",
+          "j_ja": "お友達とかじゃなくて、私で大丈夫？",
+          "g_en": "Wouldn't you rather go with friends?",
+          "g_tw": "不過不是跟朋友去而是跟我，沒關係嗎？",
+          "g_tw_cn": "不过不是跟朋友去而是跟我，没关系吗？",
+          "g_ja": "お友達とかじゃなくて、私で大丈夫？",
+          "g_ko": "친구가 아니라 나랑 가도 괜찮아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004050,
+        "Id": 20004050,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004060,
+        "Message": {
+          "j_ko": "중학교 때부터 입던 수영복이 있기는 하지만 더 입기에는 작아진 것 같아서요.",
+          "j_ja": "はい、ぜひ先生にお願いできればと。その、実は、中学校の時まで着ていた水着はあるのですが、少しきつくなってしまいまして……",
+          "g_en": "I still have my swimsuit from middle school, but I think it's too small for me now.",
+          "g_tw": "是的，希望能拜託老師。那個，其實，我有件從國中時期穿到現在的泳裝，但變得有點緊……",
+          "g_tw_cn": "是的，希望能拜托老师。那个，其实，我有件从国中时期穿到现在的泳装，但变得有点紧……",
+          "g_ja": "はい、ぜひ先生にお願いできればと。その、実は、中学校の時まで着ていた水着はあるのですが、少しきつくなってしまいまして……",
+          "g_ko": "중학교 때부터 입던 수영복이 있기는 하지만 더 입기에는 작아진 것 같아서요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004050,
+        "Id": 20004060,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004060,
+        "Message": {
+          "j_ko": "모처럼 정의실현부에 들어왔으니 다른 부원, 선배 여러분께 부끄럽지 않을 멋진 수영복을 새로 갖고 싶습니다.",
+          "j_ja": "せっかくなので正義実現委員会として、もっと相応しい水着が欲しいなと思っているんです",
+          "g_en": "I think I should get a new one that lives up to being a member of the Justice Task Force.",
+          "g_tw": "因為是難得的機會，身為實現正義部的一員，想要一件更合適的泳裝",
+          "g_tw_cn": "因为是难得的机会，身为实现正义部的一员，想要一件更合适的泳装",
+          "g_ja": "せっかくなので正義実現委員会として、もっと相応しい水着が欲しいなと思っているんです",
+          "g_ko": "모처럼 정의실현부에 들어왔으니 다른 부원, 선배 여러분께 부끄럽지 않을 멋진 수영복을 새로 갖고 싶습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004060,
+        "Id": 20004070,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004070,
+        "Message": {
+          "j_ko": "멋진 수영복을 찾을 수 있으면 좋겠네.",
+          "j_ja": "そ、そっか……",
+          "g_en": "I hope you can find a good one.",
+          "g_tw": "這，這樣啊……",
+          "g_tw_cn": "这，这样啊……",
+          "g_ja": "そ、そっか……",
+          "g_ko": "멋진 수영복을 찾을 수 있으면 좋겠네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004070,
+        "Id": 20004080,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004080,
+        "Message": {
+          "j_ko": "네, 그러기 위해서는 선생님의 도움이 필요합니다.",
+          "j_ja": "はい、そのためにも先生のお力をお借りしたく",
+          "g_en": "Yes, and I'll need your help with that, Sensei.",
+          "g_tw": "是的，所以想借助老師的力量",
+          "g_tw_cn": "是的，所以想借助老师的力量",
+          "g_ja": "はい、そのためにも先生のお力をお借りしたく",
+          "g_ko": "네, 그러기 위해서는 선생님의 도움이 필요합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004070,
+        "Id": 20004090,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200042,
+        "NextGroupId": 20004080,
+        "Message": {
+          "j_ko": "그럼 매장에서 먼저 기다리고 있겠습니다.",
+          "j_ja": "では、お待ちしておりますね",
+          "g_en": "I'll be waiting for you at the store.",
+          "g_tw": "那麼，我等著唷",
+          "g_tw_cn": "那么，我等着唷",
+          "g_ja": "では、お待ちしておりますね",
+          "g_ko": "그럼 매장에서 먼저 기다리고 있겠습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000403,
+    "Data": [
+      {
+        "GroupId": 20004080,
+        "Id": 20004100,
+        "CharacterId": 20004,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004090,
+        "Message": {
+          "j_ko": "선생님, 지금 바로 이 앞의 해변으로 나와주실 수 있으신가요?",
+          "j_ja": "先生、今から海辺の方まで来ていただけますか？",
+          "g_en": "Sensei, could you meet me on the beach?",
+          "g_tw": "老師，現在可以來海邊嗎？",
+          "g_tw_cn": "老师，现在可以来海边吗？",
+          "g_ja": "先生、今から海辺の方まで来ていただけますか？",
+          "g_ko": "선생님, 지금 바로 이 앞의 해변으로 나와주실 수 있으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004090,
+        "Id": 20004110,
+        "CharacterId": 20004,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004100,
+        "Message": {
+          "j_ko": "선생님께 보여드리고 싶은 옷이 있습니다.",
+          "j_ja": "先生にお見せしたいものがありまして",
+          "g_en": "I want to show you something.",
+          "g_tw": "有想給老師看的東西",
+          "g_tw_cn": "有想给老师看的东西",
+          "g_ja": "先生にお見せしたいものがありまして",
+          "g_ko": "선생님께 보여드리고 싶은 옷이 있습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004100,
+        "Id": 20004120,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004110,
+        "Message": {
+          "j_ko": "수영복 말이지?",
+          "j_ja": "うん、すぐ向かうね",
+          "g_en": "Oh, is it the swimsuit?",
+          "g_tw": "嗯，馬上過去唷",
+          "g_tw_cn": "嗯，马上过去唷",
+          "g_ja": "うん、すぐ向かうね",
+          "g_ko": "수영복 말이지?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004110,
+        "Id": 20004130,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004120,
+        "Message": {
+          "j_ko": "전에 구입한 이후로 입어볼 기회가 통 없었는데, 마침 여름 훈련을 나온 참에 입어보았습니다.",
+          "j_ja": "この前買ってから着る機会が無かったのですが、せっかくの海辺ですし",
+          "g_en": "This is my first time trying it on since we're here for summer training.",
+          "g_tw": "上次買了之後一直沒機會穿，但難得都到海邊來了",
+          "g_tw_cn": "上次买了之后一直没机会穿，但难得都到海边来了",
+          "g_ja": "この前買ってから着る機会が無かったのですが、せっかくの海辺ですし",
+          "g_ko": "전에 구입한 이후로 입어볼 기회가 통 없었는데, 마침 여름 훈련을 나온 참에 입어보았습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004110,
+        "Id": 20004140,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004120,
+        "Message": {
+          "j_ko": "이 옷은 백사장에서만 입을 수 있는 옷이니까요.",
+          "j_ja": "そもそも、こういうところでしかあまり着られないので",
+          "g_en": "I couldn't bring myself to wear it anywhere but the beach.",
+          "g_tw": "應該說，也只能在這種地方穿",
+          "g_tw_cn": "应该说，也只能在这种地方穿",
+          "g_ja": "そもそも、こういうところでしかあまり着られないので",
+          "g_ko": "이 옷은 백사장에서만 입을 수 있는 옷이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004120,
+        "Id": 20004150,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004130,
+        "Message": {
+          "j_ko": "수영복 말이지……?",
+          "j_ja": "この間買った水着の話？",
+          "g_en": "Swimsuit, right...?",
+          "g_tw": "是在說上次買的泳裝嗎？",
+          "g_tw_cn": "是在说上次买的泳装吗？",
+          "g_ja": "この間買った水着の話？",
+          "g_ko": "수영복 말이지……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004130,
+        "Id": 20004160,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004140,
+        "Message": {
+          "j_ko": "하지만 가급적 빨리 와주실 수 있겠습니까?",
+          "j_ja": "あ、できれば少し早めに来ていただけると助かります",
+          "g_en": "Could you come here as soon as you can?",
+          "g_tw": "啊，如果可以早點來的話，就幫大忙了",
+          "g_tw_cn": "啊，如果可以早点来的话，就帮大忙了",
+          "g_ja": "あ、できれば少し早めに来ていただけると助かります",
+          "g_ko": "하지만 가급적 빨리 와주실 수 있겠습니까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004140,
+        "Id": 20004170,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004150,
+        "Message": {
+          "j_ko": "이 옷을 입고 백사장 한가운데에서 기다리는 건 꽤나 고된 일이므로……",
+          "j_ja": "これを着た状態で待っているのはその、少々……",
+          "g_en": "It's embarrassing waiting in the middle of the beach in this by myself...",
+          "g_tw": "要我用這身打扮等人，實在有點……",
+          "g_tw_cn": "要我用这身打扮等人，实在有点……",
+          "g_ja": "これを着た状態で待っているのはその、少々……",
+          "g_ko": "이 옷을 입고 백사장 한가운데에서 기다리는 건 꽤나 고된 일이므로……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004150,
+        "Id": 20004180,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 200043,
+        "NextGroupId": 20004160,
+        "Message": {
+          "j_ko": "수영복 이야기하는 거 맞지?!",
+          "j_ja": "え、水着じゃないの！？一体何を着てるの！？",
+          "g_en": "You are talking about swimsuit, right?",
+          "g_tw": "咦，不是泳裝嗎！？到底穿了什麼！？",
+          "g_tw_cn": "咦，不是泳装吗！？到底穿了什么！？",
+          "g_ja": "え、水着じゃないの！？一体何を着てるの！？",
+          "g_ko": "수영복 이야기하는 거 맞지?!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000405,
+    "Data": [
+      {
+        "GroupId": 20004160,
+        "Id": 20004190,
+        "CharacterId": 20004,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004170,
+        "Message": {
+          "j_ko": "선생님, 전에 말씀드린 수영 훈련을 오늘 오후에 진행하려 합니다.",
+          "j_ja": "先生。体調も回復しましたので、以前お話した通り、まずは少し水泳でもしてみようかと",
+          "g_en": "I'd like to continue with the swimming lessons this afternoon, Sensei.",
+          "g_tw": "老師。我的身體狀況已經恢復了，所以想照之前說的那樣，先去稍微游個泳",
+          "g_tw_cn": "老师。我的身体状况已经恢复了，所以想照之前说的那样，先去稍微游个泳",
+          "g_ja": "先生。体調も回復しましたので、以前お話した通り、まずは少し水泳でもしてみようかと",
+          "g_ko": "선생님, 전에 말씀드린 수영 훈련을 오늘 오후에 진행하려 합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004170,
+        "Id": 20004200,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004180,
+        "Message": {
+          "j_ko": "마시로가 걱정되니 이번에도 따라갈게.",
+          "j_ja": "じゃあ、私もそっちに向かうね",
+          "g_en": "I'd like to go together since I'm worried about you.",
+          "g_tw": "那麼，我也過去那邊吧",
+          "g_tw_cn": "那么，我也过去那边吧",
+          "g_ja": "じゃあ、私もそっちに向かうね",
+          "g_ko": "마시로가 걱정되니 이번에도 따라갈게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004180,
+        "Id": 20004210,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004190,
+        "Message": {
+          "j_ko": "오시는 건 상관없습니다만……",
+          "j_ja": "えっと、お越しいただけるのは嬉しいのですが……",
+          "g_en": "It's fine if you come along...",
+          "g_tw": "嗯，老師能來的話是很高興啦……",
+          "g_tw_cn": "嗯，老师能来的话是很高兴啦……",
+          "g_ja": "えっと、お越しいただけるのは嬉しいのですが……",
+          "g_ko": "오시는 건 상관없습니다만……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004180,
+        "Id": 20004220,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004190,
+        "Message": {
+          "j_ko": "이번 훈련은 물 위에서 하는 훈련이니 열사병으로 쓰러지는 일은 없을 겁니다.",
+          "j_ja": "今回はただの水泳ですし、そこまでご心配いただかなくても大丈夫ですよ……？",
+          "g_en": "I shouldn't get heatstroke this time since this training will be in the water.",
+          "g_tw": "但這次只是游泳，不用那麼擔心也沒關係吧……？",
+          "g_tw_cn": "但这次只是游泳，不用那么担心也没关系吧……？",
+          "g_ja": "今回はただの水泳ですし、そこまでご心配いただかなくても大丈夫ですよ……？",
+          "g_ko": "이번 훈련은 물 위에서 하는 훈련이니 열사병으로 쓰러지는 일은 없을 겁니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004190,
+        "Id": 20004230,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004200,
+        "Message": {
+          "j_ko": "다만 수영을 하기 전에 백사장 위에서 가벼운 준비운동을 할까 하는데…… 이 정도는 괜찮겠지요?",
+          "j_ja": "泳ぐ前に、浜辺で簡単な準備運動をするくらいで……",
+          "g_en": "I plan to do some warm-up exercises on the beach beforehand. That would be okay, right?",
+          "g_tw": "只是在游泳前，在海邊做些簡單的準備運動……",
+          "g_tw_cn": "只是在游泳前，在海边做些简单的准备运动……",
+          "g_ja": "泳ぐ前に、浜辺で簡単な準備運動をするくらいで……",
+          "g_ko": "다만 수영을 하기 전에 백사장 위에서 가벼운 준비운동을 할까 하는데…… 이 정도는 괜찮겠지요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004200,
+        "Id": 20004240,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004210,
+        "Message": {
+          "j_ko": "물론이지.",
+          "j_ja": "念には念をってことで。私も付き合うよ",
+          "g_en": "Of course.",
+          "g_tw": "慎重起見。我還是陪著吧",
+          "g_tw_cn": "慎重起见。我还是陪着吧",
+          "g_ja": "念には念をってことで。私も付き合うよ",
+          "g_ko": "물론이지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004200,
+        "Id": 20004250,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004210,
+        "Message": {
+          "j_ko": "수영 전의 준비운동은 중요하니까.",
+          "j_ja": "それにマシロが泳ぐところを見たいなって",
+          "g_en": "Warming up IS important before swimming.",
+          "g_tw": "而且我想看麻白游泳",
+          "g_tw_cn": "而且我想看麻白游泳",
+          "g_ja": "それにマシロが泳ぐところを見たいなって",
+          "g_ko": "수영 전의 준비운동은 중요하니까."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004210,
+        "Id": 20004260,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004220,
+        "Message": {
+          "j_ko": "이해해 주셔서 감사합니다.",
+          "j_ja": "な、なるほど……そういうことでしたか",
+          "g_en": "Thank you for understanding.",
+          "g_tw": "原，原來如此……原來是這樣啊",
+          "g_tw_cn": "原，原来如此……原来是这样啊",
+          "g_ja": "な、なるほど……そういうことでしたか",
+          "g_ko": "이해해 주셔서 감사합니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004210,
+        "Id": 20004270,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200045,
+        "NextGroupId": 20004220,
+        "Message": {
+          "j_ko": "그럼 해수욕장에서 뵙겠습니다!",
+          "j_ja": "では、お待ちしてますね",
+          "g_en": "I'll see you on the beach, then!",
+          "g_tw": "那麼，我等老師來",
+          "g_tw_cn": "那么，我等老师来",
+          "g_ja": "では、お待ちしてますね",
+          "g_ko": "그럼 해수욕장에서 뵙겠습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 2000406,
+    "Data": [
+      {
+        "GroupId": 20004220,
+        "Id": 20004280,
+        "CharacterId": 20004,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004230,
+        "Message": {
+          "j_ko": "어제는 수고 많으셨습니다, 선생님.",
+          "j_ja": "昨日はお疲れ様でした、先生",
+          "g_en": "Thank you for what you did yesterday, Sensei.",
+          "g_tw": "昨天辛苦了，老師",
+          "g_tw_cn": "昨天辛苦了，老师",
+          "g_ja": "昨日はお疲れ様でした、先生",
+          "g_ko": "어제는 수고 많으셨습니다, 선생님."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004230,
+        "Id": 20004290,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004240,
+        "Message": {
+          "j_ko": "마시로는 오늘도 훈련하러 나가는 거야?",
+          "j_ja": "お疲れ様。マシロは今日も訓練？",
+          "g_en": "Are you going out to train today again, Mashiro?",
+          "g_tw": "辛苦了。麻白今天也要訓練嗎？",
+          "g_tw_cn": "辛苦了。麻白今天也要训练吗？",
+          "g_ja": "お疲れ様。マシロは今日も訓練？",
+          "g_ko": "마시로는 오늘도 훈련하러 나가는 거야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004240,
+        "Id": 20004300,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004250,
+        "Message": {
+          "j_ko": "아뇨, 오늘은 훈련 대신 해변에서 봉사활동을 할 계획입니다.",
+          "j_ja": "いえ、今日は訓練ではなくボランティア活動をする予定です",
+          "g_en": "No, I plan to do some volunteer work at the beach instead of training.",
+          "g_tw": "不，今天不是訓練，而是打算做志工服務",
+          "g_tw_cn": "不，今天不是训练，而是打算做志工服务",
+          "g_ja": "いえ、今日は訓練ではなくボランティア活動をする予定です",
+          "g_ko": "아뇨, 오늘은 훈련 대신 해변에서 봉사활동을 할 계획입니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004250,
+        "Id": 20004310,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004260,
+        "Message": {
+          "j_ko": "봉사활동?",
+          "j_ja": "ボランティア活動？",
+          "g_en": "Volunteer?",
+          "g_tw": "志工服務？",
+          "g_tw_cn": "志工服务？",
+          "g_ja": "ボランティア活動？",
+          "g_ko": "봉사활동?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004260,
+        "Id": 20004320,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004270,
+        "Message": {
+          "j_ko": "예, 이곳 해변에도 도움의 손길을 기다리고 있는 일은 잔뜩 있으니까요.",
+          "j_ja": "はい、色々と助けが必要だと聞きまして",
+          "g_en": "Correct. There are several ways to help people at the beach as well.",
+          "g_tw": "是的，聽說很需要人手幫忙",
+          "g_tw_cn": "是的，听说很需要人手帮忙",
+          "g_ja": "はい、色々と助けが必要だと聞きまして",
+          "g_ko": "예, 이곳 해변에도 도움의 손길을 기다리고 있는 일은 잔뜩 있으니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004260,
+        "Id": 20004330,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004270,
+        "Message": {
+          "j_ko": "쓰레기 치우기부터 길 잃은 미아를 보호하는 일까지……",
+          "j_ja": "ゴミ拾いや迷子の保護など、海辺にはトラブルがたくさんありますから",
+          "g_en": "Such as picking up trash or helping lost children.",
+          "g_tw": "例如撿垃圾或保護迷路的孩子等等，海邊其實會發生很多狀況",
+          "g_tw_cn": "例如捡垃圾或保护迷路的孩子等等，海边其实会发生很多状况",
+          "g_ja": "ゴミ拾いや迷子の保護など、海辺にはトラブルがたくさんありますから",
+          "g_ko": "쓰레기 치우기부터 길 잃은 미아를 보호하는 일까지……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004270,
+        "Id": 20004340,
+        "CharacterId": 20004,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 20004280,
+        "Message": {
+          "j_ko": "휴양지에서까지 고생이 많네.",
+          "j_ja": "マシロは偉いね",
+          "g_en": "You've got a lot going on, even on vacation.",
+          "g_tw": "麻白真了不起",
+          "g_tw_cn": "麻白真了不起",
+          "g_ja": "マシロは偉いね",
+          "g_ko": "휴양지에서까지 고생이 많네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004280,
+        "Id": 20004350,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "아뇨, 제게는 그다지 수고스러운 일도 아닙니다.",
+          "j_ja": "いえいえ、大したことでは",
+          "g_en": "Not really. It's nothing that I can't handle.",
+          "g_tw": "不，沒什麼大不了的",
+          "g_tw_cn": "不，没什么大不了的",
+          "g_ja": "いえいえ、大したことでは",
+          "g_ko": "아뇨, 제게는 그다지 수고스러운 일도 아닙니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 20004280,
+        "Id": 20004360,
+        "CharacterId": 20004,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 200046,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "이 또한 정의를 위한 일이니까요!",
+          "j_ja": "これもまた、正義のための行いですので！",
+          "g_en": "This is for the sake of justice!",
+          "g_tw": "這也是為了正義所做的活動！",
+          "g_tw_cn": "这也是为了正义所做的活动！",
+          "g_ja": "これもまた、正義のための行いですので！",
+          "g_ko": "이 또한 정의를 위한 일이니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

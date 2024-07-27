@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;15;…….\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、その……これは、素行の悪い生徒たちを捕まえようと……。",
+      "j_ko": "그, 그러니까…… 불량학생들을…… 잡으러…….",
+      "g_ja": "そ、その……これは、素行の悪い生徒たちを捕まえようと……。",
+      "g_ko": "그, 그러니까…… 불량학생들을…… 잡으러…….",
+      "g_en": "Y-You see, Head Prefect, I-I mobilized us to...arrest a group of troublemakers, and...",
+      "g_th": "คะ... คือว่า... ฉะ... ฉันมาจับตัวพวกเด็กเกเร...",
+      "g_tw": "那，那個……這是為了抓住那些素行不良的學生……",
+      "g_tw_cn": "那，那个……这是为了抓住那些素行不良的学生……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2134224785,
+    "DataType": "speaker",
+    "Script": "5;통신아코;04;그, 그러니까…… 불량학생들을…… 잡으러…….\\n#5;a\\n#3;m1",
+    "BGMId": 0,
+    "Sound": "SE_Radio_01",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "便利屋68のこと？どこにいるの？今はシャーレとアビドスと、対峙してるように見えるけど。",
+      "j_ko": "흥신소 68? 어디에 있지? 지금은 샬레와 대치하고 있는 걸로 보이는데.",
+      "g_ja": "便利屋68のこと？どこにいるの？今はシャーレとアビドスと、対峙してるように見えるけど。",
+      "g_ko": "흥신소 68? 어디에 있지? 지금은 샬레와 대치하고 있는 걸로 보이는데.",
+      "g_en": "You mean Problem Solver 68? From what I can see, the only ones you're confronting right now are Schale.",
+      "g_th": "หน่วยรับจ้างสารพัด 68 เหรอ? อยู่ที่ไหนล่ะ? จากที่เห็น ดูเหมือนเธอกำลังประจัญหน้ากับทางชาเล่ต์<br/>มากกว่าเลยนะ",
+      "g_tw": "便利屋68？在哪裡？現在看起像是在和夏萊及阿拜多斯對峙吧。",
+      "g_tw_cn": "便利屋68？在哪里？现在看起像是在和夏莱及阿拜多斯对峙吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;15;흥신소 68? 어디에 있지? 지금은 샬레와 대치하고 있는 걸로 보이는데.\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え、便利屋ならそこに……。",
+      "j_ko": "네? 흥신소라면 분명…….",
+      "g_ja": "え、便利屋ならそこに……。",
+      "g_ko": "네? 흥신소라면 분명…….",
+      "g_en": "Huh? Problem Solver should be...",
+      "g_th": "คะ? หน่วยรับจ้างสารพัด...",
+      "g_tw": "咦，便利屋的話在那裡……",
+      "g_tw_cn": "咦，便利屋的话在那里……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2134224785,
+    "DataType": "speaker",
+    "Script": "5;통신아코;02;네? 흥신소라면 분명…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

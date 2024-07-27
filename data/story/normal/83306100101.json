@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ、ただのかくれんぼだし気楽にね。",
+      "j_ko": "숨바꼭질이라고 해도 엄청나게 대단한 그런 건 아니야.",
+      "g_ja": "まあ、ただのかくれんぼだし気楽にね。",
+      "g_ko": "숨바꼭질이라고 해도 엄청나게 대단한 그런 건 아니야.",
+      "g_en": "It's just a game of hide and seek though, so don't feel like you have to take it too seriously.",
+      "g_th": "การเล่นซ่อนหาไม่ใช่เรื่องสุดยอดที่ต้องทุ่มกำลังอะไรขนาดนั้นหรอก",
+      "g_tw": "雖然只是場捉迷藏，不是什麼嚴肅的事。",
+      "g_tw_cn": "虽然只是场捉迷藏，不是什么严肃的事。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1441373779,
+    "DataType": "speaker",
+    "Script": "3;에리카;01;숨바꼭질이라고 해도 엄청나게 대단한 그런 건 아니야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……じゃ、私も隠れてこよ。",
+      "j_ko": "다 같이 하는 놀이니까. 뭐, 가볍게 가자고.",
+      "g_ja": "……じゃ、私も隠れてこよ。",
+      "g_ko": "다 같이 하는 놀이니까. 뭐, 가볍게 가자고.",
+      "g_en": "The important thing is that we all have fun playing.",
+      "g_th": "นี่เป็นการเล่นสนุกด้วยกัน เล่นแบบชิลๆ ก็พอ",
+      "g_tw": "畢竟是大家一起進行的遊戲，稍微放輕鬆一點吧。",
+      "g_tw_cn": "毕竟是大家一起进行的游戏，稍微放轻松一点吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1441373779,
+    "DataType": "speaker",
+    "Script": "3;에리카;03;다 같이 하는 놀이니까. 뭐, 가볍게 가자고.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

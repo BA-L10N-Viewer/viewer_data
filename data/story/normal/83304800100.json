@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（あの怪しいチラシ……結局、どうして作ったのか聞きそびれたわね）",
+      "j_ko": "(그 수상한 전단지…… 결국 어째서 만들었던 걸까.)",
+      "g_ja": "（あの怪しいチラシ……結局、どうして作ったのか聞きそびれたわね）",
+      "g_ko": "(그 수상한 전단지…… 결국 어째서 만들었던 걸까.)",
+      "g_en": "(Why even make all of those ridiculous flyers?)",
+      "g_th": "(ใบปลิวที่น่าสงสัยนั่น... ตกลงทำขึ้นมาเพราะอะไรกันนะ)",
+      "g_tw": "（這個可疑的傳單……到底為什麼要製作呢？）",
+      "g_tw_cn": "（这个可疑的传单……到底为什么要制作呢？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(그 수상한 전단지…… 결국 어째서 만들었던 걸까.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（結局、ゴミが増えたことに変わりはないけれど）",
+      "j_ko": "(결국 쓰레기만 늘어난 꼴이니, 한숨만 나오지만.)",
+      "g_ja": "（結局、ゴミが増えたことに変わりはないけれど）",
+      "g_ko": "(결국 쓰레기만 늘어난 꼴이니, 한숨만 나오지만.)",
+      "g_en": "(In the end, all we can do is sigh as all of our grand plans end up in the trash.)",
+      "g_th": "(ถึงสุดท้ายมันจะเป็นแค่ขยะก็เถอะ)",
+      "g_tw": "（結果只是增加垃圾而已，讓人忍不住想嘆氣）",
+      "g_tw_cn": "（结果只是增加垃圾而已，让人忍不住想叹气）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;99;(결국 쓰레기만 늘어난 꼴이니, 한숨만 나오지만.)\\n#3;closeup\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

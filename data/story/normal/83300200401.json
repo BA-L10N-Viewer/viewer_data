@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "情報が足りないわね……",
+      "j_ko": "매년 주최하는 파티라고 해도, 왜 이렇게나 갑작스럽게……",
+      "g_ja": "情報が足りないわね……",
+      "g_ko": "매년 주최하는 파티라고 해도, 왜 이렇게나 갑작스럽게……",
+      "g_en": "If they normally host this party, why are they suddenly rushing the preparations...?",
+      "g_th": "ถึงจะเป็นปาร์ตี้ที่เป็นเจ้าภาพอยู่ทุกปี แต่ทำไมปีนี้ถึงได้กะทันหันนัก...",
+      "g_tw": "就算是每年舉辦的派對，為何會這麼突然……",
+      "g_tw_cn": "就算是每年举办的派对，为何会这么突然……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;99;매년 주최하는 파티라고 해도, 왜 이렇게나 갑작스럽게……\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……嫌な予感がする。",
+      "j_ko": "예년과 뭔가 다른 걸 기획하고 있는 건가? 마코토……",
+      "g_ja": "……嫌な予感がする。",
+      "g_ko": "예년과 뭔가 다른 걸 기획하고 있는 건가? 마코토……",
+      "g_en": "Makoto...are you planning something different this year?",
+      "g_th": "หรือว่ามีแผนการอื่นที่ต่างจากปีก่อนๆ? มาโคโตะ...",
+      "g_tw": "是在計畫某些不同於往年的東西嗎？真琴……",
+      "g_tw_cn": "是在计划某些不同于往年的东西吗？真琴……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;05;예년과 뭔가 다른 걸 기획하고 있는 건가? 마코토……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

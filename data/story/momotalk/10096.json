@@ -1,0 +1,593 @@
+[
+  {
+    "BondScenarioId": 1009602,
+    "Data": [
+      {
+        "GroupId": 100960010,
+        "Id": 100960010,
+        "CharacterId": 10096,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960020,
+        "Message": {
+          "j_ko": "안녕하십니까, 선생님. 칸나입니다.",
+          "j_ja": "こんにちは、先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960020,
+        "Id": 100960020,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960030,
+        "Message": {
+          "j_ko": "오랜만이네, 칸나.",
+          "j_ja": "久しぶりだね、カンナ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960020,
+        "Id": 100960030,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960030,
+        "Message": {
+          "j_ko": "그동안 잘 지냈어?",
+          "j_ja": "元気だった？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960030,
+        "Id": 100960040,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960040,
+        "Message": {
+          "j_ko": "갑작스럽게 연락드려 죄송하지만, 상담하고 싶은 것이 생겼습니다.",
+          "j_ja": "お久しぶりです。実は、相談したいことがありまして"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960040,
+        "Id": 100960050,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960050,
+        "Message": {
+          "j_ko": "칸나의 상담이라, 드문 일인걸.",
+          "j_ja": "カンナから相談だなんて、珍しいね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960050,
+        "Id": 100960060,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960060,
+        "Message": {
+          "j_ko": "다름이 아니라, 이번에 라이프가드 임무를 맡게 되었습니다.",
+          "j_ja": "その、プールのライフセーバーに任命されたのですが……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960050,
+        "Id": 100960070,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960060,
+        "Message": {
+          "j_ko": "한데, 수영복에 문제가 있어서…….",
+          "j_ja": "水着が決められずに困っています"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960060,
+        "Id": 100960080,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960070,
+        "Message": {
+          "j_ko": "문제?",
+          "j_ja": "……水着？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960070,
+        "Id": 100960090,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960080,
+        "Message": {
+          "j_ko": "그게……혹시 괜찮으시다면 직접 뵙고 조언을 부탁드려도 될까요?",
+          "j_ja": "はい、よろしければ直接アドバイスを頂いてもよろしいでしょうか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960080,
+        "Id": 100960100,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960090,
+        "Message": {
+          "j_ko": "저 혼자 결정하기에는 어딘가 마음이 편치 않습니다.",
+          "j_ja": "私には、どうも難しく……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960090,
+        "Id": 100960110,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100962,
+        "NextGroupId": 100960100,
+        "Message": {
+          "j_ko": "물론이지, 금방 갈게.",
+          "j_ja": "分かった、すぐ行くね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960100,
+        "Id": 100960120,
+        "CharacterId": 10096,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960110,
+        "Message": {
+          "j_ko": "잘 들어가셨습니까? 오늘은 감사했습니다, 선생님.",
+          "j_ja": "先生、本日はありがとうございました"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960110,
+        "Id": 100960130,
+        "CharacterId": 10096,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960120,
+        "Message": {
+          "j_ko": "덕분에 좋은 수영복을 고를 수 있었습니다.",
+          "j_ja": "おかげで水着が決まり、一安心です"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960120,
+        "Id": 100960140,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960130,
+        "Message": {
+          "j_ko": "칸나가 마음에 든다면 다행이야.",
+          "j_ja": "似合ってたね"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960130,
+        "Id": 100960150,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960140,
+        "Message": {
+          "j_ko": "…….",
+          "j_ja": "……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960130,
+        "Id": 100960160,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960140,
+        "Message": {
+          "j_ko": "사실, 아까 한 가지 깨달았습니다.",
+          "j_ja": "今さらですが、気付いたのです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960140,
+        "Id": 100960170,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960150,
+        "Message": {
+          "j_ko": "어쩌면 저는, 누군가의 ‘잘 어울린다’는 말 한마디가 필요했던 것인지도 모르겠습니다.",
+          "j_ja": "もしかしたら私には、「似合っている」の一言が必要だっただけかもしれません"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100960150,
+            "Id": 100960180,
+            "CharacterId": 10096,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100960160,
+            "Message": {
+              "j_ko": "처음 해 보는 임무인지라 안심이 되지 않았으니까요.",
+              "j_ja": "初めてのライフセーバー任務で、気負いすぎていたのでしょう"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100960150,
+        "Id": 100960180,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960160,
+        "Message": {
+          "j_ko": "처음 해 보는 임무인지라 안심이 되지 않았으니까요.",
+          "j_ja": "初めてのライフセーバー任務で、気負いすぎていたのでしょう"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960160,
+        "Id": 100960190,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960170,
+        "Message": {
+          "j_ko": "잘됐네. 이제 좀 마음을 놓았어?",
+          "j_ja": "もう気は楽になった？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960170,
+        "Id": 100960200,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960180,
+        "Message": {
+          "j_ko": "네, 그렇습니다.",
+          "j_ja": "はい"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960170,
+        "Id": 100960210,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960180,
+        "Message": {
+          "j_ko": "역시, 선생님께 도움을 요청한 것이 정답이었군요",
+          "j_ja": "やはり、先生に助けを要請して正解でした"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1009603,
+    "Data": [
+      {
+        "GroupId": 100960180,
+        "Id": 100960220,
+        "CharacterId": 10096,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960190,
+        "Message": {
+          "j_ko": "안녕하십니까, 선생님.",
+          "j_ja": "こんにちは、先生"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": [
+          {
+            "GroupId": 100960190,
+            "Id": 100960230,
+            "CharacterId": 10096,
+            "MessageCondition": "Feedback",
+            "FavorScheduleId": 0,
+            "NextGroupId": 100960200,
+            "Message": {
+              "j_ko": "파크는 잘 즐기고 계신지 모르겠군요.",
+              "j_ja": "パークは楽しめていますか？"
+            },
+            "MessageBgColor": "white",
+            "RelatedEntry": []
+          }
+        ]
+      },
+      {
+        "GroupId": 100960190,
+        "Id": 100960230,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960200,
+        "Message": {
+          "j_ko": "파크는 잘 즐기고 계신지 모르겠군요.",
+          "j_ja": "パークは楽しめていますか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960200,
+        "Id": 100960240,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960210,
+        "Message": {
+          "j_ko": "응, 들어오자마자 물놀이 중이야.",
+          "j_ja": "うん、楽しんでるよ"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960210,
+        "Id": 100960250,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960220,
+        "Message": {
+          "j_ko": "즐겨 주시는 것 같아 라이프가드로서 기쁘군요.",
+          "j_ja": "ライフセーバーとして、嬉しい限りです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960210,
+        "Id": 100960260,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960220,
+        "Message": {
+          "j_ko": "저, 혹시 실례가 되지 않는다면, 한 가지 부탁을 드리고 싶습니다.",
+          "j_ja": "あの、もしお時間があれば、ひとつお願いをしても良いでしょうか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960220,
+        "Id": 100960270,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960230,
+        "Message": {
+          "j_ko": "무슨 부탁인데?",
+          "j_ja": "どんなお願い？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960230,
+        "Id": 100960280,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960240,
+        "Message": {
+          "j_ko": "실외 시설에 있는 ‘메가 슬라이드’로 와 주시겠습니까?",
+          "j_ja": "屋外施設の「メガスライド」まで来てもらえませんか？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960230,
+        "Id": 100960290,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100963,
+        "NextGroupId": 100960240,
+        "Message": {
+          "j_ko": "운행 시작 전에 시험 운행을 부탁드리고 싶습니다.",
+          "j_ja": "試運転に付き合っていただきたいのです"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1009605,
+    "Data": [
+      {
+        "GroupId": 100960240,
+        "Id": 100960300,
+        "CharacterId": 10096,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960250,
+        "Message": {
+          "j_ko": "오늘은 워터파크가 운영하지 않는 날입니다.",
+          "j_ja": "今日はウォーターパークの定休日です"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960250,
+        "Id": 100960310,
+        "CharacterId": 10096,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960260,
+        "Message": {
+          "j_ko": "혹시나 요일을 혼동하여 방문하지 않도록 주의해 주시기 바랍니다.",
+          "j_ja": "間違えないよう、お気をつけてください"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960260,
+        "Id": 100960320,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960270,
+        "Message": {
+          "j_ko": "그럼 칸나도 쉬는 거야?",
+          "j_ja": "じゃあカンナも休みなの？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960270,
+        "Id": 100960330,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960280,
+        "Message": {
+          "j_ko": "그렇지는 않습니다.",
+          "j_ja": "いえ、私は仕事です"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960270,
+        "Id": 100960340,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960280,
+        "Message": {
+          "j_ko": "라이프가드들은 시설의 관리보수와 청소를 해야 하니까요.",
+          "j_ja": "施設の清掃や補修がありますから"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960280,
+        "Id": 100960350,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960290,
+        "Message": {
+          "j_ko": "이용객 여러분이 안전하고 즐겁게 시설을 이용할 수 있도록 최선을 다할 생각입니다.",
+          "j_ja": "利用客の皆さんが、安全に楽しく遊べるようにしなくてはいけませんので"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960290,
+        "Id": 100960360,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960300,
+        "Message": {
+          "j_ko": "휴일이 휴일이 아니구나…….",
+          "j_ja": "定休日なのに大変だね……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960290,
+        "Id": 100960370,
+        "CharacterId": 10096,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960300,
+        "Message": {
+          "j_ko": "너무 열심히 하는 거 아냐?",
+          "j_ja": "少し頑張りすぎじゃない？"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960300,
+        "Id": 100960380,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100960310,
+        "Message": {
+          "j_ko": "이용객의 안전을 책임지는 라이프가드로서 당연한 일입니다.",
+          "j_ja": "利用客の安全がかかっておりますし、これくらい当然です"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100960310,
+        "Id": 100960390,
+        "CharacterId": 10096,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100965,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "또한, 그 이용객에는 선생님도 포함되어 있으니까요.",
+          "j_ja": "もちろん、そこには先生も含まれていますから"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

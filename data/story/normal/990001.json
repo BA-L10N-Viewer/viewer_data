@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあこれは…。",
+      "j_ko": "우헤헤 정말 살맛나는군",
+      "g_ja": "まあこれは…。",
+      "g_ko": "우헤헤 정말 살맛나는군",
+      "g_en": "Well...since nobody's watching, should we get out of here?",
+      "g_th": "ในเมื่อไม่มีพวกน่ารำคาญมาคอยจับตาดูอยู่แล้ว งั้นก็ออกไปสนุกให้เต็มที่เลยแล้วกัน",
+      "g_tw": "沒有煩人的監視者，就盡情去逛逛吧？",
+      "g_tw_cn": "没有烦人的监视者，就尽情去逛逛吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3170181567,
+    "DataType": "speaker",
+    "Script": "1;바니걸 가드 A;01;우헤헤 정말 살맛나는군",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあこれは…。",
+      "j_ko": "감시하는 귀찮은 녀석들이 없으니 마음껏 돌아다녀 볼까?",
+      "g_ja": "まあこれは…。",
+      "g_ko": "감시하는 귀찮은 녀석들이 없으니 마음껏 돌아다녀 볼까?",
+      "g_en": "Well...since nobody's watching, should we get out of here?",
+      "g_th": "ในเมื่อไม่มีพวกน่ารำคาญมาคอยจับตาดูอยู่แล้ว งั้นก็ออกไปสนุกให้เต็มที่เลยแล้วกัน",
+      "g_tw": "沒有煩人的監視者，就盡情去逛逛吧？",
+      "g_tw_cn": "没有烦人的监视者，就尽情去逛逛吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3170181567,
+    "DataType": "speaker",
+    "Script": "5;바니걸 가드 A;02;감시하는 귀찮은 녀석들이 없으니 마음껏 돌아다녀 볼까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（万魔殿の様子を聞くに、今日もずっと騒がしかったようね）",
+      "j_ko": "(만마전에 있었던 소동을 보면, 그쪽도 꽤나 시끄러운 모양이야.)",
+      "g_ja": "（万魔殿の様子を聞くに、今日もずっと騒がしかったようね）",
+      "g_ko": "(만마전에 있었던 소동을 보면, 그쪽도 꽤나 시끄러운 모양이야.)",
+      "g_en": "(It seems that even the Pandemonium Society is struggling nowadays, judging by the mess they're in.)",
+      "g_th": "(แต่ดูจากความวุ่นวายที่เกิดขึ้นในแพนเดโมเนียม โซไซตี้แล้ว ทางนั้นก็น่าจะหัวหมุนกันอยู่เหมือนกัน)",
+      "g_tw": "（從萬魔殿發生的騷動來看，那邊大概也相當混亂吧）",
+      "g_tw_cn": "（从万魔殿发生的骚动来看，那边大概也相当混乱吧）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;02;(만마전에 있었던 소동을 보면, 그쪽도 꽤나 시끄러운 모양이야.)\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（先生が面倒事に巻き込まれてないといいんだけど……）",
+      "j_ko": "(선생님이 괜한 일에 휘말리지 않으면 좋겠는데.)",
+      "g_ja": "（先生が面倒事に巻き込まれてないといいんだけど……）",
+      "g_ko": "(선생님이 괜한 일에 휘말리지 않으면 좋겠는데.)",
+      "g_en": "(I hope Sensei isn't caught up in something unnecessary...)",
+      "g_th": "(หวังว่าคุณครูจะไม่ถูกดึงมาเกี่ยวกับเรื่องแบบนี้นะ)",
+      "g_tw": "（希望老師不會被捲入莫名其妙的事）",
+      "g_tw_cn": "（希望老师不会被卷入莫名其妙的事）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2902151151,
+    "DataType": "speaker",
+    "Script": "3;히나 잠옷 일반;01;(선생님이 괜한 일에 휘말리지 않으면 좋겠는데.)\\n#3;closeup\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,625 @@
+[
+  {
+    "BondScenarioId": 1003202,
+    "Data": [
+      {
+        "GroupId": 100320010,
+        "Id": 100320010,
+        "CharacterId": 10032,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320020,
+        "Message": {
+          "j_ko": "선생님~ 선생님~",
+          "j_ja": "先生！",
+          "g_en": "Sensei! Sensei!",
+          "g_tw": "老師！",
+          "g_tw_cn": "老师！",
+          "g_ja": "先生！",
+          "g_ko": "선생님~ 선생님~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320020,
+        "Id": 100320020,
+        "CharacterId": 10032,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320030,
+        "Message": {
+          "j_ko": "새해 복 많이 받아~!",
+          "j_ja": "あらためて、明けましておめでとー！",
+          "g_en": "Happy New Year!",
+          "g_tw": "再次祝你新年快樂──！",
+          "g_tw_cn": "再次祝你新年快乐──！",
+          "g_ja": "あらためて、明けましておめでとー！",
+          "g_ko": "새해 복 많이 받아~!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320030,
+        "Id": 100320030,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320040,
+        "Message": {
+          "j_ko": "어, 벌써…. 새해인가?",
+          "j_ja": "いつの間にお正月だ……",
+          "g_en": "Oh, is it already...New Year's?",
+          "g_tw": "不知不覺已經過年了啊……",
+          "g_tw_cn": "不知不觉已经过年了啊……",
+          "g_ja": "いつの間にお正月だ……",
+          "g_ko": "어, 벌써…. 새해인가?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320030,
+        "Id": 100320040,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320040,
+        "Message": {
+          "j_ko": "응…. 무츠키도 새해 복 많이 받아.",
+          "j_ja": "うん、明けましておめでとう",
+          "g_en": "Thanks. Happy New Year to you too, Mutsuki.",
+          "g_tw": "嗯，新年快樂",
+          "g_tw_cn": "嗯，新年快乐",
+          "g_ja": "うん、明けましておめでとう",
+          "g_ko": "응…. 무츠키도 새해 복 많이 받아."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320040,
+        "Id": 100320050,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320050,
+        "Message": {
+          "j_ko": "흐응, 뭐야~ 선생님의 반응, 재미없어~",
+          "j_ja": "えー、何その先生のリアクション。つまんな～い",
+          "g_en": "Oh, come on! What's with your reaction, Sensei! It's not funny!",
+          "g_tw": "耶──，老師那是什麼反應。無～聊",
+          "g_tw_cn": "耶──，老师那是什么反应。无～聊",
+          "g_ja": "えー、何その先生のリアクション。つまんな～い",
+          "g_ko": "흐응, 뭐야~ 선생님의 반응, 재미없어~"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320040,
+        "Id": 100320060,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320050,
+        "Message": {
+          "j_ko": "뭐, 그런 평소에도 흐느적흐느적하는 선생님이라도 불타오를 수 있도록.",
+          "j_ja": "しょうがないなぁ……そんなふにゃふにゃな先生でも一気に燃え上がるような",
+          "g_en": "Well, I did prepare something awesome that would",
+          "g_tw": "真拿你沒辦法……我為無精打采的老師準備了",
+          "g_tw_cn": "真拿你没办法……我为无精打采的老师准备了",
+          "g_ja": "しょうがないなぁ……そんなふにゃふにゃな先生でも一気に燃え上がるような",
+          "g_ko": "뭐, 그런 평소에도 흐느적흐느적하는 선생님이라도 불타오를 수 있도록."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320050,
+        "Id": 100320070,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320060,
+        "Message": {
+          "j_ko": "내가 또 엄청난 걸 준비했지만 말이야!",
+          "j_ja": "「ものすごく楽しいこと」を用意してあげる！",
+          "g_en": "fire up even our frail Sensei!",
+          "g_tw": "連你也能一下就燃起鬥志的「極其有趣的事」！",
+          "g_tw_cn": "连你也能一下就燃起斗志的「极其有趣的事」！",
+          "g_ja": "「ものすごく楽しいこと」を用意してあげる！",
+          "g_ko": "내가 또 엄청난 걸 준비했지만 말이야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320060,
+        "Id": 100320080,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320070,
+        "Message": {
+          "j_ko": "흐느적흐느적…?",
+          "j_ja": "ふにゃふにゃ……？",
+          "g_en": "Frail...?",
+          "g_tw": "無精打采……？",
+          "g_tw_cn": "无精打采……？",
+          "g_ja": "ふにゃふにゃ……？",
+          "g_ko": "흐느적흐느적…?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320060,
+        "Id": 100320090,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320070,
+        "Message": {
+          "j_ko": "무츠키가 준비한, 거?",
+          "j_ja": "「ものすごく楽しいこと」……？",
+          "g_en": "Something Mutsuki prepared?",
+          "g_tw": "「極其有趣的事」……？",
+          "g_tw_cn": "「极其有趣的事」……？",
+          "g_ja": "「ものすごく楽しいこと」……？",
+          "g_ko": "무츠키가 준비한, 거?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320070,
+        "Id": 100320100,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320080,
+        "Message": {
+          "j_ko": "그럼 잔뜩 기대하고 있어~ 선생님!",
+          "j_ja": "じゃあ楽しみにしててね、先生！",
+          "g_en": "Be excited, Sensei!",
+          "g_tw": "那就敬請期待吧，老師！",
+          "g_tw_cn": "那就敬请期待吧，老师！",
+          "g_ja": "じゃあ楽しみにしててね、先生！",
+          "g_ko": "그럼 잔뜩 기대하고 있어~ 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320080,
+        "Id": 100320110,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320090,
+        "Message": {
+          "j_ko": "응…? 무츠키?",
+          "j_ja": "え、えっ……？",
+          "g_en": "Huh...? Mutsuki?",
+          "g_tw": "咦，咦……？",
+          "g_tw_cn": "咦，咦……？",
+          "g_ja": "え、えっ……？",
+          "g_ko": "응…? 무츠키?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320090,
+        "Id": 100320120,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 100322,
+        "NextGroupId": 100320100,
+        "Message": {
+          "j_ko": "저기요…?",
+          "j_ja": "ムツキ……？",
+          "g_en": "Hello...?",
+          "g_tw": "無月……？",
+          "g_tw_cn": "无月……？",
+          "g_ja": "ムツキ……？",
+          "g_ko": "저기요…?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003203,
+    "Data": [
+      {
+        "GroupId": 100320100,
+        "Id": 100320130,
+        "CharacterId": 10032,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320110,
+        "Message": {
+          "j_ko": "선생님, 혹시 소원 같은 거 있어?",
+          "j_ja": "先生って、新年のお願いごともう決めた？",
+          "g_en": "Do you have any wishes, Sensei?",
+          "g_tw": "老師，新年願望已經決定好了嗎？",
+          "g_tw_cn": "老师，新年愿望已经决定好了吗？",
+          "g_ja": "先生って、新年のお願いごともう決めた？",
+          "g_ko": "선생님, 혹시 소원 같은 거 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320110,
+        "Id": 100320140,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320120,
+        "Message": {
+          "j_ko": "당연히 있지!",
+          "j_ja": "もちろん！",
+          "g_en": "Of course I do!",
+          "g_tw": "當然！",
+          "g_tw_cn": "当然！",
+          "g_ja": "もちろん！",
+          "g_ko": "당연히 있지!"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320110,
+        "Id": 100320150,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320130,
+        "Message": {
+          "j_ko": "음, 딱히 없어.",
+          "j_ja": "そういえばまだ……",
+          "g_en": "Um, not really.",
+          "g_tw": "這麼說來，還沒……",
+          "g_tw_cn": "这么说来，还没……",
+          "g_ja": "そういえばまだ……",
+          "g_ko": "음, 딱히 없어."
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320120,
+        "Id": 100320160,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320140,
+        "Message": {
+          "j_ko": "아하~ 역시 그렇구나.",
+          "j_ja": "ふーん、そうなんだ",
+          "g_en": "Aha! I knew it.",
+          "g_tw": "呵──，這樣啊",
+          "g_tw_cn": "呵──，这样啊",
+          "g_ja": "ふーん、そうなんだ",
+          "g_ko": "아하~ 역시 그렇구나."
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320120,
+        "Id": 100320170,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320140,
+        "Message": {
+          "j_ko": "응, 하긴 평범하게 생각하면 소원 한둘쯤은 가지고 있을 테니까~",
+          "j_ja": "先生のお願いごと、気になるな―",
+          "g_en": "Yeah, if you think about it, everyone has one or two wishes!",
+          "g_tw": "老師的願望，好在意吶──",
+          "g_tw_cn": "老师的愿望，好在意呐──",
+          "g_ja": "先生のお願いごと、気になるな―",
+          "g_ko": "응, 하긴 평범하게 생각하면 소원 한둘쯤은 가지고 있을 테니까~"
+        },
+        "MessageBgColor": "green",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320130,
+        "Id": 100320180,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320140,
+        "Message": {
+          "j_ko": "어라~? 그래?",
+          "j_ja": "あ、そうなんだ",
+          "g_en": "Oh! Really?",
+          "g_tw": "啊，這樣啊",
+          "g_tw_cn": "啊，这样啊",
+          "g_ja": "あ、そうなんだ",
+          "g_ko": "어라~? 그래?"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320130,
+        "Id": 100320190,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320140,
+        "Message": {
+          "j_ko": "흐응~ 뭐, 상관은 없지만!",
+          "j_ja": "まあ、今からゆっくり決めれば良いんじゃない？",
+          "g_en": "Hmm, it doesn't really matter!",
+          "g_tw": "嘛，從現在開始慢慢決定不就行了嗎？",
+          "g_tw_cn": "嘛，从现在开始慢慢决定不就行了吗？",
+          "g_ja": "まあ、今からゆっくり決めれば良いんじゃない？",
+          "g_ko": "흐응~ 뭐, 상관은 없지만!"
+        },
+        "MessageBgColor": "blue",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320140,
+        "Id": 100320200,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320150,
+        "Message": {
+          "j_ko": "그럼 가자! 선생님! 소원 빌러!",
+          "j_ja": "とりあえず先生、行こう！",
+          "g_en": "Then let's go, Sensei! To fulfill our wishes!",
+          "g_tw": "總之，老師，走吧！",
+          "g_tw_cn": "总之，老师，走吧！",
+          "g_ja": "とりあえず先生、行こう！",
+          "g_ko": "그럼 가자! 선생님! 소원 빌러!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320150,
+        "Id": 100320210,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320160,
+        "Message": {
+          "j_ko": "응? 갑자기 무슨 뜻이야?",
+          "j_ja": "えっと、どこに？",
+          "g_en": "Huh? What do you mean?",
+          "g_tw": "那個，去哪兒？",
+          "g_tw_cn": "那个，去哪儿？",
+          "g_ja": "えっと、どこに？",
+          "g_ko": "응? 갑자기 무슨 뜻이야?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320160,
+        "Id": 100320220,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320170,
+        "Message": {
+          "j_ko": "모처럼의 새해잖아?",
+          "j_ja": "せっかくお正月なんだから決まってるでしょ？",
+          "g_en": "Well, it is New Year's, right?",
+          "g_tw": "難得過新年，所以很明顯吧？",
+          "g_tw_cn": "难得过新年，所以很明显吧？",
+          "g_ja": "せっかくお正月なんだから決まってるでしょ？",
+          "g_ko": "모처럼의 새해잖아?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320160,
+        "Id": 100320230,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320170,
+        "Message": {
+          "j_ko": "기왕이면 거기에 맞춘 이벤트를 즐길 필요가 있다구?",
+          "j_ja": "正月なんだから、正月らしいところに行かないと！",
+          "g_en": "We should enjoy the New Year's events the best we can.",
+          "g_tw": "新年就得去有新年氣氛的地方！",
+          "g_tw_cn": "新年就得去有新年气氛的地方！",
+          "g_ja": "正月なんだから、正月らしいところに行かないと！",
+          "g_ko": "기왕이면 거기에 맞춘 이벤트를 즐길 필요가 있다구?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320170,
+        "Id": 100320240,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100323,
+        "NextGroupId": 100320180,
+        "Message": {
+          "j_ko": "자, 그러니 집합이야! 선생님!",
+          "j_ja": "ほらほら、早く準備して！先生！",
+          "g_en": "So let's get together, Sensei!",
+          "g_tw": "好啦好啦，快點準備！老師！",
+          "g_tw_cn": "好啦好啦，快点准备！老师！",
+          "g_ja": "ほらほら、早く準備して！先生！",
+          "g_ko": "자, 그러니 집합이야! 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1003205,
+    "Data": [
+      {
+        "GroupId": 100320180,
+        "Id": 100320250,
+        "CharacterId": 10032,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320190,
+        "Message": {
+          "j_ko": "선생님! 엄청나게 하네츠키가 하고 싶어졌어!",
+          "j_ja": "先生！羽根つきしよっ！",
+          "g_en": "Sensei! I really, really want to play hanetsuki!",
+          "g_tw": "老師！來打羽根突吧！",
+          "g_tw_cn": "老师！来打羽根突吧！",
+          "g_ja": "先生！羽根つきしよっ！",
+          "g_ko": "선생님! 엄청나게 하네츠키가 하고 싶어졌어!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320190,
+        "Id": 100320260,
+        "CharacterId": 10032,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320200,
+        "Message": {
+          "j_ko": "갑자기 하네츠키를……?",
+          "j_ja": "いきなりだね……？",
+          "g_en": "You suddenly want to play hanetsuki...?",
+          "g_tw": "這麼突然……？",
+          "g_tw_cn": "这么突然……？",
+          "g_ja": "いきなりだね……？",
+          "g_ko": "갑자기 하네츠키를……?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320200,
+        "Id": 100320270,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320210,
+        "Message": {
+          "j_ko": "지난번의 패배를, 하네츠키로 설욕해 줄 테니까!",
+          "j_ja": "この前の敗北の屈辱、思いっきり晴らしちゃうから！",
+          "g_en": "I'm going to avenge my last defeat with hanetsuki.",
+          "g_tw": "我要一雪前恥！",
+          "g_tw_cn": "我要一雪前耻！",
+          "g_ja": "この前の敗北の屈辱、思いっきり晴らしちゃうから！",
+          "g_ko": "지난번의 패배를, 하네츠키로 설욕해 줄 테니까!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320210,
+        "Id": 100320280,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320220,
+        "Message": {
+          "j_ko": "선생님, 그럼 승부야!",
+          "j_ja": "さー、尋常に勝負！",
+          "g_en": "The game is on, Sensei!",
+          "g_tw": "來吧──，一決勝負！",
+          "g_tw_cn": "来吧──，一决胜负！",
+          "g_ja": "さー、尋常に勝負！",
+          "g_ko": "선생님, 그럼 승부야!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320210,
+        "Id": 100320290,
+        "CharacterId": 10032,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 100325,
+        "NextGroupId": 100320220,
+        "Message": {
+          "j_ko": "기다리고 있을게!",
+          "j_ja": "待ってるからね！早く早く！",
+          "g_en": "I'll be waiting!",
+          "g_tw": "我等著唷！快點快點！",
+          "g_tw_cn": "我等着唷！快点快点！",
+          "g_ja": "待ってるからね！早く早く！",
+          "g_ko": "기다리고 있을게!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320220,
+        "Id": 100320300,
+        "CharacterId": 10032,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 100320230,
+        "Message": {
+          "j_ko": "이번 새해에도, 선생님과 함께해서 엄청 재미있었어.",
+          "j_ja": "先生のおかげでお正月、すっごい楽しかった！ありがとね！",
+          "g_en": "I had so much fun spending New Year's with you, Sensei.",
+          "g_tw": "託老師的福，新年過得非常開心！謝啦！",
+          "g_tw_cn": "托老师的福，新年过得非常开心！谢啦！",
+          "g_ja": "先生のおかげでお正月、すっごい楽しかった！ありがとね！",
+          "g_ko": "이번 새해에도, 선생님과 함께해서 엄청 재미있었어."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320230,
+        "Id": 100320310,
+        "CharacterId": 10032,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "새해에도, 그리고 앞으로도.",
+          "j_ja": "これから先もずっと",
+          "g_en": "During the New Year and from now on...",
+          "g_tw": "今後也要",
+          "g_tw_cn": "今后也要",
+          "g_ja": "これから先もずっと",
+          "g_ko": "새해에도, 그리고 앞으로도."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 100320230,
+        "Id": 100320320,
+        "CharacterId": 10032,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "나랑 잔뜩 놀아줘야 해? 선생님♡",
+          "j_ja": "私とたーっくさん遊んでね、先生♡",
+          "g_en": "...please play with me a lot, Sensei! ♥",
+          "g_tw": "也要經常和我一起玩唷，老師♡",
+          "g_tw_cn": "也要经常和我一起玩唷，老师♡",
+          "g_ja": "私とたーっくさん遊んでね、先生♡",
+          "g_ko": "나랑 잔뜩 놀아줘야 해? 선생님♡"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

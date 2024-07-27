@@ -1,0 +1,26 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（みんな気を失っている）",
+      "j_ko": "(마찬가지로 정신을 잃은 상태야.)",
+      "g_ja": "（みんな気を失っている）",
+      "g_ko": "(마찬가지로 정신을 잃은 상태야.)",
+      "g_en": "(Everyone here is half conscious.)",
+      "g_th": "(ทุกคนสติไม่อยู่กับเนื้อกับตัวกันหมดเลย)",
+      "g_tw": "（同樣失去了意識）",
+      "g_tw_cn": "（同样失去了意识）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 703456608,
+    "DataType": "speaker",
+    "Script": "3;히나;04;(마찬가지로 정신을 잃은 상태야.)\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

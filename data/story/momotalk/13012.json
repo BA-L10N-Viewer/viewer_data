@@ -1,0 +1,858 @@
+[
+  {
+    "BondScenarioId": 1301202,
+    "Data": [
+      {
+        "GroupId": 130120010,
+        "Id": 130120010,
+        "CharacterId": 13012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120020,
+        "Message": {
+          "j_ko": "선생님, 순찰 시간입니다!",
+          "j_ja": "先生、パトロールの時間ですよ！",
+          "g_en": "Sensei, it's time for patrol!",
+          "g_tw": "老師，巡邏時間到了唷！",
+          "g_tw_cn": "老师，巡逻时间到了唷！",
+          "g_ja": "先生、パトロールの時間ですよ！",
+          "g_ko": "선생님, 순찰 시간입니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120020,
+        "Id": 130120020,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120030,
+        "Message": {
+          "j_ko": "어제는 북구의 업무지구를 순찰했으니, 오늘은 중앙구의 업무지구를 순찰하도록 하죠!",
+          "j_ja": "昨日は北区だったので、今日は中央区を回ることにしましょうか！",
+          "g_en": "We patrolled the north district last time, so let's patrol the central district today!",
+          "g_tw": "昨天是北區，今天就去中央區巡一巡吧！",
+          "g_tw_cn": "昨天是北区，今天就去中央区巡一巡吧！",
+          "g_ja": "昨日は北区だったので、今日は中央区を回ることにしましょうか！",
+          "g_ko": "어제는 북구의 업무지구를 순찰했으니, 오늘은 중앙구의 업무지구를 순찰하도록 하죠!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120030,
+        "Id": 130120030,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120040,
+        "Message": {
+          "j_ko": "하지만 오늘은 휴일이잖아…….",
+          "j_ja": "今日は、休日のはず……",
+          "g_en": "But today's supposed to be a day off...",
+          "g_tw": "今天不是休息日嗎……",
+          "g_tw_cn": "今天不是休息日吗……",
+          "g_ja": "今日は、休日のはず……",
+          "g_ko": "하지만 오늘은 휴일이잖아……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120030,
+        "Id": 130120040,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120040,
+        "Message": {
+          "j_ko": "오늘은 쉬면 안 될까?",
+          "j_ja": "今日くらいお休みにしない……？",
+          "g_en": "Why don't we take some rest?",
+          "g_tw": "今天不休息一天嗎……？",
+          "g_tw_cn": "今天不休息一天吗……？",
+          "g_ja": "今日くらいお休みにしない……？",
+          "g_ko": "오늘은 쉬면 안 될까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120040,
+        "Id": 130120050,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120050,
+        "Message": {
+          "j_ko": "안 돼요! 사건은 회의실이 아니라 현장에서 일어나는 법이니까요.",
+          "j_ja": "そうはいきません！事件は会議室ではなく、現場で起きるのですから！",
+          "g_en": "Nope! Crime happens in the streets, not in the office.",
+          "g_tw": "不行！事件不會發生在會議室，而是在現場！",
+          "g_tw_cn": "不行！事件不会发生在会议室，而是在现场！",
+          "g_ja": "そうはいきません！事件は会議室ではなく、現場で起きるのですから！",
+          "g_ko": "안 돼요! 사건은 회의실이 아니라 현장에서 일어나는 법이니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120050,
+        "Id": 130120060,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120060,
+        "Message": {
+          "j_ko": "저희가 이렇게 대화를 나누는 이 순간에도……",
+          "j_ja": "私たちが、気持ちの良い二度寝を享受している間にも……",
+          "g_en": "Even as we speak...",
+          "g_tw": "在我們舒服地享受回籠覺的時候……",
+          "g_tw_cn": "在我们舒服地享受回笼觉的时候……",
+          "g_ja": "私たちが、気持ちの良い二度寝を享受している間にも……",
+          "g_ko": "저희가 이렇게 대화를 나누는 이 순간에도……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120050,
+        "Id": 130120070,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120060,
+        "Message": {
+          "j_ko": "시민의 손으로는 해결할 수 없는 대형 범죄가 저희를 기다리고 있다고요!",
+          "j_ja": "市民の方々には解決できないような大型犯罪が、どこかで起きつつあるかもしれないんですよ！",
+          "g_en": "There's crime happening that the civilians need our help to stop!",
+          "g_tw": "說不定哪裡正發生著市民們無法解決的大型犯罪唷！",
+          "g_tw_cn": "说不定哪里正发生着市民们无法解决的大型犯罪唷！",
+          "g_ja": "市民の方々には解決できないような大型犯罪が、どこかで起きつつあるかもしれないんですよ！",
+          "g_ko": "시민의 손으로는 해결할 수 없는 대형 범죄가 저희를 기다리고 있다고요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120060,
+        "Id": 130120080,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 130122,
+        "NextGroupId": 130120070,
+        "Message": {
+          "j_ko": "그렇다면 더 나가고 싶지 않아…….",
+          "j_ja": "それなら尚のこと、あんまり行きたくないな……",
+          "g_en": "If that's supposed to convince me, it's not working.",
+          "g_tw": "那就更不想去了……",
+          "g_tw_cn": "那就更不想去了……",
+          "g_ja": "それなら尚のこと、あんまり行きたくないな……",
+          "g_ko": "그렇다면 더 나가고 싶지 않아……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301203,
+    "Data": [
+      {
+        "GroupId": 130120070,
+        "Id": 130120090,
+        "CharacterId": 13012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120080,
+        "Message": {
+          "j_ko": "선생님, 사건입니다!",
+          "j_ja": "先生、事件です！",
+          "g_en": "We have a case on our hands, Sensei!",
+          "g_tw": "老師，有事件！",
+          "g_tw_cn": "老师，有事件！",
+          "g_ja": "先生、事件です！",
+          "g_ko": "선생님, 사건입니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120080,
+        "Id": 130120100,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120090,
+        "Message": {
+          "j_ko": "소식에 따르면 한 불량 학생이 시바타운의 보석상 앞에서 인질을 붙잡고 농성을 하고 있다고 합니다!",
+          "j_ja": "どうやら芝タウンの宝石店で、不良生徒が人質を取って立てこもっているそうです！",
+          "g_en": "According to the report, a thug has taken a hostage in front of a jeweler in Shiba Town.",
+          "g_tw": "據說芝町的珠寶店內，有不良學生挾持人質與警方對峙！",
+          "g_tw_cn": "据说芝町的珠宝店内，有不良学生挟持人质与警方对峙！",
+          "g_ja": "どうやら芝タウンの宝石店で、不良生徒が人質を取って立てこもっているそうです！",
+          "g_ko": "소식에 따르면 한 불량 학생이 시바타운의 보석상 앞에서 인질을 붙잡고 농성을 하고 있다고 합니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120080,
+        "Id": 130120110,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120090,
+        "Message": {
+          "j_ko": "그런데 교통 정체 때문에 교섭인의 도착이 늦어지는 모양이네요.",
+          "j_ja": "そしてどうやら、交通渋滞で交渉人の到着が遅れているらしく……",
+          "g_en": "But it seems the negotiator is stuck in a traffic jam.",
+          "g_tw": "而且似乎因為交通堵塞，談判專家會晚一點到場……",
+          "g_tw_cn": "而且似乎因为交通堵塞，谈判专家会晚一点到场……",
+          "g_ja": "そしてどうやら、交通渋滞で交渉人の到着が遅れているらしく……",
+          "g_ko": "그런데 교통 정체 때문에 교섭인의 도착이 늦어지는 모양이네요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120090,
+        "Id": 130120120,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120100,
+        "Message": {
+          "j_ko": "음……",
+          "j_ja": "……",
+          "g_en": "Um...",
+          "g_tw": "……",
+          "g_tw_cn": "……",
+          "g_ja": "……",
+          "g_ko": "음……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120090,
+        "Id": 130120130,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120100,
+        "Message": {
+          "j_ko": "만약 본관이 이 기회에 현장에 먼저 도착해서 교섭을 성공시킨다면……",
+          "j_ja": "本官がこの機に、先に現場へ向かって交渉を成功させたら……",
+          "g_en": "If I happen to get there first and negotiate successfully...",
+          "g_tw": "如果本官能藉此機會，先到現場並談判成功的話……",
+          "g_tw_cn": "如果本官能借此机会，先到现场并谈判成功的话……",
+          "g_ja": "本官がこの機に、先に現場へ向かって交渉を成功させたら……",
+          "g_ko": "만약 본관이 이 기회에 현장에 먼저 도착해서 교섭을 성공시킨다면……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120090,
+        "Id": 130120140,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120100,
+        "Message": {
+          "j_ko": "발키리의 높으신 분들도 본관의 능력을 인정해주시지 않을까요?",
+          "j_ja": "ヴァルキューレの上層部の方々も、本官の能力を認めてくださるでしょうか？",
+          "g_en": "Wouldn't the VIPs at Valkyrie value my ability?",
+          "g_tw": "女武神的上層長官們，是不是也會認可本官的能力呢？",
+          "g_tw_cn": "女武神的上层长官们，是不是也会认可本官的能力呢？",
+          "g_ja": "ヴァルキューレの上層部の方々も、本官の能力を認めてくださるでしょうか？",
+          "g_ko": "발키리의 높으신 분들도 본관의 능력을 인정해주시지 않을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120100,
+        "Id": 130120150,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120110,
+        "Message": {
+          "j_ko": "전문 교섭인이 올 때까지 기다리는 게 좋지 않을까?",
+          "j_ja": "プロの交渉人を待った方が良いんじゃ……？",
+          "g_en": "Wouldn't it be better to wait for a professional negotiator?",
+          "g_tw": "還是等專業的談判專家來比較好吧……？",
+          "g_tw_cn": "还是等专业的谈判专家来比较好吧……？",
+          "g_ja": "プロの交渉人を待った方が良いんじゃ……？",
+          "g_ko": "전문 교섭인이 올 때까지 기다리는 게 좋지 않을까?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120110,
+        "Id": 130120160,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120120,
+        "Message": {
+          "j_ko": "아뇨. 지금 이 순간에도 인질은 두려움에 떨고 있을 거예요.",
+          "j_ja": "……いえ、決めました。今この瞬間も人質は恐怖に震えているはずです",
+          "g_en": "I don't think so. Imagine what must be going through the hostage's mind.",
+          "g_tw": "……不，我決定了。現在這一刻，人質應該也正害怕地發抖",
+          "g_tw_cn": "……不，我决定了。现在这一刻，人质应该也正害怕地发抖",
+          "g_ja": "……いえ、決めました。今この瞬間も人質は恐怖に震えているはずです",
+          "g_ko": "아뇨. 지금 이 순간에도 인질은 두려움에 떨고 있을 거예요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120110,
+        "Id": 130120170,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120120,
+        "Message": {
+          "j_ko": "아무리 본관이 정식 경찰은 아니라고는 하지만, 교섭은 조금도 지체할 수 없습니다!",
+          "j_ja": "まだ正式な警察ではないとはいえ、立ち止まってはいられません",
+          "g_en": "I may not be an official officer, but I can't let the negotiation be delayed any longer!",
+          "g_tw": "雖然還不是正式的警察，但也不能停下腳步",
+          "g_tw_cn": "虽然还不是正式的警察，但也不能停下脚步",
+          "g_ja": "まだ正式な警察ではないとはいえ、立ち止まってはいられません",
+          "g_ko": "아무리 본관이 정식 경찰은 아니라고는 하지만, 교섭은 조금도 지체할 수 없습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120110,
+        "Id": 130120180,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130123,
+        "NextGroupId": 130120120,
+        "Message": {
+          "j_ko": "키리노, 출동합니다!",
+          "j_ja": "キリノ、出動します！",
+          "g_en": "Kirino, at your service!",
+          "g_tw": "桐乃，出動！",
+          "g_tw_cn": "桐乃，出动！",
+          "g_ja": "キリノ、出動します！",
+          "g_ko": "키리노, 출동합니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301205,
+    "Data": [
+      {
+        "GroupId": 130120120,
+        "Id": 130120190,
+        "CharacterId": 13012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120130,
+        "Message": {
+          "j_ko": "우으, 선생님……. (T_T)",
+          "j_ja": "うう、先生……(T_T)",
+          "g_en": "Ugh, Sensei... (T_T)",
+          "g_tw": "嗚嗚，老師……(T_T)",
+          "g_tw_cn": "呜呜，老师……(T_T)",
+          "g_ja": "うう、先生……(T_T)",
+          "g_ko": "우으, 선생님……. (T_T)"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120130,
+        "Id": 130120200,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120140,
+        "Message": {
+          "j_ko": "지난번의 인질 사건 때문에 높은 분들로부터 경고를 받았습니다.",
+          "j_ja": "この前の人質事件のことで、上層部の方々から警告を受けてしまいました……",
+          "g_en": "I got a warning from the VIPs for the hostage case last time.",
+          "g_tw": "因為上次的人質事件，我被上層警告了……",
+          "g_tw_cn": "因为上次的人质事件，我被上层警告了……",
+          "g_ja": "この前の人質事件のことで、上層部の方々から警告を受けてしまいました……",
+          "g_ko": "지난번의 인질 사건 때문에 높은 분들로부터 경고를 받았습니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120140,
+        "Id": 130120210,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120150,
+        "Message": {
+          "j_ko": "그때 총만 제대로 쏘았더라면…….",
+          "j_ja": "もっと、私の銃の腕前さえ良ければ……",
+          "g_en": "If only my aim were better.",
+          "g_tw": "如果我的槍法再好一點……",
+          "g_tw_cn": "如果我的枪法再好一点……",
+          "g_ja": "もっと、私の銃の腕前さえ良ければ……",
+          "g_ko": "그때 총만 제대로 쏘았더라면……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120140,
+        "Id": 130120220,
+        "CharacterId": 13012,
+        "MessageCondition": "None",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120150,
+        "Message": {
+          "j_ko": "선생님, 어떻게 하면 총을 잘 쏠 수 있을까요?",
+          "j_ja": "先生、射撃の腕はどうすれば上がるのでしょうか？",
+          "g_en": "How do I become a better shot, Sensei?",
+          "g_tw": "老師，要怎麼提升射擊技巧呢？",
+          "g_tw_cn": "老师，要怎么提升射击技巧呢？",
+          "g_ja": "先生、射撃の腕はどうすれば上がるのでしょうか？",
+          "g_ko": "선생님, 어떻게 하면 총을 잘 쏠 수 있을까요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120150,
+        "Id": 130120230,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120160,
+        "Message": {
+          "j_ko": "그걸 내게 물어봐도…….",
+          "j_ja": "それはちょっと、私に聞かれても……",
+          "g_en": "I don't think I can help you there...",
+          "g_tw": "這問題就算問我……",
+          "g_tw_cn": "这问题就算问我……",
+          "g_ja": "それはちょっと、私に聞かれても……",
+          "g_ko": "그걸 내게 물어봐도……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120160,
+        "Id": 130120240,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120170,
+        "Message": {
+          "j_ko": "그럼 최소한 본관이 사격하는 모습을 옆에서 지켜봐 주실 수는 없으신가요?",
+          "j_ja": "そうですね……ではせめて、今度本官が射撃をしているところを隣で見てていただけませんか？",
+          "g_en": "Then could you at least watch me practice?",
+          "g_tw": "說的也是……那麼能至少請您在旁邊看本官射擊嗎？",
+          "g_tw_cn": "说的也是……那么能至少请您在旁边看本官射击吗？",
+          "g_ja": "そうですね……ではせめて、今度本官が射撃をしているところを隣で見てていただけませんか？",
+          "g_ko": "그럼 최소한 본관이 사격하는 모습을 옆에서 지켜봐 주실 수는 없으신가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120160,
+        "Id": 130120250,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120170,
+        "Message": {
+          "j_ko": "사격 시의 나쁜 습관이나 자세를 교정하면 명중률을 올리는 데 도움이 된다고 하니까요.",
+          "j_ja": "命中率を上げるためには、射撃時の悪い癖や姿勢を治すことが大事だと聞きましたので！",
+          "g_en": "Stopping habits or posture could help improve my accuracy too.",
+          "g_tw": "聽說想要提升命中率，改善射擊時的壞習慣和姿勢是很重要的！",
+          "g_tw_cn": "听说想要提升命中率，改善射击时的坏习惯和姿势是很重要的！",
+          "g_ja": "命中率を上げるためには、射撃時の悪い癖や姿勢を治すことが大事だと聞きましたので！",
+          "g_ko": "사격 시의 나쁜 습관이나 자세를 교정하면 명중률을 올리는 데 도움이 된다고 하니까요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120170,
+        "Id": 130120260,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120180,
+        "Message": {
+          "j_ko": "그거라면 어렵지 않지.",
+          "j_ja": "うん、それなら喜んで",
+          "g_en": "That I can do.",
+          "g_tw": "嗯，那我很樂意幫忙",
+          "g_tw_cn": "嗯，那我很乐意帮忙",
+          "g_ja": "うん、それなら喜んで",
+          "g_ko": "그거라면 어렵지 않지."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120180,
+        "Id": 130120270,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120190,
+        "Message": {
+          "j_ko": "감사합니다, 선생님!",
+          "j_ja": "ありがとうございます、先生！",
+          "g_en": "Thank you, Sensei!",
+          "g_tw": "謝謝您，老師！",
+          "g_tw_cn": "谢谢您，老师！",
+          "g_ja": "ありがとうございます、先生！",
+          "g_ko": "감사합니다, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120180,
+        "Id": 130120280,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130125,
+        "NextGroupId": 130120190,
+        "Message": {
+          "j_ko": "그럼 학교의 실내 사격장에서 기다리고 있겠습니다!",
+          "j_ja": "では、校内の射撃場にてお待ちしております！",
+          "g_en": "Then I'll meet you at the shooting range!",
+          "g_tw": "那麼，我在校內的射擊場等您！",
+          "g_tw_cn": "那么，我在校内的射击场等您！",
+          "g_ja": "では、校内の射撃場にてお待ちしております！",
+          "g_ko": "그럼 학교의 실내 사격장에서 기다리고 있겠습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  },
+  {
+    "BondScenarioId": 1301206,
+    "Data": [
+      {
+        "GroupId": 130120190,
+        "Id": 130120290,
+        "CharacterId": 13012,
+        "MessageCondition": "FavorRankUp",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120200,
+        "Message": {
+          "j_ko": "으으, 긴장되네요…….",
+          "j_ja": "先生、すごく緊張してきました……",
+          "g_en": "Ugh. I'm so nervous...",
+          "g_tw": "老師，我非常的緊張……",
+          "g_tw_cn": "老师，我非常的紧张……",
+          "g_ja": "先生、すごく緊張してきました……",
+          "g_ko": "으으, 긴장되네요……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120200,
+        "Id": 130120300,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120210,
+        "Message": {
+          "j_ko": "무슨 일이라도 있어?",
+          "j_ja": "どうしたの？何かこの後試験とか？",
+          "g_en": "What's the matter?",
+          "g_tw": "怎麼了？等下有什麼考試嗎？",
+          "g_tw_cn": "怎么了？等下有什么考试吗？",
+          "g_ja": "どうしたの？何かこの後試験とか？",
+          "g_ko": "무슨 일이라도 있어?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120210,
+        "Id": 130120310,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120220,
+        "Message": {
+          "j_ko": "오후에 주변 유치원의 학생들이 견학 차 발키리 경찰학교에 올 예정이라는데……",
+          "j_ja": "本日の午後、近くの幼稚園の園児たちがヴァルキューレ警察学校の見学に来るそうでして……",
+          "g_en": "Kindergarten students will be visiting Valkyrie in the afternoon...",
+          "g_tw": "聽說今天下午，附近幼稚園的小朋友要來參觀女武神警察學園……",
+          "g_tw_cn": "听说今天下午，附近幼稚园的小朋友要来参观女武神警察学园……",
+          "g_ja": "本日の午後、近くの幼稚園の園児たちがヴァルキューレ警察学校の見学に来るそうでして……",
+          "g_ko": "오후에 주변 유치원의 학생들이 견학 차 발키리 경찰학교에 올 예정이라는데……"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120210,
+        "Id": 130120320,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120220,
+        "Message": {
+          "j_ko": "그 견학의 안내를 본관이 맡게 되어서요.",
+          "j_ja": "その案内を、本官が担当することになったのです",
+          "g_en": "And I'll be their guide.",
+          "g_tw": "到時候將由本官負責帶隊",
+          "g_tw_cn": "到时候将由本官负责带队",
+          "g_ja": "その案内を、本官が担当することになったのです",
+          "g_ko": "그 견학의 안내를 본관이 맡게 되어서요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120220,
+        "Id": 130120330,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120230,
+        "Message": {
+          "j_ko": "혹시라도 너무 긴장해서 실수를 하지는 않을까, 벌써부터 걱정이 됩니다.",
+          "j_ja": "何かミスをしてしまったらどうしようと考えると、すごく不安で……",
+          "g_en": "I'm worried that I might get too nervous and make mistakes...",
+          "g_tw": "一想到會不會出什麼差錯，就非常的不安……",
+          "g_tw_cn": "一想到会不会出什么差错，就非常的不安……",
+          "g_ja": "何かミスをしてしまったらどうしようと考えると、すごく不安で……",
+          "g_ko": "혹시라도 너무 긴장해서 실수를 하지는 않을까, 벌써부터 걱정이 됩니다."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120230,
+        "Id": 130120340,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120240,
+        "Message": {
+          "j_ko": "내가 실수하지 않도록 옆에서 도와줄게.",
+          "j_ja": "私も行ってよければ、横でサポートしようか？",
+          "g_en": "I'll help you out, then.",
+          "g_tw": "要不要我也一起去，在一旁支援如何？",
+          "g_tw_cn": "要不要我也一起去，在一旁支持如何？",
+          "g_ja": "私も行ってよければ、横でサポートしようか？",
+          "g_ko": "내가 실수하지 않도록 옆에서 도와줄게."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120240,
+        "Id": 130120350,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120250,
+        "Message": {
+          "j_ko": "……선생님께서 직접 도와주시러 오시는 건가요?",
+          "j_ja": "え、良いんですか？",
+          "g_en": "You're going to come help me in person?",
+          "g_tw": "咦，可以嗎？",
+          "g_tw_cn": "咦，可以吗？",
+          "g_ja": "え、良いんですか？",
+          "g_ko": "……선생님께서 직접 도와주시러 오시는 건가요?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120240,
+        "Id": 130120360,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120250,
+        "Message": {
+          "j_ko": "그렇다면 안심입니다. 감사합니다, 선생님!",
+          "j_ja": "それなら安心です、ありがとうございます先生！",
+          "g_en": "That's a relief. Thank you, Sensei!",
+          "g_tw": "那我就安心了，非常感謝老師！",
+          "g_tw_cn": "那我就安心了，非常感谢老师！",
+          "g_ja": "それなら安心です、ありがとうございます先生！",
+          "g_ko": "그렇다면 안심입니다. 감사합니다, 선생님!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120250,
+        "Id": 130120370,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120260,
+        "Message": {
+          "j_ko": "어쩐지 의욕이 넘치는 것 같네.",
+          "j_ja": "何だかすごく気合入ってそうだし、私に手伝えることがあればぜひ",
+          "g_en": "You seem to be taking this seriously.",
+          "g_tw": "感覺你充滿幹勁呢。如果有我能幫上忙的地方，務必再跟我說",
+          "g_tw_cn": "感觉你充满干劲呢。如果有我能帮上忙的地方，务必再跟我说",
+          "g_ja": "何だかすごく気合入ってそうだし、私に手伝えることがあればぜひ",
+          "g_ko": "어쩐지 의욕이 넘치는 것 같네."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120260,
+        "Id": 130120380,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120270,
+        "Message": {
+          "j_ko": "물론이지요. 어린 학생들에게 경찰의 멋진 모습을 보여줄 수 있는 모처럼의 기회니까요!",
+          "j_ja": "助かります。そうですね、せっかくの機会ですので、園児たちには警察のかっこいい姿を見せてあげたいなと思っているんです",
+          "g_en": "Of course. This is the best opportunity to show the good side of police to the young students.",
+          "g_tw": "幫大忙了。就是說呢，因為是難得的機會，所以希望能讓幼稚園小朋友看到警察帥氣的樣子！",
+          "g_tw_cn": "帮大忙了。就是说呢，因为是难得的机会，所以希望能让幼稚园小朋友看到警察帅气的样子！",
+          "g_ja": "助かります。そうですね、せっかくの機会ですので、園児たちには警察のかっこいい姿を見せてあげたいなと思っているんです",
+          "g_ko": "물론이지요. 어린 학생들에게 경찰의 멋진 모습을 보여줄 수 있는 모처럼의 기회니까요!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120260,
+        "Id": 130120390,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120270,
+        "Message": {
+          "j_ko": "본관도 어릴 적 견학을 통해 경찰의 꿈을 갖게 되었었지요.",
+          "j_ja": "何せ本官も、幼い頃に同じような見学会に行って、そこで警察官になることを志したので……",
+          "g_en": "It was a field trip just like this that inspired me.",
+          "g_tw": "畢竟本官就是小時候有參加類似的參觀活動，才會立志成為警察……",
+          "g_tw_cn": "毕竟本官就是小时候有参加类似的参观活动，才会立志成为警察……",
+          "g_ja": "何せ本官も、幼い頃に同じような見学会に行って、そこで警察官になることを志したので……",
+          "g_ko": "본관도 어릴 적 견학을 통해 경찰의 꿈을 갖게 되었었지요."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120260,
+        "Id": 130120400,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120270,
+        "Message": {
+          "j_ko": "그때의 선배들처럼 멋진 모습을 보여야 할 텐데…….",
+          "j_ja": "あの時の警察の方々のように、カッコいい姿を見せないと……！",
+          "g_en": "I want to come off as cool as the officers did back then.",
+          "g_tw": "要像當年的警察們一樣，展現出帥氣的模樣才行……！",
+          "g_tw_cn": "要像当年的警察们一样，展现出帅气的模样才行……！",
+          "g_ja": "あの時の警察の方々のように、カッコいい姿を見せないと……！",
+          "g_ko": "그때의 선배들처럼 멋진 모습을 보여야 할 텐데……."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120270,
+        "Id": 130120410,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120280,
+        "Message": {
+          "j_ko": "키리노.",
+          "j_ja": "キリノ、一つだけ",
+          "g_en": "Kirino.",
+          "g_tw": "桐乃，就一件事",
+          "g_tw_cn": "桐乃，就一件事",
+          "g_ja": "キリノ、一つだけ",
+          "g_ko": "키리노."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120280,
+        "Id": 130120420,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120290,
+        "Message": {
+          "j_ko": "네?",
+          "j_ja": "はい、何でしょう？",
+          "g_en": "Huh?",
+          "g_tw": "是的，是什麼呢？",
+          "g_tw_cn": "是的，是什么呢？",
+          "g_ja": "はい、何でしょう？",
+          "g_ko": "네?"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120290,
+        "Id": 130120430,
+        "CharacterId": 13012,
+        "MessageCondition": "Answer",
+        "FavorScheduleId": 0,
+        "NextGroupId": 130120300,
+        "Message": {
+          "j_ko": "당황하더라도 총은 꺼내면 안 돼.",
+          "j_ja": "銃は取り出さないようにね。園の子たちに当たると危ないから",
+          "g_en": "Whatever you do, don't pull out your gun. Even in a panic.",
+          "g_tw": "別把槍拿出來。萬一打到幼稚園小朋友就不好了",
+          "g_tw_cn": "别把枪拿出来。万一打到幼稚园小朋友就不好了",
+          "g_ja": "銃は取り出さないようにね。園の子たちに当たると危ないから",
+          "g_ko": "당황하더라도 총은 꺼내면 안 돼."
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      },
+      {
+        "GroupId": 130120300,
+        "Id": 130120440,
+        "CharacterId": 13012,
+        "MessageCondition": "Feedback",
+        "FavorScheduleId": 130126,
+        "NextGroupId": 0,
+        "Message": {
+          "j_ko": "다, 당연하지요! 본관도 그 정도는 알고 있습니다!",
+          "j_ja": "そ、それは……！な、何だか不本意ではありますが……はい、そうですね……",
+          "g_en": "I-I know that! Give me some credit!",
+          "g_tw": "那，那是……！雖，雖然不太情願……不過是的，老師說得沒錯呢……",
+          "g_tw_cn": "那，那是……！虽，虽然不太情愿……不过是的，老师说得没错呢……",
+          "g_ja": "そ、それは……！な、何だか不本意ではありますが……はい、そうですね……",
+          "g_ko": "다, 당연하지요! 본관도 그 정도는 알고 있습니다!"
+        },
+        "MessageBgColor": "white",
+        "RelatedEntry": []
+      }
+    ]
+  }
+]

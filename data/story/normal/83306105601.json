@@ -1,0 +1,50 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "食券が失くなった時は、本当にどうなることかと思った……",
+      "j_ko": "정말 식권을 잃어버려서 큰일 나는 줄 알았어……",
+      "g_ja": "食券が失くなった時は、本当にどうなることかと思った……",
+      "g_ko": "정말 식권을 잃어버려서 큰일 나는 줄 알았어……",
+      "g_en": "I thought it was all over for me after I lost my ticket...",
+      "g_th": "นึกว่าจะถูกทิ้งที่ทำคูปองอาหารหายแล้วเสียอีก...",
+      "g_tw": "弄丟餐券的時候，我真的以為完蛋了……",
+      "g_tw_cn": "弄丢餐券的时候，我真的以为完蛋了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 411960130,
+    "DataType": "speaker",
+    "Script": "3;준코;11;정말 식권을 잃어버려서 큰일 나는 줄 알았어……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "手伝ってくれてありがとう、ヒナ。",
+      "j_ko": "다시 말하지만, 도와줘서 고마워. 히나.",
+      "g_ja": "手伝ってくれてありがとう、ヒナ。",
+      "g_ko": "다시 말하지만, 도와줘서 고마워. 히나.",
+      "g_en": "So...thank you for your help, Hina.",
+      "g_th": "ขอบคุณอีกครั้งที่ช่วยนะ ฮินะ",
+      "g_tw": "再次謝謝你的幫忙，陽奈。",
+      "g_tw_cn": "再次谢谢你的帮忙，阳奈。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 411960130,
+    "DataType": "speaker",
+    "Script": "3;준코;03;다시 말하지만, 도와줘서 고마워. 히나.\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

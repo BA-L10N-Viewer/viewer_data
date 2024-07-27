@@ -1,0 +1,74 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "訓練から戻った直後で申し訳ないですが、イオリとチナツも呼ばないと。",
+      "j_ko": "훈련에서 돌아온 직후라 조금 미안하지만, 이오리와 치나츠도 호출해야겠어요.",
+      "g_ja": "訓練から戻った直後で申し訳ないですが、イオリとチナツも呼ばないと。",
+      "g_ko": "훈련에서 돌아온 직후라 조금 미안하지만, 이오리와 치나츠도 호출해야겠어요.",
+      "g_en": "Unfortunately for Iori and Chinatsu I'll need to call them in, even though we just got back from training.",
+      "g_th": "ถึงจะรู้สึกผิดเพราะเราเพิ่งฝึกซ้อมเสร็จกันมา แต่ยังไงก็คงต้องเรียกตัวอิโอริกับชินัตสึมาด้วยแล้วละค่ะ",
+      "g_tw": "雖然才剛訓練回來讓人覺得有些抱歉，看來也得呼叫伊織和千夏才行。",
+      "g_tw_cn": "虽然才刚训练回来让人觉得有些抱歉，看来也得调用伊织和千夏才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;05;훈련에서 돌아온 직후라 조금 미안하지만, 이오리와 치나츠도 호출해야겠어요.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁ……少し留守にしていただけで、どうしていつもこう問題が……",
+      "j_ko": "하아…… 저희 선도부가 자리를 비웠다 하면 사건이 터지기 마련이니.",
+      "g_ja": "はぁ……少し留守にしていただけで、どうしていつもこう問題が……",
+      "g_ko": "하아…… 저희 선도부가 자리를 비웠다 하면 사건이 터지기 마련이니.",
+      "g_en": "*sigh* Everything falls apart when the Prefect Team is away.",
+      "g_th": "เฮ้อ... พอคณะกรรมการวินัยไม่อยู่ทีไรก็เกิดเรื่องวุ่นวายแบบนี้ตลอด",
+      "g_tw": "唉……每次我們風紀委員會離開，都一定會發生問題。",
+      "g_tw_cn": "唉……每次我们风纪委员会离开，都一定会发生问题。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;06;하아…… 저희 선도부가 자리를 비웠다 하면 사건이 터지기 마련이니.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これでは休む余裕なんてありませんね。",
+      "j_ko": "이래서야 정말 쉴 틈이 없다니까요.",
+      "g_ja": "これでは休む余裕なんてありませんね。",
+      "g_ko": "이래서야 정말 쉴 틈이 없다니까요.",
+      "g_en": "There isn't a single moment to relax.",
+      "g_th": "แบบนี้เราถึงไม่มีเวลาพักกันเลยไงคะ",
+      "g_tw": "就是這樣才根本沒有時間休息。",
+      "g_tw_cn": "就是这样才根本没有时间休息。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2071829941,
+    "DataType": "speaker",
+    "Script": "3;아코;11;이래서야 정말 쉴 틈이 없다니까요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "クルセイダー1型……！私の学園の制式戦車と同じ型です。",
+      "j_ko": "크루세이더 1형……! 저희 학원의 제식 전차와 동일해요.",
+      "g_ja": "クルセイダー1型……！私の学園の制式戦車と同じ型です。",
+      "g_ko": "크루세이더 1형……! 저희 학원의 제식 전차와 동일해요.",
+      "g_en": "That's a Crusader Type 1! It's the same as the tanks used at our academy!",
+      "g_th": "รถถังครูเซเดอร์รุ่นที่ 1... มันเป็นแบบเดียวกันกับรถถังของโรงเรียนฉันค่ะ!",
+      "g_tw": "十字軍1型……！和我的學園的制式戰車是同個型號。",
+      "g_tw_cn": "十字军1型……！和我的学园的制式战车是同个型号。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3571276574,
+    "DataType": "speaker",
+    "Script": "1;하스미;06;크루세이더 1형……! 저희 학원의 제식 전차와 동일해요.\\n#1;ar\\n#1;em;[!]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "不法に流通された物に違いないわ！PMCに流れたのを不良たちが買い入れたのかも！",
+      "j_ko": "불법 유통된 물건일 거야! PMC로 흘러들어간 걸 불량배들이 사들였나봐!",
+      "g_ja": "不法に流通された物に違いないわ！PMCに流れたのを不良たちが買い入れたのかも！",
+      "g_ko": "불법 유통된 물건일 거야! PMC로 흘러들어간 걸 불량배들이 사들였나봐!",
+      "g_en": "It must be stolen! Those thugs probably bought one off of a PMC!",
+      "g_th": "ต้องได้มาอย่างผิดกฎหมายแน่! พวกนักเลงคงจะหามาผ่านทาง PMC!",
+      "g_tw": "肯定是非法流通的東西！可能是不良份子購買了流向PMC的東西！",
+      "g_tw_cn": "肯定是非法流通的东西！可能是不良份子购买了流向PMC的东西！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4283125014,
+    "DataType": "speaker",
+    "Script": "5;유우카;05;불법 유통된 물건일 거야! PMC로 흘러들어간 걸 불량배들이 사들였나봐!\\n#5;al",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "つまりガラクタってことだから、壊しても構わないわ！！行くわよ！",
+      "j_ko": "그럼 고철이라는 얘기니까, 상관없어!! 간다!",
+      "g_ja": "つまりガラクタってことだから、壊しても構わないわ！！行くわよ！",
+      "g_ko": "그럼 고철이라는 얘기니까, 상관없어!! 간다!",
+      "g_en": "That means it's no different from a hunk of scrap metal! I'm going in!",
+      "g_th": "ก็แค่เศษเหล็กน่า ไปกันเถอะ!",
+      "g_tw": "那就是廢棄物，所以弄壞了也沒關係！！上吧！",
+      "g_tw_cn": "那就是废弃物，所以弄坏了也没关系！！上吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4283125014,
+    "DataType": "speaker",
+    "Script": "5;유우카;05;그럼 고철이라는 얘기니까, 상관없어!! 간다!\\n#1;dl\\n#5;m3\\n#5;em;[!]\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あちらに気を取られてる間に……ちょっとお邪魔しますね。",
+      "j_ko": "저기에 정신이 팔려 있는 동안…… 저는 건물 안으로 들어가 볼까요?",
+      "g_ja": "あちらに気を取られてる間に……ちょっとお邪魔しますね。",
+      "g_ko": "저기에 정신이 팔려 있는 동안…… 저는 건물 안으로 들어가 볼까요?",
+      "g_en": "Now's as good a time as ever to sneak in while they're preoccupied.",
+      "g_th": "เราใช้โอกาสนี้เข้าไปในตัวอาคารกันเลยไหมคะ?",
+      "g_tw": "趁他們注意那裡的時候……稍微打擾一下囉。",
+      "g_tw_cn": "趁他们注意那里的时候……稍微打扰一下啰。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 664677038,
+    "DataType": "speaker",
+    "Script": "3;와카모 마스크;01;저기에 정신이 팔려 있는 동안…… 저는 건물 안으로 들어가 볼까요?\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "フフフフ♡",
+      "j_ko": "후후후후♡",
+      "g_ja": "フフフフ♡",
+      "g_ko": "후후후후♡",
+      "g_en": "Heehee. ♥",
+      "g_th": "ฮุฮุฮุฮุ♡",
+      "g_tw": "呵呵呵呵♡",
+      "g_tw_cn": "呵呵呵呵♡",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 664677038,
+    "DataType": "speaker",
+    "Script": "3;와카모 마스크;01;후후후후♡\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]
